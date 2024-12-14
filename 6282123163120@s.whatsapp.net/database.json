@@ -286,8 +286,8 @@
       "lastBanned": 0
     },
     "6285864116431@s.whatsapp.net": {
-      "exp": 1462199,
-      "limit": 1829,
+      "exp": 1656704,
+      "limit": 1801,
       "registered": false,
       "name": "احمد رمضان",
       "age": -1,
@@ -296,8 +296,8 @@
       "afk": -1,
       "afkReason": "",
       "banned": false,
-      "level": 47,
-      "role": "Staff Grade 4 ﹀⁴",
+      "level": 50,
+      "role": "Staff Grade 5 ﹀⁵",
       "BannedReason": "",
       "WarnReason": "",
       "lastweekly": 1734155936838,
@@ -1188,7 +1188,7 @@
       "lastBanned": 0
     },
     "628568162468@s.whatsapp.net": {
-      "exp": 4957,
+      "exp": 13787,
       "limit": 1863,
       "registered": false,
       "name": "Baton Roger Hawk Freedom",
@@ -1210,7 +1210,7 @@
       "lastrob": 1734189467599,
       "lastwork": 1734188890456,
       "lastdaily": 1734155919400,
-      "lastcommand": 1734213717376,
+      "lastcommand": 1734214705083,
       "warn": 0
     },
     "6283154533874@s.whatsapp.net": {
@@ -47244,7 +47244,7 @@
       "lastcommand": 1734173379977
     },
     "6285692516593@s.whatsapp.net": {
-      "exp": 528,
+      "exp": 535,
       "limit": 499,
       "registered": false,
       "name": "Muhammad",
@@ -53604,10 +53604,10 @@
       "lastSuccess": 1734189467866
     },
     "main-limit.js": {
-      "total": 1245,
-      "success": 1242,
-      "last": 1734195581469,
-      "lastSuccess": 1734195581469
+      "total": 1246,
+      "success": 1243,
+      "last": 1734214774358,
+      "lastSuccess": 1734214774358
     },
     "downloader-yt2.js": {
       "total": 135,
@@ -53712,10 +53712,10 @@
       "lastSuccess": 1734198985204
     },
     "game-susunkata.js": {
-      "total": 4183,
-      "success": 3984,
-      "last": 1734202773269,
-      "lastSuccess": 1734202773269
+      "total": 4245,
+      "success": 4045,
+      "last": 1734215858619,
+      "lastSuccess": 1734215858619
     },
     "game-tebaklirik.js": {
       "total": 6,
@@ -53778,10 +53778,10 @@
       "lastSuccess": 1734189546402
     },
     "games-tebakkata.js": {
-      "total": 3683,
-      "success": 3500,
-      "last": 1734202770485,
-      "lastSuccess": 1734202770485
+      "total": 3739,
+      "success": 3555,
+      "last": 1734215861250,
+      "lastSuccess": 1734215861250
     },
     "sticker-all.js": {
       "total": 159,
@@ -53790,10 +53790,10 @@
       "lastSuccess": 1734185015047
     },
     "games-tebakkata_hint.js": {
-      "total": 689,
-      "success": 641,
-      "last": 1734185510580,
-      "lastSuccess": 1734185510580
+      "total": 694,
+      "success": 646,
+      "last": 1734215758000,
+      "lastSuccess": 1734215758000
     },
     "game-nebang.js": {
       "total": 130,
@@ -53868,16 +53868,16 @@
       "lastSuccess": 1734202567463
     },
     "main-leader.js": {
-      "total": 251,
-      "success": 251,
-      "last": 1734183096588,
-      "lastSuccess": 1734183096588
+      "total": 255,
+      "success": 255,
+      "last": 1734215901855,
+      "lastSuccess": 1734215901855
     },
     "main-level.js": {
-      "total": 241,
-      "success": 241,
-      "last": 1734202677254,
-      "lastSuccess": 1734202677254
+      "total": 243,
+      "success": 243,
+      "last": 1734215915710,
+      "lastSuccess": 1734215915710
     },
     "sticker-quotely.js": {
       "total": 64,
@@ -53904,10 +53904,10 @@
       "lastSuccess": 1734112793805
     },
     "game-susunkata_hint.js": {
-      "total": 913,
-      "success": 876,
-      "last": 1734193544792,
-      "lastSuccess": 1734193544792
+      "total": 922,
+      "success": 885,
+      "last": 1734215797055,
+      "lastSuccess": 1734215797055
     },
     "game-tambang.js": {
       "total": 308,
@@ -54198,10 +54198,10 @@
       "lastSuccess": 1734053837342
     },
     "group-listonline.js": {
-      "total": 288,
-      "success": 274,
-      "last": 1734213717376,
-      "lastSuccess": 1734213717376
+      "total": 289,
+      "success": 275,
+      "last": 1734214705084,
+      "lastSuccess": 1734214705084
     },
     "game-emoji.js": {
       "total": 6,
@@ -55173,7 +55173,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734211998611,
+      "backupDB": 1734214123791,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
