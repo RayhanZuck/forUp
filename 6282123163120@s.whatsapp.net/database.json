@@ -2035,7 +2035,7 @@
       "lastwork": 1732677120474
     },
     "120363240711248334@g.us": {
-      "exp": 112,
+      "exp": 113,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -4224,7 +4224,7 @@
       "premiumTime": 0
     },
     "6283824012756@s.whatsapp.net": {
-      "exp": 6364,
+      "exp": 6368,
       "limit": 874,
       "registered": false,
       "name": "Zummy [C.D.I.S]",
@@ -40426,7 +40426,7 @@
       "premiumTime": 0
     },
     "6282333043446@s.whatsapp.net": {
-      "exp": 18225,
+      "exp": 36024,
       "limit": 2511,
       "registered": false,
       "name": "༺ༀ༂.𝕄𝕚𝕔𝕙𝕒𝕖𝕝.༂ༀ༻",
@@ -43664,7 +43664,7 @@
       "lastBanned": 0
     },
     "6282162712398@s.whatsapp.net": {
-      "exp": 37,
+      "exp": 55,
       "limit": 499,
       "registered": false,
       "name": "Stefany",
@@ -46692,7 +46692,7 @@
       "lastBanned": 0
     },
     "6289513000185@s.whatsapp.net": {
-      "exp": 16,
+      "exp": 24,
       "limit": 499,
       "registered": false,
       "name": "binn",
@@ -48117,7 +48117,7 @@
       "lastBanned": 0
     },
     "6282163054450@s.whatsapp.net": {
-      "exp": 5,
+      "exp": 12,
       "limit": 499,
       "registered": false,
       "name": "弥赛亚💋❤",
@@ -48134,7 +48134,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": false,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6288228625985@s.whatsapp.net": {
       "exp": 2,
@@ -53712,10 +53713,10 @@
       "lastSuccess": 1734198985204
     },
     "game-susunkata.js": {
-      "total": 4255,
-      "success": 4054,
-      "last": 1734216732607,
-      "lastSuccess": 1734216732607
+      "total": 4265,
+      "success": 4064,
+      "last": 1734219075541,
+      "lastSuccess": 1734219075541
     },
     "game-tebaklirik.js": {
       "total": 6,
@@ -54678,10 +54679,10 @@
       "lastSuccess": 1733718107147
     },
     "main-balance.js": {
-      "total": 622,
-      "success": 621,
-      "last": 1734202759947,
-      "lastSuccess": 1734202759947
+      "total": 623,
+      "success": 622,
+      "last": 1734218907989,
+      "lastSuccess": 1734218907989
     },
     "tool-toptt.js": {
       "total": 7,
@@ -55173,7 +55174,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734216053546,
+      "backupDB": 1734217865187,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
