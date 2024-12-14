@@ -87,7 +87,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 77783,
+      "exp": 77960,
       "limit": 0,
       "registered": false,
       "name": "Rayhan?",
@@ -3256,8 +3256,8 @@
       "lastcommand": 1731712066127
     },
     "6283897914923@s.whatsapp.net": {
-      "exp": 1191,
-      "limit": 19,
+      "exp": 3345,
+      "limit": 4,
       "registered": false,
       "name": "Izyy_izumi",
       "age": -1,
@@ -3272,10 +3272,11 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734132558745
+      "lastcommand": 1734132558745,
+      "lastdaily": 1734149277220
     },
     "6285856214288@s.whatsapp.net": {
       "exp": 2272,
@@ -5604,8 +5605,8 @@
       "lastBanned": 0
     },
     "6285724125759@s.whatsapp.net": {
-      "exp": 1764930,
-      "limit": 187,
+      "exp": 1765026,
+      "limit": 87,
       "registered": false,
       "name": "ㅤㅤㅤㅤ",
       "age": -1,
@@ -38656,8 +38657,8 @@
       "premiumTime": 0
     },
     "6283159528122@s.whatsapp.net": {
-      "exp": 231,
-      "limit": 374,
+      "exp": 269,
+      "limit": 349,
       "registered": false,
       "name": ".",
       "age": -1,
@@ -53467,16 +53468,16 @@
       "lastSuccess": 1734100542128
     },
     "owner-sf.js": {
-      "total": 883,
-      "success": 802,
-      "last": 1734145685446,
-      "lastSuccess": 1734145685446
+      "total": 885,
+      "success": 804,
+      "last": 1734148919744,
+      "lastSuccess": 1734148919744
     },
     "downloader-play.js": {
-      "total": 1409,
-      "success": 1304,
-      "last": 1734133050832,
-      "lastSuccess": 1734133050832
+      "total": 1414,
+      "success": 1309,
+      "last": 1734149828771,
+      "lastSuccess": 1734149828771
     },
     "downloader-ytvideo.js": {
       "total": 130,
@@ -53521,10 +53522,10 @@
       "lastSuccess": 1734023907980
     },
     "econ-claim.js": {
-      "total": 1565,
-      "success": 1076,
-      "last": 1734147452356,
-      "lastSuccess": 1734147441662
+      "total": 1566,
+      "success": 1077,
+      "last": 1734149277220,
+      "lastSuccess": 1734149277220
     },
     "game-curi.js": {
       "total": 869,
@@ -53713,22 +53714,22 @@
       "lastSuccess": 1734131654769
     },
     "downloader-play2.js": {
-      "total": 40,
-      "success": 29,
-      "last": 1734114654935,
-      "lastSuccess": 1734114654935
+      "total": 44,
+      "success": 33,
+      "last": 1734149610503,
+      "lastSuccess": 1734149610503
     },
     "owner-exec.js": {
-      "total": 265,
-      "success": 265,
-      "last": 1734131903784,
-      "lastSuccess": 1734131903784
+      "total": 268,
+      "success": 268,
+      "last": 1734148675355,
+      "lastSuccess": 1734148675355
     },
     "downloader-ytmp3.js": {
-      "total": 120,
-      "success": 114,
-      "last": 1734147307260,
-      "lastSuccess": 1734147307260
+      "total": 122,
+      "success": 116,
+      "last": 1734149295619,
+      "lastSuccess": 1734149295619
     },
     "_rayhan-menu.js": {
       "total": 390,
@@ -53965,10 +53966,10 @@
       "lastSuccess": 1733663275892
     },
     "tools-lyrics.js": {
-      "total": 115,
-      "success": 114,
-      "last": 1734096971497,
-      "lastSuccess": 1734096971497
+      "total": 117,
+      "success": 116,
+      "last": 1734150097267,
+      "lastSuccess": 1734150097267
     },
     "downloader-spotify.js": {
       "total": 211,
@@ -55626,7 +55627,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734145683346,
+      "backupDB": 1734148426122,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
