@@ -175,7 +175,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3071,
+      "exp": 3078,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1039,7 +1039,7 @@
       "lastdaily": 1734002321317
     },
     "120363280765137622@g.us": {
-      "exp": 5023,
+      "exp": 5030,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -4322,7 +4322,7 @@
       "lastdaily": 1733663480387
     },
     "62895711885757@s.whatsapp.net": {
-      "exp": 535308,
+      "exp": 535365,
       "limit": 470,
       "registered": false,
       "name": "awaa",
@@ -47681,6 +47681,46 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "6283180466564@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "name": "NiLAM",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
+    },
+    "185951129198831_1@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -53883,9 +53923,9 @@
       "lastSuccess": 1733748662797
     },
     "game-susunkata.js": {
-      "total": 1932,
+      "total": 1934,
       "success": 1754,
-      "last": 1734125652276,
+      "last": 1734138905543,
       "lastSuccess": 1733900522089
     },
     "game-susunkata_hint.js": {
@@ -54045,10 +54085,10 @@
       "lastSuccess": 1730211713904
     },
     "main-leader.js": {
-      "total": 165,
-      "success": 165,
-      "last": 1733997035488,
-      "lastSuccess": 1733997035488
+      "total": 166,
+      "success": 166,
+      "last": 1734138865237,
+      "lastSuccess": 1734138865237
     },
     "anime-animeinfo.js": {
       "total": 12,
@@ -55586,7 +55626,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734133031645,
+      "backupDB": 1734137176770,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
