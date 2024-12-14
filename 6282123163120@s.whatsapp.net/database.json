@@ -804,7 +804,7 @@
       "premiumTime": 0
     },
     "628818691228@s.whatsapp.net": {
-      "exp": 10083,
+      "exp": 10229,
       "limit": 1578,
       "registered": false,
       "name": "Reyy",
@@ -822,7 +822,7 @@
       "lastmonthly": 1732453736616,
       "premium": true,
       "premiumTime": 0,
-      "lastwork": 1734199846415,
+      "lastwork": 1734204860898,
       "lastBanned": 0,
       "lastcommand": 1734193491908,
       "lastdaily": 1734185340845,
@@ -1761,8 +1761,8 @@
       "lastBanned": 0
     },
     "919366665173@s.whatsapp.net": {
-      "exp": 2137,
-      "limit": 474,
+      "exp": 2222,
+      "limit": 399,
       "registered": false,
       "name": "debjit.",
       "age": -1,
@@ -41090,8 +41090,8 @@
       "lastwork": 1734117264824
     },
     "919863871445@s.whatsapp.net": {
-      "exp": 6229,
-      "limit": 1029,
+      "exp": 6331,
+      "limit": 949,
       "registered": false,
       "name": "Dr. Vanitas",
       "age": -1,
@@ -47698,8 +47698,8 @@
       "premiumTime": 0
     },
     "62895369675992@s.whatsapp.net": {
-      "exp": 245,
-      "limit": 389,
+      "exp": 267,
+      "limit": 364,
       "registered": false,
       "name": "Dhooozxy",
       "age": -1,
@@ -48559,7 +48559,7 @@
       "lastBanned": 0
     },
     "6283818255852@s.whatsapp.net": {
-      "exp": 407,
+      "exp": 414,
       "limit": 499,
       "registered": false,
       "name": "hard",
@@ -53459,6 +53459,58 @@
       "teks": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "919863871445@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "pembatasan": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "antiBadword": false,
+      "simi": false,
+      "nsfw": false,
+      "rpg": true,
+      "game": true,
+      "teks": true,
+      "autolevelup": true,
+      "expired": 0
+    },
+    "919366665173@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "pembatasan": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "antiBadword": false,
+      "simi": false,
+      "nsfw": false,
+      "rpg": true,
+      "game": true,
+      "teks": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -53607,10 +53659,10 @@
       "lastSuccess": 1733455659654
     },
     "downloader-tiktok.js": {
-      "total": 240,
-      "success": 209,
-      "last": 1734198739192,
-      "lastSuccess": 1734198739192
+      "total": 244,
+      "success": 213,
+      "last": 1734205822011,
+      "lastSuccess": 1734205822011
     },
     "group-delete.js": {
       "total": 247,
@@ -53661,10 +53713,10 @@
       "lastSuccess": 1734186794675
     },
     "game-kerja.js": {
-      "total": 1479,
-      "success": 1326,
-      "last": 1734199846906,
-      "lastSuccess": 1734199846906
+      "total": 1480,
+      "success": 1327,
+      "last": 1734204861432,
+      "lastSuccess": 1734204861432
     },
     "group-tagme.js": {
       "total": 4,
@@ -53763,10 +53815,10 @@
       "lastSuccess": 1733055006592
     },
     "downloader-instagram.js": {
-      "total": 42,
-      "success": 37,
-      "last": 1734200363934,
-      "lastSuccess": 1734200132757
+      "total": 45,
+      "success": 40,
+      "last": 1734205889023,
+      "lastSuccess": 1734205889023
     },
     "downloader-pinterest.js": {
       "total": 552,
@@ -54153,10 +54205,10 @@
       "lastSuccess": 1732511536567
     },
     "dl-tiktokslide.js": {
-      "total": 12,
-      "success": 11,
-      "last": 1734189789085,
-      "lastSuccess": 1734189789085
+      "total": 13,
+      "success": 12,
+      "last": 1734206621757,
+      "lastSuccess": 1734206621757
     },
     "owner-gp.js": {
       "total": 22,
@@ -55080,7 +55132,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734202669756,
+      "backupDB": 1734204860154,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
