@@ -27,7 +27,7 @@
       "limitprem": 10000
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 18567,
+      "exp": 18755,
       "limit": 3260,
       "registered": false,
       "name": "Rayhan?",
@@ -30971,7 +30971,7 @@
       "lastBanned": 0
     },
     "6285720973051@s.whatsapp.net": {
-      "exp": 1129508,
+      "exp": 1152924,
       "limit": 11277,
       "registered": true,
       "name": "citra",
@@ -30981,8 +30981,8 @@
       "afk": -1,
       "afkReason": "",
       "banned": false,
-      "level": 41,
-      "role": "Staff Grade 1 ﹀¹",
+      "level": 43,
+      "role": "Staff Grade 2 ﹀²",
       "BannedReason": "",
       "WarnReason": "",
       "lastweekly": 1733454936668,
@@ -30990,7 +30990,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastwork": 1734198547466,
+      "lastwork": 1734202738808,
       "lastdaily": 1734103734536,
       "lastrob": 1734016531956,
       "lastcommand": 1734112813873
@@ -49010,6 +49010,26 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "6283169361099@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "name": "Thmsee Jcksnee",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -53461,10 +53481,10 @@
       "lastSuccess": 1734198053338
     },
     "owner-exec.js": {
-      "total": 123,
-      "success": 123,
-      "last": 1734202584555,
-      "lastSuccess": 1734202584555
+      "total": 125,
+      "success": 125,
+      "last": 1734202974091,
+      "lastSuccess": 1734202974091
     },
     "enable.js": {
       "total": 282,
@@ -53599,10 +53619,10 @@
       "lastSuccess": 1734198985204
     },
     "game-susunkata.js": {
-      "total": 4177,
-      "success": 3978,
-      "last": 1734194121029,
-      "lastSuccess": 1734194121029
+      "total": 4183,
+      "success": 3984,
+      "last": 1734202773269,
+      "lastSuccess": 1734202773269
     },
     "game-tebaklirik.js": {
       "total": 6,
@@ -53665,10 +53685,10 @@
       "lastSuccess": 1734189546402
     },
     "games-tebakkata.js": {
-      "total": 3677,
-      "success": 3494,
-      "last": 1734194283974,
-      "lastSuccess": 1734194283974
+      "total": 3683,
+      "success": 3500,
+      "last": 1734202770485,
+      "lastSuccess": 1734202770485
     },
     "sticker-all.js": {
       "total": 159,
@@ -53761,10 +53781,10 @@
       "lastSuccess": 1734183096588
     },
     "main-level.js": {
-      "total": 240,
-      "success": 240,
-      "last": 1734198433097,
-      "lastSuccess": 1734198433097
+      "total": 241,
+      "success": 241,
+      "last": 1734202677254,
+      "lastSuccess": 1734202677254
     },
     "sticker-quotely.js": {
       "total": 64,
@@ -53797,10 +53817,10 @@
       "lastSuccess": 1734193544792
     },
     "game-tambang.js": {
-      "total": 307,
-      "success": 266,
-      "last": 1734198547771,
-      "lastSuccess": 1734198547771
+      "total": 308,
+      "success": 267,
+      "last": 1734202739077,
+      "lastSuccess": 1734202739077
     },
     "game-family100.js": {
       "total": 166,
@@ -53851,10 +53871,10 @@
       "lastSuccess": 1734188610678
     },
     "owner-sf.js": {
-      "total": 226,
-      "success": 183,
-      "last": 1734202408939,
-      "lastSuccess": 1734202408939
+      "total": 229,
+      "success": 185,
+      "last": 1734202740854,
+      "lastSuccess": 1734202740854
     },
     "game-suit.js": {
       "total": 39,
@@ -54139,10 +54159,10 @@
       "lastSuccess": 1734189789085
     },
     "owner-gp.js": {
-      "total": 20,
-      "success": 19,
-      "last": 1734200414270,
-      "lastSuccess": 1734200414270
+      "total": 22,
+      "success": 20,
+      "last": 1734202757175,
+      "lastSuccess": 1734202757175
     },
     "_rayhan-creator.js": {
       "total": 25,
@@ -54565,10 +54585,10 @@
       "lastSuccess": 1733718107147
     },
     "main-balance.js": {
-      "total": 621,
-      "success": 620,
-      "last": 1734198462117,
-      "lastSuccess": 1734198462117
+      "total": 622,
+      "success": 621,
+      "last": 1734202759947,
+      "lastSuccess": 1734202759947
     },
     "tool-toptt.js": {
       "total": 7,
@@ -55060,7 +55080,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734200812021,
+      "backupDB": 1734202669756,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
