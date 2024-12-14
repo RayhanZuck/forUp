@@ -1188,7 +1188,7 @@
       "lastBanned": 0
     },
     "628568162468@s.whatsapp.net": {
-      "exp": 4934,
+      "exp": 4957,
       "limit": 1863,
       "registered": false,
       "name": "Baton Roger Hawk Freedom",
@@ -1210,7 +1210,7 @@
       "lastrob": 1734189467599,
       "lastwork": 1734188890456,
       "lastdaily": 1734155919400,
-      "lastcommand": 1734188935984,
+      "lastcommand": 1734213717376,
       "warn": 0
     },
     "6283154533874@s.whatsapp.net": {
@@ -27725,8 +27725,8 @@
       "lastBanned": 0
     },
     "6289675620296@s.whatsapp.net": {
-      "exp": 651,
-      "limit": 90,
+      "exp": 714,
+      "limit": 40,
       "registered": false,
       "name": "𝗐𝗁𝗒?",
       "age": -1,
@@ -27744,7 +27744,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734211697761,
+      "lastcommand": 1734212011264,
       "lastwork": 1734042508778,
       "lastdaily": 1734009178264,
       "lastrob": 1733890058854
@@ -53586,16 +53586,16 @@
       "lastSuccess": 1734186841995
     },
     "_cek.js": {
-      "total": 1111,
-      "success": 1111,
-      "last": 1734211699892,
-      "lastSuccess": 1734211699892
+      "total": 1112,
+      "success": 1112,
+      "last": 1734212011562,
+      "lastSuccess": 1734212011562
     },
     "downloader-play.js": {
-      "total": 606,
-      "success": 560,
-      "last": 1734211751937,
-      "lastSuccess": 1734211751937
+      "total": 608,
+      "success": 562,
+      "last": 1734212226458,
+      "lastSuccess": 1734212226458
     },
     "game-curi.js": {
       "total": 1050,
@@ -54198,10 +54198,10 @@
       "lastSuccess": 1734053837342
     },
     "group-listonline.js": {
-      "total": 287,
-      "success": 273,
-      "last": 1734189448690,
-      "lastSuccess": 1734189448690
+      "total": 288,
+      "success": 274,
+      "last": 1734213717376,
+      "lastSuccess": 1734213717376
     },
     "game-emoji.js": {
       "total": 6,
@@ -55173,7 +55173,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734210097262,
+      "backupDB": 1734211998611,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
