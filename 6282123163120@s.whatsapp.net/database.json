@@ -1761,8 +1761,8 @@
       "lastBanned": 0
     },
     "919366665173@s.whatsapp.net": {
-      "exp": 2222,
-      "limit": 399,
+      "exp": 2330,
+      "limit": 299,
       "registered": false,
       "name": "debjit.",
       "age": -1,
@@ -27725,8 +27725,8 @@
       "lastBanned": 0
     },
     "6289675620296@s.whatsapp.net": {
-      "exp": 576,
-      "limit": 140,
+      "exp": 651,
+      "limit": 90,
       "registered": false,
       "name": "𝗐𝗁𝗒?",
       "age": -1,
@@ -27741,10 +27741,10 @@
       "WarnReason": "",
       "lastweekly": 1733481195169,
       "lastmonthly": 1733481298270,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734184387721,
+      "lastcommand": 1734211697761,
       "lastwork": 1734042508778,
       "lastdaily": 1734009178264,
       "lastrob": 1733890058854
@@ -28861,7 +28861,7 @@
       "lastBanned": 0
     },
     "6282322406253@s.whatsapp.net": {
-      "exp": 75,
+      "exp": 97,
       "limit": 499,
       "registered": false,
       "name": "Siff",
@@ -49051,6 +49051,26 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "6287831012617@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 878-3101-2617",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -53566,16 +53586,16 @@
       "lastSuccess": 1734186841995
     },
     "_cek.js": {
-      "total": 1110,
-      "success": 1110,
-      "last": 1734198687989,
-      "lastSuccess": 1734198687989
+      "total": 1111,
+      "success": 1111,
+      "last": 1734211699892,
+      "lastSuccess": 1734211699892
     },
     "downloader-play.js": {
-      "total": 604,
-      "success": 558,
-      "last": 1734202020611,
-      "lastSuccess": 1734202020611
+      "total": 606,
+      "success": 560,
+      "last": 1734211751937,
+      "lastSuccess": 1734211751937
     },
     "game-curi.js": {
       "total": 1050,
@@ -53836,10 +53856,10 @@
       "lastSuccess": 1733055006592
     },
     "downloader-instagram.js": {
-      "total": 45,
-      "success": 40,
-      "last": 1734205889023,
-      "lastSuccess": 1734205889023
+      "total": 49,
+      "success": 44,
+      "last": 1734210328687,
+      "lastSuccess": 1734210328687
     },
     "downloader-pinterest.js": {
       "total": 552,
@@ -55153,7 +55173,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734207849519,
+      "backupDB": 1734210097262,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
