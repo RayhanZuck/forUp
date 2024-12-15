@@ -28866,7 +28866,7 @@
       "lastBanned": 0
     },
     "6282322406253@s.whatsapp.net": {
-      "exp": 106,
+      "exp": 110,
       "limit": 499,
       "registered": false,
       "name": "Siff",
@@ -34789,7 +34789,7 @@
       "lastBanned": 0
     },
     "62881038742967@s.whatsapp.net": {
-      "exp": 30,
+      "exp": 36,
       "limit": 499,
       "registered": false,
       "name": "Nengah",
@@ -41079,8 +41079,8 @@
       "lastcommand": 1734017379460
     },
     "6287879828780@s.whatsapp.net": {
-      "exp": 63901,
-      "limit": 491,
+      "exp": 65703,
+      "limit": 489,
       "registered": false,
       "name": "#tornado'tyzz",
       "age": -1,
@@ -50906,6 +50906,27 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "628811936853@s.whatsapp.net": {
+      "exp": 15,
+      "limit": 499,
+      "registered": false,
+      "name": "Mas Ora",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -55886,10 +55907,10 @@
       "lastSuccess": 1734271626419
     },
     "game-susunkata.js": {
-      "total": 4535,
-      "success": 4321,
-      "last": 1734298593051,
-      "lastSuccess": 1734298593051
+      "total": 4536,
+      "success": 4322,
+      "last": 1734299539562,
+      "lastSuccess": 1734299539562
     },
     "game-tebaklirik.js": {
       "total": 6,
@@ -56078,10 +56099,10 @@
       "lastSuccess": 1734112793805
     },
     "game-susunkata_hint.js": {
-      "total": 964,
-      "success": 923,
-      "last": 1734297894413,
-      "lastSuccess": 1734297894413
+      "total": 965,
+      "success": 924,
+      "last": 1734299579358,
+      "lastSuccess": 1734299579358
     },
     "game-tambang.js": {
       "total": 377,
@@ -57389,7 +57410,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734297633359,
+      "backupDB": 1734299512801,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
