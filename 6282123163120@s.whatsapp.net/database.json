@@ -1261,7 +1261,7 @@
       "lastwork": 1734236567363
     },
     "120363280765137622@g.us": {
-      "exp": 1060,
+      "exp": 1068,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -2037,7 +2037,7 @@
       "lastwork": 1732677120474
     },
     "120363240711248334@g.us": {
-      "exp": 181,
+      "exp": 182,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -30872,7 +30872,7 @@
       "lastBanned": 0
     },
     "6285692295628@s.whatsapp.net": {
-      "exp": 104,
+      "exp": 107,
       "limit": 499,
       "registered": false,
       "name": "𓏲𝘀𝘆𝗮𝗮'𝗿𝗮 ✮",
@@ -41079,8 +41079,8 @@
       "lastcommand": 1734017379460
     },
     "6287879828780@s.whatsapp.net": {
-      "exp": 19282,
-      "limit": 497,
+      "exp": 63901,
+      "limit": 491,
       "registered": false,
       "name": "#tornado'tyzz",
       "age": -1,
@@ -41098,7 +41098,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastwork": 1734117264824
+      "lastwork": 1734297935747
     },
     "919863871445@s.whatsapp.net": {
       "exp": 6331,
@@ -50887,6 +50887,25 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "17536351506441_1@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -55867,10 +55886,10 @@
       "lastSuccess": 1734271626419
     },
     "game-susunkata.js": {
-      "total": 4512,
-      "success": 4298,
-      "last": 1734297602678,
-      "lastSuccess": 1734297602678
+      "total": 4535,
+      "success": 4321,
+      "last": 1734298593051,
+      "lastSuccess": 1734298593051
     },
     "game-tebaklirik.js": {
       "total": 6,
@@ -55909,10 +55928,10 @@
       "lastSuccess": 1734265719241
     },
     "game-kerja.js": {
-      "total": 1552,
-      "success": 1395,
-      "last": 1734288945786,
-      "lastSuccess": 1734288945786
+      "total": 1555,
+      "success": 1397,
+      "last": 1734297936051,
+      "lastSuccess": 1734297936051
     },
     "group-tagme.js": {
       "total": 4,
@@ -56059,10 +56078,10 @@
       "lastSuccess": 1734112793805
     },
     "game-susunkata_hint.js": {
-      "total": 961,
-      "success": 920,
-      "last": 1734289182713,
-      "lastSuccess": 1734289182713
+      "total": 964,
+      "success": 923,
+      "last": 1734297894413,
+      "lastSuccess": 1734297894413
     },
     "game-tambang.js": {
       "total": 377,
@@ -56833,10 +56852,10 @@
       "lastSuccess": 1734280334533
     },
     "main-balance.js": {
-      "total": 666,
-      "success": 665,
-      "last": 1734297538650,
-      "lastSuccess": 1734297538650
+      "total": 668,
+      "success": 667,
+      "last": 1734298612625,
+      "lastSuccess": 1734298612625
     },
     "tool-toptt.js": {
       "total": 7,
@@ -57370,7 +57389,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734295830883,
+      "backupDB": 1734297633359,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
