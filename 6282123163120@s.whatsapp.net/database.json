@@ -31377,7 +31377,7 @@
       "lastBanned": 0
     },
     "62882021134511@s.whatsapp.net": {
-      "exp": 23,
+      "exp": 27,
       "limit": 499,
       "registered": false,
       "name": "𖤐RIAN𖤐",
@@ -32764,7 +32764,7 @@
       "lastBanned": 0
     },
     "6289659567878@s.whatsapp.net": {
-      "exp": 7,
+      "exp": 28,
       "limit": 499,
       "registered": false,
       "name": "‎",
@@ -32781,7 +32781,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6289501254300@s.whatsapp.net": {
       "exp": 6,
@@ -48792,7 +48793,7 @@
       "lastBanned": 0
     },
     "6283896153093@s.whatsapp.net": {
-      "exp": 57,
+      "exp": 59,
       "limit": 499,
       "registered": false,
       "name": "Starian",
@@ -50811,6 +50812,67 @@
       "exp": 7,
       "limit": 499,
       "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6281396757834@s.whatsapp.net": {
+      "exp": 62,
+      "limit": 499,
+      "registered": false,
+      "name": "girl",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastcommand": 1734294742017,
+      "lastBanned": 0
+    },
+    "177541683912941_1@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6282391699337@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 499,
+      "registered": false,
+      "name": "mariposa",
       "age": -1,
       "regTime": -1,
       "unreg": false,
@@ -55829,10 +55891,10 @@
       "lastSuccess": 1734254906660
     },
     "vn-salam.js": {
-      "total": 97,
-      "success": 97,
-      "last": 1734280823982,
-      "lastSuccess": 1734280823982
+      "total": 98,
+      "success": 98,
+      "last": 1734294742018,
+      "lastSuccess": 1734294742018
     },
     "downloader-ytmp3.js": {
       "total": 35,
@@ -57308,7 +57370,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734288620430,
+      "backupDB": 1734293877943,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
