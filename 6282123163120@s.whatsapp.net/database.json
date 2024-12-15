@@ -286,7 +286,7 @@
       "lastBanned": 0
     },
     "6285864116431@s.whatsapp.net": {
-      "exp": 1690637,
+      "exp": 1690642,
       "limit": 1793,
       "registered": false,
       "name": "احمد رمضان",
@@ -23566,7 +23566,7 @@
       "lastBanned": 0
     },
     "6287896860032@s.whatsapp.net": {
-      "exp": 376,
+      "exp": 387,
       "limit": 499,
       "registered": false,
       "name": "DESSY❤‍🔥",
@@ -37643,8 +37643,8 @@
       "premiumTime": 0
     },
     "6283191371141@s.whatsapp.net": {
-      "exp": 3245,
-      "limit": 94,
+      "exp": 3274,
+      "limit": 74,
       "registered": false,
       "name": "Vinz",
       "age": -1,
@@ -44342,7 +44342,7 @@
       "lastcommand": 1734131711402
     },
     "6285640190285@s.whatsapp.net": {
-      "exp": 140,
+      "exp": 183,
       "limit": 499,
       "registered": false,
       "name": "46⚡",
@@ -47179,7 +47179,7 @@
       "lastBanned": 0
     },
     "6281320921091@s.whatsapp.net": {
-      "exp": 132,
+      "exp": 140,
       "limit": 499,
       "registered": false,
       "name": "Nghania",
@@ -47244,7 +47244,7 @@
       "lastcommand": 1734173379977
     },
     "6285692516593@s.whatsapp.net": {
-      "exp": 535,
+      "exp": 555,
       "limit": 499,
       "registered": false,
       "name": "Muhammad",
@@ -47260,7 +47260,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1734186847147
@@ -47826,7 +47826,7 @@
       "lastBanned": 0
     },
     "6282179924042@s.whatsapp.net": {
-      "exp": 57,
+      "exp": 58,
       "limit": 499,
       "registered": false,
       "name": "billaa",
@@ -48055,7 +48055,7 @@
       "lastBanned": 0
     },
     "6283834780486@s.whatsapp.net": {
-      "exp": 16,
+      "exp": 27,
       "limit": 499,
       "registered": false,
       "name": "My Korii😘🤏🏻",
@@ -48117,7 +48117,7 @@
       "lastBanned": 0
     },
     "6282163054450@s.whatsapp.net": {
-      "exp": 12,
+      "exp": 18,
       "limit": 499,
       "registered": false,
       "name": "弥赛亚💋❤",
@@ -48747,7 +48747,9 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0,
+      "lastcommand": 1734222259350
     },
     "6285248609716@s.whatsapp.net": {
       "exp": 4,
@@ -53701,10 +53703,10 @@
       "lastSuccess": 1733455659654
     },
     "downloader-tiktok.js": {
-      "total": 246,
-      "success": 215,
-      "last": 1734217170728,
-      "lastSuccess": 1734217170728
+      "total": 247,
+      "success": 216,
+      "last": 1734220508569,
+      "lastSuccess": 1734220508569
     },
     "group-delete.js": {
       "total": 247,
@@ -55174,7 +55176,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734217865187,
+      "backupDB": 1734220480201,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
