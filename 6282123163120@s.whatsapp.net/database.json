@@ -27,7 +27,7 @@
       "limitprem": 10000
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 37499,
+      "exp": 37527,
       "limit": 3260,
       "registered": false,
       "name": "Rayhan?",
@@ -3691,7 +3691,7 @@
       "lastBanned": 0
     },
     "6281254887631@s.whatsapp.net": {
-      "exp": 459,
+      "exp": 508,
       "limit": 974,
       "registered": false,
       "name": "𝑳𝒐𝒍𝒂.𝑬𝒋𝒂",
@@ -4706,7 +4706,7 @@
       "lastBanned": 0
     },
     "6282123163120@s.whatsapp.net": {
-      "exp": 0,
+      "exp": 7,
       "limit": 499,
       "registered": false,
       "name": "Yctxrcyvuvrct",
@@ -27271,8 +27271,8 @@
       "lastBanned": 0
     },
     "6285221782799@s.whatsapp.net": {
-      "exp": 2849,
-      "limit": 3327,
+      "exp": 4933,
+      "limit": 3377,
       "registered": false,
       "name": "んえッグ",
       "age": -1,
@@ -27293,7 +27293,7 @@
       "lastwork": 1734273972954,
       "lastcommand": 1733983014412,
       "lastrob": 1733937635108,
-      "lastdaily": 1734254311339
+      "lastdaily": 1734369923937
     },
     "62882022264590@s.whatsapp.net": {
       "exp": 4,
@@ -28161,7 +28161,7 @@
       "lastcommand": 1733381827860
     },
     "62882020698431@s.whatsapp.net": {
-      "exp": 93,
+      "exp": 101,
       "limit": 499,
       "registered": false,
       "name": "tl",
@@ -28177,7 +28177,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0
     },
@@ -28708,7 +28708,7 @@
       "lastBanned": 0
     },
     "6288994186007@s.whatsapp.net": {
-      "exp": 73,
+      "exp": 80,
       "limit": 499,
       "registered": false,
       "name": "Ido Ganteng",
@@ -51650,7 +51650,7 @@
       "premiumTime": 0
     },
     "6285215804156@s.whatsapp.net": {
-      "exp": 147,
+      "exp": 156,
       "limit": 499,
       "registered": false,
       "name": "Si Jomblo 😞😞",
@@ -57489,10 +57489,10 @@
       "lastSuccess": 1734367823929
     },
     "downloader-play.js": {
-      "total": 730,
-      "success": 683,
-      "last": 1734364103017,
-      "lastSuccess": 1734364103017
+      "total": 732,
+      "success": 685,
+      "last": 1734370209210,
+      "lastSuccess": 1734370209210
     },
     "game-curi.js": {
       "total": 1174,
@@ -57561,10 +57561,10 @@
       "lastSuccess": 1734367409111
     },
     "econ-claim.js": {
-      "total": 711,
-      "success": 345,
-      "last": 1734365244743,
-      "lastSuccess": 1734364221662
+      "total": 712,
+      "success": 346,
+      "last": 1734369923937,
+      "lastSuccess": 1734369923937
     },
     "main-shop.js": {
       "total": 942,
@@ -57645,10 +57645,10 @@
       "lastSuccess": 1734362318513
     },
     "owner-kick.js": {
-      "total": 76,
-      "success": 72,
-      "last": 1734362856989,
-      "lastSuccess": 1734362613283
+      "total": 77,
+      "success": 73,
+      "last": 1734369627951,
+      "lastSuccess": 1734369627951
     },
     "game-kerja.js": {
       "total": 1626,
@@ -57861,10 +57861,10 @@
       "lastSuccess": 1734188610678
     },
     "owner-sf.js": {
-      "total": 262,
-      "success": 213,
-      "last": 1734339844997,
-      "lastSuccess": 1734339844997
+      "total": 263,
+      "success": 214,
+      "last": 1734368620157,
+      "lastSuccess": 1734368620157
     },
     "game-suit.js": {
       "total": 42,
@@ -59178,7 +59178,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734366449209,
+      "backupDB": 1734368612351,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
