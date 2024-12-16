@@ -27463,7 +27463,7 @@
       "premiumTime": 0
     },
     "6283878703066@s.whatsapp.net": {
-      "exp": 4025,
+      "exp": 4033,
       "limit": 499,
       "registered": false,
       "name": "My Biru",
@@ -27479,7 +27479,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastwork": 1733383466986
@@ -34057,7 +34057,7 @@
       "lastBanned": 0
     },
     "6283895729761@s.whatsapp.net": {
-      "exp": 368,
+      "exp": 373,
       "limit": 499,
       "registered": false,
       "name": "𝙮𝙖𝙖",
@@ -34182,7 +34182,7 @@
       "premiumTime": 0
     },
     "6289510027072@s.whatsapp.net": {
-      "exp": 43271,
+      "exp": 43284,
       "limit": 3927,
       "registered": false,
       "name": "~ 𝒎𝒂𝒏𝒖𝒔𝒊𝒂✰🗿",
@@ -44380,7 +44380,7 @@
       "lastcommand": 1734131711402
     },
     "6285640190285@s.whatsapp.net": {
-      "exp": 3107,
+      "exp": 3118,
       "limit": 778,
       "registered": false,
       "name": "46⚡",
@@ -51758,7 +51758,7 @@
       "lastBanned": 0
     },
     "6281947888865@s.whatsapp.net": {
-      "exp": 128,
+      "exp": 138,
       "limit": 499,
       "registered": false,
       "name": "𝕒𝕤𝕥𝕣𝕠𝕡𝕙𝕚𝕝𝕖",
@@ -52040,7 +52040,7 @@
       "premiumTime": 0
     },
     "6281242969388@s.whatsapp.net": {
-      "exp": 1665,
+      "exp": 1668,
       "limit": 442,
       "registered": false,
       "name": "𓆩𓆩𓆩༒𓆪𓆪𓆪",
@@ -52602,7 +52602,7 @@
       "premiumTime": 0
     },
     "6288740708636@s.whatsapp.net": {
-      "exp": 4,
+      "exp": 34,
       "limit": 499,
       "registered": false,
       "name": "Tazkia",
@@ -52619,7 +52619,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "15612592046159_1@s.whatsapp.net": {
       "exp": 9,
@@ -57704,10 +57705,10 @@
       "lastSuccess": 1734359214801
     },
     "ai-remini.js": {
-      "total": 177,
-      "success": 158,
-      "last": 1734367961054,
-      "lastSuccess": 1734367961054
+      "total": 178,
+      "success": 159,
+      "last": 1734392633344,
+      "lastSuccess": 1734392633344
     },
     "sticker-sticker.js": {
       "total": 338,
@@ -59357,7 +59358,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734389302923,
+      "backupDB": 1734391456621,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
