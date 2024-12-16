@@ -286,7 +286,7 @@
       "lastBanned": 0
     },
     "6285864116431@s.whatsapp.net": {
-      "exp": 117289,
+      "exp": 117301,
       "limit": 7950,
       "registered": false,
       "name": "احمد رمضان",
@@ -3858,7 +3858,7 @@
       "lastBanned": 0
     },
     "6283890715100@s.whatsapp.net": {
-      "exp": 66,
+      "exp": 70,
       "limit": 499,
       "registered": false,
       "name": "?",
@@ -27485,7 +27485,7 @@
       "lastwork": 1733383466986
     },
     "6288228746263@s.whatsapp.net": {
-      "exp": 496,
+      "exp": 514,
       "limit": 499,
       "registered": false,
       "name": "davianxtr",
@@ -36053,8 +36053,8 @@
       "premiumTime": 0
     },
     "6283163782377@s.whatsapp.net": {
-      "exp": 263,
-      "limit": 379,
+      "exp": 312,
+      "limit": 359,
       "registered": false,
       "name": "Albarr",
       "age": -1,
@@ -44380,7 +44380,7 @@
       "lastcommand": 1734131711402
     },
     "6285640190285@s.whatsapp.net": {
-      "exp": 2599,
+      "exp": 3107,
       "limit": 778,
       "registered": false,
       "name": "46⚡",
@@ -44399,8 +44399,8 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734358895585,
-      "lastwork": 1734358874344
+      "lastcommand": 1734388811180,
+      "lastwork": 1734388810509
     },
     "66254366855383_1@s.whatsapp.net": {
       "exp": 9,
@@ -52540,6 +52540,46 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "6285935377456@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 859-3537-7456",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6283199738414@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 499,
+      "registered": false,
+      "name": "Zａｈｒａ戈",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -57524,10 +57564,10 @@
       "lastSuccess": 1734365847820
     },
     "_cek.js": {
-      "total": 1197,
-      "success": 1197,
-      "last": 1734384585309,
-      "lastSuccess": 1734384585309
+      "total": 1198,
+      "success": 1198,
+      "last": 1734388811714,
+      "lastSuccess": 1734388811714
     },
     "downloader-play.js": {
       "total": 734,
@@ -57638,10 +57678,10 @@
       "lastSuccess": 1734234066707
     },
     "downloader-tiktok.js": {
-      "total": 308,
-      "success": 273,
-      "last": 1734354647826,
-      "lastSuccess": 1734354647826
+      "total": 310,
+      "success": 274,
+      "last": 1734387433260,
+      "lastSuccess": 1734387433260
     },
     "group-delete.js": {
       "total": 273,
@@ -57782,10 +57822,10 @@
       "lastSuccess": 1734366549503
     },
     "main-afk_.js": {
-      "total": 402,
-      "success": 402,
-      "last": 1734385441099,
-      "lastSuccess": 1734385441099
+      "total": 403,
+      "success": 403,
+      "last": 1734388794599,
+      "lastSuccess": 1734388794599
     },
     "game-asahotak.js": {
       "total": 33,
@@ -57848,10 +57888,10 @@
       "lastSuccess": 1734385138097
     },
     "game-tambang.js": {
-      "total": 418,
-      "success": 368,
-      "last": 1734385123162,
-      "lastSuccess": 1734385123162
+      "total": 419,
+      "success": 369,
+      "last": 1734388810953,
+      "lastSuccess": 1734388810953
     },
     "game-family100.js": {
       "total": 168,
@@ -58616,10 +58656,10 @@
       "lastSuccess": 1734385257004
     },
     "main-balance.js": {
-      "total": 780,
-      "success": 779,
-      "last": 1734374932434,
-      "lastSuccess": 1734374932434
+      "total": 781,
+      "success": 780,
+      "last": 1734388861562,
+      "lastSuccess": 1734388861562
     },
     "tool-toptt.js": {
       "total": 7,
@@ -59219,7 +59259,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734385254917,
+      "backupDB": 1734387416703,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
