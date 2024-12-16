@@ -27738,15 +27738,15 @@
       "lastBanned": 0
     },
     "6289675620296@s.whatsapp.net": {
-      "exp": 189401,
-      "limit": 292,
+      "exp": 192139,
+      "limit": 282,
       "registered": false,
       "name": "𝗐𝗁𝗒?",
       "age": -1,
       "regTime": -1,
       "unreg": false,
-      "afk": -1,
-      "afkReason": "",
+      "afk": 1734385441097,
+      "afkReason": "Tidak ada",
       "banned": false,
       "level": 17,
       "role": "Private Grade 4 ⚌⁴",
@@ -27758,7 +27758,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1734384582119,
-      "lastwork": 1734385122739,
+      "lastwork": 1734385394391,
       "lastdaily": 1734341407613,
       "lastrob": 1734352773514
     },
@@ -48041,7 +48041,7 @@
       "premiumTime": 0
     },
     "6282179477450@s.whatsapp.net": {
-      "exp": 40,
+      "exp": 55,
       "limit": 499,
       "registered": false,
       "name": "Rian",
@@ -57692,10 +57692,10 @@
       "lastSuccess": 1734369627951
     },
     "game-kerja.js": {
-      "total": 1628,
-      "success": 1461,
-      "last": 1734384669622,
-      "lastSuccess": 1734384669622
+      "total": 1629,
+      "success": 1462,
+      "last": 1734385396517,
+      "lastSuccess": 1734385396517
     },
     "group-tagme.js": {
       "total": 4,
@@ -57782,10 +57782,10 @@
       "lastSuccess": 1734366549503
     },
     "main-afk_.js": {
-      "total": 401,
-      "success": 401,
-      "last": 1734367761217,
-      "lastSuccess": 1734367761217
+      "total": 402,
+      "success": 402,
+      "last": 1734385441099,
+      "lastSuccess": 1734385441099
     },
     "game-asahotak.js": {
       "total": 33,
@@ -58610,10 +58610,10 @@
       "lastSuccess": 1733147762483
     },
     "game-berburu.js": {
-      "total": 48,
-      "success": 39,
-      "last": 1734364290507,
-      "lastSuccess": 1734364290507
+      "total": 49,
+      "success": 40,
+      "last": 1734385257004,
+      "lastSuccess": 1734385257004
     },
     "main-balance.js": {
       "total": 780,
@@ -59018,10 +59018,10 @@
       "lastSuccess": 1734364042170
     },
     "maker-ephoto.js": {
-      "total": 26,
-      "success": 26,
-      "last": 1734366667462,
-      "lastSuccess": 1734366667462
+      "total": 27,
+      "success": 27,
+      "last": 1734385355556,
+      "lastSuccess": 1734385355556
     },
     "ai-txt2img.js": {
       "total": 5,
@@ -59219,7 +59219,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734383426565,
+      "backupDB": 1734385254917,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
