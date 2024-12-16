@@ -32674,7 +32674,7 @@
       "premiumTime": 0
     },
     "6281243089886@s.whatsapp.net": {
-      "exp": 84,
+      "exp": 103,
       "limit": 499,
       "registered": false,
       "name": "ㅤㅤㅤㅤ ㅤ ㅤㅤㅤ",
@@ -48824,7 +48824,7 @@
       "lastBanned": 0
     },
     "6283896153093@s.whatsapp.net": {
-      "exp": 59,
+      "exp": 62,
       "limit": 499,
       "registered": false,
       "name": "Starian",
@@ -50800,7 +50800,7 @@
       "lastBanned": 0
     },
     "6282115398149@s.whatsapp.net": {
-      "exp": 138,
+      "exp": 141,
       "limit": 499,
       "registered": false,
       "name": "anak_lanang",
@@ -50816,7 +50816,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1734278346682
@@ -59200,7 +59200,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734374141546,
+      "backupDB": 1734377212556,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
