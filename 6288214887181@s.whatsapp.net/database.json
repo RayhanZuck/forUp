@@ -20404,8 +20404,8 @@
       "lastdaily": 1734415909564
     },
     "212684484242@s.whatsapp.net": {
-      "exp": 233,
-      "limit": 349,
+      "exp": 260,
+      "limit": 324,
       "registered": false,
       "name": "Taha",
       "age": -1,
@@ -57191,10 +57191,10 @@
       "lastSuccess": 1734443014916
     },
     "downloader-play.js": {
-      "total": 1595,
-      "success": 1490,
-      "last": 1734452844119,
-      "lastSuccess": 1734452844119
+      "total": 1596,
+      "success": 1491,
+      "last": 1734467670870,
+      "lastSuccess": 1734467670870
     },
     "downloader-ytvideo.js": {
       "total": 131,
@@ -59356,7 +59356,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734458680120,
+      "backupDB": 1734467639658,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
