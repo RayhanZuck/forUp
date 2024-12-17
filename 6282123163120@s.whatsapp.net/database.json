@@ -50882,7 +50882,7 @@
       "premiumTime": 0
     },
     "6281396757834@s.whatsapp.net": {
-      "exp": 90,
+      "exp": 95,
       "limit": 499,
       "registered": false,
       "name": "girl",
@@ -53310,7 +53310,7 @@
       "premiumTime": 0
     },
     "6283142875045@s.whatsapp.net": {
-      "exp": 2033,
+      "exp": 2358,
       "limit": 489,
       "registered": false,
       "name": "+62 831-4287-5045",
@@ -57017,7 +57017,7 @@
       "lastBanned": 0
     },
     "6287758130241@s.whatsapp.net": {
-      "exp": 73,
+      "exp": 97,
       "limit": 499,
       "registered": false,
       "name": "bisnis online",
@@ -58109,7 +58109,7 @@
       "lastBanned": 0
     },
     "6285601618419@s.whatsapp.net": {
-      "exp": 4,
+      "exp": 15,
       "limit": 499,
       "registered": false,
       "name": "anda sekarang admin!!!",
@@ -59829,7 +59829,7 @@
       "premiumTime": 0
     },
     "6285664698061@s.whatsapp.net": {
-      "exp": 4,
+      "exp": 12,
       "limit": 499,
       "registered": false,
       "name": "cindyhyperr🫦🤍",
@@ -59846,7 +59846,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6282373033480@s.whatsapp.net": {
       "exp": 7,
@@ -63154,7 +63155,7 @@
       "premiumTime": 0
     },
     "6281916545726@s.whatsapp.net": {
-      "exp": 3,
+      "exp": 11,
       "limit": 499,
       "registered": false,
       "name": "soelana",
@@ -63171,7 +63172,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "62895321735539@s.whatsapp.net": {
       "exp": 3,
@@ -66491,6 +66493,46 @@
       "limit": 499,
       "registered": false,
       "name": "😊😊😊",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6285726945518@s.whatsapp.net": {
+      "exp": 7,
+      "limit": 499,
+      "registered": false,
+      "name": "wong aneh",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "62881023547205@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "name": ".",
       "age": -1,
       "regTime": -1,
       "unreg": false,
@@ -74250,7 +74292,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734467155553,
+      "backupDB": 1734468959684,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
