@@ -16095,8 +16095,8 @@
       "premiumTime": 0
     },
     "6283824012756@s.whatsapp.net": {
-      "exp": 7317,
-      "limit": 304,
+      "exp": 7363,
+      "limit": 279,
       "registered": false,
       "name": "Zummy [C.D.I.S]",
       "age": -1,
@@ -25501,7 +25501,7 @@
       "premiumTime": 0
     },
     "6289505879658@s.whatsapp.net": {
-      "exp": 16911,
+      "exp": 16912,
       "limit": 1174,
       "registered": false,
       "name": "Fian",
@@ -103006,7 +103006,7 @@
       "lastBanned": 0
     },
     "6289677414856@s.whatsapp.net": {
-      "exp": 156,
+      "exp": 168,
       "limit": 499,
       "registered": false,
       "name": "マキシマス提督",
@@ -135234,7 +135234,7 @@
       "premiumTime": 0
     },
     "120363356468992489@g.us": {
-      "exp": 75,
+      "exp": 85,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -137332,7 +137332,7 @@
       "premiumTime": 0
     },
     "6285931400906@s.whatsapp.net": {
-      "exp": 190,
+      "exp": 198,
       "limit": 499,
       "registered": false,
       "name": "Dino",
@@ -143465,6 +143465,26 @@
       "limit": 499,
       "registered": false,
       "name": ".",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "628311859046@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 831-1859-046",
       "age": -1,
       "regTime": -1,
       "unreg": false,
@@ -153055,10 +153075,10 @@
       "lastSuccess": 1734429181122
     },
     "downloader-play.js": {
-      "total": 1351,
-      "success": 1313,
-      "last": 1734467640938,
-      "lastSuccess": 1734467640938
+      "total": 1353,
+      "success": 1315,
+      "last": 1734477191076,
+      "lastSuccess": 1734477191076
     },
     "main-profile.js": {
       "total": 262,
@@ -153541,10 +153561,10 @@
       "lastSuccess": 1726742632386
     },
     "game-curi.js": {
-      "total": 396,
-      "success": 375,
-      "last": 1734447255901,
-      "lastSuccess": 1734447255901
+      "total": 397,
+      "success": 376,
+      "last": 1734476535199,
+      "lastSuccess": 1734476535199
     },
     "game-mulung.js": {
       "total": 26,
@@ -154747,10 +154767,10 @@
       "lastSuccess": 1734423783716
     },
     "downloader-tiktok.js": {
-      "total": 325,
-      "success": 311,
-      "last": 1734441661760,
-      "lastSuccess": 1734441661760
+      "total": 326,
+      "success": 312,
+      "last": 1734475602707,
+      "lastSuccess": 1734475602707
     },
     "scld.js": {
       "total": 4,
@@ -155208,7 +155228,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734473562189,
+      "backupDB": 1734475395259,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
