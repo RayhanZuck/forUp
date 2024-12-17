@@ -38409,7 +38409,7 @@
       "premiumTime": 0
     },
     "6283878703066@s.whatsapp.net": {
-      "exp": 34324,
+      "exp": 34376,
       "limit": 789,
       "registered": false,
       "name": "My Biru",
@@ -47778,8 +47778,8 @@
       "premiumTime": 0
     },
     "6283846829169@s.whatsapp.net": {
-      "exp": 12640,
-      "limit": 18,
+      "exp": 178,
+      "limit": 54,
       "registered": false,
       "name": "~B🗿",
       "age": -1,
@@ -57263,10 +57263,10 @@
       "lastSuccess": 1734437918474
     },
     "main-shop.js": {
-      "total": 618,
-      "success": 618,
-      "last": 1734423619977,
-      "lastSuccess": 1734423619977
+      "total": 619,
+      "success": 619,
+      "last": 1734455963494,
+      "lastSuccess": 1734455963494
     },
     "main-level.js": {
       "total": 179,
@@ -57287,10 +57287,10 @@
       "lastSuccess": 1732712040999
     },
     "main-limit.js": {
-      "total": 1116,
-      "success": 1116,
-      "last": 1734452869456,
-      "lastSuccess": 1734452869456
+      "total": 1119,
+      "success": 1119,
+      "last": 1734455974617,
+      "lastSuccess": 1734455974617
     },
     "game-ulartangga.js": {
       "total": 77,
@@ -57371,10 +57371,10 @@
       "lastSuccess": 1734450249888
     },
     "info-payment.js": {
-      "total": 41,
-      "success": 41,
-      "last": 1734410324044,
-      "lastSuccess": 1734410324044
+      "total": 43,
+      "success": 43,
+      "last": 1734456707949,
+      "lastSuccess": 1734456707949
     },
     "_rayhan-creator.js": {
       "total": 24,
@@ -59356,7 +59356,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734453417111,
+      "backupDB": 1734455775050,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
