@@ -4708,7 +4708,7 @@
       "lastBanned": 0
     },
     "6282123163120@s.whatsapp.net": {
-      "exp": 6330,
+      "exp": 6340,
       "limit": 579,
       "registered": false,
       "name": "Yctxrcyvuvrct",
@@ -4724,7 +4724,7 @@
       "WarnReason": "",
       "lastweekly": 1734280422704,
       "lastmonthly": 1733658492071,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastcommand": 1734454166599,
       "lastBanned": 0,
@@ -27741,7 +27741,7 @@
       "lastBanned": 0
     },
     "6289675620296@s.whatsapp.net": {
-      "exp": 270,
+      "exp": 306,
       "limit": 918,
       "registered": false,
       "name": "𝗐𝗁𝗒?",
@@ -27757,10 +27757,10 @@
       "WarnReason": "",
       "lastweekly": 1734235700059,
       "lastmonthly": 1733481298270,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734445566875,
+      "lastcommand": 1734463213311,
       "lastwork": 1734433664718,
       "lastdaily": 1734433669086,
       "lastrob": 1734433627718
@@ -30994,7 +30994,7 @@
       "lastBanned": 0
     },
     "6285720973051@s.whatsapp.net": {
-      "exp": 1603258,
+      "exp": 1603261,
       "limit": 11737,
       "registered": true,
       "name": "citra",
@@ -50821,7 +50821,7 @@
       "lastBanned": 0
     },
     "6282115398149@s.whatsapp.net": {
-      "exp": 272,
+      "exp": 281,
       "limit": 499,
       "registered": false,
       "name": "anak_lanang",
@@ -64550,6 +64550,46 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "6285711763692@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 857-1176-3692",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "62857925004293@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 857-9250-04293",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -70492,6 +70532,32 @@
       "teks": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "120363290640941556@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "pembatasan": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "antiBadword": false,
+      "simi": false,
+      "nsfw": false,
+      "rpg": true,
+      "game": true,
+      "teks": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -70526,10 +70592,10 @@
       "lastSuccess": 1734452388618
     },
     "_cek.js": {
-      "total": 1269,
-      "success": 1269,
-      "last": 1734457271807,
-      "lastSuccess": 1734457271807
+      "total": 1270,
+      "success": 1270,
+      "last": 1734463213781,
+      "lastSuccess": 1734463213781
     },
     "downloader-play.js": {
       "total": 829,
@@ -72269,7 +72335,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734460953367,
+      "backupDB": 1734462890999,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
