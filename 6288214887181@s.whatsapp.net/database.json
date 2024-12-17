@@ -87,7 +87,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 92392,
+      "exp": 92417,
       "limit": 0,
       "registered": false,
       "name": "Rayhan?",
@@ -1040,7 +1040,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 5119,
+      "exp": 5121,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -2009,8 +2009,8 @@
       "lastcommand": 1733910391076
     },
     "6287713931944@s.whatsapp.net": {
-      "exp": 2871,
-      "limit": 359,
+      "exp": 2935,
+      "limit": 294,
       "registered": false,
       "name": "ry",
       "age": -1,
@@ -2462,7 +2462,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0
     },
@@ -11741,7 +11741,7 @@
       "WarnReason": "",
       "lastweekly": 1734410036888,
       "lastmonthly": 1731928995518,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731942520684,
@@ -47775,7 +47775,7 @@
       "premiumTime": 0
     },
     "6283846829169@s.whatsapp.net": {
-      "exp": 6070,
+      "exp": 6084,
       "limit": 233,
       "registered": false,
       "name": "~B🗿",
@@ -47801,8 +47801,8 @@
       "lastdaily": 1734415749660
     },
     "6282291670098@s.whatsapp.net": {
-      "exp": 13125,
-      "limit": 134,
+      "exp": 13145,
+      "limit": 109,
       "registered": false,
       "name": "Sul",
       "age": -1,
@@ -49691,8 +49691,8 @@
       "lastcommand": 1734369714003
     },
     "6282281819732@s.whatsapp.net": {
-      "exp": 123,
-      "limit": 474,
+      "exp": 154,
+      "limit": 449,
       "registered": false,
       "name": "Jendral Maeza",
       "age": -1,
@@ -56138,22 +56138,22 @@
       "lastSuccess": 1734376432512
     },
     "downloader-tiktok.js": {
-      "total": 1526,
-      "success": 1409,
-      "last": 1734414245931,
-      "lastSuccess": 1734414184737
+      "total": 1528,
+      "success": 1411,
+      "last": 1734417208227,
+      "lastSuccess": 1734417208227
     },
     "owner-sf.js": {
-      "total": 912,
-      "success": 830,
-      "last": 1734399913814,
-      "lastSuccess": 1734399913814
+      "total": 913,
+      "success": 831,
+      "last": 1734417991857,
+      "lastSuccess": 1734417991857
     },
     "downloader-play.js": {
-      "total": 1554,
-      "success": 1449,
-      "last": 1734416309601,
-      "lastSuccess": 1734416309601
+      "total": 1556,
+      "success": 1451,
+      "last": 1734417429414,
+      "lastSuccess": 1734417429414
     },
     "downloader-ytvideo.js": {
       "total": 130,
@@ -56864,10 +56864,10 @@
       "lastSuccess": 1734412292738
     },
     "dl-tiktokslide.js": {
-      "total": 47,
-      "success": 30,
-      "last": 1734334402933,
-      "lastSuccess": 1734334402933
+      "total": 48,
+      "success": 31,
+      "last": 1734417348310,
+      "lastSuccess": 1734417348310
     },
     "owner-setnamebot.js": {
       "total": 4,
@@ -58315,7 +58315,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734414600354,
+      "backupDB": 1734416423640,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
