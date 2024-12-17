@@ -155,7 +155,7 @@
       "lastcommand": 1732771777501
     },
     "120363183420865643@g.us": {
-      "exp": 4278,
+      "exp": 4287,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -176,7 +176,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3180,
+      "exp": 3198,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1040,7 +1040,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 5121,
+      "exp": 5131,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -3306,8 +3306,8 @@
       "lastdaily": 1730357910770
     },
     "62881037157545@s.whatsapp.net": {
-      "exp": 8583,
-      "limit": 839,
+      "exp": 8625,
+      "limit": 829,
       "registered": false,
       "name": "きょういき Izumi",
       "age": -1,
@@ -14242,7 +14242,7 @@
       "premiumTime": 0
     },
     "6287740908701@s.whatsapp.net": {
-      "exp": 30118,
+      "exp": 30136,
       "limit": 733,
       "registered": false,
       "name": "Merzzx Story Kece",
@@ -14258,7 +14258,7 @@
       "WarnReason": "",
       "lastweekly": 1733006537915,
       "lastmonthly": 1733006573886,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1734238108324,
@@ -47775,7 +47775,7 @@
       "premiumTime": 0
     },
     "6283846829169@s.whatsapp.net": {
-      "exp": 6084,
+      "exp": 5904,
       "limit": 233,
       "registered": false,
       "name": "~B🗿",
@@ -49691,7 +49691,7 @@
       "lastcommand": 1734369714003
     },
     "6282281819732@s.whatsapp.net": {
-      "exp": 154,
+      "exp": 306,
       "limit": 449,
       "registered": false,
       "name": "Jendral Maeza",
@@ -49710,7 +49710,8 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734394750719
+      "lastcommand": 1734420260280,
+      "lastrob": 1734420108537
     },
     "6283879022459@s.whatsapp.net": {
       "exp": 10,
@@ -49936,7 +49937,7 @@
       "premiumTime": 0
     },
     "6289677414856@s.whatsapp.net": {
-      "exp": 448,
+      "exp": 630,
       "limit": 1056,
       "registered": false,
       "name": "Rogue Jolly Kitty",
@@ -49956,7 +49957,8 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1734409958783,
-      "lastdaily": 1734394547027
+      "lastdaily": 1734394547027,
+      "lastrob": 1734419810072
     },
     "6283186426663@s.whatsapp.net": {
       "exp": 5,
@@ -50164,6 +50166,105 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
+    },
+    "6282320857483@s.whatsapp.net": {
+      "exp": 12,
+      "limit": 499,
+      "registered": false,
+      "name": "okeee",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
+    },
+    "187162360324325_1@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6285362158935@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 499,
+      "registered": false,
+      "name": "Ra",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6283856031782@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 838-5603-1782",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "141060181328099_1@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -56168,10 +56269,10 @@
       "lastSuccess": 1734411638583
     },
     "sticker-toimg.js": {
-      "total": 77,
-      "success": 71,
-      "last": 1734360428032,
-      "lastSuccess": 1734360428032
+      "total": 78,
+      "success": 72,
+      "last": 1734419061123,
+      "lastSuccess": 1734419061123
     },
     "game-kerja.js": {
       "total": 837,
@@ -56204,10 +56305,10 @@
       "lastSuccess": 1734415909564
     },
     "game-curi.js": {
-      "total": 914,
-      "success": 667,
-      "last": 1734415863743,
-      "lastSuccess": 1734415863743
+      "total": 919,
+      "success": 670,
+      "last": 1734420229539,
+      "lastSuccess": 1734420229539
     },
     "game-copet.js": {
       "total": 162,
@@ -56966,10 +57067,10 @@
       "lastSuccess": 1733305429286
     },
     "curi-owner.js": {
-      "total": 13,
-      "success": 13,
-      "last": 1734415819588,
-      "lastSuccess": 1734415819588
+      "total": 14,
+      "success": 14,
+      "last": 1734420260796,
+      "lastSuccess": 1734420260796
     },
     "downloader-gitclone.js": {
       "total": 8,
@@ -58315,7 +58416,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734416423640,
+      "backupDB": 1734418474606,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
