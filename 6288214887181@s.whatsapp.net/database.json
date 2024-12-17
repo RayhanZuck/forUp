@@ -1509,8 +1509,8 @@
       "lastBanned": 0
     },
     "6288294411864@s.whatsapp.net": {
-      "exp": 82135,
-      "limit": 311,
+      "exp": 82479,
+      "limit": 106,
       "registered": false,
       "name": "👑",
       "age": -1,
@@ -14569,8 +14569,8 @@
       "lastdaily": 1732374603876
     },
     "6283861421708@s.whatsapp.net": {
-      "exp": 9461,
-      "limit": 44,
+      "exp": 11599,
+      "limit": 99,
       "registered": false,
       "name": "By Emyu🔥",
       "age": -1,
@@ -14589,7 +14589,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1733359218326,
-      "lastdaily": 1734266922500
+      "lastdaily": 1734407030514
     },
     "67075916187@s.whatsapp.net": {
       "exp": 17,
@@ -29857,7 +29857,7 @@
       "premiumTime": 0
     },
     "601172392866@s.whatsapp.net": {
-      "exp": 84748,
+      "exp": 84771,
       "limit": 607,
       "registered": false,
       "name": "dinosor",
@@ -29873,11 +29873,11 @@
       "WarnReason": "",
       "lastweekly": 1733325756401,
       "lastmonthly": 1732589370718,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastwork": 1732712185461,
-      "lastcommand": 1734030410500,
+      "lastcommand": 1734407805438,
       "lastdaily": 1733325749101,
       "lastrob": 1732712073765
     },
@@ -49431,7 +49431,7 @@
       "premiumTime": 0
     },
     "6289698099123@s.whatsapp.net": {
-      "exp": 3,
+      "exp": 9,
       "limit": 499,
       "registered": false,
       "name": "Zoy",
@@ -49448,7 +49448,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6288983441809@s.whatsapp.net": {
       "exp": 6,
@@ -50012,6 +50013,47 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "6283135956908@s.whatsapp.net": {
+      "exp": 26,
+      "limit": 474,
+      "registered": false,
+      "name": "𝑴𝒚𝒛𝒛_𝒄𝒉𝒂𝒏",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6282114196080@s.whatsapp.net": {
+      "exp": 11,
+      "limit": 499,
+      "registered": false,
+      "name": "Lidia (⁠◕⁠ᴗ⁠◕⁠✿⁠)",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -55998,10 +56040,10 @@
       "lastSuccess": 1734399913814
     },
     "downloader-play.js": {
-      "total": 1539,
-      "success": 1434,
-      "last": 1734406002596,
-      "lastSuccess": 1734406002596
+      "total": 1541,
+      "success": 1436,
+      "last": 1734407255229,
+      "lastSuccess": 1734407255229
     },
     "downloader-ytvideo.js": {
       "total": 130,
@@ -56046,10 +56088,10 @@
       "lastSuccess": 1734270788508
     },
     "econ-claim.js": {
-      "total": 1639,
-      "success": 1132,
-      "last": 1734405734263,
-      "lastSuccess": 1734405734263
+      "total": 1641,
+      "success": 1134,
+      "last": 1734407030515,
+      "lastSuccess": 1734407030515
     },
     "game-curi.js": {
       "total": 910,
@@ -56280,10 +56322,10 @@
       "lastSuccess": 1730161441000
     },
     "downloader-tiktoksearch.js": {
-      "total": 627,
-      "success": 620,
-      "last": 1734401236426,
-      "lastSuccess": 1734401236426
+      "total": 643,
+      "success": 636,
+      "last": 1734407755844,
+      "lastSuccess": 1734407755844
     },
     "ai-llama.js": {
       "total": 352,
@@ -56460,10 +56502,10 @@
       "lastSuccess": 1733834795591
     },
     "info-ping.js": {
-      "total": 199,
-      "success": 199,
-      "last": 1734354298911,
-      "lastSuccess": 1734354298911
+      "total": 200,
+      "success": 200,
+      "last": 1734407809609,
+      "lastSuccess": 1734407809609
     },
     "ai-toanime.js": {
       "total": 65,
@@ -58163,7 +58205,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734405069844,
+      "backupDB": 1734406954898,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
