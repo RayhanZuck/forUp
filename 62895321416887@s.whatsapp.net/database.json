@@ -5977,7 +5977,7 @@
       "premiumTime": 0
     },
     "120363280765137622@g.us": {
-      "exp": 1578,
+      "exp": 1593,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -12479,7 +12479,7 @@
       "premiumTime": 0
     },
     "6283199933842@s.whatsapp.net": {
-      "exp": 30969,
+      "exp": 30982,
       "limit": 532,
       "registered": false,
       "name": "KEYSA*7700*",
@@ -62000,7 +62000,7 @@
       "premiumTime": 0
     },
     "62895321416887@s.whatsapp.net": {
-      "exp": 5767,
+      "exp": 5784,
       "limit": 280,
       "registered": false,
       "name": "ikky clone 19",
@@ -91073,6 +91073,25 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "20427468484752_1@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -100108,7 +100127,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734447663714,
+      "backupDB": 1734449586693,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
