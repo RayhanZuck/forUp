@@ -4263,8 +4263,8 @@
       "lastBanned": 0
     },
     "60109130559@s.whatsapp.net": {
-      "exp": 10964,
-      "limit": 521,
+      "exp": 11006,
+      "limit": 496,
       "registered": false,
       "name": "Jack",
       "age": -1,
@@ -8187,7 +8187,7 @@
       "lastBanned": 0
     },
     "6282223286962@s.whatsapp.net": {
-      "exp": 17449,
+      "exp": 17480,
       "limit": 2955,
       "registered": false,
       "name": "Spl",
@@ -37683,7 +37683,7 @@
       "lastBanned": 0
     },
     "6288228746263@s.whatsapp.net": {
-      "exp": 1306,
+      "exp": 1308,
       "limit": 19,
       "registered": false,
       "name": "davianxtr",
@@ -57203,10 +57203,10 @@
       "lastSuccess": 1734439515178
     },
     "sticker-sticker.js": {
-      "total": 734,
-      "success": 636,
-      "last": 1734473576821,
-      "lastSuccess": 1734473576821
+      "total": 735,
+      "success": 637,
+      "last": 1734474675476,
+      "lastSuccess": 1734474675476
     },
     "sticker-toimg.js": {
       "total": 80,
@@ -58517,10 +58517,10 @@
       "lastSuccess": 0
     },
     "dl-tiktokhd.js": {
-      "total": 16,
-      "success": 16,
-      "last": 1734397408681,
-      "lastSuccess": 1734397408681
+      "total": 17,
+      "success": 17,
+      "last": 1734475531806,
+      "lastSuccess": 1734475531806
     },
     "info-totalfitur.js": {
       "total": 3,
@@ -59356,7 +59356,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734471840249,
+      "backupDB": 1734473732547,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
