@@ -5445,8 +5445,8 @@
       "premiumTime": 0
     },
     "919863871445@s.whatsapp.net": {
-      "exp": 49254,
-      "limit": 244,
+      "exp": 49385,
+      "limit": 144,
       "registered": false,
       "name": "Asahi.",
       "age": -1,
@@ -57179,10 +57179,10 @@
       "lastSuccess": 1734376432512
     },
     "downloader-tiktok.js": {
-      "total": 1537,
-      "success": 1420,
-      "last": 1734450587408,
-      "lastSuccess": 1734450587408
+      "total": 1542,
+      "success": 1425,
+      "last": 1734471688770,
+      "lastSuccess": 1734471688770
     },
     "owner-sf.js": {
       "total": 919,
@@ -59356,7 +59356,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734467639658,
+      "backupDB": 1734469982404,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
