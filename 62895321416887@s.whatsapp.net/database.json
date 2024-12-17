@@ -70553,8 +70553,8 @@
       "lastBanned": 0
     },
     "6285723070218@s.whatsapp.net": {
-      "exp": 1044,
-      "limit": 474,
+      "exp": 1342,
+      "limit": 444,
       "registered": false,
       "name": "🥋🧠🧗‍♂️🏋‍♂️",
       "age": -1,
@@ -70569,10 +70569,10 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734453254705
+      "lastcommand": 1734453520599
     },
     "6282320476983@s.whatsapp.net": {
       "exp": 87,
@@ -70596,8 +70596,8 @@
       "lastBanned": 0
     },
     "6283894061258@s.whatsapp.net": {
-      "exp": 175,
-      "limit": 424,
+      "exp": 233,
+      "limit": 414,
       "registered": false,
       "name": "D E N",
       "age": -1,
@@ -70614,7 +70614,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "lastBanned": 0
+      "lastBanned": 0,
+      "lastcommand": 1734453571291
     },
     "6282116384647@s.whatsapp.net": {
       "exp": 35,
@@ -91112,6 +91113,44 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "252089313788024_1@s.whatsapp.net": {
+      "exp": 7,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "15646616248475_1@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -98910,10 +98949,10 @@
       "lastSuccess": 1734138369700
     },
     "sticker-sticker.js": {
-      "total": 112,
-      "success": 96,
-      "last": 1734452634307,
-      "lastSuccess": 1734452634307
+      "total": 116,
+      "success": 100,
+      "last": 1734454515658,
+      "lastSuccess": 1734454515658
     },
     "owner-getdb.js": {
       "total": 3,
@@ -98928,10 +98967,10 @@
       "lastSuccess": 1733204674125
     },
     "_rayhan-menu.js": {
-      "total": 178,
-      "success": 123,
-      "last": 1734452827229,
-      "lastSuccess": 1734452827229
+      "total": 179,
+      "success": 124,
+      "last": 1734453607881,
+      "lastSuccess": 1734453607881
     },
     "owner-exec.js": {
       "total": 112,
@@ -99006,10 +99045,10 @@
       "lastSuccess": 1734420829630
     },
     "_rayhan-allmenu.js": {
-      "total": 72,
-      "success": 48,
-      "last": 1734414405806,
-      "lastSuccess": 1734414405806
+      "total": 73,
+      "success": 49,
+      "last": 1734453559305,
+      "lastSuccess": 1734453559305
     },
     "downloader-play.js": {
       "total": 425,
@@ -99060,10 +99099,10 @@
       "lastSuccess": 1734390674373
     },
     "info-tutorial.js": {
-      "total": 5,
-      "success": 1,
-      "last": 1733387298123,
-      "lastSuccess": 1733288121850
+      "total": 6,
+      "success": 2,
+      "last": 1734453520503,
+      "lastSuccess": 1734453520503
     },
     "downloader-tiktok.js": {
       "total": 144,
@@ -99600,10 +99639,10 @@
       "lastSuccess": 1734136076304
     },
     "sticker-tovideo.js": {
-      "total": 31,
-      "success": 30,
-      "last": 1734051134216,
-      "lastSuccess": 1734051134216
+      "total": 35,
+      "success": 34,
+      "last": 1734454299117,
+      "lastSuccess": 1734454299117
     },
     "downloader-playvid.js": {
       "total": 14,
@@ -100173,7 +100212,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734451585982,
+      "backupDB": 1734453424172,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
