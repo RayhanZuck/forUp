@@ -257,7 +257,7 @@
       "lastcommand": 1734360155210
     },
     "628884584571@s.whatsapp.net": {
-      "exp": 12427,
+      "exp": 12452,
       "limit": 330,
       "registered": true,
       "name": "Ikky",
@@ -5896,7 +5896,7 @@
       "lastBanned": 0
     },
     "120363265685400508@g.us": {
-      "exp": 420,
+      "exp": 429,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -5977,7 +5977,7 @@
       "premiumTime": 0
     },
     "120363280765137622@g.us": {
-      "exp": 1398,
+      "exp": 1405,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -19896,7 +19896,7 @@
       "lastBanned": 0
     },
     "6282258025865@s.whatsapp.net": {
-      "exp": 1044,
+      "exp": 1052,
       "limit": 499,
       "registered": false,
       "name": "raa? iyaaa sayang",
@@ -38275,7 +38275,7 @@
       "lastBanned": 0
     },
     "6283128791335@s.whatsapp.net": {
-      "exp": 8725,
+      "exp": 8730,
       "limit": 374,
       "registered": false,
       "name": "𝚛è𝚢𝚢àà𝚠-",
@@ -39325,7 +39325,7 @@
       "lastBanned": 0
     },
     "6283812715686@s.whatsapp.net": {
-      "exp": 2400,
+      "exp": 2405,
       "limit": 409,
       "registered": false,
       "name": "tante liaa naa tidoo",
@@ -43084,7 +43084,7 @@
       "lastBanned": 0
     },
     "6285716195278@s.whatsapp.net": {
-      "exp": 395,
+      "exp": 425,
       "limit": 499,
       "registered": false,
       "name": "pak kumis",
@@ -43103,7 +43103,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1733571324577
+      "lastcommand": 1734408292797
     },
     "6285356219306@s.whatsapp.net": {
       "exp": 3,
@@ -62347,7 +62347,7 @@
       "lastBanned": 0
     },
     "6288976166234@s.whatsapp.net": {
-      "exp": 326,
+      "exp": 335,
       "limit": 499,
       "registered": false,
       "name": "Wilda",
@@ -79412,7 +79412,7 @@
       "premiumTime": 0
     },
     "6285896134269@s.whatsapp.net": {
-      "exp": 74,
+      "exp": 84,
       "limit": 499,
       "registered": false,
       "name": "+62 858-9613-4269",
@@ -79596,7 +79596,7 @@
       "lastcommand": 1734139509164
     },
     "6283827180449@s.whatsapp.net": {
-      "exp": 2074,
+      "exp": 2084,
       "limit": 389,
       "registered": false,
       "name": "eyiin sigmaa🧏🏻‍♀️",
@@ -79617,7 +79617,7 @@
       "lastBanned": 0
     },
     "6283143503046@s.whatsapp.net": {
-      "exp": 20,
+      "exp": 27,
       "limit": 499,
       "registered": false,
       "name": "Yaa 😋",
@@ -80755,7 +80755,7 @@
       "premiumTime": 0
     },
     "62882021309956@s.whatsapp.net": {
-      "exp": 97,
+      "exp": 105,
       "limit": 399,
       "registered": false,
       "name": "ikky soft softex",
@@ -80955,6 +80955,27 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "6288287199289@s.whatsapp.net": {
+      "exp": 29,
+      "limit": 499,
+      "registered": false,
+      "name": "rafisarya25",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -88655,10 +88676,10 @@
       "lastSuccess": 1734354089869
     },
     "info-payment.js": {
-      "total": 21,
-      "success": 21,
-      "last": 1734069050692,
-      "lastSuccess": 1734069050692
+      "total": 22,
+      "success": 22,
+      "last": 1734408852896,
+      "lastSuccess": 1734408852896
     },
     "main-afk_.js": {
       "total": 227,
@@ -88709,10 +88730,10 @@
       "lastSuccess": 0
     },
     "_cek.js": {
-      "total": 474,
-      "success": 474,
-      "last": 1734390651786,
-      "lastSuccess": 1734390651786
+      "total": 475,
+      "success": 475,
+      "last": 1734408293137,
+      "lastSuccess": 1734408293137
     },
     "group-delete.js": {
       "total": 167,
@@ -88811,10 +88832,10 @@
       "lastSuccess": 1734020432994
     },
     "group-hidetag.js": {
-      "total": 63,
-      "success": 63,
-      "last": 1734066299700,
-      "lastSuccess": 1734066299700
+      "total": 64,
+      "success": 64,
+      "last": 1734408263221,
+      "lastSuccess": 1734408263221
     },
     "owner-hidetag.js": {
       "total": 20,
@@ -89762,7 +89783,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734406102201,
+      "backupDB": 1734408253487,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
