@@ -3304,7 +3304,7 @@
       "lastBanned": 0
     },
     "120363280765137622@g.us": {
-      "exp": 6367,
+      "exp": 6370,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -3320,7 +3320,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0
     },
@@ -36203,7 +36203,7 @@
       "premiumTime": 0
     },
     "6288294411864@s.whatsapp.net": {
-      "exp": 1692,
+      "exp": 1696,
       "limit": 499,
       "registered": false,
       "name": "Pangeran Kebencian 👑",
@@ -113283,7 +113283,7 @@
       "lastcommand": 1732511361081
     },
     "6285954157503@s.whatsapp.net": {
-      "exp": 260,
+      "exp": 277,
       "limit": 444,
       "registered": false,
       "name": "ceya lonye jepank",
@@ -133879,7 +133879,7 @@
       "premiumTime": 0
     },
     "6288216100890@s.whatsapp.net": {
-      "exp": 2,
+      "exp": 10,
       "limit": 499,
       "registered": false,
       "name": "pit",
@@ -133896,7 +133896,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6289527553200@s.whatsapp.net": {
       "exp": 4,
@@ -144761,10 +144762,10 @@
       "lastSuccess": 1727266124423
     },
     "downloader-play.js": {
-      "total": 1324,
-      "success": 1287,
-      "last": 1734397495202,
-      "lastSuccess": 1734397495202
+      "total": 1325,
+      "success": 1288,
+      "last": 1734403045270,
+      "lastSuccess": 1734403045270
     },
     "main-profile.js": {
       "total": 261,
@@ -144947,10 +144948,10 @@
       "lastSuccess": 1734394631941
     },
     "game-susunkata.js": {
-      "total": 1221,
-      "success": 980,
-      "last": 1733235133065,
-      "lastSuccess": 1733235133065
+      "total": 1222,
+      "success": 981,
+      "last": 1734403062339,
+      "lastSuccess": 1734403062339
     },
     "games-tebakkata.js": {
       "total": 780,
@@ -146902,7 +146903,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734400465566,
+      "backupDB": 1734403045081,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
