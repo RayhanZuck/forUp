@@ -126,7 +126,7 @@
       "premiumTime": 0
     },
     "120363183420865643@g.us": {
-      "exp": 3805,
+      "exp": 3807,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -3304,7 +3304,7 @@
       "lastBanned": 0
     },
     "120363280765137622@g.us": {
-      "exp": 6424,
+      "exp": 6430,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -28535,7 +28535,7 @@
       "lastdaily": 1727158139477
     },
     "6283137913336@s.whatsapp.net": {
-      "exp": 627,
+      "exp": 642,
       "limit": 2109,
       "registered": false,
       "name": "><~always Anna~><",
@@ -108614,7 +108614,7 @@
       "lastBanned": 0
     },
     "6288286718385@s.whatsapp.net": {
-      "exp": 7924,
+      "exp": 8076,
       "limit": 479,
       "registered": false,
       "name": "efata.",
@@ -135473,7 +135473,7 @@
       "premiumTime": 0
     },
     "6283142875045@s.whatsapp.net": {
-      "exp": 89,
+      "exp": 152,
       "limit": 499,
       "registered": false,
       "name": "𝖒𝖊𝖑𝖎𝖘𝖚𝖐𝖆𝖐𝖔𝖓𝖇𝖑𝖚𝖙𝖙.",
@@ -135794,6 +135794,86 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
+    },
+    "6285198586118@s.whatsapp.net": {
+      "exp": 7,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 851-9858-6118",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "18022219685998_1@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6285700799704@s.whatsapp.net": {
+      "exp": 81,
+      "limit": 499,
+      "registered": false,
+      "name": "meliisja🍑.",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
+    },
+    "6283170087756@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 831-7008-7756",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -145109,10 +145189,10 @@
   },
   "stats": {
     "main-limit.js": {
-      "total": 660,
-      "success": 658,
-      "last": 1734400589201,
-      "lastSuccess": 1734400589201
+      "total": 661,
+      "success": 659,
+      "last": 1734423153436,
+      "lastSuccess": 1734423153436
     },
     "ai-openai.js": {
       "total": 9,
@@ -145145,10 +145225,10 @@
       "lastSuccess": 1732969819702
     },
     "_rayhan-menu.js": {
-      "total": 686,
-      "success": 663,
-      "last": 1734412111589,
-      "lastSuccess": 1734412111589
+      "total": 687,
+      "success": 664,
+      "last": 1734423313218,
+      "lastSuccess": 1734423313218
     },
     "owner-exec.js": {
       "total": 143,
@@ -145307,10 +145387,10 @@
       "lastSuccess": 1734410324917
     },
     "_shortcut.js": {
-      "total": 275,
-      "success": 275,
-      "last": 1734412154751,
-      "lastSuccess": 1734412154751
+      "total": 276,
+      "success": 276,
+      "last": 1734423344394,
+      "lastSuccess": 1734423344394
     },
     "_rayhan-allmenu.js": {
       "total": 199,
@@ -145589,10 +145669,10 @@
       "lastSuccess": 1725006103284
     },
     "ai-remini.js": {
-      "total": 778,
-      "success": 747,
-      "last": 1734415098515,
-      "lastSuccess": 1733225688593
+      "total": 779,
+      "success": 748,
+      "last": 1734423384343,
+      "lastSuccess": 1734423384343
     },
     "own-edit.js": {
       "total": 3,
@@ -146045,10 +146125,10 @@
       "lastSuccess": 1732981711999
     },
     "ai-toanime.js": {
-      "total": 58,
-      "success": 53,
-      "last": 1734419831047,
-      "lastSuccess": 1734419831047
+      "total": 60,
+      "success": 55,
+      "last": 1734422556985,
+      "lastSuccess": 1734422556985
     },
     "fun-mek.js": {
       "total": 37,
@@ -147149,10 +147229,10 @@
       "lastSuccess": 1734418731439
     },
     "ai-chat_character.js": {
-      "total": 3,
-      "success": 1,
-      "last": 1732604181127,
-      "lastSuccess": 1732604181127
+      "total": 4,
+      "success": 2,
+      "last": 1734423397966,
+      "lastSuccess": 1734423397966
     },
     "internet-lahelu.js": {
       "total": 3,
@@ -147291,6 +147371,12 @@
       "success": 2,
       "last": 1734419030181,
       "lastSuccess": 1734419030181
+    },
+    "ai-main.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1734423210273,
+      "lastSuccess": 1734423210273
     }
   },
   "msgs": {},
@@ -147334,7 +147420,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734419793766,
+      "backupDB": 1734421638515,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
