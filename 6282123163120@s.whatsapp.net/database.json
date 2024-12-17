@@ -4708,7 +4708,7 @@
       "lastBanned": 0
     },
     "6282123163120@s.whatsapp.net": {
-      "exp": 6340,
+      "exp": 6342,
       "limit": 579,
       "registered": false,
       "name": "Yctxrcyvuvrct",
@@ -19538,7 +19538,7 @@
       "lastBanned": 0
     },
     "6289677414856@s.whatsapp.net": {
-      "exp": 2109,
+      "exp": 2209,
       "limit": 1051,
       "registered": false,
       "name": "Rogue Jolly Kitty Freedom",
@@ -19558,7 +19558,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastdaily": 1733298566464,
-      "lastcommand": 1734445736407,
+      "lastcommand": 1734472351765,
       "lastwork": 1733298813768,
       "lastrob": 1734428346440
     },
@@ -27274,8 +27274,8 @@
       "lastBanned": 0
     },
     "6285221782799@s.whatsapp.net": {
-      "exp": 4791,
-      "limit": 3316,
+      "exp": 6849,
+      "limit": 3416,
       "registered": false,
       "name": "んえッグ",
       "age": -1,
@@ -27296,7 +27296,7 @@
       "lastwork": 1734429625211,
       "lastcommand": 1733983014412,
       "lastrob": 1733937635108,
-      "lastdaily": 1734369923937
+      "lastdaily": 1734472865083
     },
     "62882022264590@s.whatsapp.net": {
       "exp": 4,
@@ -29443,7 +29443,7 @@
       "lastcommand": 1733457261231
     },
     "6283846462493@s.whatsapp.net": {
-      "exp": 37,
+      "exp": 40,
       "limit": 499,
       "registered": false,
       "name": "xyz.",
@@ -31396,7 +31396,7 @@
       "lastBanned": 0
     },
     "62882021134511@s.whatsapp.net": {
-      "exp": 36,
+      "exp": 44,
       "limit": 499,
       "registered": false,
       "name": "𖤐RIAN𖤐",
@@ -41723,7 +41723,7 @@
       "lastBanned": 0
     },
     "6289510420068@s.whatsapp.net": {
-      "exp": 61,
+      "exp": 70,
       "limit": 499,
       "registered": false,
       "name": "Dhesy",
@@ -63440,7 +63440,7 @@
       "premiumTime": 0
     },
     "6282162148057@s.whatsapp.net": {
-      "exp": 6,
+      "exp": 13,
       "limit": 499,
       "registered": false,
       "name": "Nabila",
@@ -63457,7 +63457,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6283896168476@s.whatsapp.net": {
       "exp": 8,
@@ -66529,6 +66530,26 @@
       "premiumTime": 0
     },
     "62881023547205@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "name": ".",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6281360527270@s.whatsapp.net": {
       "exp": 9,
       "limit": 499,
       "registered": false,
@@ -72567,10 +72588,10 @@
       "lastSuccess": 1734456161509
     },
     "main-limit.js": {
-      "total": 1345,
-      "success": 1341,
-      "last": 1734457244729,
-      "lastSuccess": 1734457244729
+      "total": 1346,
+      "success": 1342,
+      "last": 1734472482278,
+      "lastSuccess": 1734472482278
     },
     "downloader-yt2.js": {
       "total": 152,
@@ -72627,10 +72648,10 @@
       "lastSuccess": 1734443428521
     },
     "econ-claim.js": {
-      "total": 760,
-      "success": 378,
-      "last": 1734457238532,
-      "lastSuccess": 1734457234370
+      "total": 762,
+      "success": 379,
+      "last": 1734472871125,
+      "lastSuccess": 1734472865083
     },
     "main-shop.js": {
       "total": 983,
@@ -73053,10 +73074,10 @@
       "lastSuccess": 1734414582516
     },
     "game-copet.js": {
-      "total": 313,
-      "success": 276,
-      "last": 1734412971205,
-      "lastSuccess": 1734412971205
+      "total": 314,
+      "success": 277,
+      "last": 1734472501656,
+      "lastSuccess": 1734472501656
     },
     "game-tebaksurah-hint.js": {
       "total": 13,
@@ -73161,10 +73182,10 @@
       "lastSuccess": 1734447067953
     },
     "group-listonline.js": {
-      "total": 405,
-      "success": 385,
-      "last": 1734449866562,
-      "lastSuccess": 1734449866562
+      "total": 407,
+      "success": 387,
+      "last": 1734472351768,
+      "lastSuccess": 1734472351768
     },
     "game-emoji.js": {
       "total": 7,
@@ -74292,7 +74313,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734468959684,
+      "backupDB": 1734471464743,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
