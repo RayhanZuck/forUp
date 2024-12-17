@@ -155,7 +155,7 @@
       "lastcommand": 1732771777501
     },
     "120363183420865643@g.us": {
-      "exp": 4316,
+      "exp": 4320,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -176,7 +176,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3206,
+      "exp": 3215,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1040,7 +1040,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 5165,
+      "exp": 5183,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -4329,8 +4329,8 @@
       "lastdaily": 1734318868595
     },
     "62895711885757@s.whatsapp.net": {
-      "exp": 547764,
-      "limit": 395,
+      "exp": 547806,
+      "limit": 375,
       "registered": false,
       "name": "awaa",
       "age": -1,
@@ -5032,7 +5032,7 @@
       "lastBanned": 0
     },
     "628812643791@s.whatsapp.net": {
-      "exp": 45,
+      "exp": 56,
       "limit": 499,
       "registered": false,
       "name": "Nana",
@@ -5048,7 +5048,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
     },
@@ -8019,7 +8019,7 @@
       "lastBanned": 0
     },
     "628818691228@s.whatsapp.net": {
-      "exp": 5560,
+      "exp": 5561,
       "limit": 2817,
       "registered": false,
       "name": "+62 881-8691-228",
@@ -32237,7 +32237,7 @@
       "lastBanned": 0
     },
     "6281917087292@s.whatsapp.net": {
-      "exp": 6743,
+      "exp": 8595,
       "limit": 359,
       "registered": false,
       "name": "Nam Joohyuk ★",
@@ -32256,8 +32256,8 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734258248518,
-      "lastwork": 1734421164819
+      "lastcommand": 1734425995779,
+      "lastwork": 1734426029485
     },
     "6281351214774@s.whatsapp.net": {
       "exp": 9,
@@ -49692,8 +49692,8 @@
       "lastcommand": 1734369714003
     },
     "6282281819732@s.whatsapp.net": {
-      "exp": 5048,
-      "limit": 449,
+      "exp": 10862,
+      "limit": 424,
       "registered": false,
       "name": "Jendral Maeza",
       "age": -1,
@@ -49711,9 +49711,9 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734420260280,
-      "lastrob": 1734420488426,
-      "lastwork": 1734420537854
+      "lastcommand": 1734425907214,
+      "lastrob": 1734426056301,
+      "lastwork": 1734425986782
     },
     "6283879022459@s.whatsapp.net": {
       "exp": 10,
@@ -50386,6 +50386,26 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
+    },
+    "6285148384605@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 499,
+      "registered": false,
+      "name": "Galih",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -56360,10 +56380,10 @@
       "lastSuccess": 1734376432512
     },
     "downloader-tiktok.js": {
-      "total": 1528,
-      "success": 1411,
-      "last": 1734417208227,
-      "lastSuccess": 1734417208227
+      "total": 1529,
+      "success": 1412,
+      "last": 1734426075857,
+      "lastSuccess": 1734426075857
     },
     "owner-sf.js": {
       "total": 913,
@@ -56396,10 +56416,10 @@
       "lastSuccess": 1734420572568
     },
     "game-kerja.js": {
-      "total": 841,
-      "success": 686,
-      "last": 1734420538292,
-      "lastSuccess": 1734420538292
+      "total": 842,
+      "success": 687,
+      "last": 1734425884330,
+      "lastSuccess": 1734425884330
     },
     "ai-blackbox.js": {
       "total": 14,
@@ -56426,10 +56446,10 @@
       "lastSuccess": 1734423642495
     },
     "game-curi.js": {
-      "total": 924,
-      "success": 675,
-      "last": 1734420488811,
-      "lastSuccess": 1734420488811
+      "total": 931,
+      "success": 680,
+      "last": 1734426056688,
+      "lastSuccess": 1734426056688
     },
     "game-copet.js": {
       "total": 162,
@@ -56486,16 +56506,16 @@
       "lastSuccess": 1732941237787
     },
     "game-mancing.js": {
-      "total": 1026,
-      "success": 727,
-      "last": 1734416049983,
-      "lastSuccess": 1734415770152
+      "total": 1030,
+      "success": 729,
+      "last": 1734426029896,
+      "lastSuccess": 1734426029896
     },
     "game-tambang.js": {
-      "total": 177,
-      "success": 132,
-      "last": 1734416031661,
-      "lastSuccess": 1734415807312
+      "total": 179,
+      "success": 134,
+      "last": 1734425987216,
+      "lastSuccess": 1734425987216
     },
     "game-fight.js": {
       "total": 51,
@@ -56528,10 +56548,10 @@
       "lastSuccess": 1734251589984
     },
     "_cek.js": {
-      "total": 658,
-      "success": 658,
-      "last": 1734415901370,
-      "lastSuccess": 1734415901370
+      "total": 662,
+      "success": 662,
+      "last": 1734425996183,
+      "lastSuccess": 1734425996183
     },
     "enable.js": {
       "total": 94,
@@ -57086,10 +57106,10 @@
       "lastSuccess": 1734412292738
     },
     "dl-tiktokslide.js": {
-      "total": 48,
-      "success": 31,
-      "last": 1734417348310,
-      "lastSuccess": 1734417348310
+      "total": 49,
+      "success": 32,
+      "last": 1734426110530,
+      "lastSuccess": 1734426110530
     },
     "owner-setnamebot.js": {
       "total": 4,
@@ -57482,10 +57502,10 @@
       "lastSuccess": 1733551635630
     },
     "game-berburu.js": {
-      "total": 32,
-      "success": 29,
-      "last": 1734420974385,
-      "lastSuccess": 1734420974385
+      "total": 35,
+      "success": 31,
+      "last": 1734425816770,
+      "lastSuccess": 1734425764530
     },
     "own-edit.js": {
       "total": 5,
@@ -58537,7 +58557,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734422526348,
+      "backupDB": 1734424350880,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
