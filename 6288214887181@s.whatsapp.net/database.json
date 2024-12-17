@@ -2680,8 +2680,8 @@
       "lastBanned": 0
     },
     "6285775650917@s.whatsapp.net": {
-      "exp": 376,
-      "limit": 309,
+      "exp": 462,
+      "limit": 259,
       "registered": false,
       "name": "ShnzzzS",
       "age": -1,
@@ -2699,7 +2699,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734240134748
+      "lastcommand": 1734458739948
     },
     "187527466115306_1@s.whatsapp.net": {
       "exp": 7,
@@ -57815,10 +57815,10 @@
       "lastSuccess": 1733110352259
     },
     "_rayhan-allmenu.js": {
-      "total": 191,
-      "success": 185,
-      "last": 1734427658009,
-      "lastSuccess": 1734427658009
+      "total": 192,
+      "success": 186,
+      "last": 1734458705836,
+      "lastSuccess": 1734458705836
     },
     "ai-ailogo.js": {
       "total": 17,
@@ -58847,10 +58847,10 @@
       "lastSuccess": 1732291142768
     },
     "random-jkt48.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1733324193496,
-      "lastSuccess": 1733324193496
+      "total": 5,
+      "success": 5,
+      "last": 1734458744321,
+      "lastSuccess": 1734458744321
     },
     "downloader-ytaudio.js": {
       "total": 3,
@@ -59356,7 +59356,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734455775050,
+      "backupDB": 1734458680120,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
