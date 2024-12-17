@@ -155,7 +155,7 @@
       "lastcommand": 1732771777501
     },
     "120363183420865643@g.us": {
-      "exp": 4402,
+      "exp": 4411,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1040,7 +1040,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 5311,
+      "exp": 5322,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -47778,7 +47778,7 @@
       "premiumTime": 0
     },
     "6283846829169@s.whatsapp.net": {
-      "exp": 9608,
+      "exp": 10510,
       "limit": 18,
       "registered": false,
       "name": "~B🗿",
@@ -47798,9 +47798,9 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1734426731007,
-      "lastwork": 1734427769408,
+      "lastwork": 1734452937985,
       "warn": 2,
-      "lastrob": 1734427741754,
+      "lastrob": 1734452920554,
       "lastdaily": 1734415749660
     },
     "6282291670098@s.whatsapp.net": {
@@ -49695,7 +49695,7 @@
       "lastcommand": 1734369714003
     },
     "6282281819732@s.whatsapp.net": {
-      "exp": 24368,
+      "exp": 24042,
       "limit": 622,
       "registered": false,
       "name": "Jendral Maeza",
@@ -51060,6 +51060,26 @@
       "exp": 7,
       "limit": 499,
       "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6285805819359@s.whatsapp.net": {
+      "exp": 7,
+      "limit": 499,
+      "registered": false,
+      "name": "蕭樹香",
       "age": -1,
       "regTime": -1,
       "unreg": false,
@@ -57112,10 +57132,10 @@
       "lastSuccess": 1734443014916
     },
     "downloader-play.js": {
-      "total": 1594,
-      "success": 1489,
-      "last": 1734450501101,
-      "lastSuccess": 1734450501101
+      "total": 1595,
+      "success": 1490,
+      "last": 1734452844119,
+      "lastSuccess": 1734452844119
     },
     "downloader-ytvideo.js": {
       "total": 131,
@@ -57166,10 +57186,10 @@
       "lastSuccess": 1734430903893
     },
     "game-curi.js": {
-      "total": 951,
-      "success": 697,
-      "last": 1734447254043,
-      "lastSuccess": 1734447254043
+      "total": 952,
+      "success": 698,
+      "last": 1734452920881,
+      "lastSuccess": 1734452920881
     },
     "game-copet.js": {
       "total": 162,
@@ -57208,10 +57228,10 @@
       "lastSuccess": 1732712040999
     },
     "main-limit.js": {
-      "total": 1115,
-      "success": 1115,
-      "last": 1734449703123,
-      "lastSuccess": 1734449703123
+      "total": 1116,
+      "success": 1116,
+      "last": 1734452869456,
+      "lastSuccess": 1734452869456
     },
     "game-ulartangga.js": {
       "total": 77,
@@ -57226,15 +57246,15 @@
       "lastSuccess": 1732941237787
     },
     "game-mancing.js": {
-      "total": 1038,
-      "success": 734,
-      "last": 1734448505615,
-      "lastSuccess": 1734444236234
+      "total": 1039,
+      "success": 735,
+      "last": 1734452938265,
+      "lastSuccess": 1734452938265
     },
     "game-tambang.js": {
-      "total": 184,
+      "total": 185,
       "success": 138,
-      "last": 1734443920755,
+      "last": 1734452959776,
       "lastSuccess": 1734443920755
     },
     "game-fight.js": {
@@ -59277,7 +59297,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734449057743,
+      "backupDB": 1734451572214,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
