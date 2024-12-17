@@ -23736,7 +23736,7 @@
       "lastBanned": 0
     },
     "6282390325545@s.whatsapp.net": {
-      "exp": 4985,
+      "exp": 5002,
       "limit": 409,
       "registered": false,
       "name": "~PANCIWARTEG",
@@ -135476,7 +135476,7 @@
       "premiumTime": 0
     },
     "6283142875045@s.whatsapp.net": {
-      "exp": 1653,
+      "exp": 1791,
       "limit": 499,
       "registered": false,
       "name": "𝖒𝖊𝖑𝖎𝖘𝖚𝖐𝖆𝖐𝖔𝖓𝖇𝖑𝖚𝖙𝖙.",
@@ -135841,7 +135841,7 @@
       "premiumTime": 0
     },
     "6285700799704@s.whatsapp.net": {
-      "exp": 169,
+      "exp": 492,
       "limit": 499,
       "registered": false,
       "name": "meliisja🍑.",
@@ -138317,7 +138317,7 @@
       "premiumTime": 0
     },
     "6288226612150@s.whatsapp.net": {
-      "exp": 9,
+      "exp": 11,
       "limit": 499,
       "registered": false,
       "name": "🐣",
@@ -138334,7 +138334,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6281937729352@s.whatsapp.net": {
       "exp": 3,
@@ -138418,7 +138419,7 @@
       "lastBanned": 0
     },
     "6287887927422@s.whatsapp.net": {
-      "exp": 36,
+      "exp": 58,
       "limit": 499,
       "registered": false,
       "name": "Wong Jawa OjO Ilang Jawa",
@@ -149336,10 +149337,10 @@
       "lastSuccess": 1734443016667
     },
     "_cek.js": {
-      "total": 1510,
-      "success": 1507,
-      "last": 1734451632697,
-      "lastSuccess": 1734451632697
+      "total": 1511,
+      "success": 1508,
+      "last": 1734465713450,
+      "lastSuccess": 1734465713450
     },
     "econ-claim.js": {
       "total": 1678,
@@ -149474,10 +149475,10 @@
       "lastSuccess": 1734409219379
     },
     "enable.js": {
-      "total": 422,
-      "success": 399,
-      "last": 1734448212295,
-      "lastSuccess": 1734448212295
+      "total": 423,
+      "success": 400,
+      "last": 1734465746869,
+      "lastSuccess": 1734465746869
     },
     "group-delete.js": {
       "total": 231,
@@ -151417,7 +151418,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734463004124,
+      "backupDB": 1734465303622,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
