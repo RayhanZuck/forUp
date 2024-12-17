@@ -66970,7 +66970,7 @@
       "premiumTime": 0
     },
     "6281935499794@s.whatsapp.net": {
-      "exp": 941,
+      "exp": 956,
       "limit": 499,
       "registered": false,
       "name": "ALISAA",
@@ -82457,7 +82457,7 @@
       "premiumTime": 0
     },
     "6285643623528@s.whatsapp.net": {
-      "exp": 4,
+      "exp": 23,
       "limit": 499,
       "registered": false,
       "name": "Krm",
@@ -82474,7 +82474,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6285894196210@s.whatsapp.net": {
       "exp": 9,
@@ -98927,6 +98928,32 @@
       "teks": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6285643623528@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "pembatasan": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "antiBadword": false,
+      "simi": false,
+      "nsfw": false,
+      "rpg": true,
+      "game": true,
+      "teks": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -100212,7 +100239,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734453424172,
+      "backupDB": 1734456491806,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
