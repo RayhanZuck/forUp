@@ -257,7 +257,7 @@
       "lastcommand": 1734415606780
     },
     "628884584571@s.whatsapp.net": {
-      "exp": 13144,
+      "exp": 13198,
       "limit": 330,
       "registered": true,
       "name": "Ikky",
@@ -275,7 +275,7 @@
       "lastmonthly": 1733363565990,
       "premium": false,
       "premiumTime": 1734537657527,
-      "lastcommand": 1734420688422,
+      "lastcommand": 1734476390090,
       "lastBanned": 0,
       "lastwork": 1734140410481,
       "lastrob": 1733466636365,
@@ -5977,7 +5977,7 @@
       "premiumTime": 0
     },
     "120363280765137622@g.us": {
-      "exp": 1599,
+      "exp": 1605,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -55590,7 +55590,7 @@
       "lastBanned": 0
     },
     "6283172200590@s.whatsapp.net": {
-      "exp": 4460,
+      "exp": 4516,
       "limit": 399,
       "registered": false,
       "name": "mecca",
@@ -62000,7 +62000,7 @@
       "premiumTime": 0
     },
     "62895321416887@s.whatsapp.net": {
-      "exp": 5784,
+      "exp": 5844,
       "limit": 280,
       "registered": false,
       "name": "ikky clone 19",
@@ -80764,7 +80764,7 @@
       "premiumTime": 0
     },
     "62882021309956@s.whatsapp.net": {
-      "exp": 554,
+      "exp": 564,
       "limit": 399,
       "registered": false,
       "name": "ikky soft softex",
@@ -89316,7 +89316,7 @@
       "premiumTime": 0
     },
     "6282194152743@s.whatsapp.net": {
-      "exp": 1,
+      "exp": 9,
       "limit": 499,
       "registered": false,
       "name": "Handi Cpw",
@@ -89333,7 +89333,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "62895333995433@s.whatsapp.net": {
       "exp": 9,
@@ -91138,6 +91139,26 @@
       "exp": 6,
       "limit": 499,
       "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6287858992211@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 878-5899-2211",
       "age": -1,
       "regTime": -1,
       "unreg": false,
@@ -99012,16 +99033,16 @@
       "lastSuccess": 1734436870634
     },
     "info-ping.js": {
-      "total": 169,
-      "success": 169,
-      "last": 1734430364249,
-      "lastSuccess": 1734430364249
+      "total": 170,
+      "success": 170,
+      "last": 1734476300586,
+      "lastSuccess": 1734476300586
     },
     "main-profile.js": {
-      "total": 119,
-      "success": 119,
-      "last": 1734420681830,
-      "lastSuccess": 1734420681830
+      "total": 120,
+      "success": 120,
+      "last": 1734476362902,
+      "lastSuccess": 1734476362902
     },
     "_shortcut.js": {
       "total": 36,
@@ -99174,10 +99195,10 @@
       "lastSuccess": 1734452813814
     },
     "group-delete.js": {
-      "total": 169,
-      "success": 169,
-      "last": 1734435894831,
-      "lastSuccess": 1734435894831
+      "total": 170,
+      "success": 170,
+      "last": 1734476378657,
+      "lastSuccess": 1734476378657
     },
     "downloader-instagram.js": {
       "total": 43,
@@ -99792,10 +99813,10 @@
       "lastSuccess": 1734429210019
     },
     "group-listonline.js": {
-      "total": 13,
-      "success": 12,
-      "last": 1734138430384,
-      "lastSuccess": 1734138430384
+      "total": 14,
+      "success": 13,
+      "last": 1734476390092,
+      "lastSuccess": 1734476390092
     },
     "tool-toptt.js": {
       "total": 2,
@@ -100239,7 +100260,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734474172609,
+      "backupDB": 1734476273197,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
