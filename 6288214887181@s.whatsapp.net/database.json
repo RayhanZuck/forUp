@@ -391,8 +391,8 @@
       "lastcommand": 1730792401948
     },
     "6283816389250@s.whatsapp.net": {
-      "exp": 3492,
-      "limit": 42,
+      "exp": 3515,
+      "limit": 17,
       "registered": false,
       "name": "cheey",
       "age": -1,
@@ -952,7 +952,7 @@
       "lastdaily": 1733554666793
     },
     "6282150698385@s.whatsapp.net": {
-      "exp": 1942,
+      "exp": 1962,
       "limit": 499,
       "registered": false,
       "name": "Je t'aime😉🌿",
@@ -1327,26 +1327,27 @@
       "premiumTime": 0
     },
     "6281947888865@s.whatsapp.net": {
-      "exp": 997,
-      "limit": 13,
+      "exp": 174,
+      "limit": 583,
       "registered": false,
       "name": "~~~~",
       "age": -1,
       "regTime": -1,
       "unreg": false,
-      "afk": 1734400607953,
-      "afkReason": "Tidak ada",
+      "afk": -1,
+      "afkReason": "",
       "banned": false,
       "level": 0,
       "role": "Beginner",
       "BannedReason": "",
       "WarnReason": "",
-      "lastweekly": 0,
-      "lastmonthly": 0,
+      "lastweekly": 1734402674825,
+      "lastmonthly": 1734402682330,
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734400432812
+      "lastcommand": 1734400432812,
+      "lastdaily": 1734402652227
     },
     "6285600769184@s.whatsapp.net": {
       "exp": 5161,
@@ -1508,8 +1509,8 @@
       "lastBanned": 0
     },
     "6288294411864@s.whatsapp.net": {
-      "exp": 82100,
-      "limit": 326,
+      "exp": 82127,
+      "limit": 311,
       "registered": false,
       "name": "👑",
       "age": -1,
@@ -4154,7 +4155,7 @@
       "lastBanned": 0
     },
     "62895369675992@s.whatsapp.net": {
-      "exp": 19452,
+      "exp": 19470,
       "limit": 59,
       "registered": false,
       "name": "Dhooozxy",
@@ -12141,7 +12142,7 @@
       "premiumTime": 0
     },
     "62895352086841@s.whatsapp.net": {
-      "exp": 600,
+      "exp": 610,
       "limit": 499,
       "registered": false,
       "name": "Pebih",
@@ -49931,7 +49932,7 @@
       "premiumTime": 0
     },
     "6289677414856@s.whatsapp.net": {
-      "exp": 242,
+      "exp": 270,
       "limit": 1116,
       "registered": false,
       "name": "Rogue Jolly Kitty",
@@ -55997,10 +55998,10 @@
       "lastSuccess": 1734399913814
     },
     "downloader-play.js": {
-      "total": 1530,
-      "success": 1425,
-      "last": 1734397516305,
-      "lastSuccess": 1734397516305
+      "total": 1534,
+      "success": 1429,
+      "last": 1734402995794,
+      "lastSuccess": 1734402995794
     },
     "downloader-ytvideo.js": {
       "total": 130,
@@ -56045,16 +56046,16 @@
       "lastSuccess": 1734270788508
     },
     "econ-claim.js": {
-      "total": 1630,
-      "success": 1125,
-      "last": 1734396473153,
-      "lastSuccess": 1734396473153
+      "total": 1634,
+      "success": 1129,
+      "last": 1734402682330,
+      "lastSuccess": 1734402682330
     },
     "game-curi.js": {
-      "total": 909,
-      "success": 664,
-      "last": 1734370965705,
-      "lastSuccess": 1734370965705
+      "total": 910,
+      "success": 665,
+      "last": 1734401408735,
+      "lastSuccess": 1734401408735
     },
     "game-copet.js": {
       "total": 162,
@@ -56069,10 +56070,10 @@
       "lastSuccess": 1734355550745
     },
     "main-shop.js": {
-      "total": 614,
-      "success": 614,
-      "last": 1734394624389,
-      "lastSuccess": 1734394624389
+      "total": 615,
+      "success": 615,
+      "last": 1734402698828,
+      "lastSuccess": 1734402698828
     },
     "main-level.js": {
       "total": 179,
@@ -56279,10 +56280,10 @@
       "lastSuccess": 1730161441000
     },
     "downloader-tiktoksearch.js": {
-      "total": 626,
-      "success": 619,
-      "last": 1734363131509,
-      "lastSuccess": 1734363131509
+      "total": 627,
+      "success": 620,
+      "last": 1734401236426,
+      "lastSuccess": 1734401236426
     },
     "ai-llama.js": {
       "total": 352,
@@ -58162,7 +58163,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734399363812,
+      "backupDB": 1734401235441,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
