@@ -126,7 +126,7 @@
       "premiumTime": 0
     },
     "120363183420865643@g.us": {
-      "exp": 3746,
+      "exp": 3750,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -3304,7 +3304,7 @@
       "lastBanned": 0
     },
     "120363280765137622@g.us": {
-      "exp": 6360,
+      "exp": 6367,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -3320,7 +3320,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
     },
@@ -28535,7 +28535,7 @@
       "lastdaily": 1727158139477
     },
     "6283137913336@s.whatsapp.net": {
-      "exp": 358,
+      "exp": 379,
       "limit": 2109,
       "registered": false,
       "name": "><~always Anna~><",
@@ -28551,10 +28551,10 @@
       "WarnReason": "",
       "lastweekly": 1734371355144,
       "lastmonthly": 1732192210861,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734371550498,
+      "lastcommand": 1734401826003,
       "lastdaily": 1734371353149,
       "lastwork": 1725257321740,
       "warn": 5
@@ -28975,7 +28975,7 @@
       "premiumTime": 0
     },
     "6288214887181@s.whatsapp.net": {
-      "exp": 8168,
+      "exp": 8173,
       "limit": 499,
       "registered": false,
       "name": "Velgrynd",
@@ -36203,7 +36203,7 @@
       "premiumTime": 0
     },
     "6288294411864@s.whatsapp.net": {
-      "exp": 1678,
+      "exp": 1692,
       "limit": 499,
       "registered": false,
       "name": "Pangeran Kebencian 👑",
@@ -135426,6 +135426,26 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "6281410908925@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 499,
+      "registered": false,
+      "name": "El Real",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -144663,10 +144683,10 @@
   },
   "stats": {
     "main-limit.js": {
-      "total": 659,
-      "success": 657,
-      "last": 1734394615975,
-      "lastSuccess": 1734394615975
+      "total": 660,
+      "success": 658,
+      "last": 1734400589201,
+      "lastSuccess": 1734400589201
     },
     "ai-openai.js": {
       "total": 9,
@@ -144813,10 +144833,10 @@
       "lastSuccess": 1734397520923
     },
     "_cek.js": {
-      "total": 1482,
-      "success": 1479,
-      "last": 1734369715876,
-      "lastSuccess": 1734369715876
+      "total": 1483,
+      "success": 1480,
+      "last": 1734401826358,
+      "lastSuccess": 1734401826358
     },
     "econ-claim.js": {
       "total": 1664,
@@ -145005,10 +145025,10 @@
       "lastSuccess": 1727446865556
     },
     "downloader-tiktoksearch.js": {
-      "total": 401,
-      "success": 399,
-      "last": 1734369642951,
-      "lastSuccess": 1734369642951
+      "total": 402,
+      "success": 400,
+      "last": 1734401235598,
+      "lastSuccess": 1734401235598
     },
     "tool-tomp3.js": {
       "total": 135,
@@ -146882,7 +146902,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734397582184,
+      "backupDB": 1734400465566,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
