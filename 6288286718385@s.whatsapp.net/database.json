@@ -126,7 +126,7 @@
       "premiumTime": 0
     },
     "120363183420865643@g.us": {
-      "exp": 3750,
+      "exp": 3752,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1712,7 +1712,7 @@
       "warn": 5
     },
     "6283875689467@s.whatsapp.net": {
-      "exp": 7491,
+      "exp": 7494,
       "limit": 499,
       "registered": false,
       "name": "Sinnnnnn.",
@@ -3304,7 +3304,7 @@
       "lastBanned": 0
     },
     "120363280765137622@g.us": {
-      "exp": 6370,
+      "exp": 6374,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -3320,7 +3320,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
     },
@@ -28535,7 +28535,7 @@
       "lastdaily": 1727158139477
     },
     "6283137913336@s.whatsapp.net": {
-      "exp": 379,
+      "exp": 385,
       "limit": 2109,
       "registered": false,
       "name": "><~always Anna~><",
@@ -28551,7 +28551,7 @@
       "WarnReason": "",
       "lastweekly": 1734371355144,
       "lastmonthly": 1732192210861,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1734401826003,
@@ -36203,7 +36203,7 @@
       "premiumTime": 0
     },
     "6288294411864@s.whatsapp.net": {
-      "exp": 1696,
+      "exp": 1802,
       "limit": 499,
       "registered": false,
       "name": "Pangeran Kebencian 👑",
@@ -122433,7 +122433,7 @@
       "premiumTime": 0
     },
     "601172392866@s.whatsapp.net": {
-      "exp": 6103,
+      "exp": 6108,
       "limit": 519,
       "registered": false,
       "name": "dinosor",
@@ -135230,7 +135230,7 @@
       "premiumTime": 0
     },
     "120363356468992489@g.us": {
-      "exp": 17,
+      "exp": 26,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -135251,7 +135251,7 @@
       "lastBanned": 0
     },
     "6285215804156@s.whatsapp.net": {
-      "exp": 4,
+      "exp": 12,
       "limit": 499,
       "registered": false,
       "name": "Si Jomblo 😞😞",
@@ -135267,7 +135267,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
     },
@@ -135433,6 +135433,26 @@
       "limit": 499,
       "registered": false,
       "name": "El Real",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6283135956908@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 499,
+      "registered": false,
+      "name": "𝑴𝒚𝒛𝒛_𝒄𝒉𝒂𝒏",
       "age": -1,
       "regTime": -1,
       "unreg": false,
@@ -144732,10 +144752,10 @@
       "lastSuccess": 1734370870117
     },
     "info-ping.js": {
-      "total": 743,
-      "success": 740,
-      "last": 1734365496764,
-      "lastSuccess": 1734365496764
+      "total": 744,
+      "success": 741,
+      "last": 1734407805875,
+      "lastSuccess": 1734407805875
     },
     "tool-getpp.js": {
       "total": 4,
@@ -144762,10 +144782,10 @@
       "lastSuccess": 1727266124423
     },
     "downloader-play.js": {
-      "total": 1325,
-      "success": 1288,
-      "last": 1734403045270,
-      "lastSuccess": 1734403045270
+      "total": 1327,
+      "success": 1290,
+      "last": 1734407233626,
+      "lastSuccess": 1734407233626
     },
     "main-profile.js": {
       "total": 261,
@@ -145026,10 +145046,10 @@
       "lastSuccess": 1727446865556
     },
     "downloader-tiktoksearch.js": {
-      "total": 402,
-      "success": 400,
-      "last": 1734401235598,
-      "lastSuccess": 1734401235598
+      "total": 414,
+      "success": 412,
+      "last": 1734407755921,
+      "lastSuccess": 1734407755921
     },
     "tool-tomp3.js": {
       "total": 135,
@@ -146903,7 +146923,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734403045081,
+      "backupDB": 1734406524535,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
