@@ -868,7 +868,7 @@
       "lastcommand": 1732267401442
     },
     "6281242969388@s.whatsapp.net": {
-      "exp": 14430,
+      "exp": 14438,
       "limit": 254,
       "registered": false,
       "name": "K⁰ⁿ",
@@ -3320,7 +3320,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0
     },
@@ -21900,7 +21900,7 @@
       "lastBanned": 0
     },
     "6282260319658@s.whatsapp.net": {
-      "exp": 1446,
+      "exp": 1455,
       "limit": 466,
       "registered": false,
       "name": "Mas Al",
@@ -24434,8 +24434,8 @@
       "lastBanned": 0
     },
     "6285960191220@s.whatsapp.net": {
-      "exp": 288,
-      "limit": 538,
+      "exp": 330,
+      "limit": 508,
       "registered": true,
       "name": "Arsyad",
       "age": 13,
@@ -28535,7 +28535,7 @@
       "lastdaily": 1727158139477
     },
     "6283137913336@s.whatsapp.net": {
-      "exp": 343,
+      "exp": 358,
       "limit": 2109,
       "registered": false,
       "name": "><~always Anna~><",
@@ -91732,7 +91732,7 @@
       "premiumTime": 0
     },
     "6285395055859@s.whatsapp.net": {
-      "exp": 519,
+      "exp": 542,
       "limit": 384,
       "registered": false,
       "name": "Lucifer Mornigstar",
@@ -135229,7 +135229,7 @@
       "premiumTime": 0
     },
     "120363356468992489@g.us": {
-      "exp": 14,
+      "exp": 17,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -135245,7 +135245,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
     },
@@ -135373,6 +135373,45 @@
       "limit": 499,
       "registered": false,
       "name": "Jendral Maeza",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6283186426663@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 831-8642-6663",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "220070366158918_1@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 499,
+      "registered": false,
       "age": -1,
       "regTime": -1,
       "unreg": false,
@@ -146430,10 +146469,10 @@
       "lastSuccess": 1731644236082
     },
     "downloader-yt2.js": {
-      "total": 97,
-      "success": 50,
-      "last": 1733245479282,
-      "lastSuccess": 1733245479282
+      "total": 98,
+      "success": 51,
+      "last": 1734397785229,
+      "lastSuccess": 1734397785229
     },
     "ai-llama.js": {
       "total": 109,
@@ -146843,7 +146882,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734368933980,
+      "backupDB": 1734397582184,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
