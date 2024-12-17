@@ -155,7 +155,7 @@
       "lastcommand": 1732771777501
     },
     "120363183420865643@g.us": {
-      "exp": 4336,
+      "exp": 4356,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -176,7 +176,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3237,
+      "exp": 3238,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1040,7 +1040,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 5212,
+      "exp": 5218,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1327,8 +1327,8 @@
       "premiumTime": 0
     },
     "6281947888865@s.whatsapp.net": {
-      "exp": 103,
-      "limit": 303,
+      "exp": 123,
+      "limit": 278,
       "registered": false,
       "name": "~~~~",
       "age": -1,
@@ -4329,8 +4329,8 @@
       "lastdaily": 1734318868595
     },
     "62895711885757@s.whatsapp.net": {
-      "exp": 549586,
-      "limit": 355,
+      "exp": 549607,
+      "limit": 350,
       "registered": false,
       "name": "awaa",
       "age": -1,
@@ -47776,8 +47776,8 @@
       "premiumTime": 0
     },
     "6283846829169@s.whatsapp.net": {
-      "exp": 11277,
-      "limit": 233,
+      "exp": 11327,
+      "limit": 183,
       "registered": false,
       "name": "~B🗿",
       "age": -1,
@@ -49671,7 +49671,7 @@
       "premiumTime": 0
     },
     "6285215804156@s.whatsapp.net": {
-      "exp": 93,
+      "exp": 95,
       "limit": 499,
       "registered": false,
       "name": "Si Jomblo 😞😞",
@@ -50473,6 +50473,45 @@
       "limit": 499,
       "registered": false,
       "name": "who?",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "74449533538405_1@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6285148389426@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "name": "Arkhan",
       "age": -1,
       "regTime": -1,
       "unreg": false,
@@ -56473,10 +56512,10 @@
       "lastSuccess": 1734417991857
     },
     "downloader-play.js": {
-      "total": 1558,
-      "success": 1453,
-      "last": 1734424106039,
-      "lastSuccess": 1734424106039
+      "total": 1561,
+      "success": 1456,
+      "last": 1734428838944,
+      "lastSuccess": 1734428838944
     },
     "downloader-ytvideo.js": {
       "total": 130,
@@ -57379,10 +57418,10 @@
       "lastSuccess": 1734426731008
     },
     "sticker-all.js": {
-      "total": 120,
-      "success": 91,
-      "last": 1734356606233,
-      "lastSuccess": 1734356606233
+      "total": 121,
+      "success": 92,
+      "last": 1734428859215,
+      "lastSuccess": 1734428859215
     },
     "game-nebang.js": {
       "total": 152,
@@ -58638,7 +58677,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734426218869,
+      "backupDB": 1734428276608,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
