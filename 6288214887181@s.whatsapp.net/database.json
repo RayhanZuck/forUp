@@ -47778,7 +47778,7 @@
       "premiumTime": 0
     },
     "6283846829169@s.whatsapp.net": {
-      "exp": 10510,
+      "exp": 12640,
       "limit": 18,
       "registered": false,
       "name": "~B🗿",
@@ -47798,7 +47798,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1734426731007,
-      "lastwork": 1734452937985,
+      "lastwork": 1734453848441,
       "warn": 2,
       "lastrob": 1734452920554,
       "lastdaily": 1734415749660
@@ -51076,10 +51076,69 @@
       "premiumTime": 0
     },
     "6285805819359@s.whatsapp.net": {
-      "exp": 7,
+      "exp": 12,
       "limit": 499,
       "registered": false,
       "name": "蕭樹香",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
+    },
+    "6282325189928@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 823-2518-9928",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "252089313788024_1@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "15646616248475_1@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
       "age": -1,
       "regTime": -1,
       "unreg": false,
@@ -57156,10 +57215,10 @@
       "lastSuccess": 1734439854775
     },
     "game-kerja.js": {
-      "total": 855,
-      "success": 695,
-      "last": 1734449807304,
-      "lastSuccess": 1734449807304
+      "total": 856,
+      "success": 696,
+      "last": 1734453849078,
+      "lastSuccess": 1734453849078
     },
     "ai-blackbox.js": {
       "total": 14,
@@ -57252,10 +57311,10 @@
       "lastSuccess": 1734452938265
     },
     "game-tambang.js": {
-      "total": 185,
-      "success": 138,
-      "last": 1734452959776,
-      "lastSuccess": 1734443920755
+      "total": 186,
+      "success": 139,
+      "last": 1734453418332,
+      "lastSuccess": 1734453418332
     },
     "game-fight.js": {
       "total": 51,
@@ -59297,7 +59356,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734451572214,
+      "backupDB": 1734453417111,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
