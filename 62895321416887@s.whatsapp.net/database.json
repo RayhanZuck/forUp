@@ -235,7 +235,7 @@
       "lastcommand": 1733406250906
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 12452,
+      "exp": 12517,
       "limit": 499,
       "registered": false,
       "name": "Rayhan?",
@@ -257,7 +257,7 @@
       "lastcommand": 1734415606780
     },
     "628884584571@s.whatsapp.net": {
-      "exp": 12466,
+      "exp": 12479,
       "limit": 330,
       "registered": true,
       "name": "Ikky",
@@ -38463,7 +38463,7 @@
       "premiumTime": 0
     },
     "62895351900664@s.whatsapp.net": {
-      "exp": 149,
+      "exp": 155,
       "limit": 499,
       "registered": false,
       "name": "takii",
@@ -55588,7 +55588,7 @@
       "lastBanned": 0
     },
     "6283172200590@s.whatsapp.net": {
-      "exp": 4429,
+      "exp": 4446,
       "limit": 399,
       "registered": false,
       "name": "mecca",
@@ -59186,7 +59186,7 @@
       "premiumTime": 0
     },
     "62895401957370@s.whatsapp.net": {
-      "exp": 137,
+      "exp": 141,
       "limit": 499,
       "registered": false,
       "name": "ruruu",
@@ -61998,7 +61998,7 @@
       "premiumTime": 0
     },
     "62895321416887@s.whatsapp.net": {
-      "exp": 5433,
+      "exp": 5459,
       "limit": 280,
       "registered": false,
       "name": "ikky clone 19",
@@ -62014,7 +62014,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1734133024684
@@ -86210,7 +86210,7 @@
       "premiumTime": 0
     },
     "6285603663792@s.whatsapp.net": {
-      "exp": 3,
+      "exp": 9,
       "limit": 499,
       "registered": false,
       "name": "Hanji",
@@ -86227,7 +86227,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6285215425021@s.whatsapp.net": {
       "exp": 10,
@@ -87789,6 +87790,87 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "6283856031782@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 499,
+      "registered": false,
+      "name": "Al fan Xynz",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6285880166508@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "name": "kakektampan",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6281944577953@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "name": "Los",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "628884339081@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 499,
+      "registered": false,
+      "name": "langzslemex",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -95428,10 +95510,10 @@
       "lastSuccess": 1734415251213
     },
     "owner-exec.js": {
-      "total": 110,
-      "success": 110,
-      "last": 1734415538513,
-      "lastSuccess": 1734415538513
+      "total": 112,
+      "success": 112,
+      "last": 1734415650087,
+      "lastSuccess": 1734415650087
     },
     "owner-join.js": {
       "total": 10,
@@ -96592,10 +96674,10 @@
       "lastSuccess": 1734352383588
     },
     "owner-leavegc.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1734413951943,
-      "lastSuccess": 1734413951943
+      "total": 3,
+      "success": 3,
+      "last": 1734415673456,
+      "lastSuccess": 1734415673456
     },
     "group-ceksewa.js": {
       "total": 2,
@@ -96667,7 +96749,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734413814295,
+      "backupDB": 1734415627546,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
