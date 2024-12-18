@@ -70516,7 +70516,7 @@
       "lastcommand": 1733988221288
     },
     "6281944004540@s.whatsapp.net": {
-      "exp": 82,
+      "exp": 91,
       "limit": 499,
       "registered": false,
       "name": "Kepo nu 🤭",
@@ -84445,7 +84445,7 @@
       "lastBanned": 0
     },
     "6285822421558@s.whatsapp.net": {
-      "exp": 2,
+      "exp": 12,
       "limit": 499,
       "registered": false,
       "name": "Yaya Chaww",
@@ -84462,7 +84462,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6283850579341@s.whatsapp.net": {
       "exp": 5,
@@ -97309,6 +97310,26 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "6285735009511@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 857-3500-9511",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -106627,7 +106648,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734559600069,
+      "backupDB": 1734563768166,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
