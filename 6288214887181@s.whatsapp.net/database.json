@@ -87,7 +87,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 93435,
+      "exp": 93472,
       "limit": 0,
       "registered": false,
       "name": "Rayhan?",
@@ -132,7 +132,7 @@
       "lastBanned": 0
     },
     "62882008794480@s.whatsapp.net": {
-      "exp": 12909,
+      "exp": 12918,
       "limit": 244,
       "registered": false,
       "name": "Izumii",
@@ -176,7 +176,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3339,
+      "exp": 3346,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1040,7 +1040,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 5378,
+      "exp": 5388,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1265,8 +1265,8 @@
       "premiumTime": 0
     },
     "6281325107002@s.whatsapp.net": {
-      "exp": 1979,
-      "limit": 385,
+      "exp": 2010,
+      "limit": 360,
       "registered": false,
       "name": "abdurhmnaufa",
       "age": -1,
@@ -8019,7 +8019,7 @@
       "lastBanned": 0
     },
     "628818691228@s.whatsapp.net": {
-      "exp": 9076,
+      "exp": 9089,
       "limit": 2777,
       "registered": false,
       "name": "+62 881-8691-228",
@@ -11725,7 +11725,7 @@
       "lastdaily": 1733495894416
     },
     "6288286718385@s.whatsapp.net": {
-      "exp": 3516,
+      "exp": 3539,
       "limit": 350,
       "registered": false,
       "name": "efata.",
@@ -42735,7 +42735,7 @@
       "premiumTime": 0
     },
     "6285123251879@s.whatsapp.net": {
-      "exp": 33,
+      "exp": 40,
       "limit": 499,
       "registered": false,
       "name": ".. m.n.c",
@@ -47778,7 +47778,7 @@
       "premiumTime": 0
     },
     "6283846829169@s.whatsapp.net": {
-      "exp": 178,
+      "exp": 257,
       "limit": 54,
       "registered": false,
       "name": "~B🗿",
@@ -47797,7 +47797,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734426731007,
+      "lastcommand": 1734502064128,
       "lastwork": 1734453848441,
       "warn": 2,
       "lastrob": 1734452920554,
@@ -50856,7 +50856,7 @@
       "lastBanned": 0
     },
     "6285184520290@s.whatsapp.net": {
-      "exp": 7,
+      "exp": 16,
       "limit": 499,
       "registered": false,
       "name": "delmor",
@@ -50873,7 +50873,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6285789893595@s.whatsapp.net": {
       "exp": 19,
@@ -51216,7 +51217,7 @@
       "premiumTime": 0
     },
     "6288225432435@s.whatsapp.net": {
-      "exp": 9496,
+      "exp": 9537,
       "limit": 474,
       "registered": false,
       "name": "Aksa Wibisono",
@@ -51236,7 +51237,8 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastwork": 1734487291243,
-      "lastdaily": 1734487529164
+      "lastdaily": 1734487529164,
+      "lastcommand": 1734501501363
     },
     "4703626743941_1@s.whatsapp.net": {
       "exp": 3,
@@ -51442,6 +51444,25 @@
     },
     "111171503964245_1@s.whatsapp.net": {
       "exp": 7,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "252145249058985_1@s.whatsapp.net": {
+      "exp": 5,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -57706,10 +57727,10 @@
       "lastSuccess": 1734415656247
     },
     "ai-remini.js": {
-      "total": 783,
-      "success": 738,
-      "last": 1734500191628,
-      "lastSuccess": 1734500191628
+      "total": 784,
+      "success": 739,
+      "last": 1734501912422,
+      "lastSuccess": 1734501912422
     },
     "game-tebakbendera.js": {
       "total": 328,
@@ -57730,10 +57751,10 @@
       "lastSuccess": 1734251589984
     },
     "_cek.js": {
-      "total": 674,
-      "success": 674,
-      "last": 1734499811757,
-      "lastSuccess": 1734499811757
+      "total": 675,
+      "success": 675,
+      "last": 1734502048275,
+      "lastSuccess": 1734502048275
     },
     "enable.js": {
       "total": 95,
@@ -58036,10 +58057,10 @@
       "lastSuccess": 1734427102892
     },
     "info-ping.js": {
-      "total": 207,
-      "success": 207,
-      "last": 1734499883516,
-      "lastSuccess": 1734499883516
+      "total": 208,
+      "success": 208,
+      "last": 1734501509828,
+      "lastSuccess": 1734501509828
     },
     "ai-toanime.js": {
       "total": 65,
@@ -58942,10 +58963,10 @@
       "lastSuccess": 1732332999268
     },
     "vn-dosa.js": {
-      "total": 11,
-      "success": 11,
-      "last": 1734338869620,
-      "lastSuccess": 1734338869620
+      "total": 12,
+      "success": 12,
+      "last": 1734502064129,
+      "lastSuccess": 1734502064129
     },
     "game-caklontong_hint.js": {
       "total": 20,
@@ -59626,10 +59647,10 @@
       "lastSuccess": 1733628061178
     },
     "ai-lumin.js": {
-      "total": 7,
-      "success": 4,
-      "last": 1733628696280,
-      "lastSuccess": 1733628696280
+      "total": 8,
+      "success": 5,
+      "last": 1734501704745,
+      "lastSuccess": 1734501704745
     },
     "vn-wibu.js": {
       "total": 2,
@@ -59739,7 +59760,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734498546150,
+      "backupDB": 1734501268910,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
