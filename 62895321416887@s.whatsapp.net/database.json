@@ -306,7 +306,7 @@
       "lastBanned": 0
     },
     "6288286718385@s.whatsapp.net": {
-      "exp": 15818,
+      "exp": 15819,
       "limit": 95,
       "registered": false,
       "name": "efata.",
@@ -81014,7 +81014,7 @@
       "premiumTime": 0
     },
     "6283142875045@s.whatsapp.net": {
-      "exp": 5670,
+      "exp": 5711,
       "limit": 499,
       "registered": false,
       "name": "+62 831-4287-5045",
@@ -81037,7 +81037,7 @@
       "lastcommand": 1734526255270
     },
     "6289530109024@s.whatsapp.net": {
-      "exp": 121,
+      "exp": 128,
       "limit": 499,
       "registered": false,
       "name": "𝕴 𝕯𝖔𝖓𝖊 𝕮𝖆𝖗𝖊",
@@ -81543,7 +81543,7 @@
       "lastBanned": 0
     },
     "601126185744@s.whatsapp.net": {
-      "exp": 98,
+      "exp": 227,
       "limit": 499,
       "registered": false,
       "name": "Konong",
@@ -81561,7 +81561,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "lastBanned": 0
+      "lastBanned": 0,
+      "lastcommand": 1734545770792
     },
     "62895622532719@s.whatsapp.net": {
       "exp": 8,
@@ -82565,7 +82566,7 @@
       "premiumTime": 0
     },
     "62887437030466@s.whatsapp.net": {
-      "exp": 260,
+      "exp": 286,
       "limit": 499,
       "registered": false,
       "name": "DimzZ",
@@ -84703,7 +84704,7 @@
       "lastBanned": 0
     },
     "6287887927422@s.whatsapp.net": {
-      "exp": 23,
+      "exp": 90,
       "limit": 499,
       "registered": false,
       "name": "Wong Jawa OjO Ilang Jawa",
@@ -94800,7 +94801,7 @@
       "premiumTime": 0
     },
     "6281916495193@s.whatsapp.net": {
-      "exp": 61,
+      "exp": 70,
       "limit": 499,
       "registered": false,
       "name": "..",
@@ -95048,7 +95049,7 @@
       "lastBanned": 0
     },
     "6288217344022@s.whatsapp.net": {
-      "exp": 56,
+      "exp": 71,
       "limit": 499,
       "registered": false,
       "name": ".",
@@ -96964,7 +96965,7 @@
       "lastBanned": 0
     },
     "6282198834067@s.whatsapp.net": {
-      "exp": 0,
+      "exp": 5,
       "limit": 499,
       "registered": false,
       "name": "DR",
@@ -96980,8 +96981,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
-      "premiumTime": 0
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6281932468765@s.whatsapp.net": {
       "exp": 5,
@@ -105225,10 +105227,10 @@
       "lastSuccess": 1734138369700
     },
     "sticker-sticker.js": {
-      "total": 125,
-      "success": 108,
-      "last": 1734534595271,
-      "lastSuccess": 1734534595271
+      "total": 128,
+      "success": 109,
+      "last": 1734545872606,
+      "lastSuccess": 1734545735671
     },
     "owner-getdb.js": {
       "total": 3,
@@ -105243,10 +105245,10 @@
       "lastSuccess": 1733204674125
     },
     "_rayhan-menu.js": {
-      "total": 190,
-      "success": 135,
-      "last": 1734499665775,
-      "lastSuccess": 1734499665775
+      "total": 191,
+      "success": 136,
+      "last": 1734545822512,
+      "lastSuccess": 1734545822512
     },
     "owner-exec.js": {
       "total": 115,
@@ -105273,10 +105275,10 @@
       "lastSuccess": 1734534149371
     },
     "_shortcut.js": {
-      "total": 38,
-      "success": 31,
-      "last": 1734493990070,
-      "lastSuccess": 1734493990070
+      "total": 39,
+      "success": 32,
+      "last": 1734545836406,
+      "lastSuccess": 1734545836406
     },
     "game-siapakahaku.js": {
       "total": 30,
@@ -105303,10 +105305,10 @@
       "lastSuccess": 1734501583580
     },
     "enable.js": {
-      "total": 308,
-      "success": 280,
-      "last": 1734520273677,
-      "lastSuccess": 1734520273677
+      "total": 309,
+      "success": 281,
+      "last": 1734545597710,
+      "lastSuccess": 1734545597710
     },
     "internet-fetch.js": {
       "total": 17,
@@ -105561,10 +105563,10 @@
       "lastSuccess": 1734138497639
     },
     "tool-tomp3.js": {
-      "total": 13,
-      "success": 13,
-      "last": 1734482141123,
-      "lastSuccess": 1734482141123
+      "total": 16,
+      "success": 16,
+      "last": 1734546041500,
+      "lastSuccess": 1734546041500
     },
     "game-suit.js": {
       "total": 17,
@@ -106536,7 +106538,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734542726507,
+      "backupDB": 1734544532278,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
