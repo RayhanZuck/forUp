@@ -377,7 +377,7 @@
       "lastBanned": 0
     },
     "120363329829620343@g.us": {
-      "exp": 110,
+      "exp": 124,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1480,7 +1480,7 @@
       "premiumTime": 0
     },
     "120363341736998665@g.us": {
-      "exp": 150,
+      "exp": 158,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -11698,7 +11698,7 @@
       "premiumTime": 0
     },
     "6283142130846@s.whatsapp.net": {
-      "exp": 12,
+      "exp": 21,
       "limit": 499,
       "registered": false,
       "name": ",",
@@ -11780,7 +11780,7 @@
       "lastBanned": 0
     },
     "6285692485139@s.whatsapp.net": {
-      "exp": 31,
+      "exp": 35,
       "limit": 499,
       "registered": false,
       "name": "Nabila",
@@ -12027,6 +12027,89 @@
       "premium": true,
       "premiumTime": 0,
       "lastcommand": 1734546847683
+    },
+    "6282323154766@s.whatsapp.net": {
+      "exp": 21,
+      "limit": 499,
+      "registered": false,
+      "name": "chaa",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
+    },
+    "6281249756046@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 499,
+      "registered": false,
+      "name": "𝑲𝒄𝒂𝒓𝑙 𝔖𝒂𝒏𝒛◡̈",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6282136038698@s.whatsapp.net": {
+      "exp": 22,
+      "limit": 499,
+      "registered": false,
+      "name": "Indrä 𝐀५𝐕",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastcommand": 1734547897380,
+      "lastBanned": 0
+    },
+    "6285137823397@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 851-3782-3397",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -12771,10 +12854,10 @@
       "lastSuccess": 0
     },
     "_rayhan-menu.js": {
-      "total": 15,
-      "success": 9,
-      "last": 1734546748952,
-      "lastSuccess": 1734546748952
+      "total": 16,
+      "success": 10,
+      "last": 1734547926527,
+      "lastSuccess": 1734547926527
     },
     "owner-exec.js": {
       "total": 2,
@@ -12994,7 +13077,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734545203119,
+      "backupDB": 1734547047773,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
