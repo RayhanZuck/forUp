@@ -87,7 +87,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 93773,
+      "exp": 93873,
       "limit": 0,
       "registered": false,
       "name": "Rayhan?",
@@ -132,7 +132,7 @@
       "lastBanned": 0
     },
     "62882008794480@s.whatsapp.net": {
-      "exp": 12926,
+      "exp": 12933,
       "limit": 244,
       "registered": false,
       "name": "Izumii",
@@ -176,7 +176,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3366,
+      "exp": 3372,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1040,7 +1040,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 5481,
+      "exp": 5497,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -4329,8 +4329,8 @@
       "lastdaily": 1734318868595
     },
     "62895711885757@s.whatsapp.net": {
-      "exp": 550092,
-      "limit": 350,
+      "exp": 550121,
+      "limit": 325,
       "registered": false,
       "name": "awaa",
       "age": -1,
@@ -17682,7 +17682,7 @@
       "premiumTime": 0
     },
     "6281328823174@s.whatsapp.net": {
-      "exp": 42025,
+      "exp": 44625,
       "limit": 4,
       "registered": false,
       "name": "bng•ᴅᴀᴇɴɢ",
@@ -17702,7 +17702,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1731825949898,
-      "lastwork": 1732153154717,
+      "lastwork": 1734528675177,
       "lastdaily": 1734487223457,
       "warn": 1
     },
@@ -41090,7 +41090,7 @@
       "premiumTime": 0
     },
     "13135550002@s.whatsapp.net": {
-      "exp": 291,
+      "exp": 374,
       "limit": 499,
       "registered": false,
       "name": "13135550002",
@@ -49258,8 +49258,8 @@
       "premiumTime": 0
     },
     "6281258193521@s.whatsapp.net": {
-      "exp": 13,
-      "limit": 499,
+      "exp": 3713,
+      "limit": 599,
       "registered": false,
       "name": "Ytta",
       "age": -1,
@@ -49276,7 +49276,9 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "lastBanned": 0
+      "lastBanned": 0,
+      "lastdaily": 1734528321530,
+      "lastwork": 1734528445264
     },
     "6283159141308@s.whatsapp.net": {
       "exp": 197,
@@ -49697,7 +49699,7 @@
       "lastcommand": 1734520298464
     },
     "6282281819732@s.whatsapp.net": {
-      "exp": 24042,
+      "exp": 24116,
       "limit": 622,
       "registered": false,
       "name": "Jendral Maeza",
@@ -49944,7 +49946,7 @@
       "premiumTime": 0
     },
     "6289677414856@s.whatsapp.net": {
-      "exp": 5074,
+      "exp": 6600,
       "limit": 976,
       "registered": false,
       "name": "Rogue Jolly Kitty",
@@ -49965,7 +49967,8 @@
       "lastBanned": 0,
       "lastcommand": 1734489238949,
       "lastdaily": 1734394547027,
-      "lastrob": 1734445616054
+      "lastrob": 1734445616054,
+      "lastwork": 1734528339981
     },
     "6283186426663@s.whatsapp.net": {
       "exp": 5,
@@ -52094,6 +52097,65 @@
     },
     "151479771996321_1@s.whatsapp.net": {
       "exp": 5,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6289604344131@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 896-0434-4131",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6285825215839@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 858-2521-5839",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "139385009926354_1@s.whatsapp.net": {
+      "exp": 3,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -58220,10 +58282,10 @@
       "lastSuccess": 1734526817415
     },
     "owner-sf.js": {
-      "total": 925,
-      "success": 843,
-      "last": 1734516843419,
-      "lastSuccess": 1734516843419
+      "total": 927,
+      "success": 845,
+      "last": 1734529988925,
+      "lastSuccess": 1734529988925
     },
     "downloader-play.js": {
       "total": 1633,
@@ -58250,10 +58312,10 @@
       "lastSuccess": 1734439854775
     },
     "game-kerja.js": {
-      "total": 857,
-      "success": 697,
-      "last": 1734516544746,
-      "lastSuccess": 1734516544746
+      "total": 859,
+      "success": 699,
+      "last": 1734528448542,
+      "lastSuccess": 1734528448542
     },
     "ai-blackbox.js": {
       "total": 14,
@@ -58274,16 +58336,16 @@
       "lastSuccess": 1734505231710
     },
     "econ-claim.js": {
-      "total": 1688,
-      "success": 1164,
-      "last": 1734526840850,
-      "lastSuccess": 1734526840850
+      "total": 1689,
+      "success": 1165,
+      "last": 1734528321531,
+      "lastSuccess": 1734528321531
     },
     "game-curi.js": {
-      "total": 953,
-      "success": 699,
-      "last": 1734476544621,
-      "lastSuccess": 1734476544621
+      "total": 954,
+      "success": 700,
+      "last": 1734528616409,
+      "lastSuccess": 1734528616409
     },
     "game-copet.js": {
       "total": 162,
@@ -58340,10 +58402,10 @@
       "lastSuccess": 1732941237787
     },
     "game-mancing.js": {
-      "total": 1040,
-      "success": 736,
-      "last": 1734487291740,
-      "lastSuccess": 1734487291740
+      "total": 1042,
+      "success": 738,
+      "last": 1734528678093,
+      "lastSuccess": 1734528678093
     },
     "game-tambang.js": {
       "total": 186,
@@ -58358,10 +58420,10 @@
       "lastSuccess": 1734415656247
     },
     "ai-remini.js": {
-      "total": 785,
-      "success": 740,
-      "last": 1734504666466,
-      "lastSuccess": 1734504666466
+      "total": 787,
+      "success": 742,
+      "last": 1734528696735,
+      "lastSuccess": 1734528696735
     },
     "game-tebakbendera.js": {
       "total": 328,
@@ -59336,9 +59398,9 @@
       "lastSuccess": 1733551635630
     },
     "game-berburu.js": {
-      "total": 37,
+      "total": 38,
       "success": 32,
-      "last": 1734448490848,
+      "last": 1734528470686,
       "lastSuccess": 1734448490848
     },
     "own-edit.js": {
@@ -60384,6 +60446,12 @@
       "success": 0,
       "last": 1734524527615,
       "lastSuccess": 0
+    },
+    "cekasalmember.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1734529996162,
+      "lastSuccess": 1734529996162
     }
   },
   "msgs": {},
@@ -60397,7 +60465,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734526422941,
+      "backupDB": 1734528322264,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
