@@ -53251,8 +53251,8 @@
       "lastBanned": 0
     },
     "6283137119847@s.whatsapp.net": {
-      "exp": 6572,
-      "limit": 1039,
+      "exp": 6618,
+      "limit": 1034,
       "registered": false,
       "name": "𝙵𝙴𝚁𝙳𝚈 𝚁𝙸𝙰𝚄𖤐",
       "age": -1,
@@ -63415,7 +63415,7 @@
       "lastcommand": 1734448857736
     },
     "6282295272552@s.whatsapp.net": {
-      "exp": 145,
+      "exp": 207,
       "limit": 479,
       "registered": false,
       "name": "Miyan Japri",
@@ -63431,10 +63431,10 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734435652294,
+      "lastcommand": 1734560259333,
       "aiprompt": "Dia"
     },
     "6283835379091@s.whatsapp.net": {
@@ -69553,7 +69553,7 @@
       "lastBanned": 0
     },
     "62882006256057@s.whatsapp.net": {
-      "exp": 5531,
+      "exp": 5543,
       "limit": 494,
       "registered": false,
       "name": "L?",
@@ -71514,6 +71514,45 @@
     },
     "261615551254666_1@s.whatsapp.net": {
       "exp": 7,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6289530522529@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 895-3052-2529",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "40566603649180_1@s.whatsapp.net": {
+      "exp": 5,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -78004,10 +78043,10 @@
       "lastSuccess": 1734531873478
     },
     "_cek.js": {
-      "total": 1319,
-      "success": 1319,
-      "last": 1734543045575,
-      "lastSuccess": 1734543045575
+      "total": 1320,
+      "success": 1320,
+      "last": 1734560259636,
+      "lastSuccess": 1734560259636
     },
     "downloader-play.js": {
       "total": 864,
@@ -78022,10 +78061,10 @@
       "lastSuccess": 1734539870986
     },
     "main-limit.js": {
-      "total": 1370,
-      "success": 1366,
-      "last": 1734554360116,
-      "lastSuccess": 1734554360116
+      "total": 1371,
+      "success": 1367,
+      "last": 1734560221821,
+      "lastSuccess": 1734560221821
     },
     "downloader-yt2.js": {
       "total": 160,
@@ -78202,10 +78241,10 @@
       "lastSuccess": 1734543989865
     },
     "sticker-all.js": {
-      "total": 290,
-      "success": 280,
-      "last": 1734543225768,
-      "lastSuccess": 1734543225768
+      "total": 291,
+      "success": 281,
+      "last": 1734559714865,
+      "lastSuccess": 1734559714865
     },
     "games-tebakkata_hint.js": {
       "total": 865,
@@ -79801,7 +79840,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734557723726,
+      "backupDB": 1734559601226,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
