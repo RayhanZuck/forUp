@@ -6193,7 +6193,7 @@
       "premiumTime": 0
     },
     "6282295272552@s.whatsapp.net": {
-      "exp": 10417,
+      "exp": 10486,
       "limit": 2187,
       "registered": false,
       "name": "Miyan Japri",
@@ -6212,7 +6212,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734436640407,
+      "lastcommand": 1734560440900,
       "lastdaily": 1732873786679,
       "lastrob": 1732875042082,
       "lastwork": 1732875295767
@@ -11742,7 +11742,7 @@
       "WarnReason": "",
       "lastweekly": 1734410036888,
       "lastmonthly": 1731928995518,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1734549184244,
@@ -49701,7 +49701,7 @@
       "lastcommand": 1734520298464
     },
     "6282281819732@s.whatsapp.net": {
-      "exp": 24116,
+      "exp": 25578,
       "limit": 622,
       "registered": false,
       "name": "Jendral Maeza",
@@ -49720,9 +49720,9 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734445892521,
-      "lastrob": 1734445431104,
-      "lastwork": 1734444235810
+      "lastcommand": 1734561015722,
+      "lastrob": 1734560895716,
+      "lastwork": 1734560924134
     },
     "6283879022459@s.whatsapp.net": {
       "exp": 10,
@@ -49948,7 +49948,7 @@
       "premiumTime": 0
     },
     "6289677414856@s.whatsapp.net": {
-      "exp": 6600,
+      "exp": 6491,
       "limit": 976,
       "registered": false,
       "name": "Rogue Jolly Kitty",
@@ -49967,7 +49967,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734489238949,
+      "lastcommand": 1734561669931,
       "lastdaily": 1734394547027,
       "lastrob": 1734445616054,
       "lastwork": 1734528339981
@@ -51386,7 +51386,7 @@
       "premiumTime": 0
     },
     "6282291607732@s.whatsapp.net": {
-      "exp": 11,
+      "exp": 49,
       "limit": 499,
       "registered": false,
       "name": ".",
@@ -51644,7 +51644,7 @@
       "premiumTime": 0
     },
     "62895341178597@s.whatsapp.net": {
-      "exp": 31,
+      "exp": 86,
       "limit": 499,
       "registered": false,
       "name": "I want to die",
@@ -52256,7 +52256,7 @@
       "premiumTime": 0
     },
     "6289604196454@s.whatsapp.net": {
-      "exp": 8,
+      "exp": 14,
       "limit": 499,
       "registered": false,
       "name": "🗡️.",
@@ -52273,7 +52273,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6283153992019@s.whatsapp.net": {
       "exp": 3,
@@ -58682,10 +58683,10 @@
       "lastSuccess": 1734536034906
     },
     "game-curi.js": {
-      "total": 954,
-      "success": 700,
-      "last": 1734528616409,
-      "lastSuccess": 1734528616409
+      "total": 955,
+      "success": 701,
+      "last": 1734560898997,
+      "lastSuccess": 1734560898997
     },
     "game-copet.js": {
       "total": 162,
@@ -58724,10 +58725,10 @@
       "lastSuccess": 1734538412480
     },
     "main-limit.js": {
-      "total": 1130,
-      "success": 1130,
-      "last": 1734535944565,
-      "lastSuccess": 1734535944565
+      "total": 1131,
+      "success": 1131,
+      "last": 1734560452180,
+      "lastSuccess": 1734560452180
     },
     "game-ulartangga.js": {
       "total": 78,
@@ -58742,15 +58743,15 @@
       "lastSuccess": 1732941237787
     },
     "game-mancing.js": {
-      "total": 1042,
-      "success": 738,
-      "last": 1734528678093,
-      "lastSuccess": 1734528678093
+      "total": 1043,
+      "success": 739,
+      "last": 1734560926930,
+      "lastSuccess": 1734560926930
     },
     "game-tambang.js": {
-      "total": 187,
+      "total": 188,
       "success": 140,
-      "last": 1734536038724,
+      "last": 1734560928049,
       "lastSuccess": 1734536038724
     },
     "game-fight.js": {
@@ -58784,10 +58785,10 @@
       "lastSuccess": 1734251589984
     },
     "_cek.js": {
-      "total": 690,
-      "success": 690,
-      "last": 1734540037197,
-      "lastSuccess": 1734540037197
+      "total": 691,
+      "success": 691,
+      "last": 1734560450255,
+      "lastSuccess": 1734560450255
     },
     "enable.js": {
       "total": 95,
@@ -59114,10 +59115,10 @@
       "lastSuccess": 1734400278576
     },
     "group-listonline.js": {
-      "total": 143,
-      "success": 130,
-      "last": 1734549184247,
-      "lastSuccess": 1734549184247
+      "total": 145,
+      "success": 132,
+      "last": 1734561669932,
+      "lastSuccess": 1734561669932
     },
     "tools-lyrics.js": {
       "total": 124,
@@ -60823,7 +60824,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734557877909,
+      "backupDB": 1734560434206,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
