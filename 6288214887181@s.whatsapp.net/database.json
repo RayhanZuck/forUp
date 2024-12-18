@@ -4602,7 +4602,7 @@
       "premiumTime": 0
     },
     "6282245573241@s.whatsapp.net": {
-      "exp": 5768,
+      "exp": 5777,
       "limit": 959,
       "registered": false,
       "name": "Haris",
@@ -20406,8 +20406,8 @@
       "lastdaily": 1734512747738
     },
     "212684484242@s.whatsapp.net": {
-      "exp": 260,
-      "limit": 324,
+      "exp": 285,
+      "limit": 294,
       "registered": false,
       "name": "Taha",
       "age": -1,
@@ -41071,8 +41071,8 @@
       "lastcommand": 1733637619971
     },
     "6285647578827@s.whatsapp.net": {
-      "exp": 24,
-      "limit": 479,
+      "exp": 67,
+      "limit": 459,
       "registered": false,
       "name": "teguhamien",
       "age": -1,
@@ -41087,7 +41087,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
     },
@@ -58577,10 +58577,10 @@
       "lastSuccess": 1734539103457
     },
     "downloader-tiktok.js": {
-      "total": 1559,
-      "success": 1441,
-      "last": 1734539322982,
-      "lastSuccess": 1734539322982
+      "total": 1560,
+      "success": 1442,
+      "last": 1734550119810,
+      "lastSuccess": 1734550119810
     },
     "owner-sf.js": {
       "total": 935,
@@ -59675,10 +59675,10 @@
       "lastSuccess": 1732545559487
     },
     "downloader-yt2.js": {
-      "total": 293,
-      "success": 183,
-      "last": 1734538648959,
-      "lastSuccess": 1734538648959
+      "total": 294,
+      "success": 184,
+      "last": 1734551592315,
+      "lastSuccess": 1734551592315
     },
     "internet-playlist.js": {
       "total": 20,
@@ -60784,7 +60784,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734548262217,
+      "backupDB": 1734550114137,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
