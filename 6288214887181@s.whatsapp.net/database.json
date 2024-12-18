@@ -1986,8 +1986,8 @@
       "lastcommand": 1730741161174
     },
     "6283869691725@s.whatsapp.net": {
-      "exp": 15925,
-      "limit": 29,
+      "exp": 15956,
+      "limit": 4,
       "registered": false,
       "name": "Minn",
       "age": -1,
@@ -20406,8 +20406,8 @@
       "lastdaily": 1734512747738
     },
     "212684484242@s.whatsapp.net": {
-      "exp": 285,
-      "limit": 294,
+      "exp": 308,
+      "limit": 264,
       "registered": false,
       "name": "Taha",
       "age": -1,
@@ -29296,7 +29296,7 @@
       "premiumTime": 0
     },
     "6285536581280@s.whatsapp.net": {
-      "exp": 304,
+      "exp": 339,
       "limit": 499,
       "registered": false,
       "name": "Adit",
@@ -52473,6 +52473,45 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "6289530522529@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 895-3052-2529",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "40566603649180_1@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -58589,10 +58628,10 @@
       "lastSuccess": 1734535772314
     },
     "downloader-play.js": {
-      "total": 1646,
-      "success": 1541,
-      "last": 1734540432135,
-      "lastSuccess": 1734540432135
+      "total": 1647,
+      "success": 1542,
+      "last": 1734558073273,
+      "lastSuccess": 1734558073273
     },
     "downloader-ytvideo.js": {
       "total": 132,
@@ -59675,10 +59714,10 @@
       "lastSuccess": 1732545559487
     },
     "downloader-yt2.js": {
-      "total": 294,
-      "success": 184,
-      "last": 1734551592315,
-      "lastSuccess": 1734551592315
+      "total": 295,
+      "success": 185,
+      "last": 1734557902654,
+      "lastSuccess": 1734557902654
     },
     "internet-playlist.js": {
       "total": 20,
@@ -60784,7 +60823,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734553867907,
+      "backupDB": 1734557877909,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
