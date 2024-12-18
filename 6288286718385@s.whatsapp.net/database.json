@@ -108617,7 +108617,7 @@
       "lastBanned": 0
     },
     "6288286718385@s.whatsapp.net": {
-      "exp": 15363,
+      "exp": 15458,
       "limit": 479,
       "registered": true,
       "name": "nenen",
@@ -135196,7 +135196,7 @@
       "premiumTime": 0
     },
     "13135550002@s.whatsapp.net": {
-      "exp": 3268,
+      "exp": 3388,
       "limit": 499,
       "registered": false,
       "name": "13135550002",
@@ -135212,7 +135212,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
     },
@@ -135479,7 +135479,7 @@
       "premiumTime": 0
     },
     "6283142875045@s.whatsapp.net": {
-      "exp": 6003,
+      "exp": 6090,
       "limit": 499,
       "registered": false,
       "name": "𝖒𝖊𝖑𝖎𝖘𝖚𝖐𝖆𝖐𝖔𝖓𝖇𝖑𝖚𝖙𝖙.",
@@ -136899,7 +136899,7 @@
       "premiumTime": 0
     },
     "62882005023443@s.whatsapp.net": {
-      "exp": 2258,
+      "exp": 2264,
       "limit": 499,
       "registered": false,
       "name": "Panjul",
@@ -138441,7 +138441,7 @@
       "lastBanned": 0
     },
     "6287887927422@s.whatsapp.net": {
-      "exp": 59,
+      "exp": 89,
       "limit": 499,
       "registered": false,
       "name": "Wong Jawa OjO Ilang Jawa",
@@ -138586,7 +138586,7 @@
       "lastBanned": 0
     },
     "6288217344022@s.whatsapp.net": {
-      "exp": 142,
+      "exp": 156,
       "limit": 499,
       "registered": false,
       "name": ".",
@@ -143470,7 +143470,7 @@
       "lastBanned": 0
     },
     "601126185744@s.whatsapp.net": {
-      "exp": 45,
+      "exp": 88,
       "limit": 499,
       "registered": false,
       "name": "Konong",
@@ -148647,7 +148647,7 @@
       "premiumTime": 0
     },
     "6289530109024@s.whatsapp.net": {
-      "exp": 102,
+      "exp": 108,
       "limit": 499,
       "registered": false,
       "name": "𝕴 𝕯𝖔𝖓𝖊 𝕮𝖆𝖗𝖊",
@@ -150075,7 +150075,7 @@
       "lastBanned": 0
     },
     "62887437030466@s.whatsapp.net": {
-      "exp": 225,
+      "exp": 232,
       "limit": 499,
       "registered": false,
       "name": "DimzZ",
@@ -150398,7 +150398,7 @@
       "lastBanned": 0
     },
     "6285863601448@s.whatsapp.net": {
-      "exp": 463,
+      "exp": 467,
       "limit": 499,
       "registered": false,
       "name": "AmeliaBotz",
@@ -153669,7 +153669,7 @@
       "lastBanned": 0
     },
     "62881023052643@s.whatsapp.net": {
-      "exp": 1698,
+      "exp": 1720,
       "limit": 499,
       "registered": false,
       "name": "𝙏𝙝𝙚 𝘿𝙖𝙧𝙠𝙣𝙚𝙨𝙨",
@@ -163543,10 +163543,10 @@
       "lastSuccess": 1734536849958
     },
     "sticker-sticker.js": {
-      "total": 654,
-      "success": 596,
-      "last": 1734544109347,
-      "lastSuccess": 1734544109347
+      "total": 657,
+      "success": 599,
+      "last": 1734545873064,
+      "lastSuccess": 1734545873064
     },
     "owner-getdb.js": {
       "total": 5,
@@ -163561,10 +163561,10 @@
       "lastSuccess": 1734535604963
     },
     "_rayhan-menu.js": {
-      "total": 722,
-      "success": 693,
-      "last": 1734544228325,
-      "lastSuccess": 1734544228325
+      "total": 723,
+      "success": 694,
+      "last": 1734545770994,
+      "lastSuccess": 1734545770994
     },
     "owner-exec.js": {
       "total": 154,
@@ -163609,10 +163609,10 @@
       "lastSuccess": 1734539286544
     },
     "main-profile.js": {
-      "total": 265,
-      "success": 264,
-      "last": 1734544131421,
-      "lastSuccess": 1734544131421
+      "total": 266,
+      "success": 265,
+      "last": 1734545797960,
+      "lastSuccess": 1734545797960
     },
     "downloader-play2.js": {
       "total": 55,
@@ -163723,10 +163723,10 @@
       "lastSuccess": 1734410324917
     },
     "_shortcut.js": {
-      "total": 287,
-      "success": 287,
-      "last": 1734538697455,
-      "lastSuccess": 1734538697455
+      "total": 288,
+      "success": 288,
+      "last": 1734545823558,
+      "lastSuccess": 1734545823558
     },
     "_rayhan-allmenu.js": {
       "total": 201,
@@ -163813,10 +163813,10 @@
       "lastSuccess": 1734541643145
     },
     "enable.js": {
-      "total": 435,
-      "success": 412,
-      "last": 1734493679351,
-      "lastSuccess": 1734493679351
+      "total": 436,
+      "success": 413,
+      "last": 1734545579938,
+      "lastSuccess": 1734545579938
     },
     "group-delete.js": {
       "total": 231,
@@ -163873,10 +163873,10 @@
       "lastSuccess": 1734513341553
     },
     "tool-tomp3.js": {
-      "total": 143,
-      "success": 143,
-      "last": 1734501188065,
-      "lastSuccess": 1734501188065
+      "total": 146,
+      "success": 146,
+      "last": 1734546009050,
+      "lastSuccess": 1734546009050
     },
     "ai-blackbox.js": {
       "total": 317,
@@ -165780,7 +165780,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734542989705,
+      "backupDB": 1734544797110,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
