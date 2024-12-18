@@ -945,7 +945,7 @@
       "WarnReason": "",
       "lastweekly": 1733554672423,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1733959009626,
@@ -1198,7 +1198,7 @@
       "lastcommand": 1732628432913
     },
     "6289505879658@s.whatsapp.net": {
-      "exp": 12793,
+      "exp": 12805,
       "limit": 3032,
       "registered": false,
       "name": "Fian",
@@ -2166,8 +2166,8 @@
       "lastrob": 1734258198915
     },
     "6288983017604@s.whatsapp.net": {
-      "exp": 182,
-      "limit": 227,
+      "exp": 320,
+      "limit": 228,
       "registered": false,
       "name": "Rodan Ay",
       "age": -1,
@@ -2185,7 +2185,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastdaily": 1734353718582,
+      "lastdaily": 1734478823221,
       "lastwork": 1734354382824,
       "lastrob": 1732876806300
     },
@@ -50711,7 +50711,7 @@
       "lastBanned": 0
     },
     "6285931400906@s.whatsapp.net": {
-      "exp": 1890,
+      "exp": 1896,
       "limit": 424,
       "registered": false,
       "name": "Dino",
@@ -57239,10 +57239,10 @@
       "lastSuccess": 1734449777276
     },
     "econ-claim.js": {
-      "total": 1661,
-      "success": 1145,
-      "last": 1734471849286,
-      "lastSuccess": 1734471840634
+      "total": 1664,
+      "success": 1146,
+      "last": 1734478849452,
+      "lastSuccess": 1734478823222
     },
     "game-curi.js": {
       "total": 953,
@@ -57263,10 +57263,10 @@
       "lastSuccess": 1734437918474
     },
     "main-shop.js": {
-      "total": 619,
-      "success": 619,
-      "last": 1734455963494,
-      "lastSuccess": 1734455963494
+      "total": 620,
+      "success": 620,
+      "last": 1734478831598,
+      "lastSuccess": 1734478831598
     },
     "main-level.js": {
       "total": 179,
@@ -57473,10 +57473,10 @@
       "lastSuccess": 1730161441000
     },
     "downloader-tiktoksearch.js": {
-      "total": 649,
-      "success": 642,
-      "last": 1734440426283,
-      "lastSuccess": 1734440426283
+      "total": 656,
+      "success": 649,
+      "last": 1734479204978,
+      "lastSuccess": 1734479204978
     },
     "ai-llama.js": {
       "total": 352,
@@ -59356,7 +59356,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734475603072,
+      "backupDB": 1734478765481,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
