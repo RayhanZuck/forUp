@@ -5717,7 +5717,7 @@
       "lastBanned": 0
     },
     "62882020698431@s.whatsapp.net": {
-      "exp": 52,
+      "exp": 58,
       "limit": 499,
       "registered": false,
       "name": "p",
@@ -5863,7 +5863,7 @@
       "premiumTime": 0
     },
     "6285792353079@s.whatsapp.net": {
-      "exp": 116,
+      "exp": 317,
       "limit": 499,
       "registered": false,
       "name": "3 mei",
@@ -7678,7 +7678,7 @@
       "lastBanned": 0
     },
     "6283152208487@s.whatsapp.net": {
-      "exp": 101,
+      "exp": 248,
       "limit": 499,
       "registered": false,
       "name": "Gypsi(Electra)",
@@ -9687,7 +9687,7 @@
       "premiumTime": 0
     },
     "6283816055749@s.whatsapp.net": {
-      "exp": 7,
+      "exp": 20,
       "limit": 499,
       "registered": false,
       "name": "--",
@@ -9704,7 +9704,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "191074790318231_1@s.whatsapp.net": {
       "exp": 10,
@@ -12191,6 +12192,67 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "62895327000015@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "name": ".",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6285608587682@s.whatsapp.net": {
+      "exp": 7,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 856-0858-7682",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "62882008239328@s.whatsapp.net": {
+      "exp": 20,
+      "limit": 499,
+      "registered": false,
+      "name": "𝖈𝖍𝖎𝖑𝖑",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastcommand": 1734553496449
     }
   },
   "chats": {
@@ -12935,10 +12997,10 @@
       "lastSuccess": 0
     },
     "_rayhan-menu.js": {
-      "total": 16,
-      "success": 10,
-      "last": 1734547926527,
-      "lastSuccess": 1734547926527
+      "total": 17,
+      "success": 11,
+      "last": 1734553531435,
+      "lastSuccess": 1734553531435
     },
     "owner-exec.js": {
       "total": 2,
@@ -13158,7 +13220,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734551086673,
+      "backupDB": 1734553142871,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
