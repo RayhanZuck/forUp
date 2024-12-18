@@ -257,8 +257,8 @@
       "lastcommand": 1734524100515
     },
     "628884584571@s.whatsapp.net": {
-      "exp": 13948,
-      "limit": 330,
+      "exp": 14046,
+      "limit": 290,
       "registered": true,
       "name": "Ikky",
       "age": 18,
@@ -273,8 +273,8 @@
       "WarnReason": "",
       "lastweekly": 1733363555822,
       "lastmonthly": 1733363565990,
-      "premium": false,
-      "premiumTime": 1734537657527,
+      "premium": true,
+      "premiumTime": 0,
       "lastcommand": 1734513316990,
       "lastBanned": 0,
       "lastwork": 1734140410481,
@@ -97270,6 +97270,45 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "40566603649180_1@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6281952693950@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 819-5269-3950",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -105433,10 +105472,10 @@
       "lastSuccess": 1734453520503
     },
     "downloader-tiktok.js": {
-      "total": 146,
-      "success": 138,
-      "last": 1734519420790,
-      "lastSuccess": 1734519420790
+      "total": 150,
+      "success": 140,
+      "last": 1734560299856,
+      "lastSuccess": 1734560299856
     },
     "ai-chatbot(simi).js": {
       "total": 21,
@@ -106588,7 +106627,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734556672487,
+      "backupDB": 1734559600069,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
