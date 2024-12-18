@@ -1563,7 +1563,7 @@
       "lastBanned": 0
     },
     "6283865824106@s.whatsapp.net": {
-      "exp": 5,
+      "exp": 14,
       "limit": 499,
       "registered": false,
       "name": "ambtkm",
@@ -5262,7 +5262,7 @@
       "lastBanned": 0
     },
     "6285748597984@s.whatsapp.net": {
-      "exp": 64,
+      "exp": 71,
       "limit": 499,
       "registered": false,
       "name": "yantooo kurang sehat",
@@ -5863,7 +5863,7 @@
       "premiumTime": 0
     },
     "6285792353079@s.whatsapp.net": {
-      "exp": 317,
+      "exp": 336,
       "limit": 499,
       "registered": false,
       "name": "3 mei",
@@ -12293,6 +12293,46 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "6285179851307@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 851-7985-1307",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6289602672348@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 499,
+      "registered": false,
+      "name": "Aldi",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -13260,7 +13300,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734555166007,
+      "backupDB": 1734557401568,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
