@@ -87,7 +87,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 93504,
+      "exp": 93611,
       "limit": 0,
       "registered": false,
       "name": "Rayhan?",
@@ -622,7 +622,7 @@
       "lastrob": 1734333171938
     },
     "6285878464218@s.whatsapp.net": {
-      "exp": 18471,
+      "exp": 18512,
       "limit": 54,
       "registered": false,
       "name": "nnd'del.rey",
@@ -642,7 +642,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastdaily": 1734499495338,
-      "lastcommand": 1733979109708
+      "lastcommand": 1734508007369
     },
     "6289660958090@s.whatsapp.net": {
       "exp": 123,
@@ -1040,7 +1040,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 5399,
+      "exp": 5408,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -11725,8 +11725,8 @@
       "lastdaily": 1733495894416
     },
     "6288286718385@s.whatsapp.net": {
-      "exp": 3539,
-      "limit": 350,
+      "exp": 3558,
+      "limit": 320,
       "registered": false,
       "name": "efata.",
       "age": -1,
@@ -24451,7 +24451,7 @@
       "premiumTime": 0
     },
     "6281364434575@s.whatsapp.net": {
-      "exp": 8610,
+      "exp": 8752,
       "limit": 556,
       "registered": false,
       "name": "EllAngler",
@@ -48971,8 +48971,8 @@
       "premiumTime": 0
     },
     "6285647642077@s.whatsapp.net": {
-      "exp": 528,
-      "limit": 369,
+      "exp": 1140,
+      "limit": 19,
       "registered": false,
       "name": "𝕽𝖆",
       "age": -1,
@@ -51539,6 +51539,25 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
+    },
+    "247059806441682_1@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -57649,10 +57668,10 @@
       "lastSuccess": 1734503400855
     },
     "owner-sf.js": {
-      "total": 922,
-      "success": 840,
-      "last": 1734499858710,
-      "lastSuccess": 1734499858710
+      "total": 923,
+      "success": 841,
+      "last": 1734507705635,
+      "lastSuccess": 1734507705635
     },
     "downloader-play.js": {
       "total": 1623,
@@ -57667,10 +57686,10 @@
       "lastSuccess": 1734439515178
     },
     "sticker-sticker.js": {
-      "total": 746,
-      "success": 647,
-      "last": 1734506353534,
-      "lastSuccess": 1734506353534
+      "total": 752,
+      "success": 651,
+      "last": 1734508791519,
+      "lastSuccess": 1734508791519
     },
     "sticker-toimg.js": {
       "total": 80,
@@ -58087,10 +58106,10 @@
       "lastSuccess": 1734078278876
     },
     "downloader-playvid.js": {
-      "total": 77,
-      "success": 50,
-      "last": 1734500176702,
-      "lastSuccess": 1734500176702
+      "total": 78,
+      "success": 51,
+      "last": 1734508624575,
+      "lastSuccess": 1734508624575
     },
     "game-siapakahaku_hint.js": {
       "total": 93,
@@ -58243,10 +58262,10 @@
       "lastSuccess": 1734440211122
     },
     "sticker-quotely.js": {
-      "total": 487,
-      "success": 487,
-      "last": 1734506886804,
-      "lastSuccess": 1734506886804
+      "total": 488,
+      "success": 488,
+      "last": 1734507529255,
+      "lastSuccess": 1734507529255
     },
     "group-delete.js": {
       "total": 32,
@@ -58345,10 +58364,10 @@
       "lastSuccess": 1734369409397
     },
     "sticker-pinterest.js": {
-      "total": 78,
-      "success": 61,
-      "last": 1734240417520,
-      "lastSuccess": 1734046646577
+      "total": 97,
+      "success": 79,
+      "last": 1734507784587,
+      "lastSuccess": 1734507784587
     },
     "audio-effect.js": {
       "total": 70,
@@ -58555,10 +58574,10 @@
       "lastSuccess": 1734238191520
     },
     "vn-anjay.js": {
-      "total": 51,
-      "success": 51,
-      "last": 1734426731008,
-      "lastSuccess": 1734426731008
+      "total": 52,
+      "success": 52,
+      "last": 1734508007371,
+      "lastSuccess": 1734508007371
     },
     "sticker-all.js": {
       "total": 128,
@@ -59820,7 +59839,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734505171041,
+      "backupDB": 1734506991778,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
