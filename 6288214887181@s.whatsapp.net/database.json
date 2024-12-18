@@ -5446,8 +5446,8 @@
       "premiumTime": 0
     },
     "919863871445@s.whatsapp.net": {
-      "exp": 51609,
-      "limit": 134,
+      "exp": 51638,
+      "limit": 114,
       "registered": false,
       "name": "Asahi.",
       "age": -1,
@@ -60389,10 +60389,10 @@
       "lastSuccess": 1732625090496
     },
     "tool-removebg.js": {
-      "total": 10,
-      "success": 8,
-      "last": 1734552042075,
-      "lastSuccess": 1734552042075
+      "total": 11,
+      "success": 9,
+      "last": 1734553873600,
+      "lastSuccess": 1734553873600
     },
     "islam-kisahnabi.js": {
       "total": 9,
@@ -60784,7 +60784,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734551996513,
+      "backupDB": 1734553867907,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
