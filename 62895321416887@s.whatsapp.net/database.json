@@ -38278,7 +38278,7 @@
       "lastBanned": 0
     },
     "6283128791335@s.whatsapp.net": {
-      "exp": 10974,
+      "exp": 10984,
       "limit": 349,
       "registered": false,
       "name": "𝚛è𝚢𝚢àà𝚠-",
@@ -55594,7 +55594,7 @@
       "lastBanned": 0
     },
     "6283172200590@s.whatsapp.net": {
-      "exp": 4569,
+      "exp": 4571,
       "limit": 399,
       "registered": false,
       "name": "mecca",
@@ -62355,7 +62355,7 @@
       "lastBanned": 0
     },
     "6288976166234@s.whatsapp.net": {
-      "exp": 410,
+      "exp": 416,
       "limit": 499,
       "registered": false,
       "name": "Wilda",
@@ -63620,7 +63620,7 @@
       "lastBanned": 0
     },
     "6287863310241@s.whatsapp.net": {
-      "exp": 2340,
+      "exp": 2344,
       "limit": 364,
       "registered": false,
       "name": "N",
@@ -80278,7 +80278,7 @@
       "lastBanned": 0
     },
     "6281998573774@s.whatsapp.net": {
-      "exp": 147,
+      "exp": 156,
       "limit": 499,
       "registered": false,
       "name": "aku_shvAaAaAA",
@@ -83444,7 +83444,7 @@
       "premiumTime": 0
     },
     "6283183594073@s.whatsapp.net": {
-      "exp": 3,
+      "exp": 13,
       "limit": 499,
       "registered": false,
       "name": "Rivaldo",
@@ -83461,7 +83461,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6281269607293@s.whatsapp.net": {
       "exp": 3,
@@ -84238,7 +84239,7 @@
       "lastBanned": 0
     },
     "6281338339098@s.whatsapp.net": {
-      "exp": 7,
+      "exp": 24,
       "limit": 499,
       "registered": false,
       "name": "Ghex Ika",
@@ -84255,7 +84256,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6282346678690@s.whatsapp.net": {
       "exp": 7,
@@ -105227,6 +105229,32 @@
       "teks": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6281998573774@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "pembatasan": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "antiBadword": false,
+      "simi": false,
+      "nsfw": false,
+      "rpg": true,
+      "game": true,
+      "teks": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -106560,7 +106588,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734554158822,
+      "backupDB": 1734556672487,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
