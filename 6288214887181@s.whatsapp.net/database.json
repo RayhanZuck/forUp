@@ -155,7 +155,7 @@
       "lastcommand": 1732771777501
     },
     "120363183420865643@g.us": {
-      "exp": 4486,
+      "exp": 4488,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -176,7 +176,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3382,
+      "exp": 3396,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -546,8 +546,8 @@
       "lastcommand": 1730277343521
     },
     "6285960191220@s.whatsapp.net": {
-      "exp": 659,
-      "limit": 9,
+      "exp": 2753,
+      "limit": 79,
       "registered": true,
       "name": "Arsyad",
       "age": 13,
@@ -567,7 +567,7 @@
       "lastBanned": 0,
       "lastwork": 1734097546696,
       "lastrob": 1732364098187,
-      "lastdaily": 1734096321048,
+      "lastdaily": 1734532384680,
       "lastcommand": 1733446674129,
       "warn": 1
     },
@@ -1040,7 +1040,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 5521,
+      "exp": 5535,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1441,8 +1441,8 @@
       "lastcommand": 1733719486575
     },
     "6283822760236@s.whatsapp.net": {
-      "exp": 12661,
-      "limit": 1289,
+      "exp": 18728,
+      "limit": 1889,
       "registered": false,
       "name": "ᥫ᭡𔔁𔘓﹏𝙵𝙰𝙽𝙸﹏𔘓𔔁ᥫ",
       "age": -1,
@@ -1455,12 +1455,12 @@
       "role": "Beginner",
       "BannedReason": "",
       "WarnReason": "",
-      "lastweekly": 1731482207815,
-      "lastmonthly": 1730177678937,
+      "lastweekly": 1734533079815,
+      "lastmonthly": 1734533076382,
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastdaily": 1731482180517,
+      "lastdaily": 1734533075585,
       "lastcommand": 1732887525114
     },
     "6288210170915@s.whatsapp.net": {
@@ -11741,7 +11741,7 @@
       "WarnReason": "",
       "lastweekly": 1734410036888,
       "lastmonthly": 1731928995518,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1734489167842,
@@ -14242,8 +14242,8 @@
       "premiumTime": 0
     },
     "6287740908701@s.whatsapp.net": {
-      "exp": 34652,
-      "limit": 602,
+      "exp": 34701,
+      "limit": 552,
       "registered": false,
       "name": "Merzzx Story Kece",
       "age": -1,
@@ -35868,7 +35868,7 @@
       "premiumTime": 0
     },
     "6282172480990@s.whatsapp.net": {
-      "exp": 382,
+      "exp": 395,
       "limit": 464,
       "registered": false,
       "name": "ApipAy🇮🇩²",
@@ -52250,6 +52250,46 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "6289604196454@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 499,
+      "registered": false,
+      "name": "🗡️.",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6283153992019@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 499,
+      "registered": false,
+      "name": "Ilham",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -58366,16 +58406,16 @@
       "lastSuccess": 1734531300306
     },
     "downloader-play.js": {
-      "total": 1638,
-      "success": 1533,
-      "last": 1734531866329,
-      "lastSuccess": 1734531866329
+      "total": 1640,
+      "success": 1535,
+      "last": 1734532323238,
+      "lastSuccess": 1734532323238
     },
     "downloader-ytvideo.js": {
-      "total": 131,
-      "success": 125,
-      "last": 1734439515178,
-      "lastSuccess": 1734439515178
+      "total": 132,
+      "success": 126,
+      "last": 1734532370964,
+      "lastSuccess": 1734532370964
     },
     "sticker-sticker.js": {
       "total": 755,
@@ -58414,10 +58454,10 @@
       "lastSuccess": 1734505231710
     },
     "econ-claim.js": {
-      "total": 1691,
-      "success": 1167,
-      "last": 1734531141596,
-      "lastSuccess": 1734531141596
+      "total": 1695,
+      "success": 1171,
+      "last": 1734533079815,
+      "lastSuccess": 1734533079815
     },
     "game-curi.js": {
       "total": 954,
@@ -59452,10 +59492,10 @@
       "lastSuccess": 1732545559487
     },
     "downloader-yt2.js": {
-      "total": 291,
-      "success": 181,
-      "last": 1734517648875,
-      "lastSuccess": 1734517648875
+      "total": 292,
+      "success": 182,
+      "last": 1734532445516,
+      "lastSuccess": 1734532445516
     },
     "internet-playlist.js": {
       "total": 20,
@@ -60549,7 +60589,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734530150027,
+      "backupDB": 1734532017020,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
