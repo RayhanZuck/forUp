@@ -377,7 +377,7 @@
       "lastBanned": 0
     },
     "120363329829620343@g.us": {
-      "exp": 124,
+      "exp": 132,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -5717,7 +5717,7 @@
       "lastBanned": 0
     },
     "62882020698431@s.whatsapp.net": {
-      "exp": 45,
+      "exp": 52,
       "limit": 499,
       "registered": false,
       "name": "p",
@@ -5863,7 +5863,7 @@
       "premiumTime": 0
     },
     "6285792353079@s.whatsapp.net": {
-      "exp": 25,
+      "exp": 116,
       "limit": 499,
       "registered": false,
       "name": "3 mei",
@@ -7428,7 +7428,7 @@
       "premiumTime": 0
     },
     "6282113719379@s.whatsapp.net": {
-      "exp": 19,
+      "exp": 28,
       "limit": 499,
       "registered": false,
       "name": "~`",
@@ -7444,9 +7444,10 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "lastcommand": 1734521833005
+      "lastcommand": 1734521833005,
+      "lastBanned": 0
     },
     "6288222015799@s.whatsapp.net": {
       "exp": 36,
@@ -7677,7 +7678,7 @@
       "lastBanned": 0
     },
     "6283152208487@s.whatsapp.net": {
-      "exp": 90,
+      "exp": 101,
       "limit": 499,
       "registered": false,
       "name": "Gypsi(Electra)",
@@ -12170,6 +12171,26 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "6282123214687@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 499,
+      "registered": false,
+      "name": "Tari",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -13137,7 +13158,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734549159102,
+      "backupDB": 1734551086673,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
