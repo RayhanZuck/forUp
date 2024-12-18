@@ -1171,7 +1171,7 @@
       "lastBanned": 0
     },
     "628551486476@s.whatsapp.net": {
-      "exp": 16,
+      "exp": 30,
       "limit": 499,
       "registered": false,
       "name": "Leonhearth",
@@ -1563,7 +1563,7 @@
       "lastBanned": 0
     },
     "6283865824106@s.whatsapp.net": {
-      "exp": 14,
+      "exp": 37,
       "limit": 499,
       "registered": false,
       "name": "ambtkm",
@@ -5466,7 +5466,7 @@
       "premiumTime": 0
     },
     "6285696026718@s.whatsapp.net": {
-      "exp": 93,
+      "exp": 105,
       "limit": 499,
       "registered": false,
       "name": "juju",
@@ -6465,7 +6465,7 @@
       "premiumTime": 0
     },
     "6283147706658@s.whatsapp.net": {
-      "exp": 109,
+      "exp": 123,
       "limit": 499,
       "registered": false,
       "name": "𝙄𝙩𝙨𝙈𝙚𝙓𝙮𝙧𝙤𝙤",
@@ -10810,7 +10810,7 @@
       "premiumTime": 0
     },
     "628812828024@s.whatsapp.net": {
-      "exp": 44,
+      "exp": 55,
       "limit": 499,
       "registered": false,
       "name": "Shizuka Ai",
@@ -11480,7 +11480,7 @@
       "premiumTime": 0
     },
     "62895409011345@s.whatsapp.net": {
-      "exp": 1,
+      "exp": 4,
       "limit": 499,
       "registered": false,
       "name": "Laba Laba Jawa",
@@ -11497,7 +11497,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "273602838585596_1@s.whatsapp.net": {
       "exp": 8,
@@ -12319,6 +12320,25 @@
       "limit": 499,
       "registered": false,
       "name": "Aldi",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "40566603649180_1@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 499,
+      "registered": false,
       "age": -1,
       "regTime": -1,
       "unreg": false,
@@ -13300,7 +13320,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734557401568,
+      "backupDB": 1734559208188,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
