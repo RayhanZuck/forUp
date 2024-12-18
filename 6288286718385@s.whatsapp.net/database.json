@@ -34801,7 +34801,7 @@
       "premiumTime": 0
     },
     "6282245573241@s.whatsapp.net": {
-      "exp": 788,
+      "exp": 793,
       "limit": 499,
       "registered": false,
       "name": "Haris",
@@ -136092,7 +136092,7 @@
       "lastBanned": 0
     },
     "6288260160980@s.whatsapp.net": {
-      "exp": 2,
+      "exp": 3,
       "limit": 499,
       "registered": false,
       "name": "Dini",
@@ -136109,7 +136109,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6285657075060@s.whatsapp.net": {
       "exp": 34,
@@ -144895,7 +144896,7 @@
       "premiumTime": 0
     },
     "6281338339098@s.whatsapp.net": {
-      "exp": 8,
+      "exp": 10,
       "limit": 499,
       "registered": false,
       "name": "Ghex Ika",
@@ -150671,7 +150672,7 @@
       "lastBanned": 0
     },
     "6285752615023@s.whatsapp.net": {
-      "exp": 271,
+      "exp": 290,
       "limit": 499,
       "registered": false,
       "name": "Q",
@@ -165801,7 +165802,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734552060215,
+      "backupDB": 1734555170772,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
