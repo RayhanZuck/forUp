@@ -121176,7 +121176,7 @@
       "premiumTime": 0
     },
     "6285536581280@s.whatsapp.net": {
-      "exp": 242,
+      "exp": 253,
       "limit": 499,
       "registered": false,
       "name": "Adit",
@@ -122079,7 +122079,7 @@
       "premiumTime": 0
     },
     "212684484242@s.whatsapp.net": {
-      "exp": 33,
+      "exp": 39,
       "limit": 499,
       "registered": false,
       "name": "Taha",
@@ -130919,7 +130919,7 @@
       "lastBanned": 0
     },
     "6281276321159@s.whatsapp.net": {
-      "exp": 2753,
+      "exp": 2759,
       "limit": 499,
       "registered": false,
       "name": "ShizukaMD",
@@ -149365,7 +149365,7 @@
       "premiumTime": 0
     },
     "6283183594073@s.whatsapp.net": {
-      "exp": 1,
+      "exp": 6,
       "limit": 499,
       "registered": false,
       "name": "Rivaldo",
@@ -149382,7 +149382,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6285640508696@s.whatsapp.net": {
       "exp": 1,
@@ -150399,7 +150400,7 @@
       "lastBanned": 0
     },
     "6285863601448@s.whatsapp.net": {
-      "exp": 477,
+      "exp": 491,
       "limit": 499,
       "registered": false,
       "name": "AmeliaBotz",
@@ -153692,8 +153693,8 @@
       "lastBanned": 0
     },
     "62895619812853@s.whatsapp.net": {
-      "exp": 55,
-      "limit": 459,
+      "exp": 105,
+      "limit": 434,
       "registered": false,
       "name": "Zénn Slovenly",
       "age": -1,
@@ -163925,10 +163926,10 @@
       "lastSuccess": 1732359769780
     },
     "downloader-instagram.js": {
-      "total": 642,
-      "success": 633,
-      "last": 1734539096849,
-      "lastSuccess": 1734539096849
+      "total": 643,
+      "success": 634,
+      "last": 1734557144410,
+      "lastSuccess": 1734557144410
     },
     "game-mancing.js": {
       "total": 385,
@@ -165317,9 +165318,9 @@
       "lastSuccess": 1734423783716
     },
     "downloader-tiktok.js": {
-      "total": 338,
+      "total": 339,
       "success": 323,
-      "last": 1734552060550,
+      "last": 1734557116468,
       "lastSuccess": 1734552060550
     },
     "scld.js": {
@@ -165353,10 +165354,10 @@
       "lastSuccess": 1734542408776
     },
     "downloader-yt2.js": {
-      "total": 110,
-      "success": 60,
-      "last": 1734551608390,
-      "lastSuccess": 1734551608390
+      "total": 111,
+      "success": 61,
+      "last": 1734557878014,
+      "lastSuccess": 1734557878014
     },
     "ai-llama.js": {
       "total": 109,
@@ -165802,7 +165803,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734555170772,
+      "backupDB": 1734557116087,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
