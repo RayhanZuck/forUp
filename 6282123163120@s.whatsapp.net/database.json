@@ -36543,7 +36543,7 @@
       "lastBanned": 0
     },
     "6289678072260@s.whatsapp.net": {
-      "exp": 95,
+      "exp": 120,
       "limit": 499,
       "registered": false,
       "name": "Botol Yakult😇🗿",
@@ -51066,8 +51066,8 @@
       "premiumTime": 0
     },
     "62895619015073@s.whatsapp.net": {
-      "exp": 3046,
-      "limit": 20,
+      "exp": 1413,
+      "limit": 0,
       "registered": false,
       "name": "𝑞𝑢𝑖𝑙𝑙𝑎𝑧'𝑠📍",
       "age": -1,
@@ -78010,10 +78010,10 @@
       "lastSuccess": 1734543045575
     },
     "downloader-play.js": {
-      "total": 862,
-      "success": 814,
-      "last": 1734543858476,
-      "lastSuccess": 1734543858476
+      "total": 864,
+      "success": 816,
+      "last": 1734554390525,
+      "lastSuccess": 1734554390525
     },
     "game-curi.js": {
       "total": 1236,
@@ -78022,10 +78022,10 @@
       "lastSuccess": 1734539870986
     },
     "main-limit.js": {
-      "total": 1368,
-      "success": 1364,
-      "last": 1734543898903,
-      "lastSuccess": 1734543898903
+      "total": 1370,
+      "success": 1366,
+      "last": 1734554360116,
+      "lastSuccess": 1734554360116
     },
     "downloader-yt2.js": {
       "total": 160,
@@ -78088,10 +78088,10 @@
       "lastSuccess": 1734543952803
     },
     "main-shop.js": {
-      "total": 1019,
-      "success": 1019,
-      "last": 1734544058168,
-      "lastSuccess": 1734544058168
+      "total": 1020,
+      "success": 1020,
+      "last": 1734554343865,
+      "lastSuccess": 1734554343865
     },
     "main-mentransfer.js": {
       "total": 177,
@@ -79801,7 +79801,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734550847348,
+      "backupDB": 1734554320210,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
