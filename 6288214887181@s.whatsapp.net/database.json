@@ -929,7 +929,7 @@
       "premiumTime": 0
     },
     "6283824012756@s.whatsapp.net": {
-      "exp": 6810,
+      "exp": 6819,
       "limit": 174,
       "registered": false,
       "name": "Zummy [C.D.I.S]",
@@ -945,7 +945,7 @@
       "WarnReason": "",
       "lastweekly": 1733554672423,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1733959009626,
@@ -50711,7 +50711,7 @@
       "lastBanned": 0
     },
     "6285931400906@s.whatsapp.net": {
-      "exp": 1896,
+      "exp": 1900,
       "limit": 424,
       "registered": false,
       "name": "Dino",
@@ -59356,7 +59356,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734478765481,
+      "backupDB": 1734480767337,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
