@@ -1,7 +1,7 @@
 {
   "users": {
     "6288210170915@s.whatsapp.net": {
-      "exp": 1593,
+      "exp": 1614,
       "limit": 4447,
       "registered": true,
       "name": "ikyy",
@@ -20,7 +20,7 @@
       "premium": false,
       "premiumTime": 1735277321393,
       "lastBanned": 0,
-      "lastcommand": 1734538009821,
+      "lastcommand": 1734540671425,
       "lastdaily": 1734484688058,
       "lastwork": 1734521431108,
       "lastrob": 1734526733172,
@@ -287,15 +287,15 @@
       "lastBanned": 0
     },
     "6285864116431@s.whatsapp.net": {
-      "exp": 275,
+      "exp": 296,
       "limit": 9004,
       "registered": false,
       "name": "احمد رمضان",
       "age": -1,
       "regTime": -1,
       "unreg": false,
-      "afk": -1,
-      "afkReason": "",
+      "afk": 1734540680622,
+      "afkReason": "mau tidur",
       "banned": false,
       "level": 55,
       "role": "Sergeant Grade 3 ︾³",
@@ -4710,7 +4710,7 @@
       "lastBanned": 0
     },
     "6282123163120@s.whatsapp.net": {
-      "exp": 40,
+      "exp": 45,
       "limit": 499,
       "registered": false,
       "name": "Yctxrcyvuvrct",
@@ -27743,8 +27743,8 @@
       "lastBanned": 0
     },
     "6289675620296@s.whatsapp.net": {
-      "exp": 315,
-      "limit": 1066,
+      "exp": 11116,
+      "limit": 1054,
       "registered": false,
       "name": "𝗐𝗁𝗒?",
       "age": -1,
@@ -27763,7 +27763,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1734528799235,
-      "lastwork": 1734530457726,
+      "lastwork": 1734542219196,
       "lastdaily": 1734528721162,
       "lastrob": 1734433627718
     },
@@ -34195,7 +34195,7 @@
       "premiumTime": 0
     },
     "6289510027072@s.whatsapp.net": {
-      "exp": 10736,
+      "exp": 10745,
       "limit": 4375,
       "registered": false,
       "name": "~ 𝒎𝒂𝒏𝒖𝒔𝒊𝒂✰🗿",
@@ -48728,7 +48728,7 @@
       "lastBanned": 0
     },
     "6282143175110@s.whatsapp.net": {
-      "exp": 331,
+      "exp": 357,
       "limit": 499,
       "registered": false,
       "name": "ARAFAT KODOK COOL",
@@ -71488,6 +71488,25 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "244804680192140_1@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -77938,10 +77957,10 @@
       "lastSuccess": 1734525657385
     },
     "_rayhan-menu.js": {
-      "total": 312,
-      "success": 303,
-      "last": 1734532411515,
-      "lastSuccess": 1734532411515
+      "total": 313,
+      "success": 304,
+      "last": 1734540691330,
+      "lastSuccess": 1734540691330
     },
     "_rayhan-allmenu.js": {
       "total": 380,
@@ -78046,10 +78065,10 @@
       "lastSuccess": 1734539599124
     },
     "main-shop.js": {
-      "total": 1007,
-      "success": 1007,
-      "last": 1734540603888,
-      "lastSuccess": 1734540603888
+      "total": 1009,
+      "success": 1009,
+      "last": 1734542268342,
+      "lastSuccess": 1734542268342
     },
     "main-mentransfer.js": {
       "total": 177,
@@ -78076,10 +78095,10 @@
       "lastSuccess": 1734536636099
     },
     "downloader-tiktok.js": {
-      "total": 345,
-      "success": 303,
-      "last": 1734538506253,
-      "lastSuccess": 1734538506253
+      "total": 346,
+      "success": 304,
+      "last": 1734542346618,
+      "lastSuccess": 1734542346618
     },
     "group-delete.js": {
       "total": 295,
@@ -78088,10 +78107,10 @@
       "lastSuccess": 1734519703615
     },
     "game-susunkata.js": {
-      "total": 5159,
-      "success": 4923,
-      "last": 1734540558781,
-      "lastSuccess": 1734540558781
+      "total": 5165,
+      "success": 4929,
+      "last": 1734542403620,
+      "lastSuccess": 1734542403620
     },
     "game-tebaklirik.js": {
       "total": 9,
@@ -78130,10 +78149,10 @@
       "lastSuccess": 1734523479506
     },
     "game-kerja.js": {
-      "total": 1709,
-      "success": 1538,
-      "last": 1734540529860,
-      "lastSuccess": 1734540529860
+      "total": 1711,
+      "success": 1540,
+      "last": 1734542148094,
+      "lastSuccess": 1734542148094
     },
     "group-tagme.js": {
       "total": 5,
@@ -78160,10 +78179,10 @@
       "lastSuccess": 1734540561931
     },
     "sticker-all.js": {
-      "total": 284,
-      "success": 274,
-      "last": 1734533105391,
-      "lastSuccess": 1734533105391
+      "total": 289,
+      "success": 279,
+      "last": 1734542107242,
+      "lastSuccess": 1734542107242
     },
     "games-tebakkata_hint.js": {
       "total": 861,
@@ -78220,10 +78239,10 @@
       "lastSuccess": 1734532934467
     },
     "main-afk_.js": {
-      "total": 418,
-      "success": 418,
-      "last": 1734540591954,
-      "lastSuccess": 1734540591954
+      "total": 419,
+      "success": 419,
+      "last": 1734540680625,
+      "lastSuccess": 1734540680625
     },
     "game-asahotak.js": {
       "total": 36,
@@ -78280,10 +78299,10 @@
       "lastSuccess": 1734530904678
     },
     "game-susunkata_hint.js": {
-      "total": 1056,
-      "success": 1006,
-      "last": 1734519071119,
-      "lastSuccess": 1734513306484
+      "total": 1059,
+      "success": 1008,
+      "last": 1734542382843,
+      "lastSuccess": 1734542382843
     },
     "game-tambang.js": {
       "total": 457,
@@ -78772,10 +78791,10 @@
       "lastSuccess": 1732588934963
     },
     "game-mulung.js": {
-      "total": 76,
-      "success": 59,
-      "last": 1734529829191,
-      "lastSuccess": 1734529829191
+      "total": 77,
+      "success": 60,
+      "last": 1734542219507,
+      "lastSuccess": 1734542219507
     },
     "info-donasi.js": {
       "total": 2,
@@ -79054,10 +79073,10 @@
       "lastSuccess": 1734529304628
     },
     "main-balance.js": {
-      "total": 888,
-      "success": 887,
-      "last": 1734540326094,
-      "lastSuccess": 1734540326094
+      "total": 891,
+      "success": 890,
+      "last": 1734542292247,
+      "lastSuccess": 1734542292247
     },
     "tool-toptt.js": {
       "total": 7,
@@ -79312,9 +79331,9 @@
       "lastSuccess": 1734441915221
     },
     "ai-main.js": {
-      "total": 29,
+      "total": 30,
       "success": 25,
-      "last": 1734532541713,
+      "last": 1734541797336,
       "lastSuccess": 1734532541713
     },
     ".saveplugin ai-main.js": {
@@ -79759,7 +79778,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734538823802,
+      "backupDB": 1734540633834,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
