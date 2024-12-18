@@ -28977,7 +28977,7 @@
       "premiumTime": 0
     },
     "6288214887181@s.whatsapp.net": {
-      "exp": 8276,
+      "exp": 8286,
       "limit": 499,
       "registered": false,
       "name": "Velgrynd",
@@ -113411,7 +113411,7 @@
       "lastBanned": 0
     },
     "6282295272552@s.whatsapp.net": {
-      "exp": 6587,
+      "exp": 6594,
       "limit": 1089,
       "registered": false,
       "name": "Miyan Japri",
@@ -113427,7 +113427,7 @@
       "WarnReason": "",
       "lastweekly": 1733272530001,
       "lastmonthly": 1733272533325,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1733272508874,
@@ -135377,7 +135377,7 @@
       "lastBanned": 0
     },
     "6282281819732@s.whatsapp.net": {
-      "exp": 264,
+      "exp": 269,
       "limit": 499,
       "registered": false,
       "name": "Jendral Maeza",
@@ -149607,7 +149607,7 @@
       "premiumTime": 0
     },
     "6282291607732@s.whatsapp.net": {
-      "exp": 5,
+      "exp": 49,
       "limit": 499,
       "registered": false,
       "name": ".",
@@ -149624,7 +149624,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6287866282191@s.whatsapp.net": {
       "exp": 9,
@@ -150358,7 +150359,7 @@
       "premiumTime": 0
     },
     "62895341178597@s.whatsapp.net": {
-      "exp": 13,
+      "exp": 80,
       "limit": 499,
       "registered": false,
       "name": "I want to die",
@@ -150652,7 +150653,7 @@
       "lastBanned": 0
     },
     "6289530291942@s.whatsapp.net": {
-      "exp": 799,
+      "exp": 821,
       "limit": 494,
       "registered": false,
       "name": "Yˢˣ",
@@ -151477,7 +151478,7 @@
       "lastBanned": 0
     },
     "6282311297604@s.whatsapp.net": {
-      "exp": 40,
+      "exp": 53,
       "limit": 499,
       "registered": false,
       "name": "ライ",
@@ -153712,6 +153713,65 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
+    },
+    "6289530522529@s.whatsapp.net": {
+      "exp": 7,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 895-3052-2529",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "40566603649180_1@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6289604196454@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 896-0419-6454",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -163548,10 +163608,10 @@
   },
   "stats": {
     "main-limit.js": {
-      "total": 669,
-      "success": 667,
-      "last": 1734535939327,
-      "lastSuccess": 1734535939327
+      "total": 670,
+      "success": 668,
+      "last": 1734560433689,
+      "lastSuccess": 1734560433689
     },
     "ai-openai.js": {
       "total": 9,
@@ -163698,10 +163758,10 @@
       "lastSuccess": 1734535776478
     },
     "_cek.js": {
-      "total": 1573,
-      "success": 1570,
-      "last": 1734543675247,
-      "lastSuccess": 1734543675247
+      "total": 1574,
+      "success": 1571,
+      "last": 1734560436135,
+      "lastSuccess": 1734560436135
     },
     "econ-claim.js": {
       "total": 1696,
@@ -163794,10 +163854,10 @@
       "lastSuccess": 1732552780464
     },
     "group-listonline.js": {
-      "total": 144,
-      "success": 143,
-      "last": 1734549282299,
-      "lastSuccess": 1734549282299
+      "total": 145,
+      "success": 144,
+      "last": 1734561017013,
+      "lastSuccess": 1734561017013
     },
     "owner-unbanchat.js": {
       "total": 146,
@@ -165803,7 +165863,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734557116087,
+      "backupDB": 1734559606041,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
