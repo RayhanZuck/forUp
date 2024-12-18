@@ -28581,7 +28581,7 @@
       "lastBanned": 0
     },
     "6281392076995@s.whatsapp.net": {
-      "exp": 2314,
+      "exp": 2347,
       "limit": 91,
       "registered": false,
       "name": "Astaroth Van Astrea👺",
@@ -41125,7 +41125,7 @@
       "lastcommand": 1734017379460
     },
     "6287879828780@s.whatsapp.net": {
-      "exp": 14780,
+      "exp": 14807,
       "limit": 1052,
       "registered": false,
       "name": "#tornado'tyzz",
@@ -41141,7 +41141,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastwork": 1734373627703,
@@ -50844,7 +50844,7 @@
       "lastBanned": 0
     },
     "6282115398149@s.whatsapp.net": {
-      "exp": 1219,
+      "exp": 1224,
       "limit": 499,
       "registered": false,
       "name": "anak_lanang",
@@ -53145,7 +53145,7 @@
       "premiumTime": 0
     },
     "6289528878264@s.whatsapp.net": {
-      "exp": 273,
+      "exp": 1863,
       "limit": 1130,
       "registered": false,
       "name": "Rendi",
@@ -53164,7 +53164,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastwork": 1734543340608,
+      "lastwork": 1734544394751,
       "lastcommand": 1734543968165,
       "lastdaily": 1734543897286
     },
@@ -79090,16 +79090,16 @@
       "lastSuccess": 1733147762483
     },
     "game-berburu.js": {
-      "total": 74,
-      "success": 62,
-      "last": 1734543340608,
-      "lastSuccess": 1734543340608
+      "total": 75,
+      "success": 63,
+      "last": 1734544394751,
+      "lastSuccess": 1734544394751
     },
     "main-balance.js": {
-      "total": 907,
-      "success": 906,
-      "last": 1734544011907,
-      "lastSuccess": 1734544011907
+      "total": 908,
+      "success": 907,
+      "last": 1734545300590,
+      "lastSuccess": 1734545300590
     },
     "tool-toptt.js": {
       "total": 7,
@@ -79801,7 +79801,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734542441897,
+      "backupDB": 1734544391832,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
