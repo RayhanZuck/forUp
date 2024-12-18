@@ -155,7 +155,7 @@
       "lastcommand": 1732771777501
     },
     "120363183420865643@g.us": {
-      "exp": 4485,
+      "exp": 4486,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -176,7 +176,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3365,
+      "exp": 3366,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1040,7 +1040,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 5472,
+      "exp": 5481,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -12390,8 +12390,8 @@
       "lastcommand": 1731472269564
     },
     "6281958351619@s.whatsapp.net": {
-      "exp": 14975,
-      "limit": 169,
+      "exp": 17027,
+      "limit": 244,
       "registered": false,
       "name": "kaAll",
       "age": -1,
@@ -12410,7 +12410,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1734073379943,
-      "lastdaily": 1734085712741,
+      "lastdaily": 1734526840850,
       "lastwork": 1733405659500
     },
     "6289506041099@s.whatsapp.net": {
@@ -17707,7 +17707,7 @@
       "warn": 1
     },
     "6285194505581@s.whatsapp.net": {
-      "exp": 5,
+      "exp": 6,
       "limit": 499,
       "registered": false,
       "name": "Hutangnya Dibayar",
@@ -17724,7 +17724,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6285194505824@s.whatsapp.net": {
       "exp": 8,
@@ -48971,7 +48972,7 @@
       "premiumTime": 0
     },
     "6285647642077@s.whatsapp.net": {
-      "exp": 1229,
+      "exp": 1247,
       "limit": 4,
       "registered": false,
       "name": "𝕽𝖆",
@@ -52035,6 +52036,64 @@
     },
     "254554608291859_1@s.whatsapp.net": {
       "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "19349414895707_1@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6281244384881@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 499,
+      "registered": false,
+      "name": "Eirene Tewu (iren)",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "151479771996321_1@s.whatsapp.net": {
+      "exp": 5,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -58155,10 +58214,10 @@
       "lastSuccess": 1734522641112
     },
     "downloader-tiktok.js": {
-      "total": 1555,
-      "success": 1437,
-      "last": 1734503400855,
-      "lastSuccess": 1734503400855
+      "total": 1556,
+      "success": 1438,
+      "last": 1734526817415,
+      "lastSuccess": 1734526817415
     },
     "owner-sf.js": {
       "total": 925,
@@ -58167,10 +58226,10 @@
       "lastSuccess": 1734516843419
     },
     "downloader-play.js": {
-      "total": 1632,
-      "success": 1527,
-      "last": 1734522370506,
-      "lastSuccess": 1734522370506
+      "total": 1633,
+      "success": 1528,
+      "last": 1734526872867,
+      "lastSuccess": 1734526872867
     },
     "downloader-ytvideo.js": {
       "total": 131,
@@ -58215,10 +58274,10 @@
       "lastSuccess": 1734505231710
     },
     "econ-claim.js": {
-      "total": 1687,
-      "success": 1163,
-      "last": 1734525426483,
-      "lastSuccess": 1734524104376
+      "total": 1688,
+      "success": 1164,
+      "last": 1734526840850,
+      "lastSuccess": 1734526840850
     },
     "game-curi.js": {
       "total": 953,
@@ -60338,7 +60397,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734524065880,
+      "backupDB": 1734526422941,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
