@@ -155,7 +155,7 @@
       "lastcommand": 1732771777501
     },
     "120363183420865643@g.us": {
-      "exp": 4468,
+      "exp": 4469,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -176,7 +176,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3356,
+      "exp": 3357,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -546,8 +546,8 @@
       "lastcommand": 1730277343521
     },
     "6285960191220@s.whatsapp.net": {
-      "exp": 596,
-      "limit": 54,
+      "exp": 619,
+      "limit": 24,
       "registered": true,
       "name": "Arsyad",
       "age": 13,
@@ -1040,7 +1040,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 5408,
+      "exp": 5416,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -2009,7 +2009,7 @@
       "lastcommand": 1733910391076
     },
     "6287713931944@s.whatsapp.net": {
-      "exp": 2979,
+      "exp": 2998,
       "limit": 274,
       "registered": false,
       "name": "ry",
@@ -7732,8 +7732,8 @@
       "premiumTime": 0
     },
     "6285939690667@s.whatsapp.net": {
-      "exp": 8252,
-      "limit": 169,
+      "exp": 8345,
+      "limit": 124,
       "registered": false,
       "name": "+62 859-3969-0667",
       "age": -1,
@@ -14570,8 +14570,8 @@
       "lastdaily": 1732374603876
     },
     "6283861421708@s.whatsapp.net": {
-      "exp": 11599,
-      "limit": 99,
+      "exp": 11621,
+      "limit": 84,
       "registered": false,
       "name": "By Emyu🔥",
       "age": -1,
@@ -57686,10 +57686,10 @@
       "lastSuccess": 1734439515178
     },
     "sticker-sticker.js": {
-      "total": 752,
-      "success": 651,
-      "last": 1734508791519,
-      "lastSuccess": 1734508791519
+      "total": 753,
+      "success": 652,
+      "last": 1734510733525,
+      "lastSuccess": 1734510733525
     },
     "sticker-toimg.js": {
       "total": 80,
@@ -57956,10 +57956,10 @@
       "lastSuccess": 1730161441000
     },
     "downloader-tiktoksearch.js": {
-      "total": 657,
-      "success": 650,
-      "last": 1734484131750,
-      "lastSuccess": 1734484131750
+      "total": 661,
+      "success": 654,
+      "last": 1734510932691,
+      "lastSuccess": 1734510932691
     },
     "ai-llama.js": {
       "total": 352,
@@ -58760,10 +58760,10 @@
       "lastSuccess": 1732545559487
     },
     "downloader-yt2.js": {
-      "total": 287,
-      "success": 177,
-      "last": 1734485458078,
-      "lastSuccess": 1734485458078
+      "total": 288,
+      "success": 178,
+      "last": 1734510697458,
+      "lastSuccess": 1734510697458
     },
     "internet-playlist.js": {
       "total": 20,
@@ -59839,7 +59839,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734506991778,
+      "backupDB": 1734509991652,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
