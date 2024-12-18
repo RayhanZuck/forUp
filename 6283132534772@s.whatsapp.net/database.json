@@ -501,7 +501,7 @@
       "premiumTime": 0
     },
     "120363280765137622@g.us": {
-      "exp": 153,
+      "exp": 156,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -517,7 +517,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
     },
@@ -2939,7 +2939,7 @@
       "premiumTime": 0
     },
     "6285768289549@s.whatsapp.net": {
-      "exp": 9,
+      "exp": 26,
       "limit": 499,
       "registered": false,
       "name": "Aldiano Wibowo",
@@ -2956,7 +2956,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6289617522456@s.whatsapp.net": {
       "exp": 11,
@@ -3186,7 +3187,7 @@
       "lastBanned": 0
     },
     "6282118386370@s.whatsapp.net": {
-      "exp": 1,
+      "exp": 2,
       "limit": 499,
       "registered": false,
       "name": "+62 821-1838-6370",
@@ -3203,7 +3204,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "62895366832480@s.whatsapp.net": {
       "exp": 113,
@@ -4573,7 +4575,7 @@
       "lastBanned": 0
     },
     "6288272469614@s.whatsapp.net": {
-      "exp": 7,
+      "exp": 23,
       "limit": 499,
       "registered": false,
       "name": "pace fahry",
@@ -5094,7 +5096,7 @@
       "lastBanned": 0
     },
     "6283890117217@s.whatsapp.net": {
-      "exp": 11,
+      "exp": 35,
       "limit": 499,
       "registered": false,
       "name": "Abdul Fathir",
@@ -5672,7 +5674,7 @@
       "lastBanned": 0
     },
     "6288975514574@s.whatsapp.net": {
-      "exp": 29,
+      "exp": 39,
       "limit": 499,
       "registered": false,
       "name": "505",
@@ -6170,7 +6172,7 @@
       "lastBanned": 0
     },
     "6285711466806@s.whatsapp.net": {
-      "exp": 54,
+      "exp": 184,
       "limit": 499,
       "registered": false,
       "name": "hertod",
@@ -6273,7 +6275,7 @@
       "premiumTime": 0
     },
     "6288976732716@s.whatsapp.net": {
-      "exp": 60,
+      "exp": 66,
       "limit": 499,
       "registered": false,
       "name": "Felixx",
@@ -6831,7 +6833,7 @@
       "lastBanned": 0
     },
     "628888453064@s.whatsapp.net": {
-      "exp": 267,
+      "exp": 269,
       "limit": 499,
       "registered": false,
       "name": "Jiro",
@@ -9923,7 +9925,7 @@
       "premiumTime": 0
     },
     "6281361773308@s.whatsapp.net": {
-      "exp": 2,
+      "exp": 6,
       "limit": 499,
       "registered": false,
       "name": "Isabelle",
@@ -9940,7 +9942,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6282328014654@s.whatsapp.net": {
       "exp": 48,
@@ -10802,7 +10805,7 @@
       "premiumTime": 0
     },
     "628812828024@s.whatsapp.net": {
-      "exp": 22,
+      "exp": 44,
       "limit": 499,
       "registered": false,
       "name": "Shizuka Ai",
@@ -11350,7 +11353,7 @@
       "premiumTime": 0
     },
     "6281282104725@s.whatsapp.net": {
-      "exp": 3,
+      "exp": 11,
       "limit": 499,
       "registered": false,
       "name": "+62 812-8210-4725",
@@ -11367,7 +11370,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6288989895610@s.whatsapp.net": {
       "exp": 8,
@@ -11410,7 +11414,7 @@
       "premiumTime": 0
     },
     "6287887757853@s.whatsapp.net": {
-      "exp": 5,
+      "exp": 6,
       "limit": 499,
       "registered": false,
       "name": "あさくら",
@@ -11427,7 +11431,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6283890560241@s.whatsapp.net": {
       "exp": 10,
@@ -11454,6 +11459,147 @@
       "limit": 499,
       "registered": false,
       "name": "+62 823-9204-5209",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "62895409011345@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "name": "Laba Laba Jawa",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "273602838585596_1@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6281266436038@s.whatsapp.net": {
+      "exp": 99,
+      "limit": 499,
+      "registered": false,
+      "name": "𝕵𝖆𝖐𝖎𝖎𝖎𝖎",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
+    },
+    "6283138760932@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "name": ",,,,,,,,,,,,,,",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6281252602755@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 812-5260-2755",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6281325210460@s.whatsapp.net": {
+      "exp": 12,
+      "limit": 499,
+      "registered": false,
+      "name": "barang siapa? barang gue!",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
+    },
+    "6283115936157@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 831-1593-6157",
       "age": -1,
       "regTime": -1,
       "unreg": false,
@@ -12429,7 +12575,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734536049067,
+      "backupDB": 1734537865355,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
