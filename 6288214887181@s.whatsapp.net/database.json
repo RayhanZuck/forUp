@@ -2340,8 +2340,8 @@
       "lastBanned": 0
     },
     "6282170977218@s.whatsapp.net": {
-      "exp": 11387,
-      "limit": 80,
+      "exp": 11419,
+      "limit": 60,
       "registered": false,
       "name": "Rambe suka elaina",
       "age": -1,
@@ -5446,8 +5446,8 @@
       "premiumTime": 0
     },
     "919863871445@s.whatsapp.net": {
-      "exp": 51480,
-      "limit": 204,
+      "exp": 51609,
+      "limit": 134,
       "registered": false,
       "name": "Asahi.",
       "age": -1,
@@ -52356,7 +52356,7 @@
       "lastBanned": 0
     },
     "6281297729591@s.whatsapp.net": {
-      "exp": 1051,
+      "exp": 1060,
       "limit": 1475,
       "registered": false,
       "name": "𝙃𝘼𝙉𝙕 𝙎𝙏𝙊𝙍𝙀",
@@ -58577,10 +58577,10 @@
       "lastSuccess": 1734539103457
     },
     "downloader-tiktok.js": {
-      "total": 1560,
-      "success": 1442,
-      "last": 1734550119810,
-      "lastSuccess": 1734550119810
+      "total": 1561,
+      "success": 1443,
+      "last": 1734552059861,
+      "lastSuccess": 1734552059861
     },
     "owner-sf.js": {
       "total": 935,
@@ -58637,9 +58637,9 @@
       "lastSuccess": 1734505231710
     },
     "econ-claim.js": {
-      "total": 1699,
+      "total": 1700,
       "success": 1175,
-      "last": 1734536034906,
+      "last": 1734551997608,
       "lastSuccess": 1734536034906
     },
     "game-curi.js": {
@@ -58721,10 +58721,10 @@
       "lastSuccess": 1734415656247
     },
     "ai-remini.js": {
-      "total": 791,
-      "success": 746,
-      "last": 1734548867597,
-      "lastSuccess": 1734548867597
+      "total": 793,
+      "success": 748,
+      "last": 1734552395312,
+      "lastSuccess": 1734552395312
     },
     "game-tebakbendera.js": {
       "total": 328,
@@ -60389,10 +60389,10 @@
       "lastSuccess": 1732625090496
     },
     "tool-removebg.js": {
-      "total": 8,
-      "success": 7,
-      "last": 1734363227542,
-      "lastSuccess": 1734363227542
+      "total": 10,
+      "success": 8,
+      "last": 1734552042075,
+      "lastSuccess": 1734552042075
     },
     "islam-kisahnabi.js": {
       "total": 9,
@@ -60784,7 +60784,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734550114137,
+      "backupDB": 1734551996513,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
