@@ -4991,8 +4991,8 @@
       "premiumTime": 0
     },
     "6281944146957@s.whatsapp.net": {
-      "exp": 383,
-      "limit": 309,
+      "exp": 446,
+      "limit": 259,
       "registered": false,
       "name": "Ji-oh",
       "age": -1,
@@ -11726,7 +11726,7 @@
       "lastdaily": 1733495894416
     },
     "6288286718385@s.whatsapp.net": {
-      "exp": 3589,
+      "exp": 3608,
       "limit": 320,
       "registered": false,
       "name": "efata.",
@@ -11742,10 +11742,10 @@
       "WarnReason": "",
       "lastweekly": 1734410036888,
       "lastmonthly": 1731928995518,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734539007820,
+      "lastcommand": 1734549184244,
       "lastdaily": 1734499132676,
       "lastwork": 1731937245474
     },
@@ -41087,8 +41087,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
-      "premiumTime": 0
+      "premium": false,
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "13135550002@s.whatsapp.net": {
       "exp": 374,
@@ -58720,10 +58721,10 @@
       "lastSuccess": 1734415656247
     },
     "ai-remini.js": {
-      "total": 789,
-      "success": 744,
-      "last": 1734535472280,
-      "lastSuccess": 1734535472280
+      "total": 791,
+      "success": 746,
+      "last": 1734548867597,
+      "lastSuccess": 1734548867597
     },
     "game-tebakbendera.js": {
       "total": 328,
@@ -59074,10 +59075,10 @@
       "lastSuccess": 1734400278576
     },
     "group-listonline.js": {
-      "total": 142,
-      "success": 129,
-      "last": 1734539982461,
-      "lastSuccess": 1734539982461
+      "total": 143,
+      "success": 130,
+      "last": 1734549184247,
+      "lastSuccess": 1734549184247
     },
     "tools-lyrics.js": {
       "total": 124,
@@ -60783,7 +60784,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734543444522,
+      "backupDB": 1734548262217,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
