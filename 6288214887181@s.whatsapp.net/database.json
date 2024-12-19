@@ -87,7 +87,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 113359,
+      "exp": 113389,
       "limit": 0,
       "registered": false,
       "name": "Rayhan?",
@@ -155,7 +155,7 @@
       "lastcommand": 1732771777501
     },
     "120363183420865643@g.us": {
-      "exp": 4539,
+      "exp": 4554,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1040,7 +1040,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 5601,
+      "exp": 5607,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -2052,7 +2052,7 @@
       "lastBanned": 0
     },
     "6283879425472@s.whatsapp.net": {
-      "exp": 207,
+      "exp": 275,
       "limit": 314,
       "registered": false,
       "name": "wnnz",
@@ -2922,8 +2922,8 @@
       "lastBanned": 0
     },
     "6283867247755@s.whatsapp.net": {
-      "exp": 28603,
-      "limit": 4952,
+      "exp": 28624,
+      "limit": 4927,
       "registered": false,
       "name": "~ツ",
       "age": -1,
@@ -4330,7 +4330,7 @@
       "lastdaily": 1734318868595
     },
     "62895711885757@s.whatsapp.net": {
-      "exp": 550156,
+      "exp": 550174,
       "limit": 325,
       "registered": false,
       "name": "awaa",
@@ -20385,8 +20385,8 @@
       "lastBanned": 0
     },
     "62882006212609@s.whatsapp.net": {
-      "exp": 22257,
-      "limit": 13,
+      "exp": 327,
+      "limit": 56,
       "registered": false,
       "name": "Aljndn",
       "age": -1,
@@ -33627,7 +33627,7 @@
       "lastBanned": 0
     },
     "6289637192199@s.whatsapp.net": {
-      "exp": 373,
+      "exp": 394,
       "limit": 499,
       "registered": false,
       "name": "T",
@@ -34694,7 +34694,7 @@
       "premiumTime": 0
     },
     "6281240232241@s.whatsapp.net": {
-      "exp": 54,
+      "exp": 59,
       "limit": 469,
       "registered": false,
       "name": "Rii Kiyotaka's",
@@ -52820,6 +52820,46 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "62895708578811@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 499,
+      "registered": false,
+      "name": "PALD0T",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6285394495227@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 499,
+      "registered": false,
+      "name": "aull",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -58970,9 +59010,9 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 664,
+      "total": 666,
       "success": 615,
-      "last": 1734596416735,
+      "last": 1734598051295,
       "lastSuccess": 1734596285414
     },
     "downloader-tiktok.js": {
@@ -58982,16 +59022,16 @@
       "lastSuccess": 1734594899507
     },
     "owner-sf.js": {
-      "total": 944,
-      "success": 860,
-      "last": 1734596402690,
-      "lastSuccess": 1734596402690
+      "total": 945,
+      "success": 861,
+      "last": 1734596552074,
+      "lastSuccess": 1734596552074
     },
     "downloader-play.js": {
-      "total": 1701,
-      "success": 1595,
-      "last": 1734595963071,
-      "lastSuccess": 1734595963071
+      "total": 1702,
+      "success": 1596,
+      "last": 1734597564071,
+      "lastSuccess": 1734597564071
     },
     "downloader-ytvideo.js": {
       "total": 133,
@@ -59000,10 +59040,10 @@
       "lastSuccess": 1734591224420
     },
     "sticker-sticker.js": {
-      "total": 769,
-      "success": 664,
-      "last": 1734595703283,
-      "lastSuccess": 1734595703283
+      "total": 770,
+      "success": 665,
+      "last": 1734598288912,
+      "lastSuccess": 1734598288912
     },
     "sticker-toimg.js": {
       "total": 80,
@@ -59036,9 +59076,9 @@
       "lastSuccess": 1734505231710
     },
     "econ-claim.js": {
-      "total": 1724,
+      "total": 1726,
       "success": 1190,
-      "last": 1734595805562,
+      "last": 1734597695766,
       "lastSuccess": 1734595790931
     },
     "game-curi.js": {
@@ -59060,10 +59100,10 @@
       "lastSuccess": 1734585665381
     },
     "main-shop.js": {
-      "total": 644,
-      "success": 644,
-      "last": 1734595907106,
-      "lastSuccess": 1734595907106
+      "total": 645,
+      "success": 645,
+      "last": 1734597703874,
+      "lastSuccess": 1734597703874
     },
     "main-level.js": {
       "total": 182,
@@ -59186,10 +59226,10 @@
       "lastSuccess": 1731509107103
     },
     "downloader-pinterest.js": {
-      "total": 546,
-      "success": 483,
-      "last": 1734566509121,
-      "lastSuccess": 1734566509121
+      "total": 548,
+      "success": 485,
+      "last": 1734597710525,
+      "lastSuccess": 1734597710525
     },
     "downloader-soundcloud.js": {
       "total": 22,
@@ -61189,7 +61229,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734594620530,
+      "backupDB": 1734596551701,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
