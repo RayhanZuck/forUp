@@ -87,7 +87,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 111977,
+      "exp": 112538,
       "limit": 0,
       "registered": false,
       "name": "Rayhan?",
@@ -106,7 +106,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734621316402,
+      "lastcommand": 1734650519522,
       "lastwork": 1734240647492,
       "aiprompt": "mulai sekarang nama kamu adalah jinan safa safira, kamu orang yang sangat baik"
     },
@@ -49960,8 +49960,8 @@
       "premiumTime": 0
     },
     "6289677414856@s.whatsapp.net": {
-      "exp": 2488,
-      "limit": 604,
+      "exp": 2962,
+      "limit": 479,
       "registered": false,
       "name": "Rogue Jolly Kitty",
       "age": -1,
@@ -49982,7 +49982,7 @@
       "lastcommand": 1734611610842,
       "lastdaily": 1734648232054,
       "lastrob": 1734602264191,
-      "lastwork": 1734528339981
+      "lastwork": 1734649146118
     },
     "6283186426663@s.whatsapp.net": {
       "exp": 5,
@@ -51238,8 +51238,8 @@
       "premiumTime": 0
     },
     "6288225432435@s.whatsapp.net": {
-      "exp": 12138,
-      "limit": 164,
+      "exp": 12227,
+      "limit": 114,
       "registered": false,
       "name": "Aksa Wibisono",
       "age": -1,
@@ -53153,7 +53153,7 @@
       "premiumTime": 0
     },
     "62895360568148@s.whatsapp.net": {
-      "exp": 6,
+      "exp": 15,
       "limit": 499,
       "registered": false,
       "name": "!!!!!!",
@@ -53170,7 +53170,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "246548738895900_1@s.whatsapp.net": {
       "exp": 3,
@@ -53272,6 +53273,25 @@
     },
     "257050001014853_1@s.whatsapp.net": {
       "exp": 7,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "233732170584251_1@s.whatsapp.net": {
+      "exp": 4,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -53398,7 +53418,8 @@
       "expired": 86313600000,
       "autoSticker": true,
       "antiGrup": true,
-      "detekporn": true
+      "detekporn": true,
+      "antiAudio": false
     },
     "120363240711248334@g.us": {
       "isBanned": false,
@@ -59450,16 +59471,16 @@
       "lastSuccess": 1734623328802
     },
     "owner-sf.js": {
-      "total": 947,
-      "success": 863,
-      "last": 1734621322049,
-      "lastSuccess": 1734621322049
+      "total": 952,
+      "success": 868,
+      "last": 1734650551632,
+      "lastSuccess": 1734650551632
     },
     "downloader-play.js": {
-      "total": 1710,
-      "success": 1604,
-      "last": 1734648606991,
-      "lastSuccess": 1734648606991
+      "total": 1719,
+      "success": 1613,
+      "last": 1734649340840,
+      "lastSuccess": 1734649340840
     },
     "downloader-ytvideo.js": {
       "total": 133,
@@ -59480,10 +59501,10 @@
       "lastSuccess": 1734439854775
     },
     "game-kerja.js": {
-      "total": 880,
-      "success": 715,
-      "last": 1734629474712,
-      "lastSuccess": 1734629474712
+      "total": 881,
+      "success": 716,
+      "last": 1734649146681,
+      "lastSuccess": 1734649146681
     },
     "ai-blackbox.js": {
       "total": 14,
@@ -59552,10 +59573,10 @@
       "lastSuccess": 1734538412480
     },
     "main-limit.js": {
-      "total": 1159,
-      "success": 1159,
-      "last": 1734648225567,
-      "lastSuccess": 1734648225567
+      "total": 1160,
+      "success": 1160,
+      "last": 1734649011245,
+      "lastSuccess": 1734649011245
     },
     "game-ulartangga.js": {
       "total": 78,
@@ -59612,16 +59633,16 @@
       "lastSuccess": 1734571146721
     },
     "_cek.js": {
-      "total": 700,
-      "success": 700,
-      "last": 1734621316762,
-      "lastSuccess": 1734621316762
+      "total": 702,
+      "success": 702,
+      "last": 1734650520229,
+      "lastSuccess": 1734650520229
     },
     "enable.js": {
-      "total": 95,
-      "success": 30,
-      "last": 1734489487098,
-      "lastSuccess": 1734239505380
+      "total": 98,
+      "success": 33,
+      "last": 1734649306696,
+      "lastSuccess": 1734649306696
     },
     "owner-addsewa.js": {
       "total": 7,
@@ -59738,10 +59759,10 @@
       "lastSuccess": 1730161441000
     },
     "downloader-tiktoksearch.js": {
-      "total": 706,
-      "success": 699,
-      "last": 1734618628856,
-      "lastSuccess": 1734618628856
+      "total": 708,
+      "success": 701,
+      "last": 1734649420937,
+      "lastSuccess": 1734649420937
     },
     "ai-llama.js": {
       "total": 352,
@@ -59888,10 +59909,10 @@
       "lastSuccess": 1734078278876
     },
     "downloader-playvid.js": {
-      "total": 88,
-      "success": 58,
-      "last": 1734591500278,
-      "lastSuccess": 1734591500278
+      "total": 89,
+      "success": 59,
+      "last": 1734649639541,
+      "lastSuccess": 1734649639541
     },
     "game-siapakahaku_hint.js": {
       "total": 94,
@@ -60140,10 +60161,10 @@
       "lastSuccess": 1731509095029
     },
     "owner-exec2.js": {
-      "total": 34,
-      "success": 34,
-      "last": 1734369409397,
-      "lastSuccess": 1734369409397
+      "total": 35,
+      "success": 35,
+      "last": 1734650545321,
+      "lastSuccess": 1734650545321
     },
     "sticker-pinterest.js": {
       "total": 98,
@@ -60182,10 +60203,10 @@
       "lastSuccess": 0
     },
     "tool-tomp3.js": {
-      "total": 100,
-      "success": 100,
-      "last": 1734497424934,
-      "lastSuccess": 1734497424934
+      "total": 110,
+      "success": 110,
+      "last": 1734650284468,
+      "lastSuccess": 1734650284468
     },
     "vn-bot.js": {
       "total": 29,
@@ -60542,10 +60563,10 @@
       "lastSuccess": 1732545559487
     },
     "downloader-yt2.js": {
-      "total": 301,
-      "success": 191,
-      "last": 1734599315486,
-      "lastSuccess": 1734599315486
+      "total": 302,
+      "success": 192,
+      "last": 1734649824270,
+      "lastSuccess": 1734649824270
     },
     "internet-playlist.js": {
       "total": 20,
@@ -61657,7 +61678,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734646953231,
+      "backupDB": 1734648780811,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
