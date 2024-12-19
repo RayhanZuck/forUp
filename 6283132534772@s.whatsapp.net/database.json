@@ -481,7 +481,7 @@
       "lastBanned": 0
     },
     "6285750070945@s.whatsapp.net": {
-      "exp": 7,
+      "exp": 33,
       "limit": 499,
       "registered": false,
       "name": "Peter Allen",
@@ -502,7 +502,7 @@
       "lastBanned": 0
     },
     "120363280765137622@g.us": {
-      "exp": 190,
+      "exp": 206,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -799,7 +799,7 @@
       "lastcommand": 1734580436543
     },
     "639856249593@s.whatsapp.net": {
-      "exp": 642,
+      "exp": 667,
       "limit": 499,
       "registered": false,
       "name": "rastafari mengeluarkan anda",
@@ -1360,7 +1360,7 @@
       "lastcommand": 1734520208698
     },
     "13135550002@s.whatsapp.net": {
-      "exp": 237,
+      "exp": 270,
       "limit": 499,
       "registered": false,
       "name": "13135550002",
@@ -1484,7 +1484,7 @@
       "premiumTime": 0
     },
     "120363341736998665@g.us": {
-      "exp": 219,
+      "exp": 236,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -5912,7 +5912,7 @@
       "lastBanned": 0
     },
     "6282272358233@s.whatsapp.net": {
-      "exp": 12,
+      "exp": 17,
       "limit": 499,
       "registered": false,
       "name": "Zufar",
@@ -9644,7 +9644,7 @@
       "lastBanned": 0
     },
     "6281367209985@s.whatsapp.net": {
-      "exp": 6,
+      "exp": 28,
       "limit": 499,
       "registered": false,
       "name": "ALAMAK 😂",
@@ -9661,7 +9661,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6285738846847@s.whatsapp.net": {
       "exp": 9,
@@ -9947,7 +9948,7 @@
       "premiumTime": 0
     },
     "6281361773308@s.whatsapp.net": {
-      "exp": 26,
+      "exp": 36,
       "limit": 499,
       "registered": false,
       "name": "Isabelle",
@@ -10707,7 +10708,7 @@
       "lastBanned": 0
     },
     "6285176820770@s.whatsapp.net": {
-      "exp": 32,
+      "exp": 69,
       "limit": 499,
       "registered": false,
       "name": "el",
@@ -14542,7 +14543,7 @@
       "premiumTime": 0
     },
     "6283116078099@s.whatsapp.net": {
-      "exp": 27,
+      "exp": 28,
       "limit": 499,
       "registered": false,
       "name": "P",
@@ -15745,7 +15746,7 @@
       "lastBanned": 0
     },
     "6281389086405@s.whatsapp.net": {
-      "exp": 42,
+      "exp": 60,
       "limit": 489,
       "registered": false,
       "name": ".",
@@ -15769,6 +15770,148 @@
       "exp": 5,
       "limit": 499,
       "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6283114826597@s.whatsapp.net": {
+      "exp": 25,
+      "limit": 499,
+      "registered": false,
+      "name": "abcdaam",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
+    },
+    "6288267068452@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 882-6706-8452",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6282312245318@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 823-1224-5318",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6282171640948@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 821-7164-0948",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6283138984951@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "name": "Pengejadi Isteri BoBoiBoy",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6281376493013@s.whatsapp.net": {
+      "exp": 13,
+      "limit": 499,
+      "registered": false,
+      "name": ".",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
+    },
+    "6289510270132@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 499,
+      "registered": false,
+      "name": "Rinzz",
       "age": -1,
       "regTime": -1,
       "unreg": false,
@@ -16800,7 +16943,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734583586798,
+      "backupDB": 1734585396867,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
