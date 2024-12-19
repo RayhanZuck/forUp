@@ -142350,7 +142350,7 @@
       "lastBanned": 0
     },
     "6283138512982@s.whatsapp.net": {
-      "exp": 11,
+      "exp": 23,
       "limit": 499,
       "registered": false,
       "name": "..?",
@@ -150495,7 +150495,7 @@
       "lastBanned": 0
     },
     "62857526150234@s.whatsapp.net": {
-      "exp": 1549,
+      "exp": 1566,
       "limit": 499,
       "registered": false,
       "name": "Mn",
@@ -150516,7 +150516,7 @@
       "lastBanned": 0
     },
     "6285863601448@s.whatsapp.net": {
-      "exp": 1481,
+      "exp": 1527,
       "limit": 499,
       "registered": false,
       "name": "AmeliaBotz",
@@ -155253,7 +155253,7 @@
       "premiumTime": 0
     },
     "62895619984646@s.whatsapp.net": {
-      "exp": 449,
+      "exp": 463,
       "limit": 474,
       "registered": false,
       "name": "Azure",
@@ -157475,6 +157475,46 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
+    },
+    "601151677958@s.whatsapp.net": {
+      "exp": 43,
+      "limit": 479,
+      "registered": false,
+      "name": "Sendiri.",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
+    },
+    "187153485172987_1@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -167987,9 +168027,9 @@
       "lastSuccess": 1734448515777
     },
     "downloader-playvid.js": {
-      "total": 127,
+      "total": 128,
       "success": 111,
-      "last": 1734591499925,
+      "last": 1734643745234,
       "lastSuccess": 1734591499925
     },
     "game-berburu.js": {
@@ -169211,10 +169251,10 @@
       "lastSuccess": 1734423783716
     },
     "downloader-tiktok.js": {
-      "total": 355,
-      "success": 338,
-      "last": 1734623324523,
-      "lastSuccess": 1734623324523
+      "total": 356,
+      "success": 339,
+      "last": 1734644111040,
+      "lastSuccess": 1734644111040
     },
     "scld.js": {
       "total": 4,
@@ -169702,7 +169742,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734640670833,
+      "backupDB": 1734643730938,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
