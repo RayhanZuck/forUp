@@ -155,7 +155,7 @@
       "lastcommand": 1732771777501
     },
     "120363183420865643@g.us": {
-      "exp": 4534,
+      "exp": 4539,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -176,7 +176,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3429,
+      "exp": 3433,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -713,8 +713,8 @@
       "lastdaily": 1732086399164
     },
     "628884584571@s.whatsapp.net": {
-      "exp": 25578,
-      "limit": 39,
+      "exp": 27681,
+      "limit": 99,
       "registered": false,
       "name": "iky",
       "age": -1,
@@ -733,7 +733,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1733004882355,
-      "lastdaily": 1734247279251
+      "lastdaily": 1734589241571
     },
     "6285819941601@s.whatsapp.net": {
       "exp": 1655,
@@ -1040,7 +1040,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 5598,
+      "exp": 5601,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -3373,7 +3373,7 @@
       "lastdaily": 1732544755487
     },
     "6282220634490@s.whatsapp.net": {
-      "exp": 12765,
+      "exp": 12797,
       "limit": 1324,
       "registered": false,
       "name": "~ iz.",
@@ -50725,7 +50725,7 @@
       "lastBanned": 0
     },
     "6285931400906@s.whatsapp.net": {
-      "exp": 2236,
+      "exp": 2241,
       "limit": 284,
       "registered": false,
       "name": "Dino",
@@ -52725,6 +52725,46 @@
       "exp": 2,
       "limit": 499,
       "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6285814880736@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 858-1488-0736",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6285148387365@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "name": "Jordan",
       "age": -1,
       "regTime": -1,
       "unreg": false,
@@ -58869,10 +58909,10 @@
       "lastSuccess": 1734562435428
     },
     "downloader-tiktok.js": {
-      "total": 1570,
-      "success": 1452,
-      "last": 1734582766213,
-      "lastSuccess": 1734582766213
+      "total": 1573,
+      "success": 1455,
+      "last": 1734589288404,
+      "lastSuccess": 1734589288404
     },
     "owner-sf.js": {
       "total": 939,
@@ -58929,10 +58969,10 @@
       "lastSuccess": 1734505231710
     },
     "econ-claim.js": {
-      "total": 1715,
-      "success": 1183,
-      "last": 1734587360904,
-      "lastSuccess": 1734587360904
+      "total": 1716,
+      "success": 1184,
+      "last": 1734589241571,
+      "lastSuccess": 1734589241571
     },
     "game-curi.js": {
       "total": 963,
@@ -61076,7 +61116,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734587034559,
+      "backupDB": 1734589066407,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
