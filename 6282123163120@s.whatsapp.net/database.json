@@ -27746,15 +27746,15 @@
       "lastBanned": 0
     },
     "6289675620296@s.whatsapp.net": {
-      "exp": 275705,
-      "limit": 950,
+      "exp": 285384,
+      "limit": 965,
       "registered": false,
       "name": "𝗐𝗁𝗒?",
       "age": -1,
       "regTime": -1,
       "unreg": false,
-      "afk": -1,
-      "afkReason": "",
+      "afk": 1734635106570,
+      "afkReason": "tdr",
       "banned": false,
       "level": 23,
       "role": "Corporal Grade 2 ☰²",
@@ -27765,8 +27765,8 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734633217919,
-      "lastwork": 1734633233860,
+      "lastcommand": "2024-12-19T18:55:55.978Z",
+      "lastwork": 1734635065734,
       "lastdaily": 1734528721162,
       "lastrob": 1734632566490
     },
@@ -30225,7 +30225,7 @@
       "premiumTime": 0
     },
     "6289516283328@s.whatsapp.net": {
-      "exp": 46,
+      "exp": 1065,
       "limit": 499,
       "registered": false,
       "name": "JARAN",
@@ -31001,15 +31001,15 @@
       "lastBanned": 0
     },
     "6285720973051@s.whatsapp.net": {
-      "exp": 1798467,
-      "limit": 11691,
+      "exp": 1813774,
+      "limit": 11686,
       "registered": true,
       "name": "citra",
       "age": 15,
       "regTime": 1733455027485,
       "unreg": false,
-      "afk": -1,
-      "afkReason": "",
+      "afk": 1734635214504,
+      "afkReason": "mau tdur besok skull 😞",
       "banned": false,
       "level": 49,
       "role": "Staff Grade 5 ﹀⁵",
@@ -31020,10 +31020,10 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastwork": 1734633247085,
+      "lastwork": 1734635192737,
       "lastdaily": 1734451842928,
       "lastrob": 1734632555789,
-      "lastcommand": "2024-12-19T18:34:44.803Z"
+      "lastcommand": 1734635001720
     },
     "6285710550405@s.whatsapp.net": {
       "exp": 126,
@@ -51079,15 +51079,15 @@
       "premiumTime": 0
     },
     "62895619015073@s.whatsapp.net": {
-      "exp": 135737,
-      "limit": 162,
+      "exp": 138512,
+      "limit": 142,
       "registered": false,
       "name": "𝑞𝑢𝑖𝑙𝑙𝑎𝑧'𝑠📍",
       "age": -1,
       "regTime": -1,
       "unreg": false,
-      "afk": -1,
-      "afkReason": "",
+      "afk": 1734634560858,
+      "afkReason": "ngantuk",
       "banned": false,
       "level": 16,
       "role": "Private Grade 3 ⚌³",
@@ -51099,7 +51099,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1734633237082,
-      "lastwork": 1734633354300,
+      "lastwork": 1734634311705,
       "lastrob": 1734594449271,
       "lastdaily": 1734603932745
     },
@@ -70251,7 +70251,7 @@
       "lastBanned": 0
     },
     "6282241829553@s.whatsapp.net": {
-      "exp": 23,
+      "exp": 28,
       "limit": 499,
       "registered": false,
       "name": "— ᥫ★",
@@ -74033,7 +74033,7 @@
       "premiumTime": 0
     },
     "6287791294495@s.whatsapp.net": {
-      "exp": 45,
+      "exp": 53,
       "limit": 499,
       "registered": false,
       "name": "ayaa★♥︎",
@@ -81138,28 +81138,28 @@
       "lastSuccess": 1734624009341
     },
     "main-mentransfer.js": {
-      "total": 182,
-      "success": 182,
-      "last": 1734633528923,
-      "lastSuccess": 1734633528923
+      "total": 186,
+      "success": 186,
+      "last": 1734633661593,
+      "lastSuccess": 1734633661593
     },
     "game-mancing.js": {
-      "total": 594,
-      "success": 460,
-      "last": 1734633247385,
-      "lastSuccess": 1734633247385
+      "total": 596,
+      "success": 462,
+      "last": 1734634752267,
+      "lastSuccess": 1734634752267
     },
     "_shortcut.js": {
-      "total": 196,
-      "success": 196,
-      "last": 1734621934647,
-      "lastSuccess": 1734621934647
+      "total": 197,
+      "success": 197,
+      "last": 1734634228532,
+      "lastSuccess": 1734634228532
     },
     "game-slot.js": {
-      "total": 28,
-      "success": 18,
-      "last": 1734633287732,
-      "lastSuccess": 1734633287732
+      "total": 32,
+      "success": 20,
+      "last": 1734635002059,
+      "lastSuccess": 1734635002059
     },
     "downloader-tiktok.js": {
       "total": 363,
@@ -81216,10 +81216,10 @@
       "lastSuccess": 1734618808767
     },
     "game-kerja.js": {
-      "total": 1782,
-      "success": 1604,
-      "last": 1734633354697,
-      "lastSuccess": 1734633354697
+      "total": 1787,
+      "success": 1609,
+      "last": 1734635193450,
+      "lastSuccess": 1734635193450
     },
     "group-tagme.js": {
       "total": 5,
@@ -81246,10 +81246,10 @@
       "lastSuccess": 1734632951271
     },
     "sticker-all.js": {
-      "total": 319,
-      "success": 307,
-      "last": 1734633534310,
-      "lastSuccess": 1734633534310
+      "total": 321,
+      "success": 309,
+      "last": 1734634580226,
+      "lastSuccess": 1734634580226
     },
     "games-tebakkata_hint.js": {
       "total": 903,
@@ -81306,10 +81306,10 @@
       "lastSuccess": 1734626004891
     },
     "main-afk_.js": {
-      "total": 431,
-      "success": 431,
-      "last": 1734609473102,
-      "lastSuccess": 1734609473102
+      "total": 434,
+      "success": 434,
+      "last": 1734635214504,
+      "lastSuccess": 1734635214504
     },
     "game-asahotak.js": {
       "total": 40,
@@ -81372,10 +81372,10 @@
       "lastSuccess": 1734633463976
     },
     "game-tambang.js": {
-      "total": 476,
-      "success": 424,
-      "last": 1734633014434,
-      "lastSuccess": 1734633014434
+      "total": 477,
+      "success": 425,
+      "last": 1734634963668,
+      "lastSuccess": 1734634963668
     },
     "game-family100.js": {
       "total": 366,
@@ -81660,10 +81660,10 @@
       "lastSuccess": 1734624965629
     },
     "group-listonline.js": {
-      "total": 450,
-      "success": 430,
-      "last": 1734633237082,
-      "lastSuccess": 1734633237082
+      "total": 451,
+      "success": 431,
+      "last": 1734634530037,
+      "lastSuccess": 1734634530037
     },
     "game-emoji.js": {
       "total": 8,
@@ -81678,10 +81678,10 @@
       "lastSuccess": 1732511059086
     },
     "game-ulartangga.js": {
-      "total": 20,
-      "success": 20,
-      "last": 1734540009824,
-      "lastSuccess": 1734540009824
+      "total": 115,
+      "success": 115,
+      "last": 1734634942694,
+      "lastSuccess": 1734634942694
     },
     "islamic-niatsholat.js": {
       "total": 2,
@@ -81858,10 +81858,10 @@
       "lastSuccess": 1732588934963
     },
     "game-mulung.js": {
-      "total": 87,
-      "success": 67,
-      "last": 1734633271035,
-      "lastSuccess": 1734630096750
+      "total": 88,
+      "success": 68,
+      "last": 1734635066031,
+      "lastSuccess": 1734635066031
     },
     "info-donasi.js": {
       "total": 2,
@@ -81900,10 +81900,10 @@
       "lastSuccess": 1734507126036
     },
     "game-fight.js": {
-      "total": 62,
-      "success": 62,
-      "last": 1734633278790,
-      "lastSuccess": 1734633278790
+      "total": 63,
+      "success": 63,
+      "last": 1734634549954,
+      "lastSuccess": 1734634549954
     },
     "vn-wibu.js": {
       "total": 7,
@@ -82134,16 +82134,16 @@
       "lastSuccess": 1733147762483
     },
     "game-berburu.js": {
-      "total": 84,
-      "success": 71,
-      "last": 1734633264121,
-      "lastSuccess": 1734632548636
+      "total": 85,
+      "success": 72,
+      "last": 1734634294821,
+      "lastSuccess": 1734634294821
     },
     "main-balance.js": {
-      "total": 969,
-      "success": 968,
-      "last": 1734633402291,
-      "lastSuccess": 1734633402291
+      "total": 971,
+      "success": 970,
+      "last": 1734634381852,
+      "lastSuccess": 1734634381852
     },
     "tool-toptt.js": {
       "total": 7,
@@ -82893,7 +82893,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734631776504,
+      "backupDB": 1734633580978,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
