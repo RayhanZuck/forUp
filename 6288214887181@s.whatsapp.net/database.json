@@ -176,7 +176,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3418,
+      "exp": 3421,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -8021,7 +8021,7 @@
       "lastBanned": 0
     },
     "628818691228@s.whatsapp.net": {
-      "exp": 1959,
+      "exp": 1966,
       "limit": 2854,
       "registered": false,
       "name": "+62 881-8691-228",
@@ -8037,7 +8037,7 @@
       "WarnReason": "",
       "lastweekly": 1734252884552,
       "lastmonthly": 1732165785807,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastwork": 1734536165479,
@@ -19228,7 +19228,7 @@
       "lastBanned": 0
     },
     "62895321866421@s.whatsapp.net": {
-      "exp": 25,
+      "exp": 39,
       "limit": 499,
       "registered": false,
       "name": "Kamu",
@@ -33624,7 +33624,7 @@
       "lastBanned": 0
     },
     "6289637192199@s.whatsapp.net": {
-      "exp": 210,
+      "exp": 292,
       "limit": 499,
       "registered": false,
       "name": "T",
@@ -47783,7 +47783,7 @@
       "premiumTime": 0
     },
     "6283846829169@s.whatsapp.net": {
-      "exp": 438,
+      "exp": 440,
       "limit": -21,
       "registered": false,
       "name": "~B🗿",
@@ -52539,7 +52539,7 @@
       "lastBanned": 0
     },
     "6287854242325@s.whatsapp.net": {
-      "exp": 1,
+      "exp": 6,
       "limit": 499,
       "registered": false,
       "name": "BOBBY SITOHANG",
@@ -52556,10 +52556,11 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6285290168666@s.whatsapp.net": {
-      "exp": 7,
+      "exp": 15,
       "limit": 499,
       "registered": false,
       "name": "Manusia",
@@ -52576,10 +52577,30 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "267022696984601_1@s.whatsapp.net": {
       "exp": 4,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "224188837175538_1@s.whatsapp.net": {
+      "exp": 6,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -58724,10 +58745,10 @@
       "lastSuccess": 1734532370964
     },
     "sticker-sticker.js": {
-      "total": 759,
-      "success": 656,
-      "last": 1734575820255,
-      "lastSuccess": 1734539769006
+      "total": 762,
+      "success": 659,
+      "last": 1734579240975,
+      "lastSuccess": 1734579240975
     },
     "sticker-toimg.js": {
       "total": 80,
@@ -60907,7 +60928,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734575391659,
+      "backupDB": 1734577608480,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
