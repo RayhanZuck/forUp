@@ -2194,7 +2194,7 @@
       "lastBanned": 0
     },
     "120363360438046674@g.us": {
-      "exp": 41,
+      "exp": 47,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -3162,8 +3162,8 @@
       "lastBanned": 0
     },
     "6288985640550@s.whatsapp.net": {
-      "exp": 257,
-      "limit": 479,
+      "exp": 596,
+      "limit": 129,
       "registered": false,
       "name": "dik",
       "age": -1,
@@ -3178,7 +3178,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
     },
@@ -3225,7 +3225,7 @@
       "lastBanned": 0
     },
     "62895366832480@s.whatsapp.net": {
-      "exp": 267,
+      "exp": 306,
       "limit": 499,
       "registered": false,
       "name": ".",
@@ -7611,15 +7611,15 @@
       "premiumTime": 0
     },
     "6285706879597@s.whatsapp.net": {
-      "exp": 703,
+      "exp": 738,
       "limit": 499,
       "registered": false,
       "name": "¡m\"~dαπz√",
       "age": -1,
       "regTime": -1,
       "unreg": false,
-      "afk": 1734623115047,
-      "afkReason": "Tidak ada",
+      "afk": -1,
+      "afkReason": "",
       "banned": false,
       "level": 0,
       "role": "Beginner",
@@ -7627,7 +7627,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastcommand": 1734618710418,
       "lastBanned": 0
@@ -17793,7 +17793,7 @@
       "premiumTime": 0
     },
     "6281293186315@s.whatsapp.net": {
-      "exp": 611,
+      "exp": 764,
       "limit": 499,
       "registered": false,
       "name": "alyaa",
@@ -18413,7 +18413,7 @@
       "premiumTime": 0
     },
     "6283822052226@s.whatsapp.net": {
-      "exp": 37,
+      "exp": 44,
       "limit": 499,
       "registered": false,
       "name": "ديلا✨",
@@ -21499,7 +21499,7 @@
       "premiumTime": 0
     },
     "6283110338329@s.whatsapp.net": {
-      "exp": 7,
+      "exp": 434,
       "limit": 499,
       "registered": false,
       "name": "アニメとJKT48が好きです",
@@ -21515,7 +21515,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
     },
@@ -21564,6 +21564,85 @@
       "limit": 499,
       "registered": false,
       "name": "+62 831-5390-6926",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6287760364214@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 499,
+      "registered": false,
+      "name": "Tuan Krab",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6283141261981@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 499,
+      "registered": false,
+      "name": "Eekk",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "187153485172987_1@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "62882001531411@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 882-0015-31411",
       "age": -1,
       "regTime": -1,
       "unreg": false,
@@ -22632,10 +22711,10 @@
       "lastSuccess": 0
     },
     "group-delete.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1734622048563,
-      "lastSuccess": 1734622048563
+      "total": 4,
+      "success": 4,
+      "last": 1734644951834,
+      "lastSuccess": 1734644951834
     },
     "ai-remini.js": {
       "total": 2,
@@ -22656,10 +22735,10 @@
       "lastSuccess": 1734624609737
     },
     "downloader-instagram.js": {
-      "total": 21,
-      "success": 21,
-      "last": 1734643771730,
-      "lastSuccess": 1734643771730
+      "total": 35,
+      "success": 35,
+      "last": 1734646148802,
+      "lastSuccess": 1734646148802
     },
     "econ-claim.js": {
       "total": 2,
@@ -22693,7 +22772,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734642261694,
+      "backupDB": 1734644401868,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
