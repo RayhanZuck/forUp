@@ -2603,7 +2603,7 @@
       "lastBanned": 0
     },
     "6283141108672@s.whatsapp.net": {
-      "exp": 13230,
+      "exp": 13239,
       "limit": 44,
       "registered": false,
       "name": "★★★♪♪♪♪",
@@ -19540,7 +19540,7 @@
       "lastBanned": 0
     },
     "6289677414856@s.whatsapp.net": {
-      "exp": 5335,
+      "exp": 5341,
       "limit": 1040,
       "registered": false,
       "name": "Rogue Jolly Kitty Freedom",
@@ -30998,7 +30998,7 @@
       "lastBanned": 0
     },
     "6285720973051@s.whatsapp.net": {
-      "exp": 1666039,
+      "exp": 1669770,
       "limit": 11718,
       "registered": true,
       "name": "citra",
@@ -31017,7 +31017,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastwork": 1734563931498,
+      "lastwork": 1734568135052,
       "lastdaily": 1734451842928,
       "lastrob": 1734530845236,
       "lastcommand": 1734563931579
@@ -41334,8 +41334,8 @@
       "lastBanned": 0
     },
     "6281328823174@s.whatsapp.net": {
-      "exp": 2657,
-      "limit": 139,
+      "exp": 4667,
+      "limit": 114,
       "registered": false,
       "name": "𝖆𝖓𝖘",
       "age": -1,
@@ -41353,7 +41353,8 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastdaily": 1734414623022
+      "lastdaily": 1734414623022,
+      "lastwork": 1734568383891
     },
     "228771969953942_1@s.whatsapp.net": {
       "exp": 5,
@@ -46767,7 +46768,7 @@
       "lastBanned": 0
     },
     "6289513000185@s.whatsapp.net": {
-      "exp": 122,
+      "exp": 145,
       "limit": 499,
       "registered": false,
       "name": "binn",
@@ -63848,7 +63849,7 @@
       "lastBanned": 0
     },
     "6281297729591@s.whatsapp.net": {
-      "exp": 256,
+      "exp": 259,
       "limit": 439,
       "registered": false,
       "name": "𝙃𝘼𝙉𝙕 𝙎𝙏𝙊𝙍𝙀",
@@ -69242,7 +69243,7 @@
       "lastBanned": 0
     },
     "628388319842@s.whatsapp.net": {
-      "exp": 236,
+      "exp": 260,
       "limit": 499,
       "registered": false,
       "name": ".",
@@ -70875,7 +70876,7 @@
       "lastBanned": 0
     },
     "6283870203883@s.whatsapp.net": {
-      "exp": 128,
+      "exp": 134,
       "limit": 499,
       "registered": false,
       "name": "😋",
@@ -78085,15 +78086,15 @@
       "lastSuccess": 1734519665166
     },
     "ai-remini.js": {
-      "total": 195,
-      "success": 174,
-      "last": 1734537206768,
-      "lastSuccess": 1734537206768
+      "total": 196,
+      "success": 175,
+      "last": 1734568448901,
+      "lastSuccess": 1734568448901
     },
     "sticker-sticker.js": {
-      "total": 421,
+      "total": 422,
       "success": 366,
-      "last": 1734563904963,
+      "last": 1734567764254,
       "lastSuccess": 1734527656618
     },
     "game-bom.js": {
@@ -78139,10 +78140,10 @@
       "lastSuccess": 1734408767018
     },
     "game-mancing.js": {
-      "total": 559,
-      "success": 427,
-      "last": 1734543330670,
-      "lastSuccess": 1734543330670
+      "total": 561,
+      "success": 429,
+      "last": 1734568385862,
+      "lastSuccess": 1734568385862
     },
     "_shortcut.js": {
       "total": 188,
@@ -78211,10 +78212,10 @@
       "lastSuccess": 1734523479506
     },
     "game-kerja.js": {
-      "total": 1717,
-      "success": 1545,
-      "last": 1734543458176,
-      "lastSuccess": 1734543458176
+      "total": 1718,
+      "success": 1546,
+      "last": 1734567808269,
+      "lastSuccess": 1734567808269
     },
     "group-tagme.js": {
       "total": 5,
@@ -79840,7 +79841,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734565546652,
+      "backupDB": 1734567398678,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
