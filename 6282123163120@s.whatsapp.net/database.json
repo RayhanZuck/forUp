@@ -765,7 +765,7 @@
       "lastBanned": 0
     },
     "6283192984862@s.whatsapp.net": {
-      "exp": 821,
+      "exp": 840,
       "limit": 499,
       "registered": false,
       "name": "ليزا الجميلة 🫶💅🏻 lestari",
@@ -4775,7 +4775,7 @@
       "premiumTime": 0
     },
     "120363369522781038@g.us": {
-      "exp": 201,
+      "exp": 207,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -74234,6 +74234,47 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "6281375351006@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 499,
+      "registered": false,
+      "name": "اجر افيفة",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
+    },
+    "6289506616254@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 895-0661-6254",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -82893,7 +82934,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734636848269,
+      "backupDB": 1734640186785,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
