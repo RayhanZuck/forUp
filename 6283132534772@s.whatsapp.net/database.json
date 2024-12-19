@@ -1440,7 +1440,7 @@
       "lastBanned": 0
     },
     "62882006457318@s.whatsapp.net": {
-      "exp": 15,
+      "exp": 21,
       "limit": 499,
       "registered": false,
       "name": "˚˖𓍢caaʚɞ𓂃",
@@ -6052,7 +6052,7 @@
       "lastBanned": 0
     },
     "6288705631618@s.whatsapp.net": {
-      "exp": 6,
+      "exp": 62,
       "limit": 499,
       "registered": false,
       "name": "jose jirlah",
@@ -6069,7 +6069,9 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0,
+      "lastcommand": 1734573238108
     },
     "6285856120047@s.whatsapp.net": {
       "exp": 29,
@@ -7496,7 +7498,7 @@
       "lastBanned": 0
     },
     "6285601800364@s.whatsapp.net": {
-      "exp": 56,
+      "exp": 66,
       "limit": 499,
       "registered": false,
       "name": "__K𝚈𝗭__",
@@ -8329,8 +8331,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
-      "premiumTime": 0
+      "premium": false,
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6285705704629@s.whatsapp.net": {
       "exp": 2,
@@ -11486,7 +11489,7 @@
       "premiumTime": 0
     },
     "62895409011345@s.whatsapp.net": {
-      "exp": 13,
+      "exp": 36,
       "limit": 499,
       "registered": false,
       "name": "Laba Laba Jawa",
@@ -11502,7 +11505,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
     },
@@ -14300,7 +14303,7 @@
       "lastBanned": 0
     },
     "6289673827060@s.whatsapp.net": {
-      "exp": 10,
+      "exp": 21,
       "limit": 499,
       "registered": false,
       "name": "Ryoo",
@@ -14317,7 +14320,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "201227013804@s.whatsapp.net": {
       "exp": 4,
@@ -14578,6 +14582,187 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
+      "premiumTime": 0
+    },
+    "6285754344321@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 857-5434-4321",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6281528425221@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 499,
+      "registered": false,
+      "name": "jamal🤙🏻🥶",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6281524921294@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 815-2492-1294",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6283164644120@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 499,
+      "registered": false,
+      "name": "gio",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
+    },
+    "6283833781675@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "name": "Lia",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "628991269420@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 499,
+      "registered": false,
+      "name": "Aditya Purnomo",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6289518752888@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 499,
+      "registered": false,
+      "name": "Sinta 💋🤍",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6282285299067@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 822-8529-9067",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0
+    },
+    "8801886952426@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "name": "محمد یاسین برما مھاجر🇲🇲🇲🇲🇲🇲🇲🇲",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
       "premiumTime": 0
     }
   },
@@ -15305,10 +15490,10 @@
       "lastSuccess": 1716040986605
     },
     "sticker-sticker.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1716040994703,
-      "lastSuccess": 1716040994703
+      "total": 4,
+      "success": 4,
+      "last": 1734573313804,
+      "lastSuccess": 1734573313804
     },
     "owner-getdb.js": {
       "total": 2,
@@ -15353,9 +15538,9 @@
       "lastSuccess": 1734504014574
     },
     "_rayhan-allmenu.js": {
-      "total": 6,
+      "total": 7,
       "success": 3,
-      "last": 1734562061591,
+      "last": 1734573862171,
       "lastSuccess": 1734505742022
     },
     "owner-block.js": {
@@ -15552,7 +15737,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734570526812,
+      "backupDB": 1734572411832,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
