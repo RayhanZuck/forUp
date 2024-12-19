@@ -176,7 +176,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3410,
+      "exp": 3418,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -952,7 +952,7 @@
       "lastdaily": 1733554666793
     },
     "6282150698385@s.whatsapp.net": {
-      "exp": 2027,
+      "exp": 2051,
       "limit": 499,
       "registered": false,
       "name": "Je t'aime😉🌿",
@@ -1040,7 +1040,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 5571,
+      "exp": 5576,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1061,8 +1061,8 @@
       "lastBanned": 0
     },
     "6283119901412@s.whatsapp.net": {
-      "exp": 9637,
-      "limit": 88,
+      "exp": 9657,
+      "limit": 63,
       "registered": false,
       "name": "Lázuardy Zio (Lázaro)",
       "age": -1,
@@ -3642,7 +3642,7 @@
       "lastBanned": 0
     },
     "6282182341366@s.whatsapp.net": {
-      "exp": 3075,
+      "exp": 3095,
       "limit": 9,
       "registered": false,
       "name": "delfiqa",
@@ -5853,8 +5853,8 @@
       "premiumTime": 0
     },
     "6287877901251@s.whatsapp.net": {
-      "exp": 757,
-      "limit": 199,
+      "exp": 842,
+      "limit": 139,
       "registered": false,
       "name": "@xys_syaa'",
       "age": -1,
@@ -5869,7 +5869,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1733471512648
@@ -58641,10 +58641,10 @@
       "lastSuccess": 1734562435428
     },
     "downloader-tiktok.js": {
-      "total": 1566,
-      "success": 1448,
-      "last": 1734571069862,
-      "lastSuccess": 1734571069862
+      "total": 1569,
+      "success": 1451,
+      "last": 1734573321085,
+      "lastSuccess": 1734573321085
     },
     "owner-sf.js": {
       "total": 939,
@@ -58653,10 +58653,10 @@
       "lastSuccess": 1734571839301
     },
     "downloader-play.js": {
-      "total": 1658,
-      "success": 1553,
-      "last": 1734571860777,
-      "lastSuccess": 1734571860777
+      "total": 1659,
+      "success": 1554,
+      "last": 1734574199666,
+      "lastSuccess": 1734574199666
     },
     "downloader-ytvideo.js": {
       "total": 132,
@@ -58899,10 +58899,10 @@
       "lastSuccess": 1734396791160
     },
     "owner-exec.js": {
-      "total": 298,
-      "success": 298,
-      "last": 1734562565961,
-      "lastSuccess": 1734562565961
+      "total": 300,
+      "success": 300,
+      "last": 1734574577639,
+      "lastSuccess": 1734574577639
     },
     "downloader-ytmp3.js": {
       "total": 135,
@@ -60848,7 +60848,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734571267617,
+      "backupDB": 1734573249770,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
