@@ -155,7 +155,7 @@
       "lastcommand": 1732771777501
     },
     "120363183420865643@g.us": {
-      "exp": 4525,
+      "exp": 4533,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -25735,7 +25735,7 @@
       "lastBanned": 0
     },
     "6288901822337@s.whatsapp.net": {
-      "exp": 10,
+      "exp": 18,
       "limit": 499,
       "registered": false,
       "name": "𝗠𝗶𝘆𝗮𝗺𝘂𝗿𝗮 𝗜𝘇𝘂𝗺𝗶ゞ",
@@ -25752,7 +25752,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "855964142602@s.whatsapp.net": {
       "exp": 10,
@@ -27721,8 +27722,8 @@
       "lastBanned": 0
     },
     "628884643031@s.whatsapp.net": {
-      "exp": 406,
-      "limit": 1737,
+      "exp": 538,
+      "limit": 1702,
       "registered": true,
       "name": "bilaa",
       "age": 17,
@@ -27742,7 +27743,7 @@
       "lastBanned": 0,
       "lastwork": 1732594257571,
       "lastrob": 1732594057556,
-      "lastcommand": 1732665125885,
+      "lastcommand": 1734584772284,
       "lastdaily": 1732584592769
     },
     "122535937110196_1@s.whatsapp.net": {
@@ -51227,8 +51228,8 @@
       "premiumTime": 0
     },
     "6288225432435@s.whatsapp.net": {
-      "exp": 9645,
-      "limit": 354,
+      "exp": 11663,
+      "limit": 454,
       "registered": false,
       "name": "Aksa Wibisono",
       "age": -1,
@@ -51247,7 +51248,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastwork": 1734487291243,
-      "lastdaily": 1734487529164,
+      "lastdaily": 1734584881309,
       "lastcommand": 1734501501363
     },
     "4703626743941_1@s.whatsapp.net": {
@@ -58791,9 +58792,9 @@
       "lastSuccess": 1734532370964
     },
     "sticker-sticker.js": {
-      "total": 762,
+      "total": 763,
       "success": 659,
-      "last": 1734579240975,
+      "last": 1734584682738,
       "lastSuccess": 1734579240975
     },
     "sticker-toimg.js": {
@@ -58827,10 +58828,10 @@
       "lastSuccess": 1734505231710
     },
     "econ-claim.js": {
-      "total": 1710,
-      "success": 1178,
-      "last": 1734575831653,
-      "lastSuccess": 1734575831653
+      "total": 1711,
+      "success": 1179,
+      "last": 1734584881309,
+      "lastSuccess": 1734584881309
     },
     "game-curi.js": {
       "total": 961,
@@ -59367,10 +59368,10 @@
       "lastSuccess": 1734440211122
     },
     "sticker-quotely.js": {
-      "total": 496,
-      "success": 496,
-      "last": 1734538173381,
-      "lastSuccess": 1734538173381
+      "total": 497,
+      "success": 497,
+      "last": 1734584996960,
+      "lastSuccess": 1734584996960
     },
     "group-delete.js": {
       "total": 32,
@@ -59403,10 +59404,10 @@
       "lastSuccess": 1733110352259
     },
     "_rayhan-allmenu.js": {
-      "total": 194,
-      "success": 188,
-      "last": 1734535467813,
-      "lastSuccess": 1734535467813
+      "total": 195,
+      "success": 189,
+      "last": 1734584792756,
+      "lastSuccess": 1734584792756
     },
     "ai-ailogo.js": {
       "total": 17,
@@ -60483,16 +60484,16 @@
       "lastSuccess": 1732448764177
     },
     "sticker-attp.js": {
-      "total": 9,
-      "success": 9,
-      "last": 1733048536051,
-      "lastSuccess": 1733048536051
+      "total": 10,
+      "success": 10,
+      "last": 1734584903281,
+      "lastSuccess": 1734584903281
     },
     "sticker-ttp.js": {
-      "total": 4,
-      "success": 3,
-      "last": 1732879381319,
-      "lastSuccess": 1732879381319
+      "total": 5,
+      "success": 4,
+      "last": 1734584967448,
+      "lastSuccess": 1734584967448
     },
     "rpg-role.js": {
       "total": 9,
@@ -60974,7 +60975,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734581381702,
+      "backupDB": 1734583366085,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
