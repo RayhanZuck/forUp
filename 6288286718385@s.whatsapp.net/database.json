@@ -14101,7 +14101,7 @@
       "premiumTime": 0
     },
     "6283119901412@s.whatsapp.net": {
-      "exp": 11882,
+      "exp": 11886,
       "limit": 38,
       "registered": false,
       "name": "Lázuardy Zio",
@@ -45542,7 +45542,7 @@
       "lastBanned": 0
     },
     "6283825952725@s.whatsapp.net": {
-      "exp": 207,
+      "exp": 222,
       "limit": 499,
       "registered": false,
       "name": "...,,",
@@ -135196,7 +135196,7 @@
       "premiumTime": 0
     },
     "13135550002@s.whatsapp.net": {
-      "exp": 3435,
+      "exp": 3453,
       "limit": 499,
       "registered": false,
       "name": "13135550002",
@@ -135237,7 +135237,7 @@
       "premiumTime": 0
     },
     "120363356468992489@g.us": {
-      "exp": 119,
+      "exp": 124,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -135479,7 +135479,7 @@
       "premiumTime": 0
     },
     "6283142875045@s.whatsapp.net": {
-      "exp": 6764,
+      "exp": 6852,
       "limit": 499,
       "registered": false,
       "name": "𝖒𝖊𝖑𝖎𝖘𝖚𝖐𝖆𝖐𝖔𝖓𝖇𝖑𝖚𝖙𝖙.",
@@ -136589,7 +136589,7 @@
       "lastBanned": 0
     },
     "62895351785140@s.whatsapp.net": {
-      "exp": 145,
+      "exp": 146,
       "limit": 499,
       "registered": false,
       "name": "KURIR JALUR LANGIT",
@@ -137352,7 +137352,7 @@
       "lastBanned": 0
     },
     "6285931400906@s.whatsapp.net": {
-      "exp": 259,
+      "exp": 267,
       "limit": 499,
       "registered": false,
       "name": "Dino",
@@ -150696,7 +150696,7 @@
       "lastBanned": 0
     },
     "6289530291942@s.whatsapp.net": {
-      "exp": 863,
+      "exp": 886,
       "limit": 494,
       "registered": false,
       "name": "Yˢˣ",
@@ -150949,7 +150949,7 @@
       "lastBanned": 0
     },
     "6287841134197@s.whatsapp.net": {
-      "exp": 410,
+      "exp": 417,
       "limit": 499,
       "registered": false,
       "name": "𝕱𝖆𝖞𝖗𝖊 𝕲𝖗𝖎𝖟𝖊𝖑𝖑𝖊",
@@ -154912,6 +154912,66 @@
       "limit": 499,
       "registered": false,
       "name": ".",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "267022696984601_1@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6287862970472@s.whatsapp.net": {
+      "exp": 15,
+      "limit": 499,
+      "registered": false,
+      "name": "jaky/am 2k setahun",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
+    },
+    "62895321866421@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 895-3218-66421",
       "age": -1,
       "regTime": -1,
       "unreg": false,
@@ -166706,10 +166766,10 @@
       "lastSuccess": 1732375502400
     },
     "ai-chatbot(simi).js": {
-      "total": 2,
-      "success": 2,
-      "last": 1732413927411,
-      "lastSuccess": 1732413927411
+      "total": 3,
+      "success": 3,
+      "last": 1734577183482,
+      "lastSuccess": 1734577183482
     },
     "downloader-videy.js": {
       "total": 50,
@@ -167017,7 +167077,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734574953586,
+      "backupDB": 1734576772376,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
