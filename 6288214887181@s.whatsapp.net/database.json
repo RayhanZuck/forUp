@@ -1556,8 +1556,8 @@
       "lastdaily": 1731554573646
     },
     "6283837362281@s.whatsapp.net": {
-      "exp": 14028,
-      "limit": 174,
+      "exp": 14062,
+      "limit": 149,
       "registered": false,
       "name": "ivyy",
       "age": -1,
@@ -21510,8 +21510,8 @@
       "lastBanned": 0
     },
     "6287818230903@s.whatsapp.net": {
-      "exp": 58799,
-      "limit": 522,
+      "exp": 58863,
+      "limit": 482,
       "registered": false,
       "name": "-d  for  draa",
       "age": -1,
@@ -52357,7 +52357,7 @@
       "lastBanned": 0
     },
     "6281297729591@s.whatsapp.net": {
-      "exp": 1086,
+      "exp": 1106,
       "limit": 1475,
       "registered": false,
       "name": "𝙃𝘼𝙉𝙕 𝙎𝙏𝙊𝙍𝙀",
@@ -58629,10 +58629,10 @@
       "lastSuccess": 1734535772314
     },
     "downloader-play.js": {
-      "total": 1650,
-      "success": 1545,
-      "last": 1734562685639,
-      "lastSuccess": 1734562685639
+      "total": 1651,
+      "success": 1546,
+      "last": 1734565627212,
+      "lastSuccess": 1734565627212
     },
     "downloader-ytvideo.js": {
       "total": 132,
@@ -58827,10 +58827,10 @@
       "lastSuccess": 1731509107103
     },
     "downloader-pinterest.js": {
-      "total": 544,
-      "success": 481,
-      "last": 1734539736354,
-      "lastSuccess": 1734539736354
+      "total": 546,
+      "success": 483,
+      "last": 1734566509121,
+      "lastSuccess": 1734566509121
     },
     "downloader-soundcloud.js": {
       "total": 22,
@@ -60824,7 +60824,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734562420098,
+      "backupDB": 1734565607830,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
