@@ -132,7 +132,7 @@
       "lastBanned": 0
     },
     "62882008794480@s.whatsapp.net": {
-      "exp": 12945,
+      "exp": 12950,
       "limit": 244,
       "registered": false,
       "name": "Izumii",
@@ -155,7 +155,7 @@
       "lastcommand": 1732771777501
     },
     "120363183420865643@g.us": {
-      "exp": 4580,
+      "exp": 4586,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -176,7 +176,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3434,
+      "exp": 3442,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1040,7 +1040,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 5631,
+      "exp": 5650,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1441,8 +1441,8 @@
       "lastcommand": 1733719486575
     },
     "6283822760236@s.whatsapp.net": {
-      "exp": 45452,
-      "limit": 1672,
+      "exp": 45502,
+      "limit": 1642,
       "registered": false,
       "name": "ᥫ᭡𔔁𔘓﹏𝙵𝙰𝙽𝙸﹏𔘓𔔁ᥫ",
       "age": -1,
@@ -1942,7 +1942,7 @@
       "lastdaily": 1734254488975
     },
     "6289523149696@s.whatsapp.net": {
-      "exp": 7189,
+      "exp": 7196,
       "limit": 454,
       "registered": false,
       "name": "Pvznlyyy",
@@ -47813,8 +47813,8 @@
       "lastdaily": 1734595790931
     },
     "6282291670098@s.whatsapp.net": {
-      "exp": 113,
-      "limit": 466,
+      "exp": 136,
+      "limit": 441,
       "registered": false,
       "name": "Sul",
       "age": -1,
@@ -51395,7 +51395,7 @@
       "premiumTime": 0
     },
     "6282291607732@s.whatsapp.net": {
-      "exp": 79,
+      "exp": 82,
       "limit": 499,
       "registered": false,
       "name": ".",
@@ -52704,8 +52704,8 @@
       "premiumTime": 0
     },
     "6281957133061@s.whatsapp.net": {
-      "exp": 24,
-      "limit": 499,
+      "exp": 94,
+      "limit": 474,
       "registered": false,
       "name": "nanaa",
       "age": -1,
@@ -52720,7 +52720,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
     },
@@ -52904,6 +52904,48 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1734605001112
+    },
+    "6287854197530@s.whatsapp.net": {
+      "exp": 15,
+      "limit": 499,
+      "registered": false,
+      "name": "FERI SATORU",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
+    },
+    "62895351378560@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "name": "BOBBY SITOHANG",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -59054,10 +59096,10 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 667,
-      "success": 616,
-      "last": 1734598364523,
-      "lastSuccess": 1734598364523
+      "total": 668,
+      "success": 617,
+      "last": 1734605134218,
+      "lastSuccess": 1734605134218
     },
     "downloader-tiktok.js": {
       "total": 1578,
@@ -59072,10 +59114,10 @@
       "lastSuccess": 1734596552074
     },
     "downloader-play.js": {
-      "total": 1705,
-      "success": 1599,
-      "last": 1734604970787,
-      "lastSuccess": 1734604970787
+      "total": 1706,
+      "success": 1600,
+      "last": 1734605124518,
+      "lastSuccess": 1734605124518
     },
     "downloader-ytvideo.js": {
       "total": 133,
@@ -59168,10 +59210,10 @@
       "lastSuccess": 1734538412480
     },
     "main-limit.js": {
-      "total": 1150,
-      "success": 1150,
-      "last": 1734604948406,
-      "lastSuccess": 1734604948406
+      "total": 1151,
+      "success": 1151,
+      "last": 1734605129536,
+      "lastSuccess": 1734605129536
     },
     "game-ulartangga.js": {
       "total": 78,
@@ -59354,10 +59396,10 @@
       "lastSuccess": 1730161441000
     },
     "downloader-tiktoksearch.js": {
-      "total": 685,
-      "success": 678,
-      "last": 1734604926638,
-      "lastSuccess": 1734604926638
+      "total": 687,
+      "success": 680,
+      "last": 1734605544404,
+      "lastSuccess": 1734605544404
     },
     "ai-llama.js": {
       "total": 352,
@@ -61154,10 +61196,10 @@
       "lastSuccess": 1734241701416
     },
     "game-tebaklogo.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1733749435893,
-      "lastSuccess": 1733749435893
+      "total": 3,
+      "success": 3,
+      "last": 1734605466108,
+      "lastSuccess": 1734605466108
     },
     "internet-tiktokstalk.js": {
       "total": 3,
@@ -61273,7 +61315,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734603338954,
+      "backupDB": 1734605147246,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
