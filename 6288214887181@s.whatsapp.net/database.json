@@ -132,7 +132,7 @@
       "lastBanned": 0
     },
     "62882008794480@s.whatsapp.net": {
-      "exp": 12963,
+      "exp": 12967,
       "limit": 244,
       "registered": false,
       "name": "Izumii",
@@ -38483,7 +38483,7 @@
       "lastBanned": 0
     },
     "6288980128627@s.whatsapp.net": {
-      "exp": 9,
+      "exp": 12,
       "limit": 499,
       "registered": false,
       "name": "Heket Ff   Ks    Ranzo👇🏻👇🏻👇🏻",
@@ -38501,7 +38501,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "lastBanned": 0
+      "lastBanned": 0,
+      "warn": 1
     },
     "6282218939532@s.whatsapp.net": {
       "exp": 17967,
@@ -51056,7 +51057,7 @@
       "lastcommand": 1734443160187
     },
     "6283820509957@s.whatsapp.net": {
-      "exp": 2407,
+      "exp": 2426,
       "limit": 182,
       "registered": true,
       "name": "simon",
@@ -61577,7 +61578,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734622304040,
+      "backupDB": 1734624173631,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
