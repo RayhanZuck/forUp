@@ -63620,7 +63620,7 @@
       "lastBanned": 0
     },
     "6287863310241@s.whatsapp.net": {
-      "exp": 2344,
+      "exp": 2375,
       "limit": 364,
       "registered": false,
       "name": "N",
@@ -63641,7 +63641,7 @@
       "lastBanned": 0
     },
     "62895405611639@s.whatsapp.net": {
-      "exp": 1268,
+      "exp": 1278,
       "limit": 499,
       "registered": false,
       "name": "Fahiraa",
@@ -93168,7 +93168,7 @@
       "lastBanned": 0
     },
     "6288226612150@s.whatsapp.net": {
-      "exp": 4,
+      "exp": 5,
       "limit": 499,
       "registered": false,
       "name": "🐣",
@@ -93185,7 +93185,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6287864871846@s.whatsapp.net": {
       "exp": 6,
@@ -97316,6 +97317,26 @@
       "limit": 499,
       "registered": false,
       "name": "+62 857-3500-9511",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6287846885933@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 499,
+      "registered": false,
+      "name": "Mutiasyahra 01 23",
       "age": -1,
       "regTime": -1,
       "unreg": false,
@@ -106648,7 +106669,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734563768166,
+      "backupDB": 1734565724260,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
