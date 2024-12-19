@@ -3162,8 +3162,8 @@
       "lastBanned": 0
     },
     "6288985640550@s.whatsapp.net": {
-      "exp": 220,
-      "limit": 499,
+      "exp": 257,
+      "limit": 479,
       "registered": false,
       "name": "dik",
       "age": -1,
@@ -3178,7 +3178,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0
     },
@@ -3352,8 +3352,8 @@
       "lastBanned": 0
     },
     "62882006302126@s.whatsapp.net": {
-      "exp": 98,
-      "limit": 499,
+      "exp": 654,
+      "limit": 24,
       "registered": false,
       "name": "dika mengeluarkan anda",
       "age": -1,
@@ -17793,7 +17793,7 @@
       "premiumTime": 0
     },
     "6281293186315@s.whatsapp.net": {
-      "exp": 587,
+      "exp": 611,
       "limit": 499,
       "registered": false,
       "name": "alyaa",
@@ -21497,6 +21497,87 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "6283110338329@s.whatsapp.net": {
+      "exp": 7,
+      "limit": 499,
+      "registered": false,
+      "name": "アニメとJKT48が好きです",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "lastBanned": 0
+    },
+    "6282211138839@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 822-1113-8839",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6283840673490@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 838-4067-3490",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6283153906926@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 831-5390-6926",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -22527,10 +22608,10 @@
       "lastSuccess": 1734605036982
     },
     "downloader-tiktok.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1734605825243,
-      "lastSuccess": 1734605825243
+      "total": 5,
+      "success": 4,
+      "last": 1734644025852,
+      "lastSuccess": 1734644025852
     },
     "main-daftar.js": {
       "total": 3,
@@ -22573,6 +22654,18 @@
       "success": 2,
       "last": 1734624609737,
       "lastSuccess": 1734624609737
+    },
+    "downloader-instagram.js": {
+      "total": 21,
+      "success": 21,
+      "last": 1734643771730,
+      "lastSuccess": 1734643771730
+    },
+    "econ-claim.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1734643852872,
+      "lastSuccess": 1734643852872
     }
   },
   "msgs": {},
@@ -22600,7 +22693,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734640376465,
+      "backupDB": 1734642261694,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
