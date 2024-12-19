@@ -65683,7 +65683,7 @@
       "premiumTime": 0
     },
     "6282220634490@s.whatsapp.net": {
-      "exp": 90,
+      "exp": 123,
       "limit": 499,
       "registered": false,
       "name": "~ iz.",
@@ -108618,7 +108618,7 @@
       "lastBanned": 0
     },
     "6288286718385@s.whatsapp.net": {
-      "exp": 15630,
+      "exp": 15760,
       "limit": 479,
       "registered": true,
       "name": "nenen",
@@ -108637,7 +108637,7 @@
       "premium": false,
       "premiumTime": 1737009730955,
       "lastBanned": 0,
-      "lastcommand": 1734549282299,
+      "lastcommand": 1734588776690,
       "limitprem": 10000,
       "lastdaily": 1734415476791
     },
@@ -130920,7 +130920,7 @@
       "lastBanned": 0
     },
     "6281276321159@s.whatsapp.net": {
-      "exp": 3877,
+      "exp": 3890,
       "limit": 499,
       "registered": false,
       "name": "ShizukaMD",
@@ -131210,7 +131210,7 @@
       "premiumTime": 0
     },
     "6283183323234@s.whatsapp.net": {
-      "exp": 3972,
+      "exp": 3980,
       "limit": 479,
       "registered": false,
       "name": "Kevin-Remix",
@@ -136902,7 +136902,7 @@
       "premiumTime": 0
     },
     "62882005023443@s.whatsapp.net": {
-      "exp": 2612,
+      "exp": 2639,
       "limit": 499,
       "registered": false,
       "name": "Panjul",
@@ -137354,7 +137354,7 @@
       "lastBanned": 0
     },
     "6285931400906@s.whatsapp.net": {
-      "exp": 436,
+      "exp": 446,
       "limit": 499,
       "registered": false,
       "name": "Dino",
@@ -137994,7 +137994,7 @@
       "premiumTime": 0
     },
     "6281545417655@s.whatsapp.net": {
-      "exp": 585,
+      "exp": 603,
       "limit": 499,
       "registered": false,
       "name": ".",
@@ -139563,7 +139563,7 @@
       "lastBanned": 0
     },
     "6283150931275@s.whatsapp.net": {
-      "exp": 2032,
+      "exp": 2048,
       "limit": 499,
       "registered": false,
       "name": "+62 831-5093-1275",
@@ -150738,7 +150738,7 @@
       "lastBanned": 0
     },
     "6289530291942@s.whatsapp.net": {
-      "exp": 977,
+      "exp": 991,
       "limit": 494,
       "registered": false,
       "name": "Yˢˣ",
@@ -153718,7 +153718,7 @@
       "lastBanned": 0
     },
     "6283164747780@s.whatsapp.net": {
-      "exp": 112,
+      "exp": 114,
       "limit": 499,
       "registered": false,
       "name": "Agus trondol",
@@ -155974,6 +155974,45 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
+    },
+    "83069314846819_1@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6285814880736@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 858-1488-0736",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -165898,16 +165937,16 @@
       "lastSuccess": 1734535604963
     },
     "_rayhan-menu.js": {
-      "total": 729,
-      "success": 700,
-      "last": 1734587210592,
-      "lastSuccess": 1734587210592
+      "total": 730,
+      "success": 701,
+      "last": 1734588796925,
+      "lastSuccess": 1734588796925
     },
     "owner-exec.js": {
-      "total": 163,
-      "success": 163,
-      "last": 1734585895404,
-      "lastSuccess": 1734585895404
+      "total": 164,
+      "success": 164,
+      "last": 1734588269230,
+      "lastSuccess": 1734588269230
     },
     "info-ping.js": {
       "total": 754,
@@ -167020,10 +167059,10 @@
       "lastSuccess": 1734585500501
     },
     "tool-spam.js": {
-      "total": 124,
-      "success": 119,
-      "last": 1734481432836,
-      "lastSuccess": 1734481432836
+      "total": 129,
+      "success": 123,
+      "last": 1734589325839,
+      "lastSuccess": 1734589325839
     },
     "owner-delprem.js": {
       "total": 16,
@@ -168117,7 +168156,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734586287402,
+      "backupDB": 1734588096415,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
