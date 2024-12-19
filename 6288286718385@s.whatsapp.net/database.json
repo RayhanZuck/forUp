@@ -130920,7 +130920,7 @@
       "lastBanned": 0
     },
     "6281276321159@s.whatsapp.net": {
-      "exp": 4588,
+      "exp": 4633,
       "limit": 499,
       "registered": false,
       "name": "ShizukaMD",
@@ -131210,7 +131210,7 @@
       "premiumTime": 0
     },
     "6283183323234@s.whatsapp.net": {
-      "exp": 4426,
+      "exp": 4466,
       "limit": 479,
       "registered": false,
       "name": "Kevin-Remix",
@@ -133609,7 +133609,7 @@
       "premiumTime": 0
     },
     "6288269440451@s.whatsapp.net": {
-      "exp": 52,
+      "exp": 56,
       "limit": 499,
       "registered": false,
       "name": "Andreaja__",
@@ -137092,7 +137092,7 @@
       "premiumTime": 0
     },
     "6287761799536@s.whatsapp.net": {
-      "exp": 96,
+      "exp": 106,
       "limit": 499,
       "registered": false,
       "name": "<<<",
@@ -139980,7 +139980,7 @@
       "lastBanned": 0
     },
     "6289530552528@s.whatsapp.net": {
-      "exp": 36,
+      "exp": 60,
       "limit": 499,
       "registered": false,
       "name": "erika",
@@ -147283,7 +147283,7 @@
       "lastBanned": 0
     },
     "6285215230178@s.whatsapp.net": {
-      "exp": 50,
+      "exp": 51,
       "limit": 499,
       "registered": false,
       "name": "‎",
@@ -148055,7 +148055,7 @@
       "lastBanned": 0
     },
     "62895370109137@s.whatsapp.net": {
-      "exp": 20,
+      "exp": 27,
       "limit": 499,
       "registered": false,
       "name": "dpptt",
@@ -149018,7 +149018,7 @@
       "lastBanned": 0
     },
     "6283857243937@s.whatsapp.net": {
-      "exp": 16,
+      "exp": 39,
       "limit": 499,
       "registered": false,
       "name": "Yudhi",
@@ -150516,7 +150516,7 @@
       "lastBanned": 0
     },
     "6285863601448@s.whatsapp.net": {
-      "exp": 1359,
+      "exp": 1373,
       "limit": 499,
       "registered": false,
       "name": "AmeliaBotz",
@@ -150769,7 +150769,7 @@
       "lastBanned": 0
     },
     "6289530291942@s.whatsapp.net": {
-      "exp": 1299,
+      "exp": 1323,
       "limit": 474,
       "registered": false,
       "name": "Yˢˣ",
@@ -155032,7 +155032,7 @@
       "lastBanned": 0
     },
     "6283146103156@s.whatsapp.net": {
-      "exp": 257,
+      "exp": 264,
       "limit": 499,
       "registered": false,
       "name": "Fauzi",
@@ -157373,7 +157373,7 @@
       "premiumTime": 0
     },
     "6283833795640@s.whatsapp.net": {
-      "exp": 40,
+      "exp": 58,
       "limit": 498,
       "registered": false,
       "name": "DIL G OPEN OPEN APA2 Ajg",
@@ -157394,7 +157394,7 @@
       "lastBanned": 0
     },
     "62895320906129@s.whatsapp.net": {
-      "exp": 14,
+      "exp": 21,
       "limit": 499,
       "registered": false,
       "name": "Ileza🦝",
@@ -157413,6 +157413,26 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
+    },
+    "62895808550607@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 499,
+      "registered": false,
+      "name": "Rio Ard",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -167415,10 +167435,10 @@
       "lastSuccess": 1734602779485
     },
     "_rayhan-menu.js": {
-      "total": 740,
-      "success": 707,
-      "last": 1734621793558,
-      "lastSuccess": 1734600144213
+      "total": 741,
+      "success": 708,
+      "last": 1734627253342,
+      "lastSuccess": 1734627253342
     },
     "owner-exec.js": {
       "total": 168,
@@ -169640,7 +169660,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734623728205,
+      "backupDB": 1734625578765,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
