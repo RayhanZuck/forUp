@@ -130920,7 +130920,7 @@
       "lastBanned": 0
     },
     "6281276321159@s.whatsapp.net": {
-      "exp": 4856,
+      "exp": 4866,
       "limit": 499,
       "registered": false,
       "name": "ShizukaMD",
@@ -130936,7 +130936,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0
     },
@@ -131210,7 +131210,7 @@
       "premiumTime": 0
     },
     "6283183323234@s.whatsapp.net": {
-      "exp": 4640,
+      "exp": 4651,
       "limit": 479,
       "registered": false,
       "name": "Kevin-Remix",
@@ -131226,7 +131226,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1734608085596
@@ -150495,7 +150495,7 @@
       "lastBanned": 0
     },
     "62857526150234@s.whatsapp.net": {
-      "exp": 1515,
+      "exp": 1538,
       "limit": 499,
       "registered": false,
       "name": "Mn",
@@ -150516,7 +150516,7 @@
       "lastBanned": 0
     },
     "6285863601448@s.whatsapp.net": {
-      "exp": 1461,
+      "exp": 1479,
       "limit": 499,
       "registered": false,
       "name": "AmeliaBotz",
@@ -150893,7 +150893,7 @@
       "lastBanned": 0
     },
     "120363343080897221@g.us": {
-      "exp": 73,
+      "exp": 74,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -153851,8 +153851,8 @@
       "lastBanned": 0
     },
     "62881023052643@s.whatsapp.net": {
-      "exp": 9988,
-      "limit": 459,
+      "exp": 10076,
+      "limit": 439,
       "registered": false,
       "name": "𝙏𝙝𝙚 𝘿𝙖𝙧𝙠𝙣𝙚𝙨𝙨",
       "age": -1,
@@ -155253,7 +155253,7 @@
       "premiumTime": 0
     },
     "62895619984646@s.whatsapp.net": {
-      "exp": 445,
+      "exp": 449,
       "limit": 474,
       "registered": false,
       "name": "Azure",
@@ -167477,9 +167477,9 @@
       "lastSuccess": 1734602779485
     },
     "_rayhan-menu.js": {
-      "total": 744,
+      "total": 745,
       "success": 711,
-      "last": 1734631077012,
+      "last": 1734631750924,
       "lastSuccess": 1734631077012
     },
     "owner-exec.js": {
@@ -169457,10 +169457,10 @@
       "lastSuccess": 1732503549286
     },
     "maker-ephoto.js": {
-      "total": 5,
-      "success": 5,
-      "last": 1734631214937,
-      "lastSuccess": 1734631214937
+      "total": 7,
+      "success": 7,
+      "last": 1734631294348,
+      "lastSuccess": 1734631294348
     },
     "random-gensin.js": {
       "total": 2,
@@ -169702,7 +169702,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734629449862,
+      "backupDB": 1734631258805,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
