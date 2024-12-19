@@ -2773,7 +2773,7 @@
       "lastBanned": 0
     },
     "60168874157@s.whatsapp.net": {
-      "exp": 10,
+      "exp": 26,
       "limit": 499,
       "registered": false,
       "name": "Zero",
@@ -20967,7 +20967,7 @@
       "premiumTime": 0
     },
     "6283156422940@s.whatsapp.net": {
-      "exp": 9,
+      "exp": 19,
       "limit": 499,
       "registered": false,
       "name": "🦍",
@@ -20984,7 +20984,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6281249920542@s.whatsapp.net": {
       "exp": 9,
@@ -21375,6 +21376,27 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "62882021581605@s.whatsapp.net": {
+      "exp": 21,
+      "limit": 499,
+      "registered": false,
+      "name": "sel",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -22478,7 +22500,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734633398671,
+      "backupDB": 1734636461435,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
