@@ -176,7 +176,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3449,
+      "exp": 3453,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1040,7 +1040,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 5702,
+      "exp": 5712,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -2142,8 +2142,8 @@
       "lastcommand": 1730727286271
     },
     "6285720973051@s.whatsapp.net": {
-      "exp": 739241,
-      "limit": 6122,
+      "exp": 742336,
+      "limit": 6222,
       "registered": true,
       "name": "citra",
       "age": 15,
@@ -2160,9 +2160,9 @@
       "lastmonthly": 1733222888664,
       "premium": true,
       "premiumTime": 0,
-      "lastdaily": 1734496839825,
+      "lastdaily": 1734629445816,
       "lastBanned": 0,
-      "lastwork": 1734575834628,
+      "lastwork": 1734629474302,
       "lastcommand": 1734354291899,
       "lastrob": 1734258198915
     },
@@ -2275,8 +2275,8 @@
       "lastdaily": 1733290972897
     },
     "6281254887631@s.whatsapp.net": {
-      "exp": 406,
-      "limit": 449,
+      "exp": 424,
+      "limit": 444,
       "registered": false,
       "name": "Lola.Enjelika☚⍢⃝☚",
       "age": -1,
@@ -8022,7 +8022,7 @@
       "lastBanned": 0
     },
     "628818691228@s.whatsapp.net": {
-      "exp": 2893,
+      "exp": 4701,
       "limit": 2794,
       "registered": false,
       "name": "+62 881-8691-228",
@@ -53209,6 +53209,26 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "62895336814042@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 499,
+      "registered": false,
+      "name": "ZICKOOOO",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -59401,10 +59421,10 @@
       "lastSuccess": 1734439854775
     },
     "game-kerja.js": {
-      "total": 879,
-      "success": 714,
-      "last": 1734616653648,
-      "lastSuccess": 1734616653648
+      "total": 880,
+      "success": 715,
+      "last": 1734629474712,
+      "lastSuccess": 1734629474712
     },
     "ai-blackbox.js": {
       "total": 14,
@@ -59425,10 +59445,10 @@
       "lastSuccess": 1734505231710
     },
     "econ-claim.js": {
-      "total": 1746,
-      "success": 1201,
-      "last": 1734623931564,
-      "lastSuccess": 1734623931564
+      "total": 1748,
+      "success": 1202,
+      "last": 1734629456190,
+      "lastSuccess": 1734629445816
     },
     "game-curi.js": {
       "total": 976,
@@ -60205,10 +60225,10 @@
       "lastSuccess": 1733325822276
     },
     "game-tebakchara.js": {
-      "total": 161,
-      "success": 153,
-      "last": 1733712499491,
-      "lastSuccess": 1733712499491
+      "total": 162,
+      "success": 154,
+      "last": 1734629488096,
+      "lastSuccess": 1734629488096
     },
     "game-suit.js": {
       "total": 126,
@@ -60283,10 +60303,10 @@
       "lastSuccess": 1734508007371
     },
     "sticker-all.js": {
-      "total": 177,
-      "success": 148,
-      "last": 1734611563444,
-      "lastSuccess": 1734611563444
+      "total": 178,
+      "success": 149,
+      "last": 1734629492266,
+      "lastSuccess": 1734629492266
     },
     "game-nebang.js": {
       "total": 153,
@@ -61578,7 +61598,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734627252668,
+      "backupDB": 1734629444033,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
