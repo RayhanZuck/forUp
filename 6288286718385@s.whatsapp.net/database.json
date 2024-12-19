@@ -12705,7 +12705,7 @@
       "lastrob": 1726503639201
     },
     "6283837362281@s.whatsapp.net": {
-      "exp": 9963,
+      "exp": 9983,
       "limit": 289,
       "registered": false,
       "name": "With Allahh❤‍🩹",
@@ -28977,7 +28977,7 @@
       "premiumTime": 0
     },
     "6288214887181@s.whatsapp.net": {
-      "exp": 8286,
+      "exp": 8293,
       "limit": 499,
       "registered": false,
       "name": "Velgrynd",
@@ -28993,7 +28993,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
     },
@@ -114739,7 +114739,7 @@
       "premiumTime": 0
     },
     "6287818230903@s.whatsapp.net": {
-      "exp": 345,
+      "exp": 355,
       "limit": 499,
       "registered": false,
       "name": "-d   for  draa",
@@ -130919,7 +130919,7 @@
       "lastBanned": 0
     },
     "6281276321159@s.whatsapp.net": {
-      "exp": 2774,
+      "exp": 2815,
       "limit": 499,
       "registered": false,
       "name": "ShizukaMD",
@@ -138340,7 +138340,7 @@
       "premiumTime": 0
     },
     "6288226612150@s.whatsapp.net": {
-      "exp": 13,
+      "exp": 23,
       "limit": 499,
       "registered": false,
       "name": "🐣",
@@ -150401,7 +150401,7 @@
       "lastBanned": 0
     },
     "6285863601448@s.whatsapp.net": {
-      "exp": 498,
+      "exp": 556,
       "limit": 499,
       "registered": false,
       "name": "AmeliaBotz",
@@ -150653,7 +150653,7 @@
       "lastBanned": 0
     },
     "6289530291942@s.whatsapp.net": {
-      "exp": 841,
+      "exp": 845,
       "limit": 494,
       "registered": false,
       "name": "Yˢˣ",
@@ -150716,7 +150716,7 @@
       "lastBanned": 0
     },
     "628886236575@s.whatsapp.net": {
-      "exp": 254,
+      "exp": 266,
       "limit": 499,
       "registered": false,
       "name": "Try",
@@ -150906,7 +150906,7 @@
       "lastBanned": 0
     },
     "6287841134197@s.whatsapp.net": {
-      "exp": 344,
+      "exp": 357,
       "limit": 499,
       "registered": false,
       "name": "𝕱𝖆𝖞𝖗𝖊 𝕲𝖗𝖎𝖟𝖊𝖑𝖑𝖊",
@@ -150927,8 +150927,8 @@
       "lastBanned": 0
     },
     "6283863727400@s.whatsapp.net": {
-      "exp": 310,
-      "limit": 499,
+      "exp": 397,
+      "limit": 479,
       "registered": false,
       "name": "Mputz",
       "age": -1,
@@ -153409,7 +153409,7 @@
       "premiumTime": 0
     },
     "6281297729591@s.whatsapp.net": {
-      "exp": 550,
+      "exp": 585,
       "limit": 499,
       "registered": false,
       "name": "𝙃𝘼𝙉𝙕 𝙎𝙏𝙊𝙍𝙀",
@@ -163650,10 +163650,10 @@
       "lastSuccess": 1734545770994
     },
     "owner-exec.js": {
-      "total": 154,
-      "success": 154,
-      "last": 1734535723725,
-      "lastSuccess": 1734535723725
+      "total": 155,
+      "success": 155,
+      "last": 1734566746569,
+      "lastSuccess": 1734566746569
     },
     "info-ping.js": {
       "total": 754,
@@ -163686,10 +163686,10 @@
       "lastSuccess": 1734429181122
     },
     "downloader-play.js": {
-      "total": 1381,
-      "success": 1342,
-      "last": 1734539286544,
-      "lastSuccess": 1734539286544
+      "total": 1382,
+      "success": 1343,
+      "last": 1734565611853,
+      "lastSuccess": 1734565611853
     },
     "main-profile.js": {
       "total": 266,
@@ -164184,10 +164184,10 @@
       "lastSuccess": 1733228301671
     },
     "downloader-pinterest.js": {
-      "total": 702,
-      "success": 643,
-      "last": 1734423898928,
-      "lastSuccess": 1733265997782
+      "total": 704,
+      "success": 645,
+      "last": 1734566504337,
+      "lastSuccess": 1734566504337
     },
     "owner-join.js": {
       "total": 29,
@@ -165792,10 +165792,10 @@
       "lastSuccess": 1734521375738
     },
     "ai-main.js": {
-      "total": 7,
-      "success": 6,
-      "last": 1734538804779,
-      "lastSuccess": 1734538804779
+      "total": 9,
+      "success": 8,
+      "last": 1734566580440,
+      "lastSuccess": 1734566580440
     },
     "game-tebakkabupaten.js": {
       "total": 3,
@@ -165863,7 +165863,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734563521707,
+      "backupDB": 1734565611616,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
