@@ -218,8 +218,8 @@
       "lastBanned": 0
     },
     "6287852486637@s.whatsapp.net": {
-      "exp": 4571,
-      "limit": 539,
+      "exp": 4670,
+      "limit": 419,
       "registered": false,
       "name": "Aruto ツ",
       "age": -1,
@@ -2052,8 +2052,8 @@
       "lastBanned": 0
     },
     "6283879425472@s.whatsapp.net": {
-      "exp": 275,
-      "limit": 314,
+      "exp": 296,
+      "limit": 289,
       "registered": false,
       "name": "wnnz",
       "age": -1,
@@ -2073,8 +2073,8 @@
       "lastBanned": 0
     },
     "628812611040@s.whatsapp.net": {
-      "exp": 12127,
-      "limit": 122,
+      "exp": 12226,
+      "limit": 77,
       "registered": false,
       "name": "𝙃𝙢𝙢𝙢",
       "age": -1,
@@ -14245,7 +14245,7 @@
       "premiumTime": 0
     },
     "6287740908701@s.whatsapp.net": {
-      "exp": 34701,
+      "exp": 34708,
       "limit": 552,
       "registered": false,
       "name": "Merzzx Story Kece",
@@ -59010,10 +59010,10 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 666,
-      "success": 615,
-      "last": 1734598051295,
-      "lastSuccess": 1734596285414
+      "total": 667,
+      "success": 616,
+      "last": 1734598364523,
+      "lastSuccess": 1734598364523
     },
     "downloader-tiktok.js": {
       "total": 1576,
@@ -59310,10 +59310,10 @@
       "lastSuccess": 1730161441000
     },
     "downloader-tiktoksearch.js": {
-      "total": 666,
-      "success": 659,
-      "last": 1734591347490,
-      "lastSuccess": 1734591347490
+      "total": 669,
+      "success": 662,
+      "last": 1734598445433,
+      "lastSuccess": 1734598445433
     },
     "ai-llama.js": {
       "total": 352,
@@ -60114,10 +60114,10 @@
       "lastSuccess": 1732545559487
     },
     "downloader-yt2.js": {
-      "total": 297,
-      "success": 187,
-      "last": 1734596003816,
-      "lastSuccess": 1734596003816
+      "total": 301,
+      "success": 191,
+      "last": 1734599315486,
+      "lastSuccess": 1734599315486
     },
     "internet-playlist.js": {
       "total": 20,
@@ -61229,7 +61229,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734596551701,
+      "backupDB": 1734598364572,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
