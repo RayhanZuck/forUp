@@ -4370,7 +4370,7 @@
       "lastBanned": 0
     },
     "628971572682@s.whatsapp.net": {
-      "exp": 8,
+      "exp": 10,
       "limit": 499,
       "registered": false,
       "name": "Yuzee",
@@ -4387,7 +4387,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "60182442325@s.whatsapp.net": {
       "exp": 12,
@@ -12679,7 +12680,7 @@
       "lastBanned": 0
     },
     "6281264270819@s.whatsapp.net": {
-      "exp": 73,
+      "exp": 94,
       "limit": 499,
       "registered": false,
       "name": "Freecs",
@@ -18248,7 +18249,7 @@
       "lastBanned": 0
     },
     "62895339377438@s.whatsapp.net": {
-      "exp": 6,
+      "exp": 9,
       "limit": 499,
       "registered": false,
       "name": "JibrannXD",
@@ -18265,7 +18266,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "628385919172@s.whatsapp.net": {
       "exp": 5,
@@ -19455,7 +19457,7 @@
       "lastBanned": 0
     },
     "6283822726419@s.whatsapp.net": {
-      "exp": 255,
+      "exp": 266,
       "limit": 499,
       "registered": false,
       "name": "𝒍𝒍ყ",
@@ -22476,7 +22478,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734631489698,
+      "backupDB": 1734633398671,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
