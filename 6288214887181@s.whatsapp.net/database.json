@@ -3239,8 +3239,8 @@
       "premiumTime": 0
     },
     "6287761263814@s.whatsapp.net": {
-      "exp": 24655,
-      "limit": 94,
+      "exp": 24706,
+      "limit": 44,
       "registered": false,
       "name": "Aldo 👽",
       "age": -1,
@@ -8438,7 +8438,7 @@
       "lastBanned": 0
     },
     "6285150845191@s.whatsapp.net": {
-      "exp": 968,
+      "exp": 1005,
       "limit": 184,
       "registered": false,
       "name": "Flying",
@@ -23224,7 +23224,7 @@
       "premiumTime": 0
     },
     "6285756525188@s.whatsapp.net": {
-      "exp": 138702,
+      "exp": 172677,
       "limit": 3043,
       "registered": false,
       "name": "nuii",
@@ -23243,7 +23243,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1733578338407,
+      "lastcommand": 1734712798662,
       "lastdaily": 1734617132345,
       "lastwork": 1733559391796
     },
@@ -60213,10 +60213,10 @@
       "lastSuccess": 1734676011289
     },
     "main-limit.js": {
-      "total": 1181,
-      "success": 1181,
-      "last": 1734704528980,
-      "lastSuccess": 1734704528980
+      "total": 1182,
+      "success": 1182,
+      "last": 1734712764499,
+      "lastSuccess": 1734712764499
     },
     "game-ulartangga.js": {
       "total": 80,
@@ -60507,10 +60507,10 @@
       "lastSuccess": 1730167378476
     },
     "game-siapakahaku.js": {
-      "total": 729,
-      "success": 708,
-      "last": 1734689765677,
-      "lastSuccess": 1734689765677
+      "total": 746,
+      "success": 724,
+      "last": 1734712870662,
+      "lastSuccess": 1734712870662
     },
     "fun-animequotes.js": {
       "total": 3,
@@ -60561,16 +60561,16 @@
       "lastSuccess": 1734615198404
     },
     "games-tebakkata.js": {
-      "total": 959,
-      "success": 922,
-      "last": 1734707349587,
-      "lastSuccess": 1734707349587
+      "total": 960,
+      "success": 923,
+      "last": 1734712241701,
+      "lastSuccess": 1734712241701
     },
     "game-susunkata.js": {
-      "total": 2037,
-      "success": 1852,
-      "last": 1734704591596,
-      "lastSuccess": 1734704591596
+      "total": 2045,
+      "success": 1860,
+      "last": 1734712773119,
+      "lastSuccess": 1734712773119
     },
     "game-susunkata_hint.js": {
       "total": 296,
@@ -60603,10 +60603,10 @@
       "lastSuccess": 1734400278576
     },
     "group-listonline.js": {
-      "total": 152,
-      "success": 138,
-      "last": 1734687269785,
-      "lastSuccess": 1734687254189
+      "total": 153,
+      "success": 139,
+      "last": 1734712798668,
+      "lastSuccess": 1734712798668
     },
     "tools-lyrics.js": {
       "total": 130,
@@ -60729,10 +60729,10 @@
       "lastSuccess": 1730211713904
     },
     "main-leader.js": {
-      "total": 180,
-      "success": 180,
-      "last": 1734600913078,
-      "lastSuccess": 1734600913078
+      "total": 181,
+      "success": 181,
+      "last": 1734712807960,
+      "lastSuccess": 1734712807960
     },
     "anime-animeinfo.js": {
       "total": 14,
@@ -60759,10 +60759,10 @@
       "lastSuccess": 1730270937202
     },
     "downloader-twitter.js": {
-      "total": 34,
-      "success": 33,
-      "last": 1734706376685,
-      "lastSuccess": 1734706376685
+      "total": 36,
+      "success": 35,
+      "last": 1734711558496,
+      "lastSuccess": 1734711558496
     },
     "dl-pinterest.js": {
       "total": 38,
@@ -62324,7 +62324,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734709687397,
+      "backupDB": 1734711545688,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
