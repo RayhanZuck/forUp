@@ -500,7 +500,7 @@
       "lastcommand": 1730157137237
     },
     "6285775803094@s.whatsapp.net": {
-      "exp": 31817,
+      "exp": 31848,
       "limit": 1024,
       "registered": false,
       "name": "山田",
@@ -952,7 +952,7 @@
       "lastdaily": 1733554666793
     },
     "6282150698385@s.whatsapp.net": {
-      "exp": 2151,
+      "exp": 2155,
       "limit": 499,
       "registered": false,
       "name": "Je t'aime😉🌿",
@@ -8023,7 +8023,7 @@
       "lastBanned": 0
     },
     "628818691228@s.whatsapp.net": {
-      "exp": 8340,
+      "exp": 8349,
       "limit": 2849,
       "registered": false,
       "name": "+62 881-8691-228",
@@ -47797,7 +47797,7 @@
       "premiumTime": 0
     },
     "6283846829169@s.whatsapp.net": {
-      "exp": 343,
+      "exp": 435,
       "limit": 43,
       "registered": false,
       "name": "~B🗿",
@@ -47816,7 +47816,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734502064128,
+      "lastcommand": 1734710456986,
       "lastwork": 1734595829314,
       "warn": 3,
       "lastrob": 1734595879198,
@@ -52299,7 +52299,7 @@
       "lastBanned": 0
     },
     "6283153992019@s.whatsapp.net": {
-      "exp": 3,
+      "exp": 9,
       "limit": 499,
       "registered": false,
       "name": "Ilham",
@@ -52316,7 +52316,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6287715904906@s.whatsapp.net": {
       "exp": 3,
@@ -53887,6 +53888,26 @@
       "exp": 1,
       "limit": 499,
       "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6285815215059@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 858-1521-5059",
       "age": -1,
       "regTime": -1,
       "unreg": false,
@@ -60252,10 +60273,10 @@
       "lastSuccess": 1734571146721
     },
     "_cek.js": {
-      "total": 712,
-      "success": 712,
-      "last": 1734707312879,
-      "lastSuccess": 1734707312879
+      "total": 713,
+      "success": 713,
+      "last": 1734710457320,
+      "lastSuccess": 1734710457320
     },
     "enable.js": {
       "total": 98,
@@ -62303,7 +62324,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734707430101,
+      "backupDB": 1734709687397,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
