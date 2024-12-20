@@ -3304,7 +3304,7 @@
       "lastBanned": 0
     },
     "120363280765137622@g.us": {
-      "exp": 6960,
+      "exp": 6966,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -24732,7 +24732,7 @@
       "lastdaily": 1727481351260
     },
     "6285878464218@s.whatsapp.net": {
-      "exp": 3029,
+      "exp": 3031,
       "limit": 44,
       "registered": false,
       "name": "nnd",
@@ -135504,7 +135504,7 @@
       "limitprem": 10000
     },
     "62882006048424@s.whatsapp.net": {
-      "exp": 3320,
+      "exp": 3336,
       "limit": 479,
       "registered": false,
       "name": "mnx",
@@ -136330,7 +136330,7 @@
       "lastBanned": 0
     },
     "6287714793768@s.whatsapp.net": {
-      "exp": 943,
+      "exp": 953,
       "limit": 499,
       "registered": false,
       "name": "Iky",
@@ -136909,7 +136909,7 @@
       "premiumTime": 0
     },
     "62882005023443@s.whatsapp.net": {
-      "exp": 3068,
+      "exp": 3080,
       "limit": 499,
       "registered": false,
       "name": "Panjul",
@@ -137506,7 +137506,7 @@
       "premiumTime": 0
     },
     "62882007393902@s.whatsapp.net": {
-      "exp": 125,
+      "exp": 128,
       "limit": 499,
       "registered": false,
       "name": "Khoir",
@@ -138805,7 +138805,7 @@
       "lastBanned": 0
     },
     "62882022067510@s.whatsapp.net": {
-      "exp": 482,
+      "exp": 488,
       "limit": 499,
       "registered": false,
       "name": "Diyahh.",
@@ -139570,7 +139570,7 @@
       "lastBanned": 0
     },
     "6283150931275@s.whatsapp.net": {
-      "exp": 3124,
+      "exp": 3128,
       "limit": 499,
       "registered": false,
       "name": "+62 831-5093-1275",
@@ -146363,7 +146363,7 @@
       "lastBanned": 0
     },
     "6282245932200@s.whatsapp.net": {
-      "exp": 26,
+      "exp": 54,
       "limit": 499,
       "registered": false,
       "name": "Reyhan Ega",
@@ -146573,7 +146573,7 @@
       "lastBanned": 0
     },
     "6287812263358@s.whatsapp.net": {
-      "exp": 63,
+      "exp": 81,
       "limit": 499,
       "registered": false,
       "name": "‎",
@@ -150521,7 +150521,7 @@
       "lastBanned": 0
     },
     "6285863601448@s.whatsapp.net": {
-      "exp": 1736,
+      "exp": 1746,
       "limit": 499,
       "registered": false,
       "name": "AmeliaBotz",
@@ -150537,7 +150537,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0
     },
@@ -151665,7 +151665,7 @@
       "lastBanned": 0
     },
     "62881023840160@s.whatsapp.net": {
-      "exp": 962,
+      "exp": 980,
       "limit": -1,
       "registered": false,
       "name": "dimasta",
@@ -152540,7 +152540,7 @@
       "premiumTime": 0
     },
     "62895322876485@s.whatsapp.net": {
-      "exp": 30,
+      "exp": 36,
       "limit": 499,
       "registered": false,
       "name": "ajia68593",
@@ -155284,7 +155284,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0
     },
@@ -158023,7 +158023,7 @@
       "premiumTime": 0
     },
     "6283892243086@s.whatsapp.net": {
-      "exp": 42,
+      "exp": 55,
       "limit": 474,
       "registered": false,
       "name": "binnn",
@@ -158044,7 +158044,7 @@
       "lastBanned": 0
     },
     "6281917205120@s.whatsapp.net": {
-      "exp": 1,
+      "exp": 6,
       "limit": 499,
       "registered": false,
       "name": "Omang. Redit",
@@ -158061,10 +158061,11 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6281228391209@s.whatsapp.net": {
-      "exp": 9,
+      "exp": 17,
       "limit": 499,
       "registered": false,
       "name": "Mall",
@@ -158243,7 +158244,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": false,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6283877706043@s.whatsapp.net": {
       "exp": 11,
@@ -158307,6 +158309,46 @@
       "premiumTime": 0
     },
     "132143980269568_1@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "62859171422006@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 499,
+      "registered": false,
+      "name": "na",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
+    },
+    "74019885850682_1@s.whatsapp.net": {
       "exp": 9,
       "limit": 499,
       "registered": false,
@@ -170190,10 +170232,10 @@
       "lastSuccess": 1734423783716
     },
     "downloader-tiktok.js": {
-      "total": 372,
-      "success": 355,
-      "last": 1734670849804,
-      "lastSuccess": 1734670849804
+      "total": 373,
+      "success": 356,
+      "last": 1734673254605,
+      "lastSuccess": 1734673254605
     },
     "scld.js": {
       "total": 4,
@@ -170604,10 +170646,10 @@
       "lastSuccess": 1734521375738
     },
     "ai-main.js": {
-      "total": 11,
-      "success": 8,
-      "last": 1734658664972,
-      "lastSuccess": 1734566580440
+      "total": 12,
+      "success": 9,
+      "last": 1734674446600,
+      "lastSuccess": 1734674446600
     },
     "game-tebakkabupaten.js": {
       "total": 3,
@@ -170681,7 +170723,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734670786181,
+      "backupDB": 1734672647965,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
