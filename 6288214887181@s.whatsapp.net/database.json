@@ -87,7 +87,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 119511,
+      "exp": 119578,
       "limit": 0,
       "registered": false,
       "name": "Rayhan?",
@@ -106,7 +106,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734690106018,
+      "lastcommand": 1734690206401,
       "lastwork": 1734240647492,
       "aiprompt": "mulai sekarang nama kamu adalah jinan safa safira, kamu orang yang sangat baik"
     },
@@ -47796,7 +47796,7 @@
       "premiumTime": 0
     },
     "6283846829169@s.whatsapp.net": {
-      "exp": 280,
+      "exp": 307,
       "limit": 68,
       "registered": false,
       "name": "~B🗿",
@@ -49718,7 +49718,7 @@
       "lastcommand": 1734520298464
     },
     "6282281819732@s.whatsapp.net": {
-      "exp": 29150,
+      "exp": 29190,
       "limit": 622,
       "registered": false,
       "name": "Jendral Maeza",
@@ -49737,7 +49737,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734561015722,
+      "lastcommand": 1734690327300,
       "lastrob": 1734571048747,
       "lastwork": 1734560924134
     },
@@ -50477,7 +50477,7 @@
       "premiumTime": 0
     },
     "6282189203718@s.whatsapp.net": {
-      "exp": 2,
+      "exp": 9,
       "limit": 499,
       "registered": false,
       "name": "IWAN",
@@ -50494,7 +50494,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "62882021745471@s.whatsapp.net": {
       "exp": 2073,
@@ -59870,10 +59871,10 @@
       "lastSuccess": 1734673485494
     },
     "downloader-play.js": {
-      "total": 1752,
-      "success": 1646,
-      "last": 1734688327156,
-      "lastSuccess": 1734688327156
+      "total": 1753,
+      "success": 1647,
+      "last": 1734691407105,
+      "lastSuccess": 1734691407105
     },
     "downloader-ytvideo.js": {
       "total": 133,
@@ -60332,10 +60333,10 @@
       "lastSuccess": 1734615044621
     },
     "info-ping.js": {
-      "total": 218,
-      "success": 218,
-      "last": 1734690106844,
-      "lastSuccess": 1734690106844
+      "total": 221,
+      "success": 221,
+      "last": 1734690330889,
+      "lastSuccess": 1734690330889
     },
     "ai-toanime.js": {
       "total": 83,
@@ -62077,7 +62078,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734688306783,
+      "backupDB": 1734690194371,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
