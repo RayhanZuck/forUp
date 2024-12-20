@@ -713,8 +713,8 @@
       "lastdaily": 1732086399164
     },
     "628884584571@s.whatsapp.net": {
-      "exp": 29890,
-      "limit": 79,
+      "exp": 29910,
+      "limit": 59,
       "registered": false,
       "name": "iky",
       "age": -1,
@@ -968,7 +968,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0
     },
@@ -5449,8 +5449,8 @@
       "premiumTime": 0
     },
     "919863871445@s.whatsapp.net": {
-      "exp": 53796,
-      "limit": 149,
+      "exp": 55850,
+      "limit": 229,
       "registered": false,
       "name": "Asahi.",
       "age": -1,
@@ -5468,7 +5468,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastdaily": 1734623931564
+      "lastdaily": 1734732069958
     },
     "54396297711823_1@s.whatsapp.net": {
       "exp": 4,
@@ -51245,8 +51245,8 @@
       "premiumTime": 0
     },
     "6288225432435@s.whatsapp.net": {
-      "exp": 423,
-      "limit": 18,
+      "exp": 2494,
+      "limit": 118,
       "registered": false,
       "name": "Aksa Wibisono",
       "age": -1,
@@ -51265,7 +51265,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastwork": 1734662904335,
-      "lastdaily": 1734584881309,
+      "lastdaily": 1734733246349,
       "lastcommand": 1734662892451,
       "lastrob": 1734663566757
     },
@@ -52900,7 +52900,7 @@
       "premiumTime": 0
     },
     "60145716489@s.whatsapp.net": {
-      "exp": 402,
+      "exp": 406,
       "limit": 518,
       "registered": false,
       "name": "Safei",
@@ -52916,7 +52916,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1734729743172,
@@ -60144,10 +60144,10 @@
       "lastSuccess": 1734708656658
     },
     "downloader-tiktok.js": {
-      "total": 1623,
-      "success": 1503,
-      "last": 1734716094981,
-      "lastSuccess": 1734716094981
+      "total": 1624,
+      "success": 1504,
+      "last": 1734732776609,
+      "lastSuccess": 1734732776609
     },
     "owner-sf.js": {
       "total": 993,
@@ -60204,10 +60204,10 @@
       "lastSuccess": 1734505231710
     },
     "econ-claim.js": {
-      "total": 1805,
-      "success": 1232,
-      "last": 1734717020349,
-      "lastSuccess": 1734717020349
+      "total": 1808,
+      "success": 1234,
+      "last": 1734733278111,
+      "lastSuccess": 1734733246349
     },
     "game-curi.js": {
       "total": 984,
@@ -61956,10 +61956,10 @@
       "lastSuccess": 1732625090496
     },
     "tool-removebg.js": {
-      "total": 13,
-      "success": 11,
-      "last": 1734672356060,
-      "lastSuccess": 1734672356060
+      "total": 14,
+      "success": 12,
+      "last": 1734732069548,
+      "lastSuccess": 1734732069548
     },
     "islam-kisahnabi.js": {
       "total": 9,
@@ -62363,7 +62363,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734728931675,
+      "backupDB": 1734732065759,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
