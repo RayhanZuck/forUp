@@ -54101,7 +54101,7 @@
       "premiumTime": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 31583,
+      "exp": 31585,
       "limit": 499,
       "registered": false,
       "name": "RayhanAdzShl",
@@ -92982,7 +92982,7 @@
       "WarnReason": "",
       "lastweekly": 1729589385594,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastdaily": 1729589384898,
@@ -130921,7 +130921,7 @@
       "lastBanned": 0
     },
     "6281276321159@s.whatsapp.net": {
-      "exp": 5606,
+      "exp": 5734,
       "limit": 499,
       "registered": false,
       "name": "ShizukaMD",
@@ -131211,15 +131211,15 @@
       "premiumTime": 0
     },
     "6283183323234@s.whatsapp.net": {
-      "exp": 6473,
+      "exp": 6760,
       "limit": 479,
       "registered": false,
       "name": "Kevin-Remix",
       "age": -1,
       "regTime": -1,
       "unreg": false,
-      "afk": -1,
-      "afkReason": "",
+      "afk": 1734690641733,
+      "afkReason": "nak makan abis makan colay",
       "banned": false,
       "level": 0,
       "role": "Beginner",
@@ -131227,7 +131227,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1734689617012
@@ -135590,7 +135590,7 @@
       "premiumTime": 0
     },
     "6283846829169@s.whatsapp.net": {
-      "exp": 1110,
+      "exp": 1116,
       "limit": 474,
       "registered": false,
       "name": "~B🗿",
@@ -150507,7 +150507,7 @@
       "lastBanned": 0
     },
     "62857526150234@s.whatsapp.net": {
-      "exp": 1831,
+      "exp": 1879,
       "limit": 499,
       "registered": false,
       "name": "Mn",
@@ -150528,7 +150528,7 @@
       "lastBanned": 0
     },
     "6285863601448@s.whatsapp.net": {
-      "exp": 1917,
+      "exp": 1967,
       "limit": 499,
       "registered": false,
       "name": "AmeliaBotz",
@@ -151450,7 +151450,7 @@
       "lastcommand": 1734524772887
     },
     "628311855725@s.whatsapp.net": {
-      "exp": 933,
+      "exp": 1126,
       "limit": 449,
       "registered": false,
       "name": "et",
@@ -155277,7 +155277,7 @@
       "premiumTime": 0
     },
     "62895619984646@s.whatsapp.net": {
-      "exp": 688,
+      "exp": 741,
       "limit": 474,
       "registered": false,
       "name": "Azure",
@@ -157246,8 +157246,8 @@
       "lastBanned": 0
     },
     "6285795287654@s.whatsapp.net": {
-      "exp": 26,
-      "limit": 499,
+      "exp": 59,
+      "limit": 474,
       "registered": false,
       "name": "Fan5Embe441",
       "age": -1,
@@ -158399,7 +158399,7 @@
       "lastBanned": 0
     },
     "6285789724423@s.whatsapp.net": {
-      "exp": 26,
+      "exp": 30,
       "limit": 499,
       "registered": false,
       "name": "arifinilhammuhamad030",
@@ -158560,15 +158560,15 @@
       "premiumTime": 0
     },
     "6283183713987@s.whatsapp.net": {
-      "exp": 258,
+      "exp": 278,
       "limit": 499,
       "registered": false,
       "name": "NEXUS",
       "age": -1,
       "regTime": -1,
       "unreg": false,
-      "afk": -1,
-      "afkReason": "",
+      "afk": 1734690708735,
+      "afkReason": "lagi mikirin fitur apa yang unik atau yang gaada di SC lain",
       "banned": false,
       "level": 0,
       "role": "Beginner",
@@ -158607,6 +158607,26 @@
       "exp": 1,
       "limit": 499,
       "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6283821101394@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 838-2110-1394",
       "age": -1,
       "regTime": -1,
       "unreg": false,
@@ -168843,10 +168863,10 @@
       "lastSuccess": 1734659627630
     },
     "info-ping.js": {
-      "total": 765,
-      "success": 762,
-      "last": 1734675044091,
-      "lastSuccess": 1734675044091
+      "total": 766,
+      "success": 763,
+      "last": 1734690194736,
+      "lastSuccess": 1734690194736
     },
     "tool-getpp.js": {
       "total": 7,
@@ -169221,10 +169241,10 @@
       "lastSuccess": 1732686360630
     },
     "main-afk_.js": {
-      "total": 308,
-      "success": 308,
-      "last": 1734534729623,
-      "lastSuccess": 1734534729623
+      "total": 310,
+      "success": 310,
+      "last": 1734690708735,
+      "lastSuccess": 1734690708735
     },
     "anime-rkill.js": {
       "total": 34,
@@ -169275,10 +169295,10 @@
       "lastSuccess": 1725006103284
     },
     "ai-remini.js": {
-      "total": 793,
-      "success": 761,
-      "last": 1734679575382,
-      "lastSuccess": 1734679575382
+      "total": 794,
+      "success": 762,
+      "last": 1734691098698,
+      "lastSuccess": 1734691098698
     },
     "own-edit.js": {
       "total": 3,
@@ -171062,7 +171082,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734687910778,
+      "backupDB": 1734689734634,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
