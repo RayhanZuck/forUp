@@ -2142,7 +2142,7 @@
       "lastcommand": 1730727286271
     },
     "6285720973051@s.whatsapp.net": {
-      "exp": 750758,
+      "exp": 750774,
       "limit": 6322,
       "registered": true,
       "name": "citra",
@@ -22058,7 +22058,7 @@
       "premiumTime": 0
     },
     "6287822058176@s.whatsapp.net": {
-      "exp": -691,
+      "exp": -689,
       "limit": 499,
       "registered": false,
       "name": "Rhaeneyra",
@@ -22074,7 +22074,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastcommand": 1732090454983,
       "lastBanned": 0
@@ -29867,7 +29867,7 @@
       "premiumTime": 0
     },
     "601172392866@s.whatsapp.net": {
-      "exp": 84972,
+      "exp": 84980,
       "limit": 607,
       "registered": false,
       "name": "dinosor",
@@ -53922,6 +53922,25 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "39016019849233_1@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -62324,7 +62343,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734718298750,
+      "backupDB": 1734720544134,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
