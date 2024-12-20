@@ -155,7 +155,7 @@
       "lastcommand": 1732771777501
     },
     "120363183420865643@g.us": {
-      "exp": 4656,
+      "exp": 4661,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -176,7 +176,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3494,
+      "exp": 3500,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1040,7 +1040,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 5788,
+      "exp": 5791,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1327,7 +1327,7 @@
       "premiumTime": 0
     },
     "6281947888865@s.whatsapp.net": {
-      "exp": 1897,
+      "exp": 1951,
       "limit": 295,
       "registered": true,
       "name": "Olan",
@@ -1346,7 +1346,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734505287701,
+      "lastcommand": 1734684328678,
       "lastdaily": 1734402652227,
       "lastwork": 1734415994692
     },
@@ -2341,8 +2341,8 @@
       "lastBanned": 0
     },
     "6282170977218@s.whatsapp.net": {
-      "exp": 9699,
-      "limit": 40,
+      "exp": 9785,
+      "limit": 0,
       "registered": false,
       "name": "Rambe suka elaina",
       "age": -1,
@@ -53597,6 +53597,26 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "6283822476986@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "name": "FERI SATORU",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -59780,10 +59800,10 @@
       "lastSuccess": 1734672211354
     },
     "downloader-tiktok.js": {
-      "total": 1605,
-      "success": 1485,
-      "last": 1734681062998,
-      "lastSuccess": 1734681062998
+      "total": 1607,
+      "success": 1487,
+      "last": 1734684832683,
+      "lastSuccess": 1734684832683
     },
     "owner-sf.js": {
       "total": 993,
@@ -59846,9 +59866,9 @@
       "lastSuccess": 1734678495931
     },
     "game-curi.js": {
-      "total": 981,
+      "total": 982,
       "success": 722,
-      "last": 1734679623522,
+      "last": 1734684807031,
       "lastSuccess": 1734679623522
     },
     "game-copet.js": {
@@ -60416,10 +60436,10 @@
       "lastSuccess": 1733110352259
     },
     "_rayhan-allmenu.js": {
-      "total": 196,
-      "success": 190,
-      "last": 1734676615304,
-      "lastSuccess": 1734676615304
+      "total": 197,
+      "success": 191,
+      "last": 1734684348068,
+      "lastSuccess": 1734684348068
     },
     "ai-ailogo.js": {
       "total": 17,
@@ -61999,7 +62019,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734682114398,
+      "backupDB": 1734684314740,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
