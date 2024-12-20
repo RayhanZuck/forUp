@@ -21709,7 +21709,7 @@
       "lastBanned": 0
     },
     "60177392284@s.whatsapp.net": {
-      "exp": 7455,
+      "exp": 7464,
       "limit": 3238,
       "registered": false,
       "name": "PENJAHAT",
@@ -52900,8 +52900,8 @@
       "premiumTime": 0
     },
     "60145716489@s.whatsapp.net": {
-      "exp": 252,
-      "limit": 499,
+      "exp": 402,
+      "limit": 518,
       "registered": false,
       "name": "Safei",
       "age": -1,
@@ -52916,10 +52916,11 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734703571999
+      "lastcommand": 1734729743172,
+      "lastwork": 1734729688792
     },
     "6287854197530@s.whatsapp.net": {
       "exp": 15,
@@ -60179,10 +60180,10 @@
       "lastSuccess": 1734439854775
     },
     "game-kerja.js": {
-      "total": 896,
-      "success": 731,
-      "last": 1734718367699,
-      "lastSuccess": 1734718367699
+      "total": 897,
+      "success": 732,
+      "last": 1734729689284,
+      "lastSuccess": 1734729689284
     },
     "ai-blackbox.js": {
       "total": 14,
@@ -60221,16 +60222,16 @@
       "lastSuccess": 1734326583438
     },
     "main-balance.js": {
-      "total": 234,
-      "success": 233,
-      "last": 1734704434644,
-      "lastSuccess": 1734704434644
+      "total": 237,
+      "success": 236,
+      "last": 1734729676670,
+      "lastSuccess": 1734729676670
     },
     "main-shop.js": {
-      "total": 662,
-      "success": 662,
-      "last": 1734704571659,
-      "lastSuccess": 1734704571659
+      "total": 663,
+      "success": 663,
+      "last": 1734729663742,
+      "lastSuccess": 1734729663742
     },
     "main-level.js": {
       "total": 189,
@@ -60269,10 +60270,10 @@
       "lastSuccess": 1732941237787
     },
     "game-mancing.js": {
-      "total": 1053,
-      "success": 748,
-      "last": 1734716993607,
-      "lastSuccess": 1734716993607
+      "total": 1054,
+      "success": 749,
+      "last": 1734729321167,
+      "lastSuccess": 1734729321167
     },
     "game-tambang.js": {
       "total": 194,
@@ -60311,10 +60312,10 @@
       "lastSuccess": 1734571146721
     },
     "_cek.js": {
-      "total": 714,
-      "success": 714,
-      "last": 1734715764183,
-      "lastSuccess": 1734715764183
+      "total": 716,
+      "success": 716,
+      "last": 1734729743473,
+      "lastSuccess": 1734729743473
     },
     "enable.js": {
       "total": 98,
@@ -60605,10 +60606,10 @@
       "lastSuccess": 1734712241701
     },
     "game-susunkata.js": {
-      "total": 2045,
-      "success": 1860,
-      "last": 1734712773119,
-      "lastSuccess": 1734712773119
+      "total": 2048,
+      "success": 1863,
+      "last": 1734729595448,
+      "lastSuccess": 1734729595448
     },
     "game-susunkata_hint.js": {
       "total": 296,
@@ -61265,9 +61266,9 @@
       "lastSuccess": 1733551635630
     },
     "game-berburu.js": {
-      "total": 39,
+      "total": 40,
       "success": 33,
-      "last": 1734531113646,
+      "last": 1734729716609,
       "lastSuccess": 1734531113646
     },
     "own-edit.js": {
@@ -62362,7 +62363,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734727027448,
+      "backupDB": 1734728931675,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
