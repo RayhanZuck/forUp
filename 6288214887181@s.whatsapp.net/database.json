@@ -176,7 +176,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3552,
+      "exp": 3554,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -367,8 +367,8 @@
       "lastBanned": 0
     },
     "6285862908490@s.whatsapp.net": {
-      "exp": 12058,
-      "limit": 894,
+      "exp": 12082,
+      "limit": 869,
       "registered": false,
       "name": "Ryoko Kobayashi Tanaka",
       "age": -1,
@@ -1040,7 +1040,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 5833,
+      "exp": 5837,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -2922,7 +2922,7 @@
       "lastBanned": 0
     },
     "6283867247755@s.whatsapp.net": {
-      "exp": 31687,
+      "exp": 33563,
       "limit": 4927,
       "registered": false,
       "name": "~ツ",
@@ -46429,7 +46429,7 @@
       "premiumTime": 0
     },
     "62881010120868@s.whatsapp.net": {
-      "exp": 228,
+      "exp": 241,
       "limit": 499,
       "registered": false,
       "name": "최고의 왕자",
@@ -52723,8 +52723,8 @@
       "premiumTime": 0
     },
     "6281957133061@s.whatsapp.net": {
-      "exp": 41903,
-      "limit": 1019,
+      "exp": 48259,
+      "limit": 1014,
       "registered": false,
       "name": "nanaa",
       "age": -1,
@@ -54068,8 +54068,8 @@
       "premiumTime": 0
     },
     "6287785090009@s.whatsapp.net": {
-      "exp": 6184,
-      "limit": 1099,
+      "exp": 6300,
+      "limit": 1019,
       "registered": false,
       "name": "Uni Soviet",
       "age": -1,
@@ -54088,6 +54088,46 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastdaily": 1734746287530
+    },
+    "253051302600753_1@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6288802423461@s.whatsapp.net": {
+      "exp": 18,
+      "limit": 499,
+      "registered": false,
+      "name": "RADEN WIJAYA PUTRA PD",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -60309,10 +60349,10 @@
       "lastSuccess": 1734743167031
     },
     "downloader-play.js": {
-      "total": 1764,
-      "success": 1658,
-      "last": 1734746043650,
-      "lastSuccess": 1734746043650
+      "total": 1768,
+      "success": 1662,
+      "last": 1734747850469,
+      "lastSuccess": 1734747850469
     },
     "downloader-ytvideo.js": {
       "total": 134,
@@ -60753,10 +60793,10 @@
       "lastSuccess": 1734615198404
     },
     "games-tebakkata.js": {
-      "total": 992,
-      "success": 955,
-      "last": 1734735656532,
-      "lastSuccess": 1734735656532
+      "total": 994,
+      "success": 957,
+      "last": 1734746938231,
+      "lastSuccess": 1734746938231
     },
     "game-susunkata.js": {
       "total": 2048,
@@ -61215,10 +61255,10 @@
       "lastSuccess": 1734508007371
     },
     "sticker-all.js": {
-      "total": 181,
-      "success": 152,
-      "last": 1734746438038,
-      "lastSuccess": 1734746438038
+      "total": 183,
+      "success": 154,
+      "last": 1734746655094,
+      "lastSuccess": 1734746655094
     },
     "game-nebang.js": {
       "total": 158,
@@ -61353,10 +61393,10 @@
       "lastSuccess": 1733324549987
     },
     "game-family100.js": {
-      "total": 128,
-      "success": 110,
-      "last": 1734742600440,
-      "lastSuccess": 1734697068229
+      "total": 131,
+      "success": 112,
+      "last": 1734746794018,
+      "lastSuccess": 1734746794018
     },
     "ai-openai.js": {
       "total": 14,
@@ -61383,10 +61423,10 @@
       "lastSuccess": 1734662765267
     },
     "game-tebakan.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1734675567193,
-      "lastSuccess": 1734675567193
+      "total": 5,
+      "success": 5,
+      "last": 1734746963589,
+      "lastSuccess": 1734746963589
     },
     "game-caklontong.js": {
       "total": 32,
@@ -62503,6 +62543,12 @@
       "success": 42,
       "last": 1734676454745,
       "lastSuccess": 1734676454745
+    },
+    "game-tebakan-hint.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1734746980042,
+      "lastSuccess": 1734746980042
     }
   },
   "msgs": {},
@@ -62516,7 +62562,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734744664091,
+      "backupDB": 1734746493564,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
