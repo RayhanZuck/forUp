@@ -828,7 +828,7 @@
       "premiumTime": 0
     },
     "85293332660@s.whatsapp.net": {
-      "exp": 1635,
+      "exp": 1668,
       "limit": 4,
       "registered": false,
       "name": "Katy ✨🌟💫",
@@ -49290,8 +49290,8 @@
       "premiumTime": 0
     },
     "6281258193521@s.whatsapp.net": {
-      "exp": 3777,
-      "limit": 599,
+      "exp": 7768,
+      "limit": 699,
       "registered": false,
       "name": "Ytta",
       "age": -1,
@@ -49309,8 +49309,8 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastdaily": 1734528321530,
-      "lastwork": 1734528445264
+      "lastdaily": 1734797454348,
+      "lastwork": 1734797455078
     },
     "6283159141308@s.whatsapp.net": {
       "exp": 197,
@@ -50148,8 +50148,8 @@
       "lastBanned": 0
     },
     "62882006048424@s.whatsapp.net": {
-      "exp": 4908,
-      "limit": 6898,
+      "exp": 4957,
+      "limit": 6873,
       "registered": true,
       "name": "bay",
       "age": 19,
@@ -53801,8 +53801,8 @@
       "premiumTime": 0
     },
     "62895415196214@s.whatsapp.net": {
-      "exp": 7294,
-      "limit": 1099,
+      "exp": 9657,
+      "limit": 1139,
       "registered": false,
       "name": "Mafaaza Chicken Parung",
       "age": -1,
@@ -53821,8 +53821,8 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1734704364649,
-      "lastwork": 1734704535175,
-      "lastdaily": 1734706253239
+      "lastwork": 1734798755675,
+      "lastdaily": 1734798753561
     },
     "62895428373075@s.whatsapp.net": {
       "exp": 4,
@@ -54498,6 +54498,25 @@
     },
     "264347200839719_1@s.whatsapp.net": {
       "exp": 4,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "50525995315331_1@s.whatsapp.net": {
+      "exp": 9,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -60821,16 +60840,16 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 688,
-      "success": 636,
-      "last": 1734788346322,
-      "lastSuccess": 1734788346322
+      "total": 689,
+      "success": 637,
+      "last": 1734799028527,
+      "lastSuccess": 1734799028527
     },
     "downloader-tiktok.js": {
-      "total": 1645,
-      "success": 1525,
-      "last": 1734796402912,
-      "lastSuccess": 1734796402912
+      "total": 1648,
+      "success": 1528,
+      "last": 1734798759200,
+      "lastSuccess": 1734798759200
     },
     "owner-sf.js": {
       "total": 1014,
@@ -60839,10 +60858,10 @@
       "lastSuccess": 1734759135782
     },
     "downloader-play.js": {
-      "total": 1798,
-      "success": 1692,
-      "last": 1734791724442,
-      "lastSuccess": 1734791724442
+      "total": 1799,
+      "success": 1693,
+      "last": 1734798575373,
+      "lastSuccess": 1734798575373
     },
     "downloader-ytvideo.js": {
       "total": 134,
@@ -60887,10 +60906,10 @@
       "lastSuccess": 1734753268937
     },
     "econ-claim.js": {
-      "total": 1854,
-      "success": 1268,
-      "last": 1734794832515,
-      "lastSuccess": 1734794832515
+      "total": 1856,
+      "success": 1270,
+      "last": 1734798753568,
+      "lastSuccess": 1734798753568
     },
     "game-curi.js": {
       "total": 1010,
@@ -60953,10 +60972,10 @@
       "lastSuccess": 1732941237787
     },
     "game-mancing.js": {
-      "total": 1059,
-      "success": 754,
-      "last": 1734767309763,
-      "lastSuccess": 1734767309763
+      "total": 1060,
+      "success": 755,
+      "last": 1734798755968,
+      "lastSuccess": 1734798755968
     },
     "game-tambang.js": {
       "total": 195,
@@ -61949,10 +61968,10 @@
       "lastSuccess": 1733551635630
     },
     "game-berburu.js": {
-      "total": 42,
-      "success": 35,
-      "last": 1734788323336,
-      "lastSuccess": 1734788323336
+      "total": 43,
+      "success": 36,
+      "last": 1734797455078,
+      "lastSuccess": 1734797455078
     },
     "own-edit.js": {
       "total": 5,
@@ -63058,7 +63077,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734795342470,
+      "backupDB": 1734797454186,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
