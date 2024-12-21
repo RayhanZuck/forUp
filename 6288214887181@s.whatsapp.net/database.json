@@ -1806,8 +1806,8 @@
       "premiumTime": 0
     },
     "6285819196249@s.whatsapp.net": {
-      "exp": 38402,
-      "limit": 659,
+      "exp": 38432,
+      "limit": 639,
       "registered": false,
       "name": "ror",
       "age": -1,
@@ -51425,8 +51425,8 @@
       "premiumTime": 0
     },
     "6282291607732@s.whatsapp.net": {
-      "exp": 1124,
-      "limit": 407,
+      "exp": 1162,
+      "limit": 397,
       "registered": false,
       "name": ".",
       "age": -1,
@@ -54616,6 +54616,25 @@
     },
     "145878564233442_1@s.whatsapp.net": {
       "exp": 5,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "253618204750023_1@s.whatsapp.net": {
+      "exp": 3,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -60945,10 +60964,10 @@
       "lastSuccess": 1734810525347
     },
     "downloader-tiktok.js": {
-      "total": 1648,
-      "success": 1528,
-      "last": 1734798759200,
-      "lastSuccess": 1734798759200
+      "total": 1649,
+      "success": 1529,
+      "last": 1734816475297,
+      "lastSuccess": 1734816475297
     },
     "owner-sf.js": {
       "total": 1014,
@@ -61863,10 +61882,10 @@
       "lastSuccess": 1734508007371
     },
     "sticker-all.js": {
-      "total": 211,
-      "success": 180,
-      "last": 1734814242091,
-      "lastSuccess": 1734814242091
+      "total": 213,
+      "success": 182,
+      "last": 1734817710498,
+      "lastSuccess": 1734817710498
     },
     "game-nebang.js": {
       "total": 158,
@@ -63176,7 +63195,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734812864114,
+      "backupDB": 1734816419185,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
