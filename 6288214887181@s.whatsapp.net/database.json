@@ -1044,7 +1044,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 5866,
+      "exp": 5867,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1515,7 +1515,7 @@
       "lastBanned": 0
     },
     "6288294411864@s.whatsapp.net": {
-      "exp": 22048,
+      "exp": 22054,
       "limit": 117,
       "registered": false,
       "name": "👑",
@@ -5861,8 +5861,8 @@
       "premiumTime": 0
     },
     "6287877901251@s.whatsapp.net": {
-      "exp": 842,
-      "limit": 139,
+      "exp": 885,
+      "limit": 119,
       "registered": false,
       "name": "@xys_syaa'",
       "age": -1,
@@ -12401,8 +12401,8 @@
       "lastcommand": 1731472269564
     },
     "6281958351619@s.whatsapp.net": {
-      "exp": 12144,
-      "limit": 13,
+      "exp": 13947,
+      "limit": 11,
       "registered": false,
       "name": "kaAll",
       "age": -1,
@@ -51420,7 +51420,7 @@
       "premiumTime": 0
     },
     "6282291607732@s.whatsapp.net": {
-      "exp": 700,
+      "exp": 788,
       "limit": 444,
       "registered": false,
       "name": ".",
@@ -51439,7 +51439,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734777137590
+      "lastcommand": 1734784216222
     },
     "6283143561973@s.whatsapp.net": {
       "exp": 66,
@@ -53882,7 +53882,7 @@
       "lastBanned": 0
     },
     "967771577538@s.whatsapp.net": {
-      "exp": 16,
+      "exp": 24,
       "limit": 499,
       "registered": false,
       "name": "انا هنا من شان واحد من الناس \nانا معلق بين.. بعده وقربه",
@@ -54339,6 +54339,25 @@
     },
     "88386786357327_1@s.whatsapp.net": {
       "exp": 5,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "169144871854181_1@s.whatsapp.net": {
+      "exp": 4,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -60642,10 +60661,10 @@
       "lastSuccess": 1734778185550
     },
     "downloader-tiktok.js": {
-      "total": 1641,
-      "success": 1521,
-      "last": 1734783673006,
-      "lastSuccess": 1734783673006
+      "total": 1642,
+      "success": 1522,
+      "last": 1734784221974,
+      "lastSuccess": 1734784221974
     },
     "owner-sf.js": {
       "total": 1014,
@@ -60738,10 +60757,10 @@
       "lastSuccess": 1734751965648
     },
     "_shortcut.js": {
-      "total": 281,
-      "success": 274,
-      "last": 1734741880945,
-      "lastSuccess": 1734741880945
+      "total": 282,
+      "success": 275,
+      "last": 1734784281975,
+      "lastSuccess": 1734784281975
     },
     "game-slot.js": {
       "total": 80,
@@ -61110,10 +61129,10 @@
       "lastSuccess": 1734783929525
     },
     "game-susunkata_hint.js": {
-      "total": 297,
-      "success": 287,
-      "last": 1734752908845,
-      "lastSuccess": 1734752908845
+      "total": 298,
+      "success": 288,
+      "last": 1734783962511,
+      "lastSuccess": 1734783962511
     },
     "info-ping.js": {
       "total": 228,
@@ -61272,16 +61291,16 @@
       "lastSuccess": 1734783311535
     },
     "anime-animeinfo.js": {
-      "total": 14,
+      "total": 15,
       "success": 4,
-      "last": 1734704554635,
+      "last": 1734784248539,
       "lastSuccess": 1734704554635
     },
     "_rayhan-allmenu.js": {
-      "total": 200,
-      "success": 193,
-      "last": 1734781164364,
-      "lastSuccess": 1734754149790
+      "total": 201,
+      "success": 194,
+      "last": 1734784247608,
+      "lastSuccess": 1734784247608
     },
     "ai-ailogo.js": {
       "total": 17,
@@ -61698,10 +61717,10 @@
       "lastSuccess": 1733324549987
     },
     "game-family100.js": {
-      "total": 131,
-      "success": 112,
-      "last": 1734746794018,
-      "lastSuccess": 1734746794018
+      "total": 132,
+      "success": 113,
+      "last": 1734783985956,
+      "lastSuccess": 1734783985956
     },
     "ai-openai.js": {
       "total": 14,
@@ -62873,7 +62892,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734782140415,
+      "backupDB": 1734783960241,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
