@@ -9359,7 +9359,7 @@
       "premiumTime": 0
     },
     "6282123163120@s.whatsapp.net": {
-      "exp": 503,
+      "exp": 512,
       "limit": 499,
       "registered": false,
       "name": "Bott Ikyy",
@@ -34911,7 +34911,7 @@
       "premiumTime": 0
     },
     "6281958351619@s.whatsapp.net": {
-      "exp": 1755,
+      "exp": 1790,
       "limit": 499,
       "registered": false,
       "name": "͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏",
@@ -34928,7 +34928,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6282266231235@s.whatsapp.net": {
       "exp": 4,
@@ -40850,7 +40851,7 @@
         "6282143175110@s.whatsapp.net": 239,
         "60145716489@s.whatsapp.net": 2,
         "601172392866@s.whatsapp.net": 22,
-        "85293332660@s.whatsapp.net": 63,
+        "85293332660@s.whatsapp.net": 69,
         "6283824012756@s.whatsapp.net": 54,
         "6287719003775@s.whatsapp.net": 8,
         "6289505879658@s.whatsapp.net": 12,
@@ -40858,20 +40859,20 @@
         "6281360727093@s.whatsapp.net": 14,
         "6281326617972@s.whatsapp.net": 1205,
         "6289660958090@s.whatsapp.net": 104,
-        "6282123163120@s.whatsapp.net": 1193,
+        "6282123163120@s.whatsapp.net": 1229,
         "6285947468832@s.whatsapp.net": 7,
         "6285975180182@s.whatsapp.net": 181,
         "6287752708824@s.whatsapp.net": 44,
         "6282291607732@s.whatsapp.net": 79,
         "6281917087292@s.whatsapp.net": 17,
-        "6283119901412@s.whatsapp.net": 43,
+        "6283119901412@s.whatsapp.net": 57,
         "6282172480990@s.whatsapp.net": 17,
         "6289629635030@s.whatsapp.net": 20,
         "6289523149696@s.whatsapp.net": 31,
         "6289681757750@s.whatsapp.net": 9,
-        "6281958351619@s.whatsapp.net": 16,
+        "6281958351619@s.whatsapp.net": 21,
         "6289530044085@s.whatsapp.net": 11,
-        "8801884686591@s.whatsapp.net": 18
+        "8801884686591@s.whatsapp.net": 22
       },
       "totalChat": 0
     },
@@ -41355,10 +41356,10 @@
       "lastSuccess": 0
     },
     "main-profile.js": {
-      "total": 6,
-      "success": 6,
-      "last": 1734799138923,
-      "lastSuccess": 1734799138923
+      "total": 7,
+      "success": 7,
+      "last": 1734812822295,
+      "lastSuccess": 1734812822295
     },
     "game-kerja.js": {
       "total": 6,
@@ -41896,7 +41897,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734810586088,
+      "backupDB": 1734812820437,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
