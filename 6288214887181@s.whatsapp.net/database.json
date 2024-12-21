@@ -3161,8 +3161,8 @@
       "lastcommand": 1731464359766
     },
     "628983678985@s.whatsapp.net": {
-      "exp": 27363,
-      "limit": 109,
+      "exp": 27408,
+      "limit": 89,
       "registered": true,
       "name": "adilla",
       "age": 14,
@@ -9708,8 +9708,8 @@
       "premiumTime": 0
     },
     "6287719003775@s.whatsapp.net": {
-      "exp": 361,
-      "limit": 174,
+      "exp": 391,
+      "limit": 154,
       "registered": false,
       "name": "𓆩Scha𓆪❀ ~",
       "age": -1,
@@ -22192,7 +22192,7 @@
       "lastcommand": 1732270156233
     },
     "6283166308686@s.whatsapp.net": {
-      "exp": 9,
+      "exp": 11,
       "limit": 499,
       "registered": false,
       "name": "Bayar Hutang Dong",
@@ -22209,7 +22209,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6281243819627@s.whatsapp.net": {
       "exp": 19,
@@ -52734,7 +52735,7 @@
       "premiumTime": 0
     },
     "6281957133061@s.whatsapp.net": {
-      "exp": 48307,
+      "exp": 48332,
       "limit": 989,
       "registered": false,
       "name": "nanaa",
@@ -52753,7 +52754,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734746298708,
+      "lastcommand": 1734795344506,
       "lastdaily": 1734742490115
     },
     "83069314846819_1@s.whatsapp.net": {
@@ -54458,6 +54459,45 @@
     },
     "164489194414177_1@s.whatsapp.net": {
       "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6281371699913@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "name": "Kurnia Agustina",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "264347200839719_1@s.whatsapp.net": {
+      "exp": 4,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -60787,10 +60827,10 @@
       "lastSuccess": 1734788346322
     },
     "downloader-tiktok.js": {
-      "total": 1643,
-      "success": 1523,
-      "last": 1734792519974,
-      "lastSuccess": 1734792519974
+      "total": 1645,
+      "success": 1525,
+      "last": 1734796402912,
+      "lastSuccess": 1734796402912
     },
     "owner-sf.js": {
       "total": 1014,
@@ -61261,10 +61301,10 @@
       "lastSuccess": 1734783962511
     },
     "info-ping.js": {
-      "total": 228,
-      "success": 228,
-      "last": 1734768527487,
-      "lastSuccess": 1734768527487
+      "total": 229,
+      "success": 229,
+      "last": 1734795349736,
+      "lastSuccess": 1734795349736
     },
     "ai-toanime.js": {
       "total": 83,
@@ -63018,7 +63058,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734793364359,
+      "backupDB": 1734795342470,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
