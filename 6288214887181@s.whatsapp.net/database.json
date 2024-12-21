@@ -44,7 +44,7 @@
       "lastBanned": 0
     },
     "6285786829931@s.whatsapp.net": {
-      "exp": 6452,
+      "exp": 6479,
       "limit": 619,
       "registered": false,
       "name": "❤‍🔥❤‍🩹🚀",
@@ -786,8 +786,8 @@
       "lastBanned": 0
     },
     "919366665173@s.whatsapp.net": {
-      "exp": 41160,
-      "limit": 24,
+      "exp": 45321,
+      "limit": 299,
       "registered": false,
       "name": "debjit.",
       "age": -1,
@@ -800,12 +800,12 @@
       "role": "Beginner",
       "BannedReason": "",
       "WarnReason": "",
-      "lastweekly": 1733317308644,
+      "lastweekly": 1734802559650,
       "lastmonthly": 1733593000713,
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastdaily": 1733830721396,
+      "lastdaily": 1734802556140,
       "lastcommand": 1731663777211
     },
     "83176873562302_1@s.whatsapp.net": {
@@ -21206,7 +21206,7 @@
       "lastBanned": 0
     },
     "6283192000559@s.whatsapp.net": {
-      "exp": 7,
+      "exp": 13,
       "limit": 499,
       "registered": false,
       "name": "Bayar Dong Hutangnya",
@@ -21223,7 +21223,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "151268748193867_1@s.whatsapp.net": {
       "exp": 1,
@@ -22255,7 +22256,7 @@
       "lastBanned": 0
     },
     "6283192001142@s.whatsapp.net": {
-      "exp": 3,
+      "exp": 4,
       "limit": 499,
       "registered": false,
       "name": "Bayar Hutangnya Yaa",
@@ -22272,7 +22273,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "628568847915@s.whatsapp.net": {
       "exp": 18389,
@@ -51079,7 +51081,7 @@
       "lastcommand": 1734443160187
     },
     "6283820509957@s.whatsapp.net": {
-      "exp": 2426,
+      "exp": 2518,
       "limit": 182,
       "registered": true,
       "name": "simon",
@@ -54477,7 +54479,7 @@
       "premiumTime": 0
     },
     "6281371699913@s.whatsapp.net": {
-      "exp": 10,
+      "exp": 16,
       "limit": 499,
       "registered": false,
       "name": "Kurnia Agustina",
@@ -54494,7 +54496,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "264347200839719_1@s.whatsapp.net": {
       "exp": 4,
@@ -54536,6 +54539,44 @@
     },
     "227019640066189_1@s.whatsapp.net": {
       "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "13044436463790_1@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "117871636168867_1@s.whatsapp.net": {
+      "exp": 5,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -60859,10 +60900,10 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 690,
-      "success": 638,
-      "last": 1734801342558,
-      "lastSuccess": 1734801342558
+      "total": 693,
+      "success": 641,
+      "last": 1734802591677,
+      "lastSuccess": 1734802591677
     },
     "downloader-tiktok.js": {
       "total": 1648,
@@ -60889,10 +60930,10 @@
       "lastSuccess": 1734742613334
     },
     "sticker-sticker.js": {
-      "total": 825,
-      "success": 718,
-      "last": 1734800355577,
-      "lastSuccess": 1734800355577
+      "total": 826,
+      "success": 719,
+      "last": 1734803430712,
+      "lastSuccess": 1734803430712
     },
     "sticker-toimg.js": {
       "total": 81,
@@ -60925,10 +60966,10 @@
       "lastSuccess": 1734753268937
     },
     "econ-claim.js": {
-      "total": 1859,
-      "success": 1272,
-      "last": 1734800427849,
-      "lastSuccess": 1734800422094
+      "total": 1862,
+      "success": 1274,
+      "last": 1734802565983,
+      "lastSuccess": 1734802559659
     },
     "game-curi.js": {
       "total": 1010,
@@ -63096,7 +63137,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734800290884,
+      "backupDB": 1734802197510,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
