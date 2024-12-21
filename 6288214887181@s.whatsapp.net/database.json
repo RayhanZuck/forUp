@@ -51425,8 +51425,8 @@
       "premiumTime": 0
     },
     "6282291607732@s.whatsapp.net": {
-      "exp": 862,
-      "limit": 439,
+      "exp": 1124,
+      "limit": 407,
       "registered": false,
       "name": ".",
       "age": -1,
@@ -51444,7 +51444,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734785841106
+      "lastcommand": 1734813098139
     },
     "6283143561973@s.whatsapp.net": {
       "exp": 66,
@@ -60957,10 +60957,10 @@
       "lastSuccess": 1734759135782
     },
     "downloader-play.js": {
-      "total": 1799,
-      "success": 1693,
-      "last": 1734798575373,
-      "lastSuccess": 1734798575373
+      "total": 1800,
+      "success": 1694,
+      "last": 1734813525290,
+      "lastSuccess": 1734813525290
     },
     "downloader-ytvideo.js": {
       "total": 134,
@@ -61041,10 +61041,10 @@
       "lastSuccess": 1734751965648
     },
     "_shortcut.js": {
-      "total": 283,
-      "success": 276,
-      "last": 1734785885628,
-      "lastSuccess": 1734785885628
+      "total": 286,
+      "success": 277,
+      "last": 1734813264270,
+      "lastSuccess": 1734813264270
     },
     "game-slot.js": {
       "total": 80,
@@ -61581,9 +61581,9 @@
       "lastSuccess": 1734704554635
     },
     "_rayhan-allmenu.js": {
-      "total": 202,
+      "total": 203,
       "success": 195,
-      "last": 1734785853924,
+      "last": 1734813245692,
       "lastSuccess": 1734785853924
     },
     "ai-ailogo.js": {
@@ -61767,10 +61767,10 @@
       "lastSuccess": 1730693348157
     },
     "game-tekateki.js": {
-      "total": 79,
-      "success": 76,
-      "last": 1733305429286,
-      "lastSuccess": 1733305429286
+      "total": 81,
+      "success": 78,
+      "last": 1734813335972,
+      "lastSuccess": 1734813335972
     },
     "curi-owner.js": {
       "total": 14,
@@ -61863,10 +61863,10 @@
       "lastSuccess": 1734508007371
     },
     "sticker-all.js": {
-      "total": 210,
-      "success": 179,
-      "last": 1734789242446,
-      "lastSuccess": 1734789242446
+      "total": 211,
+      "success": 180,
+      "last": 1734814242091,
+      "lastSuccess": 1734814242091
     },
     "game-nebang.js": {
       "total": 158,
@@ -62391,10 +62391,10 @@
       "lastSuccess": 1731783283456
     },
     "game-tekateki-hint.js": {
-      "total": 35,
-      "success": 35,
-      "last": 1733305379405,
-      "lastSuccess": 1733305379405
+      "total": 36,
+      "success": 36,
+      "last": 1734813404996,
+      "lastSuccess": 1734813404996
     },
     "info-statserver.js": {
       "total": 6,
@@ -63176,7 +63176,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734810460749,
+      "backupDB": 1734812864114,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
