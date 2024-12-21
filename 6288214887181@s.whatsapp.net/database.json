@@ -460,7 +460,7 @@
       "lastBanned": 0
     },
     "919739198999@s.whatsapp.net": {
-      "exp": 692,
+      "exp": 703,
       "limit": 234,
       "registered": false,
       "name": "happy",
@@ -12399,8 +12399,8 @@
       "lastcommand": 1731472269564
     },
     "6281958351619@s.whatsapp.net": {
-      "exp": 235,
-      "limit": 30,
+      "exp": 259,
+      "limit": 5,
       "registered": false,
       "name": "kaAll",
       "age": -1,
@@ -50142,7 +50142,7 @@
       "lastBanned": 0
     },
     "62882006048424@s.whatsapp.net": {
-      "exp": 4641,
+      "exp": 4659,
       "limit": 7088,
       "registered": true,
       "name": "bay",
@@ -51417,7 +51417,7 @@
       "premiumTime": 0
     },
     "6282291607732@s.whatsapp.net": {
-      "exp": 153,
+      "exp": 156,
       "limit": 499,
       "registered": false,
       "name": ".",
@@ -54199,6 +54199,44 @@
       "limit": 499,
       "registered": false,
       "name": "Dnprtm",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "58437677367444_1@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "59142152695821_1@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 499,
+      "registered": false,
       "age": -1,
       "regTime": -1,
       "unreg": false,
@@ -60536,10 +60574,10 @@
       "lastSuccess": 1734759946471
     },
     "game-ulartangga.js": {
-      "total": 140,
-      "success": 140,
-      "last": 1734754808261,
-      "lastSuccess": 1734754808261
+      "total": 141,
+      "success": 141,
+      "last": 1734760496673,
+      "lastSuccess": 1734760496673
     },
     "game-tebakgame.js": {
       "total": 109,
@@ -61148,10 +61186,10 @@
       "lastSuccess": 1734571421288
     },
     "dl-tiktokslide.js": {
-      "total": 52,
-      "success": 35,
-      "last": 1734660766752,
-      "lastSuccess": 1734660766752
+      "total": 53,
+      "success": 36,
+      "last": 1734760705249,
+      "lastSuccess": 1734760705249
     },
     "owner-setnamebot.js": {
       "total": 4,
@@ -62653,7 +62691,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734758328525,
+      "backupDB": 1734760495936,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
