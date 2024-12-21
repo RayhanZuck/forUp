@@ -159,7 +159,7 @@
       "lastcommand": 1732771777501
     },
     "120363183420865643@g.us": {
-      "exp": 4755,
+      "exp": 4756,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1044,7 +1044,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 5867,
+      "exp": 5876,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1065,8 +1065,8 @@
       "lastBanned": 0
     },
     "6283119901412@s.whatsapp.net": {
-      "exp": 9729,
-      "limit": 32,
+      "exp": 9756,
+      "limit": 29,
       "registered": false,
       "name": "Lázuardy Zio (Lázaro)",
       "age": -1,
@@ -54593,6 +54593,26 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "6282318074294@s.whatsapp.net": {
+      "exp": 7,
+      "limit": 499,
+      "registered": false,
+      "name": "idk",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -61932,10 +61952,10 @@
       "lastSuccess": 1734440060916
     },
     "ai-chatbot(simi).js": {
-      "total": 31,
-      "success": 31,
-      "last": 1734577185835,
-      "lastSuccess": 1734577185835
+      "total": 32,
+      "success": 32,
+      "last": 1734804703323,
+      "lastSuccess": 1734804703323
     },
     "ai-realtime.js": {
       "total": 25,
@@ -63137,7 +63157,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734802197510,
+      "backupDB": 1734804698418,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
