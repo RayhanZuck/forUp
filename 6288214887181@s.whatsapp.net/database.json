@@ -159,7 +159,7 @@
       "lastcommand": 1732771777501
     },
     "120363183420865643@g.us": {
-      "exp": 4747,
+      "exp": 4755,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -180,7 +180,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3566,
+      "exp": 3572,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -956,7 +956,7 @@
       "lastdaily": 1733554666793
     },
     "6282150698385@s.whatsapp.net": {
-      "exp": 2205,
+      "exp": 2212,
       "limit": 499,
       "registered": false,
       "name": "Je t'aime😉🌿",
@@ -1227,8 +1227,8 @@
       "lastcommand": 1732391448904
     },
     "6283169226415@s.whatsapp.net": {
-      "exp": 25592,
-      "limit": 54,
+      "exp": 25640,
+      "limit": 34,
       "registered": false,
       "name": "I Just Need Time🎐",
       "age": -1,
@@ -1946,8 +1946,8 @@
       "lastdaily": 1734254488975
     },
     "6289523149696@s.whatsapp.net": {
-      "exp": 7424,
-      "limit": 309,
+      "exp": 7472,
+      "limit": 284,
       "registered": false,
       "name": "Pvznlyyy",
       "age": -1,
@@ -11736,7 +11736,7 @@
       "lastdaily": 1733495894416
     },
     "6288286718385@s.whatsapp.net": {
-      "exp": 3614,
+      "exp": 3625,
       "limit": 320,
       "registered": false,
       "name": "efata.",
@@ -21525,7 +21525,7 @@
       "lastBanned": 0
     },
     "6287818230903@s.whatsapp.net": {
-      "exp": 58905,
+      "exp": 58910,
       "limit": 482,
       "registered": false,
       "name": "-d  for  draa",
@@ -35358,7 +35358,7 @@
       "lastrob": 1733116828292
     },
     "236678786601051_1@s.whatsapp.net": {
-      "exp": 3,
+      "exp": 4,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -35374,7 +35374,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "156930051960895_1@s.whatsapp.net": {
       "exp": 10,
@@ -50146,8 +50147,8 @@
       "lastBanned": 0
     },
     "62882006048424@s.whatsapp.net": {
-      "exp": 4826,
-      "limit": 6973,
+      "exp": 4908,
+      "limit": 6898,
       "registered": true,
       "name": "bay",
       "age": 19,
@@ -60709,10 +60710,10 @@
       "lastSuccess": 1734788346322
     },
     "downloader-tiktok.js": {
-      "total": 1642,
-      "success": 1522,
-      "last": 1734784221974,
-      "lastSuccess": 1734784221974
+      "total": 1643,
+      "success": 1523,
+      "last": 1734792519974,
+      "lastSuccess": 1734792519974
     },
     "owner-sf.js": {
       "total": 1014,
@@ -60721,10 +60722,10 @@
       "lastSuccess": 1734759135782
     },
     "downloader-play.js": {
-      "total": 1797,
-      "success": 1691,
-      "last": 1734789239435,
-      "lastSuccess": 1734789239435
+      "total": 1798,
+      "success": 1692,
+      "last": 1734791724442,
+      "lastSuccess": 1734791724442
     },
     "downloader-ytvideo.js": {
       "total": 134,
@@ -60853,10 +60854,10 @@
       "lastSuccess": 1734415656247
     },
     "ai-remini.js": {
-      "total": 822,
-      "success": 772,
-      "last": 1734776415317,
-      "lastSuccess": 1734776415317
+      "total": 825,
+      "success": 775,
+      "last": 1734791826907,
+      "lastSuccess": 1734791826907
     },
     "game-tebakbendera.js": {
       "total": 417,
@@ -62940,7 +62941,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734787983948,
+      "backupDB": 1734790943645,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
