@@ -159807,7 +159807,7 @@
       "lastBanned": 0
     },
     "6282394443663@s.whatsapp.net": {
-      "exp": 86,
+      "exp": 98,
       "limit": 499,
       "registered": false,
       "name": "🌹×_HAMSTER🌹",
@@ -173115,7 +173115,7 @@
       "total": {
         "6285945502806@s.whatsapp.net": 98,
         "6285231136009@s.whatsapp.net": 49,
-        "6285720973051@s.whatsapp.net": 599,
+        "6285720973051@s.whatsapp.net": 608,
         "6281313758336@s.whatsapp.net": 650,
         "6288210170915@s.whatsapp.net": 1039,
         "6283891053122@s.whatsapp.net": 266,
@@ -173161,10 +173161,11 @@
         "6283845530914@s.whatsapp.net": 84,
         "6285194705950@s.whatsapp.net": 29,
         "628818691228@s.whatsapp.net": 395,
-        "6282123163120@s.whatsapp.net": 1129,
+        "6282123163120@s.whatsapp.net": 1130,
         "6283150673375@s.whatsapp.net": 115,
         "6283874493783@s.whatsapp.net": 42,
-        "6282286956990@s.whatsapp.net": 737
+        "6282286956990@s.whatsapp.net": 737,
+        "6282394443663@s.whatsapp.net": 3
       },
       "totalChat": 0,
       "antiGrupKick": true
@@ -175737,7 +175738,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734897388958,
+      "backupDB": 1734902234690,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
