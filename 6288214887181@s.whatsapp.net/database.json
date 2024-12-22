@@ -1948,7 +1948,7 @@
       "lastdaily": 1734254488975
     },
     "6289523149696@s.whatsapp.net": {
-      "exp": 7777,
+      "exp": 7786,
       "limit": 59,
       "registered": false,
       "name": "Pvznlyyy",
@@ -4316,7 +4316,7 @@
       "premiumTime": 0
     },
     "6288225852908@s.whatsapp.net": {
-      "exp": 9086,
+      "exp": 11251,
       "limit": 2,
       "registered": false,
       "name": "💙",
@@ -4336,7 +4336,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1734696875264,
-      "lastdaily": 1734688726688
+      "lastdaily": 1734888212786
     },
     "62895711885757@s.whatsapp.net": {
       "exp": 571074,
@@ -52411,7 +52411,7 @@
       "lastBanned": 0
     },
     "6281297729591@s.whatsapp.net": {
-      "exp": 1223,
+      "exp": 1226,
       "limit": 1470,
       "registered": false,
       "name": "𝙃𝘼𝙉𝙕 𝙎𝙏𝙊𝙍𝙀",
@@ -52427,7 +52427,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1734884334954
@@ -61627,9 +61627,9 @@
       "lastSuccess": 1734873511576
     },
     "downloader-play.js": {
-      "total": 1827,
+      "total": 1828,
       "success": 1721,
-      "last": 1734875858757,
+      "last": 1734888475162,
       "lastSuccess": 1734875858757
     },
     "downloader-ytvideo.js": {
@@ -61675,10 +61675,10 @@
       "lastSuccess": 1734843560258
     },
     "econ-claim.js": {
-      "total": 1909,
-      "success": 1303,
-      "last": 1734885923820,
-      "lastSuccess": 1734885923820
+      "total": 1910,
+      "success": 1304,
+      "last": 1734888212786,
+      "lastSuccess": 1734888212786
     },
     "game-curi.js": {
       "total": 1060,
@@ -61867,10 +61867,10 @@
       "lastSuccess": 1734673478565
     },
     "downloader-play2.js": {
-      "total": 51,
-      "success": 40,
-      "last": 1734662336169,
-      "lastSuccess": 1734662336169
+      "total": 52,
+      "success": 41,
+      "last": 1734888498857,
+      "lastSuccess": 1734888498857
     },
     "owner-exec.js": {
       "total": 351,
@@ -62125,10 +62125,10 @@
       "lastSuccess": 1734852315529
     },
     "downloader-spotify.js": {
-      "total": 222,
-      "success": 188,
-      "last": 1734706487446,
-      "lastSuccess": 1734487470448
+      "total": 226,
+      "success": 192,
+      "last": 1734888304088,
+      "lastSuccess": 1734888304088
     },
     "games-tictactoe.js": {
       "total": 34,
@@ -63864,7 +63864,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734885876087,
+      "backupDB": 1734888207171,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
