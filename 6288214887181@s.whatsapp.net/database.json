@@ -88,7 +88,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 126221,
+      "exp": 126280,
       "limit": 0,
       "registered": false,
       "name": "Rayhan?",
@@ -4633,7 +4633,7 @@
       "lastcommand": 1733718101127
     },
     "6285373704543@s.whatsapp.net": {
-      "exp": 101,
+      "exp": 172,
       "limit": 479,
       "registered": false,
       "name": "Kurir SPX",
@@ -4652,7 +4652,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1732359242506
+      "lastcommand": 1734848477564
     },
     "60138718199@s.whatsapp.net": {
       "exp": 25,
@@ -51428,8 +51428,8 @@
       "premiumTime": 0
     },
     "6282291607732@s.whatsapp.net": {
-      "exp": 9477,
-      "limit": 767,
+      "exp": 9547,
+      "limit": 747,
       "registered": true,
       "name": "pikran",
       "age": 15,
@@ -61190,6 +61190,32 @@
       "teks": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6285373704543@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "pembatasan": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "antiBadword": false,
+      "simi": false,
+      "nsfw": false,
+      "rpg": true,
+      "game": true,
+      "teks": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -61200,16 +61226,16 @@
       "lastSuccess": 1734844947691
     },
     "downloader-tiktok.js": {
-      "total": 1661,
-      "success": 1539,
-      "last": 1734836461591,
-      "lastSuccess": 1734836461591
+      "total": 1662,
+      "success": 1540,
+      "last": 1734849694400,
+      "lastSuccess": 1734849694400
     },
     "owner-sf.js": {
-      "total": 1035,
-      "success": 947,
-      "last": 1734829295936,
-      "lastSuccess": 1734829295936
+      "total": 1037,
+      "success": 948,
+      "last": 1734849626587,
+      "lastSuccess": 1734849626587
     },
     "downloader-play.js": {
       "total": 1811,
@@ -61260,9 +61286,9 @@
       "lastSuccess": 1734843560258
     },
     "econ-claim.js": {
-      "total": 1880,
+      "total": 1882,
       "success": 1287,
-      "last": 1734843400888,
+      "last": 1734849391114,
       "lastSuccess": 1734843400888
     },
     "game-curi.js": {
@@ -61326,10 +61352,10 @@
       "lastSuccess": 1732941237787
     },
     "game-mancing.js": {
-      "total": 1069,
-      "success": 764,
-      "last": 1734843173537,
-      "lastSuccess": 1734843173537
+      "total": 1070,
+      "success": 765,
+      "last": 1734849585319,
+      "lastSuccess": 1734849585319
     },
     "game-tambang.js": {
       "total": 195,
@@ -61392,10 +61418,10 @@
       "lastSuccess": 1734824339813
     },
     "info-payment.js": {
-      "total": 45,
-      "success": 45,
-      "last": 1734771848701,
-      "lastSuccess": 1734771848701
+      "total": 46,
+      "success": 46,
+      "last": 1734848614747,
+      "lastSuccess": 1734848614747
     },
     "_rayhan-creator.js": {
       "total": 25,
@@ -61674,10 +61700,10 @@
       "lastSuccess": 1734800518542
     },
     "info-ping.js": {
-      "total": 237,
-      "success": 237,
-      "last": 1734836427542,
-      "lastSuccess": 1734836427542
+      "total": 239,
+      "success": 239,
+      "last": 1734848480060,
+      "lastSuccess": 1734848480060
     },
     "ai-toanime.js": {
       "total": 83,
@@ -63449,7 +63475,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734846281067,
+      "backupDB": 1734848325964,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
