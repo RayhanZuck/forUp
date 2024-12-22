@@ -160,7 +160,7 @@
       "lastcommand": 1732771777501
     },
     "120363183420865643@g.us": {
-      "exp": 4829,
+      "exp": 4833,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -181,7 +181,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3608,
+      "exp": 3633,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1045,7 +1045,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 5949,
+      "exp": 5952,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -2078,7 +2078,7 @@
       "lastBanned": 0
     },
     "628812611040@s.whatsapp.net": {
-      "exp": 8333,
+      "exp": 8348,
       "limit": 250,
       "registered": false,
       "name": "𝙃𝙢𝙢𝙢",
@@ -2928,7 +2928,7 @@
       "lastBanned": 0
     },
     "6283867247755@s.whatsapp.net": {
-      "exp": 3066,
+      "exp": 3089,
       "limit": 5149,
       "registered": true,
       "name": "π",
@@ -2946,7 +2946,7 @@
       "lastmonthly": 1732873904685,
       "premium": true,
       "premiumTime": 0,
-      "lastcommand": 1734768519917,
+      "lastcommand": 1734857503091,
       "lastBanned": 0,
       "lastdaily": 1734752733413,
       "lastwork": 1734768528528,
@@ -47813,7 +47813,7 @@
       "premiumTime": 0
     },
     "6283846829169@s.whatsapp.net": {
-      "exp": -938,
+      "exp": -833,
       "limit": 215,
       "registered": false,
       "name": "~B🗿",
@@ -52403,8 +52403,8 @@
       "lastBanned": 0
     },
     "6281297729591@s.whatsapp.net": {
-      "exp": 1118,
-      "limit": 1475,
+      "exp": 1146,
+      "limit": 1470,
       "registered": false,
       "name": "𝙃𝘼𝙉𝙕 𝙎𝙏𝙊𝙍𝙀",
       "age": -1,
@@ -54910,6 +54910,26 @@
       "limit": 499,
       "registered": false,
       "name": "Bila Putri",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "62895405302803@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "name": "RONNY SIRAIT",
       "age": -1,
       "regTime": -1,
       "unreg": false,
@@ -61789,10 +61809,10 @@
       "lastSuccess": 1734852890872
     },
     "info-ping.js": {
-      "total": 240,
-      "success": 240,
-      "last": 1734853179073,
-      "lastSuccess": 1734853179073
+      "total": 241,
+      "success": 241,
+      "last": 1734857536967,
+      "lastSuccess": 1734857536967
     },
     "ai-toanime.js": {
       "total": 83,
@@ -61891,10 +61911,10 @@
       "lastSuccess": 1733006768989
     },
     "av-bot.js": {
-      "total": 11,
-      "success": 11,
-      "last": 1734077531373,
-      "lastSuccess": 1734077531373
+      "total": 12,
+      "success": 12,
+      "last": 1734858077305,
+      "lastSuccess": 1734858077305
     },
     "main-balanceme.js": {
       "total": 26,
@@ -62233,10 +62253,10 @@
       "lastSuccess": 1734839299666
     },
     "sticker-all.js": {
-      "total": 228,
-      "success": 196,
-      "last": 1734845542559,
-      "lastSuccess": 1734845542559
+      "total": 229,
+      "success": 197,
+      "last": 1734856503019,
+      "lastSuccess": 1734856503019
     },
     "game-nebang.js": {
       "total": 159,
@@ -63564,7 +63584,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734854148706,
+      "backupDB": 1734856424784,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
