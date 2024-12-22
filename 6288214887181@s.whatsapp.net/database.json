@@ -137,7 +137,7 @@
       "lastBanned": 0
     },
     "62882008794480@s.whatsapp.net": {
-      "exp": 13017,
+      "exp": 13044,
       "limit": 244,
       "registered": false,
       "name": "Izumii",
@@ -153,11 +153,11 @@
       "WarnReason": "",
       "lastweekly": 1732200218991,
       "lastmonthly": 1730619658358,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastdaily": 1732200215885,
-      "lastcommand": 1732771777501
+      "lastcommand": 1734908191108
     },
     "120363183420865643@g.us": {
       "exp": 4852,
@@ -718,8 +718,8 @@
       "lastdaily": 1732086399164
     },
     "628884584571@s.whatsapp.net": {
-      "exp": 34518,
-      "limit": 134,
+      "exp": 34549,
+      "limit": 109,
       "registered": false,
       "name": "iky",
       "age": -1,
@@ -52411,7 +52411,7 @@
       "lastBanned": 0
     },
     "6281297729591@s.whatsapp.net": {
-      "exp": 1236,
+      "exp": 1276,
       "limit": 1470,
       "registered": false,
       "name": "𝙃𝘼𝙉𝙕 𝙎𝙏𝙊𝙍𝙀",
@@ -54975,7 +54975,7 @@
       "lastBanned": 0
     },
     "6287874006028@s.whatsapp.net": {
-      "exp": 9,
+      "exp": 50,
       "limit": 499,
       "registered": false,
       "name": "Bila!!",
@@ -54993,7 +54993,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "lastBanned": 0
+      "lastBanned": 0,
+      "lastcommand": 1734908450735
     },
     "6283187435698@s.whatsapp.net": {
       "exp": 14,
@@ -55211,6 +55212,45 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": false,
+      "premiumTime": 0
+    },
+    "6285819897837@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 858-1989-7837",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "37590090653790_1@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
       "premiumTime": 0
     }
   },
@@ -61823,10 +61863,10 @@
       "lastSuccess": 1734879983474
     },
     "_cek.js": {
-      "total": 758,
-      "success": 758,
-      "last": 1734899321005,
-      "lastSuccess": 1734899321005
+      "total": 760,
+      "success": 760,
+      "last": 1734908469492,
+      "lastSuccess": 1734908469492
     },
     "enable.js": {
       "total": 103,
@@ -62381,10 +62421,10 @@
       "lastSuccess": 1734571421288
     },
     "dl-tiktokslide.js": {
-      "total": 57,
-      "success": 39,
-      "last": 1734841647998,
-      "lastSuccess": 1734841647998
+      "total": 58,
+      "success": 40,
+      "last": 1734907598443,
+      "lastSuccess": 1734907598443
     },
     "owner-setnamebot.js": {
       "total": 4,
@@ -63904,7 +63944,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734903368279,
+      "backupDB": 1734906851557,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
