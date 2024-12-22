@@ -160,7 +160,7 @@
       "lastcommand": 1732771777501
     },
     "120363183420865643@g.us": {
-      "exp": 4760,
+      "exp": 4766,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -181,7 +181,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3583,
+      "exp": 3593,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1045,7 +1045,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 5880,
+      "exp": 5895,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1516,8 +1516,8 @@
       "lastBanned": 0
     },
     "6288294411864@s.whatsapp.net": {
-      "exp": 22054,
-      "limit": 117,
+      "exp": 22142,
+      "limit": 57,
       "registered": false,
       "name": "👑",
       "age": -1,
@@ -4164,7 +4164,7 @@
       "lastBanned": 0
     },
     "62895369675992@s.whatsapp.net": {
-      "exp": 21782,
+      "exp": 21787,
       "limit": 174,
       "registered": false,
       "name": "Dhooozxy",
@@ -4180,7 +4180,7 @@
       "WarnReason": "",
       "lastweekly": 1734594888301,
       "lastmonthly": 1732881622198,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1734280028046,
@@ -32117,7 +32117,7 @@
       "premiumTime": 0
     },
     "6283878637171@s.whatsapp.net": {
-      "exp": 33,
+      "exp": 38,
       "limit": 499,
       "registered": false,
       "name": "KIMZZ",
@@ -32135,7 +32135,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "lastBanned": 0
+      "lastBanned": 0,
+      "lastcommand": 1734833652327
     },
     "21801337905245_1@s.whatsapp.net": {
       "exp": 5,
@@ -54652,6 +54653,27 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "6285148388605@s.whatsapp.net": {
+      "exp": 16,
+      "limit": 499,
+      "registered": false,
+      "name": "FERI SATORU",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -61175,10 +61197,10 @@
       "lastSuccess": 1731509107103
     },
     "downloader-pinterest.js": {
-      "total": 586,
-      "success": 521,
-      "last": 1734824408126,
-      "lastSuccess": 1734824408126
+      "total": 589,
+      "success": 524,
+      "last": 1734833211924,
+      "lastSuccess": 1734833211924
     },
     "downloader-soundcloud.js": {
       "total": 22,
@@ -63214,7 +63236,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734831235425,
+      "backupDB": 1734833173008,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
