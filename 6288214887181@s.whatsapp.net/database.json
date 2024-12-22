@@ -40481,8 +40481,8 @@
       "premiumTime": 0
     },
     "6288295702763@s.whatsapp.net": {
-      "exp": 7439,
-      "limit": 1333,
+      "exp": 7461,
+      "limit": 1308,
       "registered": false,
       "name": "ARGAS",
       "age": -1,
@@ -51689,7 +51689,7 @@
       "premiumTime": 0
     },
     "62895341178597@s.whatsapp.net": {
-      "exp": 86,
+      "exp": 93,
       "limit": 499,
       "registered": false,
       "name": "I want to die",
@@ -52865,7 +52865,7 @@
       "premiumTime": 0
     },
     "62895708578811@s.whatsapp.net": {
-      "exp": 3,
+      "exp": 7,
       "limit": 499,
       "registered": false,
       "name": "PALD0T",
@@ -52882,7 +52882,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6285394495227@s.whatsapp.net": {
       "exp": 301,
@@ -54822,6 +54823,44 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
+    },
+    "86118640918596_1@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "147919093166197_1@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -61173,10 +61212,10 @@
       "lastSuccess": 1734829295936
     },
     "downloader-play.js": {
-      "total": 1810,
-      "success": 1704,
-      "last": 1734839381984,
-      "lastSuccess": 1734839381984
+      "total": 1811,
+      "success": 1705,
+      "last": 1734846387059,
+      "lastSuccess": 1734846387059
     },
     "downloader-ytvideo.js": {
       "total": 134,
@@ -63410,7 +63449,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734844452001,
+      "backupDB": 1734846281067,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
