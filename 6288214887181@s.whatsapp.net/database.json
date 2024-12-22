@@ -5864,8 +5864,8 @@
       "premiumTime": 0
     },
     "6287877901251@s.whatsapp.net": {
-      "exp": 3330,
-      "limit": 39,
+      "exp": 7492,
+      "limit": 499,
       "registered": false,
       "name": "@xys_syaa'",
       "age": -1,
@@ -5878,8 +5878,8 @@
       "role": "Beginner",
       "BannedReason": "",
       "WarnReason": "",
-      "lastweekly": 0,
-      "lastmonthly": 0,
+      "lastweekly": 1734885919268,
+      "lastmonthly": 1734885923818,
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
@@ -61615,10 +61615,10 @@
       "lastSuccess": 1734875965494
     },
     "downloader-tiktok.js": {
-      "total": 1703,
-      "success": 1576,
-      "last": 1734882566823,
-      "lastSuccess": 1734882566823
+      "total": 1706,
+      "success": 1579,
+      "last": 1734885963258,
+      "lastSuccess": 1734885963258
     },
     "owner-sf.js": {
       "total": 1045,
@@ -61675,10 +61675,10 @@
       "lastSuccess": 1734843560258
     },
     "econ-claim.js": {
-      "total": 1906,
-      "success": 1300,
-      "last": 1734885159490,
-      "lastSuccess": 1734885112479
+      "total": 1909,
+      "success": 1303,
+      "last": 1734885923820,
+      "lastSuccess": 1734885923820
     },
     "game-curi.js": {
       "total": 1060,
@@ -63864,7 +63864,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734883534292,
+      "backupDB": 1734885876087,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
