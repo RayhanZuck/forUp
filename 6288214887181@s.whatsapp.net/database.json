@@ -787,8 +787,8 @@
       "lastBanned": 0
     },
     "919366665173@s.whatsapp.net": {
-      "exp": 45493,
-      "limit": 174,
+      "exp": 45537,
+      "limit": 149,
       "registered": false,
       "name": "debjit.",
       "age": -1,
@@ -61799,10 +61799,10 @@
       "lastSuccess": 1734415656247
     },
     "ai-remini.js": {
-      "total": 834,
-      "success": 783,
-      "last": 1734895227018,
-      "lastSuccess": 1734895227018
+      "total": 835,
+      "success": 784,
+      "last": 1734901483920,
+      "lastSuccess": 1734901483920
     },
     "game-tebakbendera.js": {
       "total": 419,
@@ -63904,7 +63904,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734899484446,
+      "backupDB": 1734901475838,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
