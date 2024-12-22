@@ -2689,8 +2689,8 @@
       "lastBanned": 0
     },
     "6285775650917@s.whatsapp.net": {
-      "exp": 563,
-      "limit": 184,
+      "exp": 638,
+      "limit": 109,
       "registered": false,
       "name": "ShnzzzS",
       "age": -1,
@@ -2705,7 +2705,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1734458739948
@@ -61759,10 +61759,10 @@
       "lastSuccess": 1734415656247
     },
     "ai-remini.js": {
-      "total": 831,
-      "success": 780,
-      "last": 1734884103620,
-      "lastSuccess": 1734884103620
+      "total": 834,
+      "success": 783,
+      "last": 1734895227018,
+      "lastSuccess": 1734895227018
     },
     "game-tebakbendera.js": {
       "total": 419,
@@ -63864,7 +63864,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734888207171,
+      "backupDB": 1734894973586,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
