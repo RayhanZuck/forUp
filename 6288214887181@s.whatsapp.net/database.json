@@ -160,7 +160,7 @@
       "lastcommand": 1732771777501
     },
     "120363183420865643@g.us": {
-      "exp": 4756,
+      "exp": 4760,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -181,7 +181,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3581,
+      "exp": 3583,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1045,7 +1045,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 5877,
+      "exp": 5880,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -5623,8 +5623,8 @@
       "lastBanned": 0
     },
     "6285724125759@s.whatsapp.net": {
-      "exp": 1769449,
-      "limit": 292,
+      "exp": 1769495,
+      "limit": 272,
       "registered": false,
       "name": "ㅤㅤㅤㅤ",
       "age": -1,
@@ -50151,8 +50151,8 @@
       "lastBanned": 0
     },
     "62882006048424@s.whatsapp.net": {
-      "exp": 4957,
-      "limit": 6873,
+      "exp": 5003,
+      "limit": 6843,
       "registered": true,
       "name": "bay",
       "age": 19,
@@ -60965,10 +60965,10 @@
       "lastSuccess": 1734828965482
     },
     "downloader-tiktok.js": {
-      "total": 1657,
-      "success": 1535,
-      "last": 1734830489870,
-      "lastSuccess": 1734830489870
+      "total": 1658,
+      "success": 1536,
+      "last": 1734832320546,
+      "lastSuccess": 1734832320546
     },
     "owner-sf.js": {
       "total": 1035,
@@ -61259,10 +61259,10 @@
       "lastSuccess": 1730161441000
     },
     "downloader-tiktoksearch.js": {
-      "total": 720,
-      "success": 713,
-      "last": 1734773672608,
-      "lastSuccess": 1734773672608
+      "total": 722,
+      "success": 715,
+      "last": 1734832969517,
+      "lastSuccess": 1734832969517
     },
     "ai-llama.js": {
       "total": 352,
@@ -63214,7 +63214,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734829294621,
+      "backupDB": 1734831235425,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
