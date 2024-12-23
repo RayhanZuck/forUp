@@ -957,7 +957,7 @@
       "lastdaily": 1733554666793
     },
     "6282150698385@s.whatsapp.net": {
-      "exp": 2248,
+      "exp": 2250,
       "limit": 499,
       "registered": false,
       "name": "Je t'aime😉🌿",
@@ -1046,7 +1046,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 6045,
+      "exp": 6048,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -2080,7 +2080,7 @@
       "lastBanned": 0
     },
     "628812611040@s.whatsapp.net": {
-      "exp": 464,
+      "exp": 510,
       "limit": 365,
       "registered": false,
       "name": "𝙃𝙢𝙢𝙢",
@@ -3164,7 +3164,7 @@
       "lastcommand": 1731464359766
     },
     "628983678985@s.whatsapp.net": {
-      "exp": 29774,
+      "exp": 29818,
       "limit": 9,
       "registered": true,
       "name": "adilla",
@@ -47820,7 +47820,7 @@
       "premiumTime": 0
     },
     "6283846829169@s.whatsapp.net": {
-      "exp": 402,
+      "exp": 438,
       "limit": 288,
       "registered": false,
       "name": "~B🗿",
@@ -51274,7 +51274,7 @@
       "premiumTime": 0
     },
     "6288225432435@s.whatsapp.net": {
-      "exp": 7324,
+      "exp": 7363,
       "limit": 253,
       "registered": false,
       "name": "Aksa Wibisono",
@@ -55276,7 +55276,7 @@
       "premiumTime": 0
     },
     "6288271785137@s.whatsapp.net": {
-      "exp": 178,
+      "exp": 188,
       "limit": 499,
       "registered": false,
       "name": "Gamel Store",
@@ -55596,6 +55596,45 @@
       "limit": 499,
       "registered": false,
       "name": "RONNY SIRAIT",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6285796207589@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 857-9620-7589",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "117935976792259_1@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 499,
+      "registered": false,
       "age": -1,
       "regTime": -1,
       "unreg": false,
@@ -62165,9 +62204,9 @@
       "lastSuccess": 1734843560258
     },
     "econ-claim.js": {
-      "total": 1933,
+      "total": 1934,
       "success": 1317,
-      "last": 1734937889775,
+      "last": 1734940436381,
       "lastSuccess": 1734937889775
     },
     "game-curi.js": {
@@ -62249,10 +62288,10 @@
       "lastSuccess": 1734415656247
     },
     "ai-remini.js": {
-      "total": 843,
-      "success": 792,
-      "last": 1734930825396,
-      "lastSuccess": 1734930825396
+      "total": 844,
+      "success": 793,
+      "last": 1734940423679,
+      "lastSuccess": 1734940423679
     },
     "game-tebakbendera.js": {
       "total": 419,
@@ -64360,7 +64399,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734937293572,
+      "backupDB": 1734939098702,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
