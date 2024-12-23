@@ -2174,8 +2174,8 @@
       "lastrob": 1734852699962
     },
     "6288983017604@s.whatsapp.net": {
-      "exp": 221,
-      "limit": 37,
+      "exp": 257,
+      "limit": 83,
       "registered": false,
       "name": "Rodan Ay",
       "age": -1,
@@ -2193,7 +2193,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastdaily": 1734678495931,
+      "lastdaily": 1734921729486,
       "lastwork": 1734679405581,
       "lastrob": 1732876806300
     },
@@ -52411,7 +52411,7 @@
       "lastBanned": 0
     },
     "6281297729591@s.whatsapp.net": {
-      "exp": 1459,
+      "exp": 1472,
       "limit": 1470,
       "registered": false,
       "name": "𝙃𝘼𝙉𝙕 𝙎𝙏𝙊𝙍𝙀",
@@ -61843,10 +61843,10 @@
       "lastSuccess": 1734843560258
     },
     "econ-claim.js": {
-      "total": 1916,
-      "success": 1308,
-      "last": 1734919646002,
-      "lastSuccess": 1734919646002
+      "total": 1919,
+      "success": 1309,
+      "last": 1734921736803,
+      "lastSuccess": 1734921729486
     },
     "game-curi.js": {
       "total": 1062,
@@ -61867,10 +61867,10 @@
       "lastSuccess": 1734876182328
     },
     "main-shop.js": {
-      "total": 719,
-      "success": 719,
-      "last": 1734881911466,
-      "lastSuccess": 1734881911466
+      "total": 720,
+      "success": 720,
+      "last": 1734921740864,
+      "lastSuccess": 1734921740864
     },
     "main-level.js": {
       "total": 197,
@@ -62263,10 +62263,10 @@
       "lastSuccess": 1734910342858
     },
     "ai-toanime.js": {
-      "total": 83,
-      "success": 79,
-      "last": 1734679194087,
-      "lastSuccess": 1734679194087
+      "total": 85,
+      "success": 81,
+      "last": 1734922088633,
+      "lastSuccess": 1734922088633
     },
     "group-tagadmin.js": {
       "total": 3,
@@ -64038,7 +64038,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734918790735,
+      "backupDB": 1734920726308,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
