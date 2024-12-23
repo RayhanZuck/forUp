@@ -1333,8 +1333,8 @@
       "premiumTime": 0
     },
     "6281947888865@s.whatsapp.net": {
-      "exp": 2084,
-      "limit": 245,
+      "exp": 2139,
+      "limit": 205,
       "registered": true,
       "name": "Olan",
       "age": 17,
@@ -3316,7 +3316,7 @@
       "lastdaily": 1730357910770
     },
     "62881037157545@s.whatsapp.net": {
-      "exp": 16948,
+      "exp": 16981,
       "limit": 1229,
       "registered": false,
       "name": "きょういき Izumi",
@@ -47523,7 +47523,7 @@
       "lastBanned": 0
     },
     "62882019851200@s.whatsapp.net": {
-      "exp": 89,
+      "exp": 96,
       "limit": 499,
       "registered": false,
       "name": "-plana",
@@ -55283,7 +55283,7 @@
       "premiumTime": 0
     },
     "6288271785137@s.whatsapp.net": {
-      "exp": 526,
+      "exp": 534,
       "limit": 499,
       "registered": false,
       "name": "Gamel Store",
@@ -62515,9 +62515,9 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 726,
+      "total": 727,
       "success": 674,
-      "last": 1734949982537,
+      "last": 1734953936959,
       "lastSuccess": 1734949982537
     },
     "downloader-tiktok.js": {
@@ -63025,10 +63025,10 @@
       "lastSuccess": 1734929063966
     },
     "tools-lyrics.js": {
-      "total": 139,
-      "success": 138,
-      "last": 1734852315529,
-      "lastSuccess": 1734852315529
+      "total": 141,
+      "success": 140,
+      "last": 1734953561877,
+      "lastSuccess": 1734953561877
     },
     "downloader-spotify.js": {
       "total": 226,
@@ -64776,7 +64776,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734950594516,
+      "backupDB": 1734952641692,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
