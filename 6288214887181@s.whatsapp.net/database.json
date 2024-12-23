@@ -88,7 +88,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 130152,
+      "exp": 130173,
       "limit": 0,
       "registered": false,
       "name": "Rayhan?",
@@ -42397,7 +42397,7 @@
       "premiumTime": 0
     },
     "6282396748817@s.whatsapp.net": {
-      "exp": 135,
+      "exp": 160,
       "limit": 499,
       "registered": false,
       "name": "Fonji",
@@ -50774,7 +50774,7 @@
       "lastBanned": 0
     },
     "6285931400906@s.whatsapp.net": {
-      "exp": 2366,
+      "exp": 2373,
       "limit": 259,
       "registered": false,
       "name": "Dino",
@@ -56159,6 +56159,25 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
+      "premiumTime": 0
+    },
+    "100605867638924_1@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
       "premiumTime": 0
     }
   },
@@ -63609,10 +63628,10 @@
       "lastSuccess": 1732198448358
     },
     "maker-flaming.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1733475372705,
-      "lastSuccess": 1733475372705
+      "total": 5,
+      "success": 5,
+      "last": 1734970304668,
+      "lastSuccess": 1734970304668
     },
     "maker-simpcard.js": {
       "total": 3,
@@ -64988,7 +65007,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734966692852,
+      "backupDB": 1734968642142,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
