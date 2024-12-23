@@ -12102,8 +12102,8 @@
       "lastBanned": 0
     },
     "6281220652661@s.whatsapp.net": {
-      "exp": -946,
-      "limit": 449,
+      "exp": -922,
+      "limit": 424,
       "registered": false,
       "name": "‏‏‎  ‏‏‎  ‏‏‎ ‏‏‎",
       "age": -1,
@@ -43997,7 +43997,7 @@
       "premiumTime": 0
     },
     "27796254968@s.whatsapp.net": {
-      "exp": 59,
+      "exp": 64,
       "limit": 499,
       "registered": false,
       "name": "Thatego Mahlakola",
@@ -62805,10 +62805,10 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 730,
-      "success": 676,
-      "last": 1734980123517,
-      "lastSuccess": 1734980123517
+      "total": 731,
+      "success": 677,
+      "last": 1734982188482,
+      "lastSuccess": 1734982188482
     },
     "downloader-tiktok.js": {
       "total": 1724,
@@ -65066,7 +65066,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734978948206,
+      "backupDB": 1734982181726,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
