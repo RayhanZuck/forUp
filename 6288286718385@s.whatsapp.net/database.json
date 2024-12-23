@@ -54101,7 +54101,7 @@
       "premiumTime": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 35124,
+      "exp": 35126,
       "limit": 499,
       "registered": false,
       "name": "RayhanAdzShl",
@@ -65483,7 +65483,7 @@
       "lastBanned": 0
     },
     "6282138310816@s.whatsapp.net": {
-      "exp": 60,
+      "exp": 62,
       "limit": 499,
       "registered": false,
       "name": "~faun",
@@ -108624,7 +108624,7 @@
       "lastBanned": 0
     },
     "6288286718385@s.whatsapp.net": {
-      "exp": 281,
+      "exp": 327,
       "limit": 499,
       "registered": true,
       "name": "nenen",
@@ -158014,7 +158014,7 @@
       "premiumTime": 0
     },
     "6287890456123@s.whatsapp.net": {
-      "exp": 100,
+      "exp": 105,
       "limit": 474,
       "registered": false,
       "name": "🇹🇭ราดิตยา อันดิกา",
@@ -172152,8 +172152,9 @@
       "autolevelup": true,
       "expired": 1820679932210,
       "total": {
-        "62881022366285@s.whatsapp.net": 799,
-        "6283846829169@s.whatsapp.net": 1517
+        "62881022366285@s.whatsapp.net": 801,
+        "6283846829169@s.whatsapp.net": 1541,
+        "6287890456123@s.whatsapp.net": 2
       },
       "totalChat": 0
     },
@@ -175918,7 +175919,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734921101010,
+      "backupDB": 1734923112675,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
