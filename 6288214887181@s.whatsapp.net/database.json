@@ -2150,7 +2150,7 @@
       "lastcommand": 1730727286271
     },
     "6285720973051@s.whatsapp.net": {
-      "exp": 123188,
+      "exp": 123809,
       "limit": 8646,
       "registered": true,
       "name": "citra",
@@ -2170,7 +2170,7 @@
       "premiumTime": 0,
       "lastdaily": 1734942913554,
       "lastBanned": 0,
-      "lastwork": 1734946092258,
+      "lastwork": 1734976341199,
       "lastcommand": 1734853174017,
       "lastrob": 1734943842561
     },
@@ -27305,7 +27305,7 @@
       "premiumTime": 0
     },
     "2349128632747@s.whatsapp.net": {
-      "exp": -2836,
+      "exp": -2831,
       "limit": 499,
       "registered": false,
       "name": "Mark Paul Romano",
@@ -29890,8 +29890,8 @@
       "premiumTime": 0
     },
     "601172392866@s.whatsapp.net": {
-      "exp": 317,
-      "limit": 806,
+      "exp": 375,
+      "limit": 796,
       "registered": false,
       "name": "dinosor",
       "age": -1,
@@ -47826,8 +47826,8 @@
       "premiumTime": 0
     },
     "6283846829169@s.whatsapp.net": {
-      "exp": 543,
-      "limit": 306,
+      "exp": 616,
+      "limit": 296,
       "registered": false,
       "name": "~B🗿",
       "age": -1,
@@ -56179,6 +56179,25 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0
+    },
+    "140664994046101_1@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -62818,16 +62837,16 @@
       "lastSuccess": 1734965179099
     },
     "game-curi.js": {
-      "total": 1102,
-      "success": 807,
-      "last": 1734948390575,
-      "lastSuccess": 1734948390575
+      "total": 1103,
+      "success": 808,
+      "last": 1734976342521,
+      "lastSuccess": 1734976342521
     },
     "game-copet.js": {
-      "total": 165,
-      "success": 126,
-      "last": 1734852669017,
-      "lastSuccess": 1734852669017
+      "total": 166,
+      "success": 127,
+      "last": 1734976342906,
+      "lastSuccess": 1734976342906
     },
     "main-balance.js": {
       "total": 288,
@@ -62896,9 +62915,9 @@
       "lastSuccess": 1734415656247
     },
     "ai-remini.js": {
-      "total": 853,
+      "total": 854,
       "success": 802,
-      "last": 1734972548265,
+      "last": 1734975318234,
       "lastSuccess": 1734972548265
     },
     "game-tebakbendera.js": {
@@ -62962,9 +62981,9 @@
       "lastSuccess": 1731509107103
     },
     "downloader-pinterest.js": {
-      "total": 604,
+      "total": 605,
       "success": 536,
-      "last": 1734917700352,
+      "last": 1734975270690,
       "lastSuccess": 1734909835996
     },
     "downloader-soundcloud.js": {
@@ -63424,10 +63443,10 @@
       "lastSuccess": 1734935978959
     },
     "sticker-tovideo.js": {
-      "total": 51,
-      "success": 36,
-      "last": 1734949331448,
-      "lastSuccess": 1734949331448
+      "total": 52,
+      "success": 37,
+      "last": 1734975293495,
+      "lastSuccess": 1734975293495
     },
     "game-mulung.js": {
       "total": 26,
@@ -63670,10 +63689,10 @@
       "lastSuccess": 1734839299666
     },
     "sticker-all.js": {
-      "total": 321,
-      "success": 289,
-      "last": 1734965385888,
-      "lastSuccess": 1734965385888
+      "total": 323,
+      "success": 291,
+      "last": 1734976408538,
+      "lastSuccess": 1734976408538
     },
     "game-nebang.js": {
       "total": 159,
@@ -63874,10 +63893,10 @@
       "lastSuccess": 1734957053350
     },
     "game-berburu.js": {
-      "total": 62,
-      "success": 53,
-      "last": 1734946092261,
-      "lastSuccess": 1734946092261
+      "total": 63,
+      "success": 54,
+      "last": 1734976341199,
+      "lastSuccess": 1734976341199
     },
     "own-edit.js": {
       "total": 6,
@@ -65007,7 +65026,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734971765919,
+      "backupDB": 1734975243138,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
