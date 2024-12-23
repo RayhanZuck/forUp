@@ -88,7 +88,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 130012,
+      "exp": 130055,
       "limit": 0,
       "registered": false,
       "name": "Rayhan?",
@@ -4167,8 +4167,8 @@
       "lastBanned": 0
     },
     "62895369675992@s.whatsapp.net": {
-      "exp": 21858,
-      "limit": 144,
+      "exp": 21901,
+      "limit": 124,
       "registered": false,
       "name": "Dhooozxy",
       "age": -1,
@@ -55284,7 +55284,7 @@
       "premiumTime": 0
     },
     "6288271785137@s.whatsapp.net": {
-      "exp": 597,
+      "exp": 599,
       "limit": 499,
       "registered": false,
       "name": "Gamel Store",
@@ -56019,6 +56019,25 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
+      "premiumTime": 0
+    },
+    "141747275460660_1@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
       "premiumTime": 0
     }
   },
@@ -62541,10 +62560,10 @@
       "lastSuccess": 1734949982537
     },
     "downloader-tiktok.js": {
-      "total": 1713,
-      "success": 1586,
-      "last": 1734943402933,
-      "lastSuccess": 1734943402933
+      "total": 1714,
+      "success": 1587,
+      "last": 1734956779233,
+      "lastSuccess": 1734956779233
     },
     "owner-sf.js": {
       "total": 1052,
@@ -63657,10 +63676,10 @@
       "lastSuccess": 1731160589410
     },
     "group-hidetag.js": {
-      "total": 13,
-      "success": 13,
-      "last": 1734946470445,
-      "lastSuccess": 1734946470445
+      "total": 14,
+      "success": 14,
+      "last": 1734957053350,
+      "lastSuccess": 1734957053350
     },
     "game-berburu.js": {
       "total": 62,
@@ -63777,10 +63796,10 @@
       "lastSuccess": 1731289488674
     },
     "internet-ssweb.js": {
-      "total": 24,
-      "success": 24,
-      "last": 1734874287443,
-      "lastSuccess": 1734874287443
+      "total": 26,
+      "success": 26,
+      "last": 1734958289060,
+      "lastSuccess": 1734958289060
     },
     "ytes.js": {
       "total": 17,
@@ -64796,7 +64815,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734954945838,
+      "backupDB": 1734956773085,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
