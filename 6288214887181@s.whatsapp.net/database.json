@@ -160,7 +160,7 @@
       "lastcommand": 1734908191108
     },
     "120363183420865643@g.us": {
-      "exp": 4959,
+      "exp": 4966,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -181,7 +181,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3725,
+      "exp": 3733,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1046,7 +1046,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 6080,
+      "exp": 6081,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -2150,7 +2150,7 @@
       "lastcommand": 1730727286271
     },
     "6285720973051@s.whatsapp.net": {
-      "exp": 123809,
+      "exp": 129997,
       "limit": 8646,
       "registered": true,
       "name": "citra",
@@ -2170,9 +2170,9 @@
       "premiumTime": 0,
       "lastdaily": 1734942913554,
       "lastBanned": 0,
-      "lastwork": 1734976341199,
+      "lastwork": 1734978824352,
       "lastcommand": 1734853174017,
-      "lastrob": 1734943842561
+      "lastrob": 1734978630237
     },
     "6288983017604@s.whatsapp.net": {
       "exp": 257,
@@ -5459,7 +5459,7 @@
       "premiumTime": 0
     },
     "919863871445@s.whatsapp.net": {
-      "exp": 58033,
+      "exp": 58058,
       "limit": 184,
       "registered": false,
       "name": "Asahi.",
@@ -5519,7 +5519,7 @@
       "premiumTime": 0
     },
     "6288980231187@s.whatsapp.net": {
-      "exp": 5034,
+      "exp": 4654,
       "limit": 577,
       "registered": false,
       "name": "اجياا",
@@ -23243,15 +23243,15 @@
       "premiumTime": 0
     },
     "6285756525188@s.whatsapp.net": {
-      "exp": 462511,
+      "exp": 508039,
       "limit": 3143,
       "registered": false,
       "name": "nuii",
       "age": -1,
       "regTime": -1,
       "unreg": false,
-      "afk": 1734951859271,
-      "afkReason": "a",
+      "afk": -1,
+      "afkReason": "",
       "banned": false,
       "level": 25,
       "role": "Corporal Grade 3 ☰³",
@@ -23262,7 +23262,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734882073244,
+      "lastcommand": 1734977848703,
       "lastdaily": 1734783189484,
       "lastwork": 1733559391796
     },
@@ -56198,6 +56198,46 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "6287777850689@s.whatsapp.net": {
+      "exp": 17,
+      "limit": 499,
+      "registered": false,
+      "name": "Asiaap",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
+    },
+    "257397826298062_1@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -62795,10 +62835,10 @@
       "lastSuccess": 1734964428698
     },
     "sticker-sticker.js": {
-      "total": 848,
-      "success": 737,
-      "last": 1734950397687,
-      "lastSuccess": 1734950392711
+      "total": 849,
+      "success": 738,
+      "last": 1734977146702,
+      "lastSuccess": 1734977146702
     },
     "sticker-toimg.js": {
       "total": 82,
@@ -62819,10 +62859,10 @@
       "lastSuccess": 1732841419311
     },
     "main-profile.js": {
-      "total": 228,
-      "success": 227,
-      "last": 1734972031759,
-      "lastSuccess": 1734972031759
+      "total": 229,
+      "success": 228,
+      "last": 1734978245413,
+      "lastSuccess": 1734978245413
     },
     "main-daftar.js": {
       "total": 36,
@@ -62837,16 +62877,16 @@
       "lastSuccess": 1734965179099
     },
     "game-curi.js": {
-      "total": 1103,
-      "success": 808,
-      "last": 1734976342521,
-      "lastSuccess": 1734976342521
+      "total": 1104,
+      "success": 809,
+      "last": 1734978630662,
+      "lastSuccess": 1734978630662
     },
     "game-copet.js": {
-      "total": 166,
-      "success": 127,
-      "last": 1734976342906,
-      "lastSuccess": 1734976342906
+      "total": 167,
+      "success": 128,
+      "last": 1734978632487,
+      "lastSuccess": 1734978632487
     },
     "main-balance.js": {
       "total": 288,
@@ -62939,10 +62979,10 @@
       "lastSuccess": 1734956110225
     },
     "_cek.js": {
-      "total": 779,
-      "success": 779,
-      "last": 1734966107028,
-      "lastSuccess": 1734966107028
+      "total": 780,
+      "success": 780,
+      "last": 1734977849092,
+      "lastSuccess": 1734977849092
     },
     "enable.js": {
       "total": 103,
@@ -63173,10 +63213,10 @@
       "lastSuccess": 1730167378476
     },
     "game-siapakahaku.js": {
-      "total": 882,
-      "success": 852,
-      "last": 1734951806314,
-      "lastSuccess": 1734951806314
+      "total": 910,
+      "success": 880,
+      "last": 1734978927463,
+      "lastSuccess": 1734978927463
     },
     "fun-animequotes.js": {
       "total": 3,
@@ -63233,10 +63273,10 @@
       "lastSuccess": 1734967242119
     },
     "game-susunkata.js": {
-      "total": 2142,
-      "success": 1954,
-      "last": 1734900080867,
-      "lastSuccess": 1734900080867
+      "total": 2145,
+      "success": 1957,
+      "last": 1734978386165,
+      "lastSuccess": 1734978386165
     },
     "game-susunkata_hint.js": {
       "total": 300,
@@ -63395,10 +63435,10 @@
       "lastSuccess": 1730211713904
     },
     "main-leader.js": {
-      "total": 201,
-      "success": 201,
-      "last": 1734928750317,
-      "lastSuccess": 1734928750317
+      "total": 202,
+      "success": 202,
+      "last": 1734978796652,
+      "lastSuccess": 1734978796652
     },
     "anime-animeinfo.js": {
       "total": 15,
@@ -63893,10 +63933,10 @@
       "lastSuccess": 1734957053350
     },
     "game-berburu.js": {
-      "total": 63,
-      "success": 54,
-      "last": 1734976341199,
-      "lastSuccess": 1734976341199
+      "total": 65,
+      "success": 56,
+      "last": 1734978824352,
+      "lastSuccess": 1734978824352
     },
     "own-edit.js": {
       "total": 6,
@@ -65026,7 +65066,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734975243138,
+      "backupDB": 1734977142385,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
