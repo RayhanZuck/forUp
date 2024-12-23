@@ -160,7 +160,7 @@
       "lastcommand": 1734908191108
     },
     "120363183420865643@g.us": {
-      "exp": 4862,
+      "exp": 4872,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -181,7 +181,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3673,
+      "exp": 3674,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1046,7 +1046,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 5993,
+      "exp": 6001,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -49891,8 +49891,8 @@
       "lastBanned": 0
     },
     "6283846297412@s.whatsapp.net": {
-      "exp": 572,
-      "limit": 329,
+      "exp": 755,
+      "limit": 289,
       "registered": false,
       "name": "junitaw",
       "age": -1,
@@ -51273,8 +51273,8 @@
       "premiumTime": 0
     },
     "6288225432435@s.whatsapp.net": {
-      "exp": 4908,
-      "limit": 218,
+      "exp": 7000,
+      "limit": 308,
       "registered": false,
       "name": "Aksa Wibisono",
       "age": -1,
@@ -51293,7 +51293,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastwork": 1734662904335,
-      "lastdaily": 1734827420640,
+      "lastdaily": 1734919646002,
       "lastcommand": 1734827428564,
       "lastrob": 1734663566757
     },
@@ -52411,7 +52411,7 @@
       "lastBanned": 0
     },
     "6281297729591@s.whatsapp.net": {
-      "exp": 1455,
+      "exp": 1459,
       "limit": 1470,
       "registered": false,
       "name": "𝙃𝘼𝙉𝙕 𝙎𝙏𝙊𝙍𝙀",
@@ -55293,6 +55293,27 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "6287854198015@s.whatsapp.net": {
+      "exp": 13,
+      "limit": 499,
+      "registered": false,
+      "name": "FERI SATORU",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -61822,10 +61843,10 @@
       "lastSuccess": 1734843560258
     },
     "econ-claim.js": {
-      "total": 1915,
-      "success": 1307,
-      "last": 1734915463227,
-      "lastSuccess": 1734915463227
+      "total": 1916,
+      "success": 1308,
+      "last": 1734919646002,
+      "lastSuccess": 1734919646002
     },
     "game-curi.js": {
       "total": 1062,
@@ -62206,9 +62227,9 @@
       "lastSuccess": 1734078278876
     },
     "downloader-playvid.js": {
-      "total": 93,
+      "total": 94,
       "success": 60,
-      "last": 1734874960268,
+      "last": 1734919831964,
       "lastSuccess": 1734866560913
     },
     "game-siapakahaku_hint.js": {
@@ -62680,10 +62701,10 @@
       "lastSuccess": 1734839299666
     },
     "sticker-all.js": {
-      "total": 275,
-      "success": 243,
-      "last": 1734914629236,
-      "lastSuccess": 1734914629236
+      "total": 285,
+      "success": 253,
+      "last": 1734919765298,
+      "lastSuccess": 1734919765298
     },
     "game-nebang.js": {
       "total": 159,
@@ -64017,7 +64038,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734916544337,
+      "backupDB": 1734918790735,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
