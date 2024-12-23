@@ -3304,7 +3304,7 @@
       "lastBanned": 0
     },
     "120363280765137622@g.us": {
-      "exp": 7144,
+      "exp": 7154,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -3320,7 +3320,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
     },
@@ -108625,7 +108625,7 @@
       "lastBanned": 0
     },
     "6288286718385@s.whatsapp.net": {
-      "exp": 522,
+      "exp": 549,
       "limit": 499,
       "registered": true,
       "name": "nenen",
@@ -108644,7 +108644,7 @@
       "premium": false,
       "premiumTime": 1737009730955,
       "lastBanned": 0,
-      "lastcommand": 1734709370639,
+      "lastcommand": 1734979063897,
       "limitprem": 10000,
       "lastdaily": 1734415476791
     },
@@ -135252,7 +135252,7 @@
       "premiumTime": 0
     },
     "120363356468992489@g.us": {
-      "exp": 231,
+      "exp": 233,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -157359,7 +157359,7 @@
       "lastBanned": 0
     },
     "62881022366285@s.whatsapp.net": {
-      "exp": 1261,
+      "exp": 1288,
       "limit": 79,
       "registered": false,
       "name": "entah",
@@ -163579,6 +163579,45 @@
       "exp": 7,
       "limit": 499,
       "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "257397826298062_1@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6287777850689@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "name": "Asiaap",
       "age": -1,
       "regTime": -1,
       "unreg": false,
@@ -172737,12 +172776,13 @@
       "autolevelup": true,
       "expired": 1820679932210,
       "total": {
-        "62881022366285@s.whatsapp.net": 1175,
-        "6283846829169@s.whatsapp.net": 2060,
+        "62881022366285@s.whatsapp.net": 1245,
+        "6283846829169@s.whatsapp.net": 2092,
         "6287890456123@s.whatsapp.net": 316,
         "6282298862377@s.whatsapp.net": 25,
         "6288225432435@s.whatsapp.net": 287,
-        "6283824012756@s.whatsapp.net": 40
+        "6283824012756@s.whatsapp.net": 72,
+        "6287777850689@s.whatsapp.net": 1
       },
       "totalChat": 0
     },
@@ -174612,10 +174652,10 @@
       "lastSuccess": 1732552780464
     },
     "group-listonline.js": {
-      "total": 158,
-      "success": 154,
-      "last": 1734942639442,
-      "lastSuccess": 1734942639442
+      "total": 159,
+      "success": 155,
+      "last": 1734979063899,
+      "lastSuccess": 1734979063899
     },
     "owner-unbanchat.js": {
       "total": 146,
@@ -176651,7 +176691,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734976291710,
+      "backupDB": 1734978119973,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
