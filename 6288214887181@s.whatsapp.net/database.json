@@ -1046,7 +1046,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 6025,
+      "exp": 6030,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -2080,7 +2080,7 @@
       "lastBanned": 0
     },
     "628812611040@s.whatsapp.net": {
-      "exp": 411,
+      "exp": 413,
       "limit": 405,
       "registered": false,
       "name": "𝙃𝙢𝙢𝙢",
@@ -5458,8 +5458,8 @@
       "premiumTime": 0
     },
     "919863871445@s.whatsapp.net": {
-      "exp": 55898,
-      "limit": 184,
+      "exp": 57955,
+      "limit": 259,
       "registered": false,
       "name": "Asahi.",
       "age": -1,
@@ -5477,7 +5477,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastdaily": 1734732069958
+      "lastdaily": 1734933313484
     },
     "54396297711823_1@s.whatsapp.net": {
       "exp": 4,
@@ -8033,7 +8033,7 @@
       "lastBanned": 0
     },
     "628818691228@s.whatsapp.net": {
-      "exp": 6097,
+      "exp": 6100,
       "limit": 3486,
       "registered": false,
       "name": "+62 881-8691-228",
@@ -42733,8 +42733,8 @@
       "premiumTime": 0
     },
     "6285717205265@s.whatsapp.net": {
-      "exp": 11143,
-      "limit": 97,
+      "exp": 11217,
+      "limit": 22,
       "registered": false,
       "name": "Ayam",
       "age": -1,
@@ -45160,7 +45160,7 @@
       "premiumTime": 0
     },
     "6285165846573@s.whatsapp.net": {
-      "exp": 2,
+      "exp": 9,
       "limit": 499,
       "registered": false,
       "name": "FERI SATORU",
@@ -45177,7 +45177,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6282295843073@s.whatsapp.net": {
       "exp": 176,
@@ -49991,8 +49992,8 @@
       "premiumTime": 0
     },
     "6289677414856@s.whatsapp.net": {
-      "exp": 4938,
-      "limit": 69,
+      "exp": 6564,
+      "limit": 44,
       "registered": false,
       "name": "Rogue Jolly Kitty",
       "age": -1,
@@ -50012,7 +50013,7 @@
       "lastBanned": 0,
       "lastcommand": 1734929063959,
       "lastdaily": 1734648232054,
-      "lastrob": 1734764871757,
+      "lastrob": 1734933559966,
       "lastwork": 1734679248666
     },
     "6283186426663@s.whatsapp.net": {
@@ -54689,7 +54690,7 @@
       "lastBanned": 0
     },
     "6281392076995@s.whatsapp.net": {
-      "exp": 7877,
+      "exp": 6442,
       "limit": 1029,
       "registered": false,
       "name": "Astaroth Van Astarity",
@@ -55275,7 +55276,7 @@
       "premiumTime": 0
     },
     "6288271785137@s.whatsapp.net": {
-      "exp": 48,
+      "exp": 108,
       "limit": 499,
       "registered": false,
       "name": "Gamel Store",
@@ -55530,6 +55531,25 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
+    },
+    "249456549175380_1@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -62019,10 +62039,10 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 722,
-      "success": 670,
-      "last": 1734926870239,
-      "lastSuccess": 1734926870239
+      "total": 723,
+      "success": 671,
+      "last": 1734933300320,
+      "lastSuccess": 1734933300320
     },
     "downloader-tiktok.js": {
       "total": 1710,
@@ -62037,10 +62057,10 @@
       "lastSuccess": 1734910515267
     },
     "downloader-play.js": {
-      "total": 1841,
-      "success": 1734,
-      "last": 1734931953975,
-      "lastSuccess": 1734931953975
+      "total": 1846,
+      "success": 1738,
+      "last": 1734934926143,
+      "lastSuccess": 1734934926143
     },
     "downloader-ytvideo.js": {
       "total": 135,
@@ -62049,9 +62069,9 @@
       "lastSuccess": 1734912335136
     },
     "sticker-sticker.js": {
-      "total": 844,
+      "total": 845,
       "success": 735,
-      "last": 1734914305567,
+      "last": 1734933467538,
       "lastSuccess": 1734884167880
     },
     "sticker-toimg.js": {
@@ -62085,16 +62105,16 @@
       "lastSuccess": 1734843560258
     },
     "econ-claim.js": {
-      "total": 1930,
-      "success": 1314,
-      "last": 1734931284571,
-      "lastSuccess": 1734931284571
+      "total": 1931,
+      "success": 1315,
+      "last": 1734933313485,
+      "lastSuccess": 1734933313485
     },
     "game-curi.js": {
-      "total": 1063,
-      "success": 783,
-      "last": 1734929700165,
-      "lastSuccess": 1734929700165
+      "total": 1064,
+      "success": 784,
+      "last": 1734933560489,
+      "lastSuccess": 1734933560489
     },
     "game-copet.js": {
       "total": 165,
@@ -64280,7 +64300,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734930642163,
+      "backupDB": 1734933290396,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
