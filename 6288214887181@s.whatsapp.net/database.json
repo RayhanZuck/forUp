@@ -1067,7 +1067,7 @@
       "lastBanned": 0
     },
     "6283119901412@s.whatsapp.net": {
-      "exp": 9756,
+      "exp": 9795,
       "limit": 29,
       "registered": false,
       "name": "Lázuardy Zio (Lázaro)",
@@ -1994,8 +1994,8 @@
       "lastcommand": 1730741161174
     },
     "6283869691725@s.whatsapp.net": {
-      "exp": 20223,
-      "limit": 29,
+      "exp": 20252,
+      "limit": 4,
       "registered": false,
       "name": "Minn",
       "age": -1,
@@ -2080,8 +2080,8 @@
       "lastBanned": 0
     },
     "628812611040@s.whatsapp.net": {
-      "exp": 265,
-      "limit": 445,
+      "exp": 294,
+      "limit": 430,
       "registered": false,
       "name": "𝙃𝙢𝙢𝙢",
       "age": -1,
@@ -47819,7 +47819,7 @@
       "premiumTime": 0
     },
     "6283846829169@s.whatsapp.net": {
-      "exp": 1493,
+      "exp": 1608,
       "limit": 203,
       "registered": false,
       "name": "~B🗿",
@@ -52411,7 +52411,7 @@
       "lastBanned": 0
     },
     "6281297729591@s.whatsapp.net": {
-      "exp": 1397,
+      "exp": 1455,
       "limit": 1470,
       "registered": false,
       "name": "𝙃𝘼𝙉𝙕 𝙎𝙏𝙊𝙍𝙀",
@@ -55040,7 +55040,7 @@
       "lastcommand": 1734868676254
     },
     "6289520939011@s.whatsapp.net": {
-      "exp": 23,
+      "exp": 42,
       "limit": 479,
       "registered": false,
       "name": ".",
@@ -55057,7 +55057,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "130301154050143_1@s.whatsapp.net": {
       "exp": 10,
@@ -61707,16 +61708,16 @@
       "lastSuccess": 1734910515267
     },
     "downloader-play.js": {
-      "total": 1828,
-      "success": 1721,
-      "last": 1734888475162,
-      "lastSuccess": 1734875858757
+      "total": 1829,
+      "success": 1722,
+      "last": 1734912141025,
+      "lastSuccess": 1734912141025
     },
     "downloader-ytvideo.js": {
-      "total": 134,
-      "success": 128,
-      "last": 1734742613334,
-      "lastSuccess": 1734742613334
+      "total": 135,
+      "success": 129,
+      "last": 1734912335136,
+      "lastSuccess": 1734912335136
     },
     "sticker-sticker.js": {
       "total": 843,
@@ -61755,16 +61756,16 @@
       "lastSuccess": 1734843560258
     },
     "econ-claim.js": {
-      "total": 1912,
+      "total": 1913,
       "success": 1305,
-      "last": 1734900303777,
+      "last": 1734911200100,
       "lastSuccess": 1734900303777
     },
     "game-curi.js": {
-      "total": 1060,
-      "success": 780,
-      "last": 1734877205082,
-      "lastSuccess": 1734877205082
+      "total": 1062,
+      "success": 782,
+      "last": 1734912453051,
+      "lastSuccess": 1734912453051
     },
     "game-copet.js": {
       "total": 165,
@@ -61989,10 +61990,10 @@
       "lastSuccess": 1730161441000
     },
     "downloader-tiktoksearch.js": {
-      "total": 730,
-      "success": 723,
-      "last": 1734910333693,
-      "lastSuccess": 1734910333693
+      "total": 731,
+      "success": 724,
+      "last": 1734912355919,
+      "lastSuccess": 1734912355919
     },
     "ai-llama.js": {
       "total": 352,
@@ -62271,10 +62272,10 @@
       "lastSuccess": 1733006768989
     },
     "av-bot.js": {
-      "total": 18,
-      "success": 18,
-      "last": 1734884469945,
-      "lastSuccess": 1734884469945
+      "total": 19,
+      "success": 19,
+      "last": 1734911271288,
+      "lastSuccess": 1734911271288
     },
     "main-balanceme.js": {
       "total": 26,
@@ -63950,7 +63951,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734908988612,
+      "backupDB": 1734910861144,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
