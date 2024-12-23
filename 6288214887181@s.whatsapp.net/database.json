@@ -5865,8 +5865,8 @@
       "premiumTime": 0
     },
     "6287877901251@s.whatsapp.net": {
-      "exp": 7683,
-      "limit": 359,
+      "exp": 7718,
+      "limit": 339,
       "registered": false,
       "name": "@xys_syaa'",
       "age": -1,
@@ -38446,8 +38446,8 @@
       "premiumTime": 0
     },
     "6283878703066@s.whatsapp.net": {
-      "exp": 40059,
-      "limit": 768,
+      "exp": 40130,
+      "limit": 693,
       "registered": false,
       "name": "My Biru",
       "age": -1,
@@ -38462,7 +38462,7 @@
       "WarnReason": "",
       "lastweekly": 1733376711301,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1734966051205,
@@ -51282,7 +51282,7 @@
       "premiumTime": 0
     },
     "6288225432435@s.whatsapp.net": {
-      "exp": 13636,
+      "exp": 19097,
       "limit": 78,
       "registered": false,
       "name": "Aksa Wibisono",
@@ -62812,10 +62812,10 @@
       "lastSuccess": 1734982188482
     },
     "downloader-tiktok.js": {
-      "total": 1725,
-      "success": 1598,
-      "last": 1734988281827,
-      "lastSuccess": 1734988281827
+      "total": 1726,
+      "success": 1599,
+      "last": 1734993675471,
+      "lastSuccess": 1734993675471
     },
     "owner-sf.js": {
       "total": 1052,
@@ -62824,10 +62824,10 @@
       "lastSuccess": 1734910515267
     },
     "downloader-play.js": {
-      "total": 1874,
-      "success": 1766,
-      "last": 1734967522329,
-      "lastSuccess": 1734967522329
+      "total": 1877,
+      "success": 1769,
+      "last": 1734993977567,
+      "lastSuccess": 1734993977567
     },
     "downloader-ytvideo.js": {
       "total": 136,
@@ -62920,10 +62920,10 @@
       "lastSuccess": 1734840780206
     },
     "main-limit.js": {
-      "total": 1227,
-      "success": 1227,
-      "last": 1734961952438,
-      "lastSuccess": 1734961952438
+      "total": 1228,
+      "success": 1228,
+      "last": 1734993485731,
+      "lastSuccess": 1734993485731
     },
     "game-ulartangga.js": {
       "total": 141,
@@ -63004,10 +63004,10 @@
       "lastSuccess": 1734873630326
     },
     "info-payment.js": {
-      "total": 46,
-      "success": 46,
-      "last": 1734848614747,
-      "lastSuccess": 1734848614747
+      "total": 47,
+      "success": 47,
+      "last": 1734993745599,
+      "lastSuccess": 1734993745599
     },
     "_rayhan-creator.js": {
       "total": 26,
@@ -63748,10 +63748,10 @@
       "lastSuccess": 0
     },
     "game-bom.js": {
-      "total": 61,
-      "success": 61,
-      "last": 1734955890293,
-      "lastSuccess": 1734955890293
+      "total": 64,
+      "success": 64,
+      "last": 1734993357020,
+      "lastSuccess": 1734993357020
     },
     "ai-txt2img.js": {
       "total": 8,
@@ -65067,7 +65067,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734986483998,
+      "backupDB": 1734992726553,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
