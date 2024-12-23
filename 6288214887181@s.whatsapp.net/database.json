@@ -3316,8 +3316,8 @@
       "lastdaily": 1730357910770
     },
     "62881037157545@s.whatsapp.net": {
-      "exp": 16981,
-      "limit": 1229,
+      "exp": 17015,
+      "limit": 1204,
       "registered": false,
       "name": "きょういき Izumi",
       "age": -1,
@@ -42397,7 +42397,7 @@
       "premiumTime": 0
     },
     "6282396748817@s.whatsapp.net": {
-      "exp": 170,
+      "exp": 177,
       "limit": 499,
       "registered": false,
       "name": "Fonji",
@@ -47826,7 +47826,7 @@
       "premiumTime": 0
     },
     "6283846829169@s.whatsapp.net": {
-      "exp": 616,
+      "exp": 617,
       "limit": 296,
       "registered": false,
       "name": "~B🗿",
@@ -51282,7 +51282,7 @@
       "premiumTime": 0
     },
     "6288225432435@s.whatsapp.net": {
-      "exp": 19097,
+      "exp": 44348,
       "limit": 78,
       "registered": false,
       "name": "Aksa Wibisono",
@@ -52904,7 +52904,7 @@
       "lastBanned": 0
     },
     "6285394495227@s.whatsapp.net": {
-      "exp": 404,
+      "exp": 415,
       "limit": 499,
       "registered": false,
       "name": "aull",
@@ -62806,10 +62806,10 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 731,
-      "success": 677,
-      "last": 1734982188482,
-      "lastSuccess": 1734982188482
+      "total": 732,
+      "success": 678,
+      "last": 1734996050916,
+      "lastSuccess": 1734996050916
     },
     "downloader-tiktok.js": {
       "total": 1726,
@@ -62872,9 +62872,9 @@
       "lastSuccess": 1734843560258
     },
     "econ-claim.js": {
-      "total": 1949,
+      "total": 1950,
       "success": 1329,
-      "last": 1734979342336,
+      "last": 1734994615074,
       "lastSuccess": 1734979342336
     },
     "game-curi.js": {
@@ -63748,10 +63748,10 @@
       "lastSuccess": 0
     },
     "game-bom.js": {
-      "total": 64,
-      "success": 64,
-      "last": 1734993357020,
-      "lastSuccess": 1734993357020
+      "total": 71,
+      "success": 71,
+      "last": 1734995294888,
+      "lastSuccess": 1734995294888
     },
     "ai-txt2img.js": {
       "total": 8,
@@ -65067,7 +65067,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734992726553,
+      "backupDB": 1734994614756,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
