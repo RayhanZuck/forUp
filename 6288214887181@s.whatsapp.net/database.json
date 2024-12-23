@@ -160,7 +160,7 @@
       "lastcommand": 1734908191108
     },
     "120363183420865643@g.us": {
-      "exp": 4852,
+      "exp": 4862,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1046,7 +1046,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 5985,
+      "exp": 5993,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1832,8 +1832,8 @@
       "lastcommand": 1731750770842
     },
     "6283875901704@s.whatsapp.net": {
-      "exp": 5202,
-      "limit": 63,
+      "exp": 5234,
+      "limit": 48,
       "registered": false,
       "name": ".n",
       "age": -1,
@@ -3247,8 +3247,8 @@
       "premiumTime": 0
     },
     "6287761263814@s.whatsapp.net": {
-      "exp": 26810,
-      "limit": 94,
+      "exp": 26832,
+      "limit": 74,
       "registered": false,
       "name": "Aldo 👽",
       "age": -1,
@@ -3487,7 +3487,7 @@
       "premiumTime": 0
     },
     "6285960625531@s.whatsapp.net": {
-      "exp": -931,
+      "exp": -922,
       "limit": 499,
       "registered": false,
       "name": "Abdullah",
@@ -49991,7 +49991,7 @@
       "premiumTime": 0
     },
     "6289677414856@s.whatsapp.net": {
-      "exp": 4731,
+      "exp": 4806,
       "limit": 119,
       "registered": false,
       "name": "Rogue Jolly Kitty",
@@ -55259,6 +55259,26 @@
       "limit": 499,
       "registered": false,
       "name": "Penghasil",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6288271785137@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 499,
+      "registered": false,
+      "name": "Gamel Store",
       "age": -1,
       "regTime": -1,
       "unreg": false,
@@ -61742,10 +61762,10 @@
       "lastSuccess": 1734875965494
     },
     "downloader-tiktok.js": {
-      "total": 1707,
-      "success": 1580,
-      "last": 1734904576874,
-      "lastSuccess": 1734904576874
+      "total": 1708,
+      "success": 1581,
+      "last": 1734916636500,
+      "lastSuccess": 1734916636500
     },
     "owner-sf.js": {
       "total": 1052,
@@ -61772,9 +61792,9 @@
       "lastSuccess": 1734884167880
     },
     "sticker-toimg.js": {
-      "total": 81,
+      "total": 82,
       "success": 75,
-      "last": 1734753456716,
+      "last": 1734917710807,
       "lastSuccess": 1734753456716
     },
     "game-kerja.js": {
@@ -61952,9 +61972,9 @@
       "lastSuccess": 1731509107103
     },
     "downloader-pinterest.js": {
-      "total": 603,
+      "total": 604,
       "success": 536,
-      "last": 1734909835996,
+      "last": 1734917700352,
       "lastSuccess": 1734909835996
     },
     "downloader-soundcloud.js": {
@@ -62036,10 +62056,10 @@
       "lastSuccess": 1730161441000
     },
     "downloader-tiktoksearch.js": {
-      "total": 746,
-      "success": 739,
-      "last": 1734916352887,
-      "lastSuccess": 1734916352887
+      "total": 747,
+      "success": 740,
+      "last": 1734916544697,
+      "lastSuccess": 1734916544697
     },
     "ai-llama.js": {
       "total": 352,
@@ -63997,7 +64017,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734914625250,
+      "backupDB": 1734916544337,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
