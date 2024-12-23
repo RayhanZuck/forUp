@@ -1712,7 +1712,7 @@
       "warn": 5
     },
     "6283875689467@s.whatsapp.net": {
-      "exp": 7601,
+      "exp": 7615,
       "limit": 499,
       "registered": false,
       "name": "Sinnnnnn.",
@@ -54102,7 +54102,7 @@
       "premiumTime": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 35126,
+      "exp": 35149,
       "limit": 499,
       "registered": false,
       "name": "RayhanAdzShl",
@@ -54118,7 +54118,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1734909321857,
@@ -174373,10 +174373,10 @@
       "lastSuccess": 1734935113690
     },
     "main-profile.js": {
-      "total": 276,
-      "success": 275,
-      "last": 1734885931717,
-      "lastSuccess": 1734885931717
+      "total": 277,
+      "success": 276,
+      "last": 1734963086525,
+      "lastSuccess": 1734963086525
     },
     "downloader-play2.js": {
       "total": 58,
@@ -176574,7 +176574,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734959032346,
+      "backupDB": 1734963070259,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
