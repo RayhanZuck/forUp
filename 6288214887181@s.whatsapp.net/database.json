@@ -1,7 +1,7 @@
 {
   "users": {
     "6288214887181@s.whatsapp.net": {
-      "exp": -3658,
+      "exp": -3650,
       "limit": 470,
       "registered": false,
       "name": "Ciel",
@@ -88,7 +88,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 129986,
+      "exp": 130012,
       "limit": 0,
       "registered": false,
       "name": "Rayhan?",
@@ -3405,8 +3405,8 @@
       "lastcommand": 1734858747585
     },
     "62881023733766@s.whatsapp.net": {
-      "exp": 3109,
-      "limit": 269,
+      "exp": 3147,
+      "limit": 244,
       "registered": false,
       "name": "Dthy",
       "age": -1,
@@ -5459,8 +5459,8 @@
       "premiumTime": 0
     },
     "919863871445@s.whatsapp.net": {
-      "exp": 57977,
-      "limit": 234,
+      "exp": 58015,
+      "limit": 209,
       "registered": false,
       "name": "Asahi.",
       "age": -1,
@@ -25043,7 +25043,7 @@
       "premiumTime": 0
     },
     "6285166922398@s.whatsapp.net": {
-      "exp": 7,
+      "exp": 17,
       "limit": 499,
       "registered": false,
       "name": "Yrxyf",
@@ -25060,7 +25060,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6289526024748@s.whatsapp.net": {
       "exp": 20,
@@ -47824,7 +47825,7 @@
       "premiumTime": 0
     },
     "6283846829169@s.whatsapp.net": {
-      "exp": 503,
+      "exp": 543,
       "limit": 306,
       "registered": false,
       "name": "~B🗿",
@@ -51280,8 +51281,8 @@
       "premiumTime": 0
     },
     "6288225432435@s.whatsapp.net": {
-      "exp": 13535,
-      "limit": 103,
+      "exp": 13636,
+      "limit": 78,
       "registered": false,
       "name": "Aksa Wibisono",
       "age": -1,
@@ -51301,7 +51302,7 @@
       "lastBanned": 0,
       "lastwork": 1734944104649,
       "lastdaily": 1734919646002,
-      "lastcommand": 1734928286206,
+      "lastcommand": 1734954945887,
       "lastrob": 1734944098031
     },
     "4703626743941_1@s.whatsapp.net": {
@@ -55047,7 +55048,7 @@
       "lastcommand": 1734868676254
     },
     "6289520939011@s.whatsapp.net": {
-      "exp": 27915,
+      "exp": 31702,
       "limit": 464,
       "registered": false,
       "name": ".",
@@ -55066,7 +55067,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734950316914
+      "lastcommand": 1734956310491
     },
     "130301154050143_1@s.whatsapp.net": {
       "exp": 10,
@@ -55283,7 +55284,7 @@
       "premiumTime": 0
     },
     "6288271785137@s.whatsapp.net": {
-      "exp": 534,
+      "exp": 597,
       "limit": 499,
       "registered": false,
       "name": "Gamel Store",
@@ -55984,6 +55985,25 @@
     },
     "7353520885827_1@s.whatsapp.net": {
       "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "3273285202103_1@s.whatsapp.net": {
+      "exp": 7,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -62533,10 +62553,10 @@
       "lastSuccess": 1734910515267
     },
     "downloader-play.js": {
-      "total": 1867,
-      "success": 1759,
-      "last": 1734949512940,
-      "lastSuccess": 1734949512940
+      "total": 1868,
+      "success": 1760,
+      "last": 1734955141908,
+      "lastSuccess": 1734955141908
     },
     "downloader-ytvideo.js": {
       "total": 135,
@@ -62599,10 +62619,10 @@
       "lastSuccess": 1734852669017
     },
     "main-balance.js": {
-      "total": 286,
-      "success": 285,
-      "last": 1734950540029,
-      "lastSuccess": 1734950540029
+      "total": 288,
+      "success": 287,
+      "last": 1734956477924,
+      "lastSuccess": 1734956477924
     },
     "main-shop.js": {
       "total": 807,
@@ -62665,10 +62685,10 @@
       "lastSuccess": 1734415656247
     },
     "ai-remini.js": {
-      "total": 851,
-      "success": 800,
-      "last": 1734949225963,
-      "lastSuccess": 1734949225963
+      "total": 852,
+      "success": 801,
+      "last": 1734956187134,
+      "lastSuccess": 1734956187134
     },
     "game-tebakbendera.js": {
       "total": 427,
@@ -62683,16 +62703,16 @@
       "lastSuccess": 1732004033928
     },
     "owner-kick.js": {
-      "total": 54,
-      "success": 50,
-      "last": 1734951102598,
-      "lastSuccess": 1734951102598
+      "total": 55,
+      "success": 51,
+      "last": 1734956110225,
+      "lastSuccess": 1734956110225
     },
     "_cek.js": {
-      "total": 774,
-      "success": 774,
-      "last": 1734947655796,
-      "lastSuccess": 1734947655796
+      "total": 775,
+      "success": 775,
+      "last": 1734954983871,
+      "lastSuccess": 1734954983871
     },
     "enable.js": {
       "total": 103,
@@ -62965,9 +62985,9 @@
       "lastSuccess": 1734078278876
     },
     "downloader-playvid.js": {
-      "total": 98,
+      "total": 99,
       "success": 60,
-      "last": 1734949281071,
+      "last": 1734955315959,
       "lastSuccess": 1734866560913
     },
     "game-siapakahaku_hint.js": {
@@ -62977,10 +62997,10 @@
       "lastSuccess": 1734783662396
     },
     "games-tebakkata.js": {
-      "total": 1249,
-      "success": 1201,
-      "last": 1734950808765,
-      "lastSuccess": 1734950808765
+      "total": 1251,
+      "success": 1203,
+      "last": 1734955986050,
+      "lastSuccess": 1734955986050
     },
     "game-susunkata.js": {
       "total": 2142,
@@ -62995,10 +63015,10 @@
       "lastSuccess": 1734852890872
     },
     "info-ping.js": {
-      "total": 248,
-      "success": 248,
-      "last": 1734950321907,
-      "lastSuccess": 1734950321907
+      "total": 249,
+      "success": 249,
+      "last": 1734956317336,
+      "lastSuccess": 1734956317336
     },
     "ai-toanime.js": {
       "total": 85,
@@ -63031,10 +63051,10 @@
       "lastSuccess": 1734953561877
     },
     "downloader-spotify.js": {
-      "total": 226,
-      "success": 192,
-      "last": 1734888304088,
-      "lastSuccess": 1734888304088
+      "total": 227,
+      "success": 193,
+      "last": 1734955963981,
+      "lastSuccess": 1734955963981
     },
     "games-tictactoe.js": {
       "total": 34,
@@ -63127,10 +63147,10 @@
       "lastSuccess": 1734928795327
     },
     "group-delete.js": {
-      "total": 35,
-      "success": 35,
-      "last": 1734942130027,
-      "lastSuccess": 1734942130027
+      "total": 36,
+      "success": 36,
+      "last": 1734955957642,
+      "lastSuccess": 1734955957642
     },
     "owner-gp.js": {
       "total": 49,
@@ -63259,10 +63279,10 @@
       "lastSuccess": 0
     },
     "tool-tomp3.js": {
-      "total": 124,
-      "success": 124,
-      "last": 1734945767282,
-      "lastSuccess": 1734945767282
+      "total": 125,
+      "success": 125,
+      "last": 1734955257978,
+      "lastSuccess": 1734955257978
     },
     "vn-bot.js": {
       "total": 31,
@@ -63457,10 +63477,10 @@
       "lastSuccess": 0
     },
     "game-bom.js": {
-      "total": 60,
-      "success": 60,
-      "last": 1733495848465,
-      "lastSuccess": 1733495848465
+      "total": 61,
+      "success": 61,
+      "last": 1734955890293,
+      "lastSuccess": 1734955890293
     },
     "ai-txt2img.js": {
       "total": 8,
@@ -63577,10 +63597,10 @@
       "lastSuccess": 1733324549987
     },
     "game-family100.js": {
-      "total": 155,
-      "success": 133,
-      "last": 1734950476993,
-      "lastSuccess": 1734950476993
+      "total": 156,
+      "success": 134,
+      "last": 1734956066092,
+      "lastSuccess": 1734956066092
     },
     "ai-openai.js": {
       "total": 14,
@@ -64776,7 +64796,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734952641692,
+      "backupDB": 1734954945838,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
