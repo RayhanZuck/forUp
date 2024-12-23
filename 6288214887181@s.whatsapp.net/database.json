@@ -160,7 +160,7 @@
       "lastcommand": 1734908191108
     },
     "120363183420865643@g.us": {
-      "exp": 4940,
+      "exp": 4947,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -181,7 +181,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3716,
+      "exp": 3725,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -957,7 +957,7 @@
       "lastdaily": 1733554666793
     },
     "6282150698385@s.whatsapp.net": {
-      "exp": 2253,
+      "exp": 2262,
       "limit": 499,
       "registered": false,
       "name": "Je t'aime😉🌿",
@@ -1046,7 +1046,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 6079,
+      "exp": 6080,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -2081,7 +2081,7 @@
       "lastBanned": 0
     },
     "628812611040@s.whatsapp.net": {
-      "exp": 58875,
+      "exp": 60728,
       "limit": 326,
       "registered": false,
       "name": "𝙃𝙢𝙢𝙢",
@@ -23243,15 +23243,15 @@
       "premiumTime": 0
     },
     "6285756525188@s.whatsapp.net": {
-      "exp": 417914,
+      "exp": 462511,
       "limit": 3143,
       "registered": false,
       "name": "nuii",
       "age": -1,
       "regTime": -1,
       "unreg": false,
-      "afk": -1,
-      "afkReason": "",
+      "afk": 1734951859271,
+      "afkReason": "a",
       "banned": false,
       "level": 25,
       "role": "Corporal Grade 3 ☰³",
@@ -25084,7 +25084,7 @@
       "lastBanned": 0
     },
     "6289510582356@s.whatsapp.net": {
-      "exp": 7,
+      "exp": 8,
       "limit": 499,
       "registered": false,
       "name": "Bayar Nggak Yaa",
@@ -25101,7 +25101,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6285184617150@s.whatsapp.net": {
       "exp": 33,
@@ -47823,7 +47824,7 @@
       "premiumTime": 0
     },
     "6283846829169@s.whatsapp.net": {
-      "exp": 416,
+      "exp": 503,
       "limit": 306,
       "registered": false,
       "name": "~B🗿",
@@ -52417,7 +52418,7 @@
       "lastBanned": 0
     },
     "6281297729591@s.whatsapp.net": {
-      "exp": 1532,
+      "exp": 1537,
       "limit": 1470,
       "registered": false,
       "name": "𝙃𝘼𝙉𝙕 𝙎𝙏𝙊𝙍𝙀",
@@ -55046,7 +55047,7 @@
       "lastcommand": 1734868676254
     },
     "6289520939011@s.whatsapp.net": {
-      "exp": 25069,
+      "exp": 27915,
       "limit": 464,
       "registered": false,
       "name": ".",
@@ -55940,6 +55941,65 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1734950264889
+    },
+    "6289676504263@s.whatsapp.net": {
+      "exp": 13,
+      "limit": 499,
+      "registered": false,
+      "name": "Hutangnya GK Dibayar Pakkk",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
+    },
+    "144874179424490_1@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "7353520885827_1@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -62623,10 +62683,10 @@
       "lastSuccess": 1732004033928
     },
     "owner-kick.js": {
-      "total": 53,
-      "success": 49,
-      "last": 1734879983474,
-      "lastSuccess": 1734879983474
+      "total": 54,
+      "success": 50,
+      "last": 1734951102598,
+      "lastSuccess": 1734951102598
     },
     "_cek.js": {
       "total": 774,
@@ -62719,10 +62779,10 @@
       "lastSuccess": 1734888498857
     },
     "owner-exec.js": {
-      "total": 355,
-      "success": 355,
-      "last": 1734949598261,
-      "lastSuccess": 1734949598261
+      "total": 356,
+      "success": 356,
+      "last": 1734950705108,
+      "lastSuccess": 1734950705108
     },
     "downloader-ytmp3.js": {
       "total": 145,
@@ -62863,10 +62923,10 @@
       "lastSuccess": 1730167378476
     },
     "game-siapakahaku.js": {
-      "total": 857,
-      "success": 827,
-      "last": 1734943071820,
-      "lastSuccess": 1734943071820
+      "total": 882,
+      "success": 852,
+      "last": 1734951806314,
+      "lastSuccess": 1734951806314
     },
     "fun-animequotes.js": {
       "total": 3,
@@ -62917,10 +62977,10 @@
       "lastSuccess": 1734783662396
     },
     "games-tebakkata.js": {
-      "total": 1247,
-      "success": 1199,
-      "last": 1734950316052,
-      "lastSuccess": 1734950316052
+      "total": 1249,
+      "success": 1201,
+      "last": 1734950808765,
+      "lastSuccess": 1734950808765
     },
     "game-susunkata.js": {
       "total": 2142,
@@ -63217,10 +63277,10 @@
       "lastSuccess": 1734484110868
     },
     "main-afk_.js": {
-      "total": 103,
-      "success": 103,
-      "last": 1734945038485,
-      "lastSuccess": 1734945038485
+      "total": 104,
+      "success": 104,
+      "last": 1734951859367,
+      "lastSuccess": 1734951859367
     },
     "downloader-gdrive.js": {
       "total": 17,
@@ -63247,9 +63307,9 @@
       "lastSuccess": 1734765797789
     },
     "games-tebakkata_hint.js": {
-      "total": 282,
+      "total": 283,
       "success": 268,
-      "last": 1734950051696,
+      "last": 1734950658807,
       "lastSuccess": 1734950051696
     },
     "fun-cek.js": {
@@ -63283,10 +63343,10 @@
       "lastSuccess": 1730693348157
     },
     "game-tekateki.js": {
-      "total": 89,
-      "success": 86,
-      "last": 1734945418422,
-      "lastSuccess": 1734945418422
+      "total": 92,
+      "success": 89,
+      "last": 1734951312941,
+      "lastSuccess": 1734951312941
     },
     "curi-owner.js": {
       "total": 14,
@@ -64716,7 +64776,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734948786818,
+      "backupDB": 1734950594516,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
