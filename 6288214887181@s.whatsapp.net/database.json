@@ -23243,7 +23243,7 @@
       "premiumTime": 0
     },
     "6285756525188@s.whatsapp.net": {
-      "exp": 542285,
+      "exp": 587048,
       "limit": 3243,
       "registered": false,
       "name": "nuii",
@@ -23262,7 +23262,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734977848703,
+      "lastcommand": 1734985143577,
       "lastdaily": 1734979342336,
       "lastwork": 1733559391796
     },
@@ -63081,10 +63081,10 @@
       "lastSuccess": 1734930906597
     },
     "_rayhan-menu.js": {
-      "total": 477,
-      "success": 460,
-      "last": 1734966806408,
-      "lastSuccess": 1734966806408
+      "total": 478,
+      "success": 461,
+      "last": 1734985188309,
+      "lastSuccess": 1734985188309
     },
     "downloader-ytvideo2.js": {
       "total": 4,
@@ -63213,10 +63213,10 @@
       "lastSuccess": 1730167378476
     },
     "game-siapakahaku.js": {
-      "total": 931,
-      "success": 901,
-      "last": 1734980294493,
-      "lastSuccess": 1734980294493
+      "total": 945,
+      "success": 913,
+      "last": 1734985638069,
+      "lastSuccess": 1734985638069
     },
     "fun-animequotes.js": {
       "total": 3,
@@ -63267,16 +63267,16 @@
       "lastSuccess": 1734783662396
     },
     "games-tebakkata.js": {
-      "total": 1264,
-      "success": 1215,
-      "last": 1734979698878,
-      "lastSuccess": 1734979698878
+      "total": 1267,
+      "success": 1218,
+      "last": 1734985802441,
+      "lastSuccess": 1734985802441
     },
     "game-susunkata.js": {
-      "total": 2145,
-      "success": 1957,
-      "last": 1734978386165,
-      "lastSuccess": 1734978386165
+      "total": 2160,
+      "success": 1971,
+      "last": 1734985710149,
+      "lastSuccess": 1734985710149
     },
     "game-susunkata_hint.js": {
       "total": 300,
@@ -65066,7 +65066,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734982181726,
+      "backupDB": 1734984483176,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
