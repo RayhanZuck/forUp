@@ -3304,7 +3304,7 @@
       "lastBanned": 0
     },
     "120363280765137622@g.us": {
-      "exp": 7058,
+      "exp": 7077,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -108624,7 +108624,7 @@
       "lastBanned": 0
     },
     "6288286718385@s.whatsapp.net": {
-      "exp": 327,
+      "exp": 368,
       "limit": 499,
       "registered": true,
       "name": "nenen",
@@ -163008,6 +163008,44 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "147150109454500_1@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "238598402142297_1@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -175919,7 +175957,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734923112675,
+      "backupDB": 1734924918799,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
