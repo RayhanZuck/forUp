@@ -137,7 +137,7 @@
       "lastBanned": 0
     },
     "62882008794480@s.whatsapp.net": {
-      "exp": 13073,
+      "exp": 13092,
       "limit": 244,
       "registered": false,
       "name": "Izumii",
@@ -153,11 +153,11 @@
       "WarnReason": "",
       "lastweekly": 1732200218991,
       "lastmonthly": 1730619658358,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastdaily": 1732200215885,
-      "lastcommand": 1734908191108
+      "lastcommand": 1735076311886
     },
     "120363183420865643@g.us": {
       "exp": 5017,
@@ -1879,8 +1879,8 @@
       "lastdaily": 1733807842363
     },
     "6287810709618@s.whatsapp.net": {
-      "exp": 70609,
-      "limit": 2452,
+      "exp": 70674,
+      "limit": 2442,
       "registered": false,
       "name": "nrull_lethaa～⁠♡",
       "age": -1,
@@ -1897,7 +1897,7 @@
       "lastmonthly": 1733610473179,
       "premium": true,
       "premiumTime": 0,
-      "lastcommand": 1735041315786,
+      "lastcommand": 1735077760576,
       "lastBanned": 0,
       "lastdaily": 1735009799082,
       "lastwork": 1735011260762,
@@ -63797,10 +63797,10 @@
       "lastSuccess": 1734956110225
     },
     "_cek.js": {
-      "total": 800,
-      "success": 800,
-      "last": 1735063875389,
-      "lastSuccess": 1735063875389
+      "total": 802,
+      "success": 802,
+      "last": 1735077761425,
+      "lastSuccess": 1735077761425
     },
     "enable.js": {
       "total": 103,
@@ -64229,10 +64229,10 @@
       "lastSuccess": 1734863637688
     },
     "sticker-quotely.js": {
-      "total": 533,
-      "success": 533,
-      "last": 1735052381313,
-      "lastSuccess": 1735052381313
+      "total": 534,
+      "success": 534,
+      "last": 1735077787964,
+      "lastSuccess": 1735077787964
     },
     "group-delete.js": {
       "total": 36,
@@ -65890,7 +65890,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735072855095,
+      "backupDB": 1735076311885,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
