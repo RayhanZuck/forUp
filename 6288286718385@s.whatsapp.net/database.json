@@ -54102,7 +54102,7 @@
       "premiumTime": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 35276,
+      "exp": 35318,
       "limit": 499,
       "registered": false,
       "name": "RayhanAdzShl",
@@ -135623,7 +135623,7 @@
       "lastwork": 1734674720588
     },
     "6282123163120@s.whatsapp.net": {
-      "exp": 1146,
+      "exp": 1156,
       "limit": 499,
       "registered": false,
       "name": "Bott Ikyy",
@@ -170779,9 +170779,10 @@
       "expired": 0,
       "autoSticker": false,
       "total": {
-        "6285766064200@s.whatsapp.net": 13,
-        "6283132534772@s.whatsapp.net": 9,
-        "6288214887181@s.whatsapp.net": 8
+        "6285766064200@s.whatsapp.net": 32,
+        "6283132534772@s.whatsapp.net": 28,
+        "6288214887181@s.whatsapp.net": 20,
+        "6282123163120@s.whatsapp.net": 2
       },
       "totalChat": 0
     },
@@ -174457,10 +174458,10 @@
       "lastSuccess": 1732414541275
     },
     "main-leader.js": {
-      "total": 149,
-      "success": 149,
-      "last": 1734762346253,
-      "lastSuccess": 1734762346253
+      "total": 151,
+      "success": 151,
+      "last": 1735005700411,
+      "lastSuccess": 1735005700411
     },
     "sticker-sticker.js": {
       "total": 696,
@@ -174589,10 +174590,10 @@
       "lastSuccess": 1734749179882
     },
     "owner-sf.js": {
-      "total": 369,
-      "success": 335,
-      "last": 1735003694613,
-      "lastSuccess": 1735003694613
+      "total": 370,
+      "success": 336,
+      "last": 1735004234734,
+      "lastSuccess": 1735004234734
     },
     "_cek.js": {
       "total": 1687,
@@ -176730,7 +176731,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735002187479,
+      "backupDB": 1735004232388,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
