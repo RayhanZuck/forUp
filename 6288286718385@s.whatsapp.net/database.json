@@ -28537,7 +28537,7 @@
       "lastdaily": 1727158139477
     },
     "6283137913336@s.whatsapp.net": {
-      "exp": 951,
+      "exp": 987,
       "limit": 2074,
       "registered": false,
       "name": "><~always Anna~><",
@@ -28556,7 +28556,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734907645736,
+      "lastcommand": 1735006090711,
       "lastdaily": 1734371353149,
       "lastwork": 1725257321740,
       "warn": 5
@@ -54102,7 +54102,7 @@
       "premiumTime": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 35318,
+      "exp": 38878,
       "limit": 499,
       "registered": false,
       "name": "RayhanAdzShl",
@@ -54121,10 +54121,11 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734909321857,
+      "lastcommand": 1735006542617,
       "aiprompt": "mulai sekarang nama kamu adalah joko widodo",
       "warn": 0,
-      "aisesi": 0
+      "aisesi": 0,
+      "lastwork": 1735007026463
     },
     "6283829558949@s.whatsapp.net": {
       "exp": 903,
@@ -135623,7 +135624,7 @@
       "lastwork": 1734674720588
     },
     "6282123163120@s.whatsapp.net": {
-      "exp": 1156,
+      "exp": 1332,
       "limit": 499,
       "registered": false,
       "name": "Bott Ikyy",
@@ -163909,7 +163910,11 @@
       "antiDelete": false,
       "antiBot": false,
       "antiFoto": false,
-      "antiGrup": true
+      "antiGrup": true,
+      "total": {
+        "6283137913336@s.whatsapp.net": 1
+      },
+      "totalChat": 0
     },
     "62887437390926@s.whatsapp.net": {
       "isBanned": false,
@@ -170779,10 +170784,10 @@
       "expired": 0,
       "autoSticker": false,
       "total": {
-        "6285766064200@s.whatsapp.net": 32,
-        "6283132534772@s.whatsapp.net": 28,
-        "6288214887181@s.whatsapp.net": 20,
-        "6282123163120@s.whatsapp.net": 2
+        "6285766064200@s.whatsapp.net": 130,
+        "6283132534772@s.whatsapp.net": 161,
+        "6288214887181@s.whatsapp.net": 138,
+        "6282123163120@s.whatsapp.net": 92
       },
       "totalChat": 0
     },
@@ -174458,10 +174463,10 @@
       "lastSuccess": 1732414541275
     },
     "main-leader.js": {
-      "total": 151,
-      "success": 151,
-      "last": 1735005700411,
-      "lastSuccess": 1735005700411
+      "total": 154,
+      "success": 154,
+      "last": 1735007030527,
+      "lastSuccess": 1735007030527
     },
     "sticker-sticker.js": {
       "total": 696,
@@ -174482,10 +174487,10 @@
       "lastSuccess": 1734602779485
     },
     "_rayhan-menu.js": {
-      "total": 776,
-      "success": 731,
-      "last": 1734966816462,
-      "lastSuccess": 1734966816462
+      "total": 780,
+      "success": 734,
+      "last": 1735006578233,
+      "lastSuccess": 1735006578233
     },
     "owner-exec.js": {
       "total": 191,
@@ -174806,10 +174811,10 @@
       "lastSuccess": 1729583273394
     },
     "game-kerja.js": {
-      "total": 510,
-      "success": 471,
-      "last": 1734912699533,
-      "lastSuccess": 1734912699533
+      "total": 513,
+      "success": 473,
+      "last": 1735007026800,
+      "lastSuccess": 1735007026800
     },
     "main-balance.js": {
       "total": 337,
@@ -176731,7 +176736,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735004232388,
+      "backupDB": 1735006051284,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
