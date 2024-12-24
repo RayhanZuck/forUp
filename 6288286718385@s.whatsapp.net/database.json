@@ -3304,7 +3304,7 @@
       "lastBanned": 0
     },
     "120363280765137622@g.us": {
-      "exp": 7169,
+      "exp": 7175,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -163284,8 +163284,8 @@
       "premiumTime": 0
     },
     "6283807991411@s.whatsapp.net": {
-      "exp": 142,
-      "limit": 479,
+      "exp": 173,
+      "limit": 469,
       "registered": false,
       "name": "...",
       "age": -1,
@@ -174701,10 +174701,10 @@
       "lastSuccess": 1734866616040
     },
     "sticker-quotely.js": {
-      "total": 444,
-      "success": 439,
-      "last": 1734947764180,
-      "lastSuccess": 1734947764180
+      "total": 445,
+      "success": 440,
+      "last": 1735017026708,
+      "lastSuccess": 1735017026708
     },
     "info-donasi.js": {
       "total": 10,
@@ -176776,7 +176776,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735011873951,
+      "backupDB": 1735015303556,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
