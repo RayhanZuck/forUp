@@ -3304,7 +3304,7 @@
       "lastBanned": 0
     },
     "120363280765137622@g.us": {
-      "exp": 7155,
+      "exp": 7160,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -108626,7 +108626,7 @@
       "lastBanned": 0
     },
     "6288286718385@s.whatsapp.net": {
-      "exp": 549,
+      "exp": 693,
       "limit": 499,
       "registered": true,
       "name": "nenen",
@@ -112080,8 +112080,8 @@
       "premiumTime": 0
     },
     "6282266206795@s.whatsapp.net": {
-      "exp": 536,
-      "limit": 349,
+      "exp": 601,
+      "limit": 324,
       "registered": false,
       "name": ".",
       "age": -1,
@@ -112099,7 +112099,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1733065747610
+      "lastcommand": 1735007854841
     },
     "40171349241925_1@s.whatsapp.net": {
       "exp": 3,
@@ -163671,6 +163671,45 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "6282339141814@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 823-3914-1814",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "217325831762011_1@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -163912,7 +163951,8 @@
       "antiFoto": false,
       "antiGrup": true,
       "total": {
-        "6283137913336@s.whatsapp.net": 1
+        "6283137913336@s.whatsapp.net": 9,
+        "6282266206795@s.whatsapp.net": 15
       },
       "totalChat": 0
     },
@@ -174451,10 +174491,10 @@
   },
   "stats": {
     "main-limit.js": {
-      "total": 730,
-      "success": 728,
-      "last": 1734942363369,
-      "lastSuccess": 1734942363369
+      "total": 731,
+      "success": 729,
+      "last": 1735007961663,
+      "lastSuccess": 1735007961663
     },
     "ai-openai.js": {
       "total": 9,
@@ -174487,9 +174527,9 @@
       "lastSuccess": 1734602779485
     },
     "_rayhan-menu.js": {
-      "total": 780,
+      "total": 781,
       "success": 734,
-      "last": 1735006578233,
+      "last": 1735007859854,
       "lastSuccess": 1735006578233
     },
     "owner-exec.js": {
@@ -174505,10 +174545,10 @@
       "lastSuccess": 1734946944455
     },
     "tool-getpp.js": {
-      "total": 7,
-      "success": 7,
-      "last": 1734655983033,
-      "lastSuccess": 1734655983033
+      "total": 8,
+      "success": 8,
+      "last": 1735007943581,
+      "lastSuccess": 1735007943581
     },
     "group-chatoff.js": {
       "total": 129,
@@ -174529,10 +174569,10 @@
       "lastSuccess": 1734696170475
     },
     "downloader-play.js": {
-      "total": 1479,
-      "success": 1439,
-      "last": 1734969328390,
-      "lastSuccess": 1734969328390
+      "total": 1481,
+      "success": 1441,
+      "last": 1735008078117,
+      "lastSuccess": 1735008078117
     },
     "main-profile.js": {
       "total": 277,
@@ -174931,10 +174971,10 @@
       "lastSuccess": 1725006103284
     },
     "ai-remini.js": {
-      "total": 807,
-      "success": 774,
-      "last": 1734946527994,
-      "lastSuccess": 1734946527994
+      "total": 810,
+      "success": 777,
+      "last": 1735007980721,
+      "lastSuccess": 1735007980721
     },
     "own-edit.js": {
       "total": 3,
@@ -176736,7 +176776,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735006051284,
+      "backupDB": 1735007854694,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
