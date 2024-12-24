@@ -21238,7 +21238,7 @@
       "lastcommand": 1724035064824
     },
     "6281233814146@s.whatsapp.net": {
-      "exp": 2513,
+      "exp": 2543,
       "limit": 499,
       "registered": false,
       "name": "Xiaoris EDITZ",
@@ -21254,7 +21254,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
     },
@@ -28537,8 +28537,8 @@
       "lastdaily": 1727158139477
     },
     "6283137913336@s.whatsapp.net": {
-      "exp": 1006,
-      "limit": 2074,
+      "exp": 1040,
+      "limit": 2049,
       "registered": false,
       "name": "><~always Anna~><",
       "age": -1,
@@ -28553,10 +28553,10 @@
       "WarnReason": "",
       "lastweekly": 1734371355144,
       "lastmonthly": 1732192210861,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1735006090711,
+      "lastcommand": 1735041404071,
       "lastdaily": 1734371353149,
       "lastwork": 1725257321740,
       "warn": 5
@@ -163824,6 +163824,25 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "170274498576575_1@s.whatsapp.net": {
+      "exp": 7,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -175085,10 +175104,10 @@
       "lastSuccess": 1725006103284
     },
     "ai-remini.js": {
-      "total": 810,
-      "success": 777,
-      "last": 1735007980721,
-      "lastSuccess": 1735007980721
+      "total": 811,
+      "success": 778,
+      "last": 1735041586113,
+      "lastSuccess": 1735041586113
     },
     "own-edit.js": {
       "total": 3,
@@ -176890,7 +176909,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735036464634,
+      "backupDB": 1735039192319,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
