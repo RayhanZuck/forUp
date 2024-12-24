@@ -1879,7 +1879,7 @@
       "lastdaily": 1733807842363
     },
     "6287810709618@s.whatsapp.net": {
-      "exp": 89398,
+      "exp": 90182,
       "limit": 2442,
       "registered": false,
       "name": "nrull_lethaa～⁠♡",
@@ -1895,7 +1895,7 @@
       "WarnReason": "",
       "lastweekly": 1735010409516,
       "lastmonthly": 1733610473179,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastcommand": 1735077760576,
       "lastBanned": 0,
@@ -5867,8 +5867,8 @@
       "premiumTime": 0
     },
     "6287877901251@s.whatsapp.net": {
-      "exp": 7749,
-      "limit": 339,
+      "exp": 7768,
+      "limit": 319,
       "registered": false,
       "name": "@xys_syaa'",
       "age": -1,
@@ -51288,8 +51288,8 @@
       "premiumTime": 0
     },
     "6288225432435@s.whatsapp.net": {
-      "exp": 2179,
-      "limit": 3204,
+      "exp": 4202,
+      "limit": 3304,
       "registered": false,
       "name": "Aksa Wibisono",
       "age": -1,
@@ -51308,7 +51308,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastwork": 1734944104649,
-      "lastdaily": 1734919646002,
+      "lastdaily": 1735082056509,
       "lastcommand": 1734954945887,
       "lastrob": 1734944098031
     },
@@ -63629,10 +63629,10 @@
       "lastSuccess": 1735063827633
     },
     "downloader-tiktok.js": {
-      "total": 1750,
-      "success": 1615,
-      "last": 1735068804399,
-      "lastSuccess": 1735068804399
+      "total": 1751,
+      "success": 1616,
+      "last": 1735081622930,
+      "lastSuccess": 1735081622930
     },
     "owner-sf.js": {
       "total": 1058,
@@ -63689,10 +63689,10 @@
       "lastSuccess": 1734843560258
     },
     "econ-claim.js": {
-      "total": 1988,
-      "success": 1347,
-      "last": 1735079404816,
-      "lastSuccess": 1735070266739
+      "total": 1989,
+      "success": 1348,
+      "last": 1735082056510,
+      "lastSuccess": 1735082056510
     },
     "game-curi.js": {
       "total": 1110,
@@ -64235,10 +64235,10 @@
       "lastSuccess": 1735077787964
     },
     "group-delete.js": {
-      "total": 36,
-      "success": 36,
-      "last": 1734955957642,
-      "lastSuccess": 1734955957642
+      "total": 37,
+      "success": 37,
+      "last": 1735081206077,
+      "lastSuccess": 1735081206077
     },
     "owner-gp.js": {
       "total": 49,
@@ -64685,10 +64685,10 @@
       "lastSuccess": 1733324549987
     },
     "game-family100.js": {
-      "total": 159,
-      "success": 137,
-      "last": 1735080887180,
-      "lastSuccess": 1735080887180
+      "total": 160,
+      "success": 138,
+      "last": 1735081062941,
+      "lastSuccess": 1735081062941
     },
     "ai-openai.js": {
       "total": 14,
@@ -65890,7 +65890,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735079258619,
+      "backupDB": 1735081062121,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
