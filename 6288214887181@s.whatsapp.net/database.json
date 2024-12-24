@@ -137,7 +137,7 @@
       "lastBanned": 0
     },
     "62882008794480@s.whatsapp.net": {
-      "exp": 13066,
+      "exp": 13073,
       "limit": 244,
       "registered": false,
       "name": "Izumii",
@@ -551,7 +551,7 @@
       "lastcommand": 1730277343521
     },
     "6285960191220@s.whatsapp.net": {
-      "exp": 3024,
+      "exp": 3046,
       "limit": 153,
       "registered": true,
       "name": "Arsyad",
@@ -934,7 +934,7 @@
       "premiumTime": 0
     },
     "6283824012756@s.whatsapp.net": {
-      "exp": 12300,
+      "exp": 12319,
       "limit": 74,
       "registered": false,
       "name": "Zummy [C.D.I.S]",
@@ -2350,7 +2350,7 @@
       "lastBanned": 0
     },
     "6282170977218@s.whatsapp.net": {
-      "exp": 16144,
+      "exp": 16163,
       "limit": 310,
       "registered": false,
       "name": "Rambe suka elaina",
@@ -4341,8 +4341,8 @@
       "lastdaily": 1734888212786
     },
     "62895711885757@s.whatsapp.net": {
-      "exp": 571074,
-      "limit": 317,
+      "exp": 571124,
+      "limit": 267,
       "registered": false,
       "name": "awaa",
       "age": -1,
@@ -9714,8 +9714,8 @@
       "premiumTime": 0
     },
     "6287719003775@s.whatsapp.net": {
-      "exp": 417,
-      "limit": 129,
+      "exp": 438,
+      "limit": 109,
       "registered": false,
       "name": "𓆩Scha𓆪❀ ~",
       "age": -1,
@@ -9730,7 +9730,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0
     },
@@ -55056,7 +55056,7 @@
       "lastcommand": 1734868676254
     },
     "6289520939011@s.whatsapp.net": {
-      "exp": 31702,
+      "exp": 31728,
       "limit": 464,
       "registered": false,
       "name": ".",
@@ -56687,6 +56687,44 @@
       "premiumTime": 0
     },
     "115929925054496_1@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "13782919180432_1@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "39260379951178_1@s.whatsapp.net": {
       "exp": 0,
       "limit": 499,
       "registered": false,
@@ -63329,10 +63367,10 @@
       "lastSuccess": 1735029907258
     },
     "downloader-tiktok.js": {
-      "total": 1744,
-      "success": 1610,
-      "last": 1735046154986,
-      "lastSuccess": 1735040416847
+      "total": 1745,
+      "success": 1611,
+      "last": 1735048478499,
+      "lastSuccess": 1735048478499
     },
     "owner-sf.js": {
       "total": 1058,
@@ -63473,10 +63511,10 @@
       "lastSuccess": 1734415656247
     },
     "ai-remini.js": {
-      "total": 864,
-      "success": 812,
-      "last": 1735045697002,
-      "lastSuccess": 1735045697002
+      "total": 867,
+      "success": 814,
+      "last": 1735048638334,
+      "lastSuccess": 1735047875276
     },
     "game-tebakbendera.js": {
       "total": 427,
@@ -64427,9 +64465,9 @@
       "lastSuccess": 1732545559487
     },
     "downloader-yt2.js": {
-      "total": 361,
+      "total": 362,
       "success": 237,
-      "last": 1735045059028,
+      "last": 1735047653547,
       "lastSuccess": 1735044366703
     },
     "internet-playlist.js": {
@@ -65590,7 +65628,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735045030999,
+      "backupDB": 1735046922146,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
