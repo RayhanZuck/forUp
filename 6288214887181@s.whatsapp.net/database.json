@@ -181,7 +181,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3760,
+      "exp": 3770,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -602,7 +602,7 @@
       "lastrob": 1730711453293
     },
     "628568162468@s.whatsapp.net": {
-      "exp": 2707,
+      "exp": 2809,
       "limit": 332,
       "registered": false,
       "name": "Mechanisiertes Bataillon",
@@ -622,7 +622,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastdaily": 1733726167905,
-      "lastcommand": 1734355123563,
+      "lastcommand": 1735023288037,
       "lastwork": 1733478268117,
       "lastrob": 1734333171938
     },
@@ -1046,7 +1046,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 6130,
+      "exp": 6136,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -42414,7 +42414,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1734627787078
@@ -43998,7 +43998,7 @@
       "premiumTime": 0
     },
     "27796254968@s.whatsapp.net": {
-      "exp": 64,
+      "exp": 65,
       "limit": 499,
       "registered": false,
       "name": "Thatego Mahlakola",
@@ -56443,8 +56443,8 @@
       "premiumTime": 0
     },
     "628815178421@s.whatsapp.net": {
-      "exp": 9,
-      "limit": 499,
+      "exp": 176,
+      "limit": 424,
       "registered": false,
       "name": "Zkkyy",
       "age": -1,
@@ -56461,7 +56461,8 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "lastBanned": 0
+      "lastBanned": 0,
+      "lastcommand": 1735024410250
     }
   },
   "chats": {
@@ -63025,6 +63026,32 @@
       "teks": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "628815178421@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "pembatasan": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "antiBadword": false,
+      "simi": false,
+      "nsfw": false,
+      "rpg": true,
+      "game": true,
+      "teks": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -63047,9 +63074,9 @@
       "lastSuccess": 1735003694862
     },
     "downloader-play.js": {
-      "total": 1894,
+      "total": 1897,
       "success": 1784,
-      "last": 1735021435587,
+      "last": 1735024873409,
       "lastSuccess": 1735021435587
     },
     "downloader-ytvideo.js": {
@@ -63143,10 +63170,10 @@
       "lastSuccess": 1735011611843
     },
     "main-limit.js": {
-      "total": 1234,
-      "success": 1234,
-      "last": 1735022816766,
-      "lastSuccess": 1735022816766
+      "total": 1235,
+      "success": 1235,
+      "last": 1735023545084,
+      "lastSuccess": 1735023545084
     },
     "game-ulartangga.js": {
       "total": 141,
@@ -63299,15 +63326,15 @@
       "lastSuccess": 1735011312798
     },
     "downloader-ytmp3.js": {
-      "total": 146,
-      "success": 137,
-      "last": 1735012476167,
-      "lastSuccess": 1734930906597
+      "total": 149,
+      "success": 140,
+      "last": 1735024003644,
+      "lastSuccess": 1735024003644
     },
     "_rayhan-menu.js": {
-      "total": 481,
+      "total": 482,
       "success": 464,
-      "last": 1735006574725,
+      "last": 1735024927639,
       "lastSuccess": 1735006574725
     },
     "downloader-ytvideo2.js": {
@@ -63509,10 +63536,10 @@
       "lastSuccess": 1734852890872
     },
     "info-ping.js": {
-      "total": 253,
-      "success": 253,
-      "last": 1735010009949,
-      "lastSuccess": 1735010009949
+      "total": 254,
+      "success": 254,
+      "last": 1735023353506,
+      "lastSuccess": 1735023353506
     },
     "ai-toanime.js": {
       "total": 88,
@@ -65296,7 +65323,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735021383145,
+      "backupDB": 1735023267665,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
