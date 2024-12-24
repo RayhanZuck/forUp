@@ -181,7 +181,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3770,
+      "exp": 3787,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1046,7 +1046,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 6142,
+      "exp": 6152,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -2082,7 +2082,7 @@
       "lastBanned": 0
     },
     "628812611040@s.whatsapp.net": {
-      "exp": 402,
+      "exp": 2218,
       "limit": 681,
       "registered": false,
       "name": "𝙃𝙢𝙢𝙢",
@@ -2176,7 +2176,7 @@
       "lastrob": 1734978630237
     },
     "6288983017604@s.whatsapp.net": {
-      "exp": 402,
+      "exp": 1543,
       "limit": 23,
       "registered": false,
       "name": "Rodan Ay",
@@ -2192,11 +2192,11 @@
       "WarnReason": "",
       "lastweekly": 1734394577921,
       "lastmonthly": 1732874318485,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastdaily": 1734921729486,
-      "lastwork": 1734679405581,
+      "lastwork": 1735031273851,
       "lastrob": 1732876806300
     },
     "6282122917158@s.whatsapp.net": {
@@ -12409,7 +12409,7 @@
       "lastcommand": 1731472269564
     },
     "6281958351619@s.whatsapp.net": {
-      "exp": 391,
+      "exp": 417,
       "limit": 9,
       "registered": false,
       "name": "kaAll",
@@ -25803,7 +25803,7 @@
       "premiumTime": 0
     },
     "6282390325545@s.whatsapp.net": {
-      "exp": 33,
+      "exp": 52,
       "limit": 499,
       "registered": false,
       "name": "~PANCIWARTEG",
@@ -56466,7 +56466,7 @@
       "lastcommand": 1735024410250
     },
     "6285124683124@s.whatsapp.net": {
-      "exp": 9,
+      "exp": 11,
       "limit": 499,
       "registered": false,
       "name": "Ngutang Kok Kabur",
@@ -56483,7 +56483,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "26658912395319_1@s.whatsapp.net": {
       "exp": 8,
@@ -56523,6 +56524,67 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "206511053746224_1@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "62895352138311@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "name": "Stend",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "lastBanned": 0
+    },
+    "6285124683067@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 499,
+      "registered": false,
+      "name": "Ngutang Kok Lari",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -63280,10 +63342,10 @@
       "lastSuccess": 1735008793710
     },
     "game-tambang.js": {
-      "total": 196,
-      "success": 144,
-      "last": 1734852793677,
-      "lastSuccess": 1734852793677
+      "total": 197,
+      "success": 145,
+      "last": 1735031286765,
+      "lastSuccess": 1735031286765
     },
     "game-fight.js": {
       "total": 51,
@@ -63604,10 +63666,10 @@
       "lastSuccess": 1734783662396
     },
     "games-tebakkata.js": {
-      "total": 1333,
-      "success": 1284,
-      "last": 1735010812850,
-      "lastSuccess": 1735010812850
+      "total": 1334,
+      "success": 1285,
+      "last": 1735031525939,
+      "lastSuccess": 1735031525939
     },
     "game-susunkata.js": {
       "total": 2160,
@@ -65409,7 +65471,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735029231953,
+      "backupDB": 1735031257019,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
