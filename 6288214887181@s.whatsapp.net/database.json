@@ -181,7 +181,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3787,
+      "exp": 3791,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -197,7 +197,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0
     },
@@ -551,8 +551,8 @@
       "lastcommand": 1730277343521
     },
     "6285960191220@s.whatsapp.net": {
-      "exp": 2822,
-      "limit": 243,
+      "exp": 2862,
+      "limit": 213,
       "registered": true,
       "name": "Arsyad",
       "age": 13,
@@ -567,7 +567,7 @@
       "WarnReason": "",
       "lastweekly": 1734655774908,
       "lastmonthly": 1733405349566,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastwork": 1734692585733,
@@ -2151,7 +2151,7 @@
       "lastcommand": 1730727286271
     },
     "6285720973051@s.whatsapp.net": {
-      "exp": 165736,
+      "exp": 165751,
       "limit": 8632,
       "registered": true,
       "name": "citra",
@@ -4387,7 +4387,7 @@
       "lastBanned": 0
     },
     "6285176983144@s.whatsapp.net": {
-      "exp": 5357,
+      "exp": 5439,
       "limit": 14,
       "registered": false,
       "name": "yoyo",
@@ -12409,7 +12409,7 @@
       "lastcommand": 1731472269564
     },
     "6281958351619@s.whatsapp.net": {
-      "exp": 417,
+      "exp": 431,
       "limit": 9,
       "registered": false,
       "name": "kaAll",
@@ -28309,7 +28309,7 @@
       "lastBanned": 0
     },
     "6289510583708@s.whatsapp.net": {
-      "exp": 9,
+      "exp": 13,
       "limit": 499,
       "registered": false,
       "name": "Jangan Lupa Bayar Hutang",
@@ -51285,7 +51285,7 @@
       "premiumTime": 0
     },
     "6288225432435@s.whatsapp.net": {
-      "exp": 2119,
+      "exp": 2179,
       "limit": 3204,
       "registered": false,
       "name": "Aksa Wibisono",
@@ -56545,7 +56545,7 @@
       "premiumTime": 0
     },
     "62895352138311@s.whatsapp.net": {
-      "exp": 1,
+      "exp": 10,
       "limit": 499,
       "registered": false,
       "name": "Stend",
@@ -56561,7 +56561,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
     },
@@ -56585,6 +56585,44 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
+    },
+    "127380274319549_1@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "109977519829159_1@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -63228,10 +63266,10 @@
       "lastSuccess": 1735026755688
     },
     "downloader-ytvideo.js": {
-      "total": 136,
-      "success": 130,
-      "last": 1734964428698,
-      "lastSuccess": 1734964428698
+      "total": 137,
+      "success": 131,
+      "last": 1735034052043,
+      "lastSuccess": 1735034052043
     },
     "sticker-sticker.js": {
       "total": 862,
@@ -64308,10 +64346,10 @@
       "lastSuccess": 1732545559487
     },
     "downloader-yt2.js": {
-      "total": 354,
-      "success": 232,
-      "last": 1735017365988,
-      "lastSuccess": 1735017365988
+      "total": 355,
+      "success": 233,
+      "last": 1735033674322,
+      "lastSuccess": 1735033674322
     },
     "internet-playlist.js": {
       "total": 20,
@@ -65471,7 +65509,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735031257019,
+      "backupDB": 1735033245215,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
