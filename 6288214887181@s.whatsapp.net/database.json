@@ -88,7 +88,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 130217,
+      "exp": 130243,
       "limit": 0,
       "registered": false,
       "name": "Rayhan?",
@@ -2081,8 +2081,8 @@
       "lastBanned": 0
     },
     "628812611040@s.whatsapp.net": {
-      "exp": 60795,
-      "limit": 326,
+      "exp": 441,
+      "limit": 591,
       "registered": false,
       "name": "𝙃𝙢𝙢𝙢",
       "age": -1,
@@ -8034,7 +8034,7 @@
       "lastBanned": 0
     },
     "628818691228@s.whatsapp.net": {
-      "exp": 6146,
+      "exp": 6194,
       "limit": 3486,
       "registered": false,
       "name": "+62 881-8691-228",
@@ -49024,7 +49024,7 @@
       "premiumTime": 0
     },
     "6285647642077@s.whatsapp.net": {
-      "exp": 1455,
+      "exp": 1485,
       "limit": 4,
       "registered": false,
       "name": "𝕽𝖆",
@@ -49040,10 +49040,10 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734868503196
+      "lastcommand": 1735000146813
     },
     "6285603363692@s.whatsapp.net": {
       "exp": 25,
@@ -51282,7 +51282,7 @@
       "premiumTime": 0
     },
     "6288225432435@s.whatsapp.net": {
-      "exp": 44348,
+      "exp": 1094348,
       "limit": 78,
       "registered": false,
       "name": "Aksa Wibisono",
@@ -55007,7 +55007,7 @@
       "lastcommand": 1734947654790
     },
     "6283187435698@s.whatsapp.net": {
-      "exp": 33,
+      "exp": 47,
       "limit": 499,
       "registered": false,
       "name": "Adm",
@@ -62890,16 +62890,16 @@
       "lastSuccess": 1734978632487
     },
     "main-balance.js": {
-      "total": 288,
-      "success": 287,
-      "last": 1734956477924,
-      "lastSuccess": 1734956477924
+      "total": 290,
+      "success": 289,
+      "last": 1735000630250,
+      "lastSuccess": 1735000630250
     },
     "main-shop.js": {
-      "total": 807,
-      "success": 807,
-      "last": 1734950217310,
-      "lastSuccess": 1734950217310
+      "total": 808,
+      "success": 808,
+      "last": 1735000619053,
+      "lastSuccess": 1735000619053
     },
     "main-level.js": {
       "total": 198,
@@ -62920,10 +62920,10 @@
       "lastSuccess": 1734840780206
     },
     "main-limit.js": {
-      "total": 1228,
-      "success": 1228,
-      "last": 1734993485731,
-      "lastSuccess": 1734993485731
+      "total": 1230,
+      "success": 1230,
+      "last": 1734999517639,
+      "lastSuccess": 1734999517639
     },
     "game-ulartangga.js": {
       "total": 141,
@@ -62980,10 +62980,10 @@
       "lastSuccess": 1734956110225
     },
     "_cek.js": {
-      "total": 781,
-      "success": 781,
-      "last": 1734997638244,
-      "lastSuccess": 1734997638244
+      "total": 782,
+      "success": 782,
+      "last": 1735000146857,
+      "lastSuccess": 1735000146857
     },
     "enable.js": {
       "total": 103,
@@ -63106,10 +63106,10 @@
       "lastSuccess": 1730161441000
     },
     "downloader-tiktoksearch.js": {
-      "total": 750,
-      "success": 743,
-      "last": 1734936978552,
-      "lastSuccess": 1734936978552
+      "total": 752,
+      "success": 745,
+      "last": 1735000749471,
+      "lastSuccess": 1735000749471
     },
     "ai-llama.js": {
       "total": 352,
@@ -63268,10 +63268,10 @@
       "lastSuccess": 1734783662396
     },
     "games-tebakkata.js": {
-      "total": 1267,
-      "success": 1218,
-      "last": 1734985802441,
-      "lastSuccess": 1734985802441
+      "total": 1297,
+      "success": 1248,
+      "last": 1735000534166,
+      "lastSuccess": 1735000534166
     },
     "game-susunkata.js": {
       "total": 2160,
@@ -63598,10 +63598,10 @@
       "lastSuccess": 1734765797789
     },
     "games-tebakkata_hint.js": {
-      "total": 284,
-      "success": 269,
-      "last": 1734966920768,
-      "lastSuccess": 1734966920768
+      "total": 292,
+      "success": 277,
+      "last": 1735000568388,
+      "lastSuccess": 1735000568388
     },
     "fun-cek.js": {
       "total": 189,
@@ -64636,10 +64636,10 @@
       "lastSuccess": 1734537789422
     },
     "owner-addxp.js": {
-      "total": 5,
-      "success": 4,
-      "last": 1734751510749,
-      "lastSuccess": 1734751510749
+      "total": 6,
+      "success": 5,
+      "last": 1735000476781,
+      "lastSuccess": 1735000476781
     },
     "downloader-spotifysearch.js": {
       "total": 6,
@@ -65067,7 +65067,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1734996671879,
+      "backupDB": 1734999444966,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
