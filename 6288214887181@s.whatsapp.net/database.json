@@ -4168,8 +4168,8 @@
       "lastBanned": 0
     },
     "62895369675992@s.whatsapp.net": {
-      "exp": 21941,
-      "limit": 99,
+      "exp": 21968,
+      "limit": 79,
       "registered": false,
       "name": "Dhooozxy",
       "age": -1,
@@ -4615,8 +4615,8 @@
       "premiumTime": 0
     },
     "6282245573241@s.whatsapp.net": {
-      "exp": 5777,
-      "limit": 959,
+      "exp": 9846,
+      "limit": 1259,
       "registered": false,
       "name": "Haris",
       "age": -1,
@@ -4629,12 +4629,13 @@
       "role": "Beginner",
       "BannedReason": "",
       "WarnReason": "",
-      "lastweekly": 1734076536612,
+      "lastweekly": 1735070259175,
       "lastmonthly": 1733893692290,
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1733718101127
+      "lastcommand": 1733718101127,
+      "lastdaily": 1735070266739
     },
     "6285373704543@s.whatsapp.net": {
       "exp": 172,
@@ -63588,10 +63589,10 @@
       "lastSuccess": 1735063827633
     },
     "downloader-tiktok.js": {
-      "total": 1749,
-      "success": 1614,
-      "last": 1735058467575,
-      "lastSuccess": 1735056971545
+      "total": 1750,
+      "success": 1615,
+      "last": 1735068804399,
+      "lastSuccess": 1735068804399
     },
     "owner-sf.js": {
       "total": 1058,
@@ -63648,10 +63649,10 @@
       "lastSuccess": 1734843560258
     },
     "econ-claim.js": {
-      "total": 1982,
-      "success": 1345,
-      "last": 1735063852074,
-      "lastSuccess": 1735056934547
+      "total": 1985,
+      "success": 1347,
+      "last": 1735070266739,
+      "lastSuccess": 1735070266739
     },
     "game-curi.js": {
       "total": 1110,
@@ -65849,7 +65850,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735062693959,
+      "backupDB": 1735068790871,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
