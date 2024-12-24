@@ -160,7 +160,7 @@
       "lastcommand": 1734908191108
     },
     "120363183420865643@g.us": {
-      "exp": 4985,
+      "exp": 4988,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -181,7 +181,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3750,
+      "exp": 3751,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -627,8 +627,8 @@
       "lastrob": 1734333171938
     },
     "6285878464218@s.whatsapp.net": {
-      "exp": 20717,
-      "limit": 124,
+      "exp": 20740,
+      "limit": 99,
       "registered": false,
       "name": "nnd'del.rey",
       "age": -1,
@@ -1046,7 +1046,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 6115,
+      "exp": 6118,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -2957,7 +2957,7 @@
       "lastrob": 1734666388023
     },
     "6287845351838@s.whatsapp.net": {
-      "exp": 37388,
+      "exp": 37395,
       "limit": 119,
       "registered": false,
       "name": "𝓐𝓷𝓪𝓴  𝓰𝓪𝓭𝓲𝓼 ♥︎",
@@ -55010,7 +55010,7 @@
       "lastcommand": 1734947654790
     },
     "6283187435698@s.whatsapp.net": {
-      "exp": 47,
+      "exp": 50,
       "limit": 499,
       "registered": false,
       "name": "Adm",
@@ -56087,7 +56087,7 @@
       "premiumTime": 0
     },
     "6287765124236@s.whatsapp.net": {
-      "exp": 303,
+      "exp": 312,
       "limit": 289,
       "registered": false,
       "name": "dayat",
@@ -56345,6 +56345,27 @@
       "limit": 499,
       "registered": false,
       "name": "FERI SATORU",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
+    },
+    "62882005828928@s.whatsapp.net": {
+      "exp": 14,
+      "limit": 499,
+      "registered": false,
+      "name": "Galang",
       "age": -1,
       "regTime": -1,
       "unreg": false,
@@ -62945,10 +62966,10 @@
       "lastSuccess": 1735003694862
     },
     "downloader-play.js": {
-      "total": 1887,
-      "success": 1777,
-      "last": 1735012566356,
-      "lastSuccess": 1735012566356
+      "total": 1888,
+      "success": 1778,
+      "last": 1735014374594,
+      "lastSuccess": 1735014374594
     },
     "downloader-ytvideo.js": {
       "total": 136,
@@ -65194,7 +65215,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735012508247,
+      "backupDB": 1735014357726,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
