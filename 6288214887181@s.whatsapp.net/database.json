@@ -181,7 +181,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3817,
+      "exp": 3820,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1046,7 +1046,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 6164,
+      "exp": 6166,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -4168,8 +4168,8 @@
       "lastBanned": 0
     },
     "62895369675992@s.whatsapp.net": {
-      "exp": 21901,
-      "limit": 124,
+      "exp": 21941,
+      "limit": 99,
       "registered": false,
       "name": "Dhooozxy",
       "age": -1,
@@ -8035,7 +8035,7 @@
       "lastBanned": 0
     },
     "628818691228@s.whatsapp.net": {
-      "exp": 9180,
+      "exp": 11469,
       "limit": 3486,
       "registered": false,
       "name": "+62 881-8691-228",
@@ -8054,9 +8054,9 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastwork": 1735036696854,
+      "lastwork": 1735053820494,
       "lastdaily": 1734800416647,
-      "lastcommand": 1735036713386,
+      "lastcommand": 1735053820165,
       "lastrob": 1732856245579,
       "warn": 1
     },
@@ -20403,8 +20403,8 @@
       "lastBanned": 0
     },
     "62882006212609@s.whatsapp.net": {
-      "exp": 1267,
-      "limit": 694,
+      "exp": 1383,
+      "limit": 649,
       "registered": false,
       "name": "Aljndn",
       "age": -1,
@@ -27225,7 +27225,7 @@
       "premiumTime": 0
     },
     "62881011977798@s.whatsapp.net": {
-      "exp": 2582,
+      "exp": 2595,
       "limit": 194,
       "registered": false,
       "name": ".",
@@ -55056,8 +55056,8 @@
       "lastcommand": 1734868676254
     },
     "6289520939011@s.whatsapp.net": {
-      "exp": 31983,
-      "limit": 456,
+      "exp": 35375,
+      "limit": 416,
       "registered": false,
       "name": ".",
       "age": -1,
@@ -55075,7 +55075,8 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1735051852862
+      "lastcommand": 1735051852862,
+      "lastwork": 1735053998529
     },
     "130301154050143_1@s.whatsapp.net": {
       "exp": 10,
@@ -56825,6 +56826,86 @@
     },
     "54482197078200_1@s.whatsapp.net": {
       "exp": 4,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6285366436812@s.whatsapp.net": {
+      "exp": 10058,
+      "limit": 454,
+      "registered": false,
+      "name": "Kucing Putih",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0,
+      "lastwork": 1735054090456
+    },
+    "259833206931483_1@s.whatsapp.net": {
+      "exp": 7,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6281312993359@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 813-1299-3359",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "193441468260456_1@s.whatsapp.net": {
+      "exp": 6,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -63478,10 +63559,10 @@
       "lastSuccess": 1735045188810
     },
     "downloader-play.js": {
-      "total": 1899,
-      "success": 1785,
-      "last": 1735043146457,
-      "lastSuccess": 1735026755688
+      "total": 1901,
+      "success": 1786,
+      "last": 1735053758561,
+      "lastSuccess": 1735053758561
     },
     "downloader-ytvideo.js": {
       "total": 137,
@@ -63502,10 +63583,10 @@
       "lastSuccess": 1735045457037
     },
     "game-kerja.js": {
-      "total": 937,
-      "success": 768,
-      "last": 1735042335095,
-      "lastSuccess": 1735042335095
+      "total": 943,
+      "success": 772,
+      "last": 1735054107213,
+      "lastSuccess": 1735054090987
     },
     "ai-blackbox.js": {
       "total": 14,
@@ -63544,10 +63625,10 @@
       "lastSuccess": 1734978632487
     },
     "main-balance.js": {
-      "total": 296,
-      "success": 295,
-      "last": 1735051742149,
-      "lastSuccess": 1735051742149
+      "total": 298,
+      "success": 297,
+      "last": 1735054181947,
+      "lastSuccess": 1735054181947
     },
     "main-shop.js": {
       "total": 819,
@@ -63592,10 +63673,10 @@
       "lastSuccess": 1732941237787
     },
     "game-mancing.js": {
-      "total": 1092,
-      "success": 786,
-      "last": 1735008793710,
-      "lastSuccess": 1735008793710
+      "total": 1094,
+      "success": 787,
+      "last": 1735053897828,
+      "lastSuccess": 1735053897828
     },
     "game-tambang.js": {
       "total": 197,
@@ -63610,10 +63691,10 @@
       "lastSuccess": 1734415656247
     },
     "ai-remini.js": {
-      "total": 873,
-      "success": 819,
-      "last": 1735049813279,
-      "lastSuccess": 1735049813279
+      "total": 874,
+      "success": 820,
+      "last": 1735053613967,
+      "lastSuccess": 1735053613967
     },
     "game-tebakbendera.js": {
       "total": 427,
@@ -63634,10 +63715,10 @@
       "lastSuccess": 1734956110225
     },
     "_cek.js": {
-      "total": 798,
-      "success": 798,
-      "last": 1735043775119,
-      "lastSuccess": 1735043775119
+      "total": 799,
+      "success": 799,
+      "last": 1735053820676,
+      "lastSuccess": 1735053820676
     },
     "enable.js": {
       "total": 103,
@@ -63676,10 +63757,10 @@
       "lastSuccess": 1731509107103
     },
     "downloader-pinterest.js": {
-      "total": 606,
-      "success": 537,
-      "last": 1735009693202,
-      "lastSuccess": 1735009693202
+      "total": 609,
+      "success": 540,
+      "last": 1735055195217,
+      "lastSuccess": 1735055195217
     },
     "downloader-soundcloud.js": {
       "total": 22,
@@ -63928,10 +64009,10 @@
       "lastSuccess": 1735051533167
     },
     "game-susunkata.js": {
-      "total": 2161,
-      "success": 1972,
-      "last": 1735043501740,
-      "lastSuccess": 1735043501740
+      "total": 2166,
+      "success": 1977,
+      "last": 1735054295721,
+      "lastSuccess": 1735054295721
     },
     "game-susunkata_hint.js": {
       "total": 300,
@@ -64174,10 +64255,10 @@
       "lastSuccess": 1734585503866
     },
     "audio-effect.js": {
-      "total": 79,
-      "success": 72,
-      "last": 1734966224522,
-      "lastSuccess": 1734966224522
+      "total": 82,
+      "success": 75,
+      "last": 1735053693451,
+      "lastSuccess": 1735053693451
     },
     "game-tebaklagujkt48.js": {
       "total": 49,
@@ -64522,10 +64603,10 @@
       "lastSuccess": 1733324549987
     },
     "game-family100.js": {
-      "total": 157,
-      "success": 135,
-      "last": 1734962015276,
-      "lastSuccess": 1734962015276
+      "total": 158,
+      "success": 136,
+      "last": 1735054345208,
+      "lastSuccess": 1735054345208
     },
     "ai-openai.js": {
       "total": 14,
@@ -65727,7 +65808,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735051531726,
+      "backupDB": 1735053552603,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
