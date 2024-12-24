@@ -3320,7 +3320,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0
     },
@@ -20521,7 +20521,7 @@
       "premiumTime": 0
     },
     "6282162161146@s.whatsapp.net": {
-      "exp": 574,
+      "exp": 581,
       "limit": 854,
       "registered": false,
       "name": "~aril",
@@ -20541,7 +20541,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastdaily": 1734942288902,
-      "lastcommand": 1734945500702
+      "lastcommand": 1735045781379
     },
     "62887437658819@s.whatsapp.net": {
       "exp": 1558,
@@ -24436,7 +24436,7 @@
       "lastBanned": 0
     },
     "6285960191220@s.whatsapp.net": {
-      "exp": 344,
+      "exp": 378,
       "limit": 508,
       "registered": true,
       "name": "Arsyad",
@@ -28537,7 +28537,7 @@
       "lastdaily": 1727158139477
     },
     "6283137913336@s.whatsapp.net": {
-      "exp": 1128,
+      "exp": 1148,
       "limit": 2024,
       "registered": false,
       "name": "><~always Anna~><",
@@ -28553,7 +28553,7 @@
       "WarnReason": "",
       "lastweekly": 1734371355144,
       "lastmonthly": 1732192210861,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1735041404071,
@@ -54102,7 +54102,7 @@
       "premiumTime": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 38878,
+      "exp": 38963,
       "limit": 499,
       "registered": false,
       "name": "RayhanAdzShl",
@@ -108626,7 +108626,7 @@
       "lastBanned": 0
     },
     "6288286718385@s.whatsapp.net": {
-      "exp": 693,
+      "exp": 700,
       "limit": 499,
       "registered": true,
       "name": "nenen",
@@ -135253,7 +135253,7 @@
       "premiumTime": 0
     },
     "120363356468992489@g.us": {
-      "exp": 249,
+      "exp": 258,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -170957,10 +170957,10 @@
       "expired": 0,
       "autoSticker": false,
       "total": {
-        "6285766064200@s.whatsapp.net": 130,
-        "6283132534772@s.whatsapp.net": 161,
-        "6288214887181@s.whatsapp.net": 138,
-        "6282123163120@s.whatsapp.net": 92
+        "6285766064200@s.whatsapp.net": 174,
+        "6283132534772@s.whatsapp.net": 231,
+        "6288214887181@s.whatsapp.net": 181,
+        "6282123163120@s.whatsapp.net": 110
       },
       "totalChat": 0
     },
@@ -172994,13 +172994,15 @@
       "autolevelup": true,
       "expired": 1820679932210,
       "total": {
-        "62881022366285@s.whatsapp.net": 1315,
-        "6283846829169@s.whatsapp.net": 2120,
+        "62881022366285@s.whatsapp.net": 1385,
+        "6283846829169@s.whatsapp.net": 2148,
         "6287890456123@s.whatsapp.net": 316,
         "6282298862377@s.whatsapp.net": 25,
-        "6288225432435@s.whatsapp.net": 300,
-        "6283824012756@s.whatsapp.net": 100,
-        "6287777850689@s.whatsapp.net": 8
+        "6288225432435@s.whatsapp.net": 314,
+        "6283824012756@s.whatsapp.net": 128,
+        "6287777850689@s.whatsapp.net": 15,
+        "6285960191220@s.whatsapp.net": 35,
+        "6282162161146@s.whatsapp.net": 11
       },
       "totalChat": 0
     },
@@ -174768,10 +174770,10 @@
       "lastSuccess": 1734749179882
     },
     "owner-sf.js": {
-      "total": 370,
-      "success": 336,
-      "last": 1735004234734,
-      "lastSuccess": 1735004234734
+      "total": 372,
+      "success": 338,
+      "last": 1735045296515,
+      "lastSuccess": 1735045296515
     },
     "_cek.js": {
       "total": 1687,
@@ -176430,9 +176432,9 @@
       "lastSuccess": 1734542408776
     },
     "downloader-yt2.js": {
-      "total": 119,
+      "total": 120,
       "success": 68,
-      "last": 1734692573657,
+      "last": 1735044999652,
       "lastSuccess": 1734692573657
     },
     "ai-llama.js": {
@@ -176909,7 +176911,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735041852923,
+      "backupDB": 1735044093727,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
