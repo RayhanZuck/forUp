@@ -61970,7 +61970,7 @@
       "lastBanned": 0
     },
     "6285789957626@s.whatsapp.net": {
-      "exp": 95,
+      "exp": 120,
       "limit": 499,
       "registered": false,
       "name": "Cantikkk♡♡",
@@ -174837,6 +174837,32 @@
       "teks": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6285789957626@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "pembatasan": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "antiBadword": false,
+      "simi": false,
+      "nsfw": false,
+      "rpg": true,
+      "game": true,
+      "teks": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -177126,7 +177152,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735072854564,
+      "backupDB": 1735080504587,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
