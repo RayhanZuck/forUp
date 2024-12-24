@@ -160,7 +160,7 @@
       "lastcommand": 1734908191108
     },
     "120363183420865643@g.us": {
-      "exp": 4991,
+      "exp": 4998,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -602,8 +602,8 @@
       "lastrob": 1730711453293
     },
     "628568162468@s.whatsapp.net": {
-      "exp": 2809,
-      "limit": 332,
+      "exp": 2884,
+      "limit": 307,
       "registered": false,
       "name": "Mechanisiertes Bataillon",
       "age": -1,
@@ -33741,7 +33741,7 @@
       "lastwork": 1732920838372
     },
     "6282143175110@s.whatsapp.net": {
-      "exp": 1122,
+      "exp": 1153,
       "limit": 264,
       "registered": false,
       "name": "ARAFAT KODOK COOL",
@@ -42398,7 +42398,7 @@
       "premiumTime": 0
     },
     "6282396748817@s.whatsapp.net": {
-      "exp": 177,
+      "exp": 195,
       "limit": 499,
       "registered": false,
       "name": "Fonji",
@@ -42414,7 +42414,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1734627787078
@@ -48380,7 +48380,7 @@
       "lastBanned": 0
     },
     "628999684800@s.whatsapp.net": {
-      "exp": 11,
+      "exp": 55,
       "limit": 499,
       "registered": false,
       "name": "yaswil",
@@ -48396,9 +48396,10 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "lastBanned": 0
+      "lastBanned": 0,
+      "lastcommand": 1735027179975
     },
     "6282127534463@s.whatsapp.net": {
       "exp": 6,
@@ -56443,7 +56444,7 @@
       "premiumTime": 0
     },
     "628815178421@s.whatsapp.net": {
-      "exp": 176,
+      "exp": 178,
       "limit": 424,
       "registered": false,
       "name": "Zkkyy",
@@ -56459,7 +56460,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1735024410250
@@ -63052,6 +63053,32 @@
       "teks": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "628999684800@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "pembatasan": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "antiBadword": false,
+      "simi": false,
+      "nsfw": false,
+      "rpg": true,
+      "game": true,
+      "teks": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -63062,10 +63089,10 @@
       "lastSuccess": 1735018466682
     },
     "downloader-tiktok.js": {
-      "total": 1737,
-      "success": 1608,
-      "last": 1735021402132,
-      "lastSuccess": 1735021402132
+      "total": 1738,
+      "success": 1609,
+      "last": 1735025825942,
+      "lastSuccess": 1735025825942
     },
     "owner-sf.js": {
       "total": 1057,
@@ -63074,10 +63101,10 @@
       "lastSuccess": 1735003694862
     },
     "downloader-play.js": {
-      "total": 1897,
-      "success": 1784,
-      "last": 1735024873409,
-      "lastSuccess": 1735021435587
+      "total": 1898,
+      "success": 1785,
+      "last": 1735026755688,
+      "lastSuccess": 1735026755688
     },
     "downloader-ytvideo.js": {
       "total": 136,
@@ -63170,10 +63197,10 @@
       "lastSuccess": 1735011611843
     },
     "main-limit.js": {
-      "total": 1235,
-      "success": 1235,
-      "last": 1735023545084,
-      "lastSuccess": 1735023545084
+      "total": 1236,
+      "success": 1236,
+      "last": 1735026431427,
+      "lastSuccess": 1735026431427
     },
     "game-ulartangga.js": {
       "total": 141,
@@ -63332,10 +63359,10 @@
       "lastSuccess": 1735024003644
     },
     "_rayhan-menu.js": {
-      "total": 482,
-      "success": 464,
-      "last": 1735024927639,
-      "lastSuccess": 1735006574725
+      "total": 484,
+      "success": 466,
+      "last": 1735027223545,
+      "lastSuccess": 1735027223545
     },
     "downloader-ytvideo2.js": {
       "total": 4,
@@ -65323,7 +65350,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735023267665,
+      "backupDB": 1735025397742,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
