@@ -1438,7 +1438,7 @@
       "premiumTime": 0
     },
     "120363160115679529@g.us": {
-      "exp": 414,
+      "exp": 422,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -3304,7 +3304,7 @@
       "lastBanned": 0
     },
     "120363280765137622@g.us": {
-      "exp": 7181,
+      "exp": 7198,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -4141,7 +4141,7 @@
       "lastBanned": 0
     },
     "6285768274385@s.whatsapp.net": {
-      "exp": 16,
+      "exp": 22,
       "limit": 499,
       "registered": false,
       "name": "LEDI",
@@ -135269,7 +135269,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0
     },
@@ -163970,8 +163970,8 @@
       "antiFoto": false,
       "antiGrup": true,
       "total": {
-        "6283137913336@s.whatsapp.net": 9,
-        "6282266206795@s.whatsapp.net": 15
+        "6283137913336@s.whatsapp.net": 11,
+        "6282266206795@s.whatsapp.net": 20
       },
       "totalChat": 0
     },
@@ -176795,7 +176795,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735018706234,
+      "backupDB": 1735021606324,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
