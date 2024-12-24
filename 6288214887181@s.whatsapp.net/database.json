@@ -88,7 +88,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 133900,
+      "exp": 133975,
       "limit": 0,
       "registered": false,
       "name": "Rayhan?",
@@ -1230,8 +1230,8 @@
       "lastcommand": 1732391448904
     },
     "6283169226415@s.whatsapp.net": {
-      "exp": 27763,
-      "limit": 84,
+      "exp": 27866,
+      "limit": 9,
       "registered": false,
       "name": "I Just Need Time🎐",
       "age": -1,
@@ -2082,8 +2082,8 @@
       "lastBanned": 0
     },
     "628812611040@s.whatsapp.net": {
-      "exp": 337,
-      "limit": 706,
+      "exp": 402,
+      "limit": 681,
       "registered": false,
       "name": "𝙃𝙢𝙢𝙢",
       "age": -1,
@@ -8035,7 +8035,7 @@
       "lastBanned": 0
     },
     "628818691228@s.whatsapp.net": {
-      "exp": 6194,
+      "exp": 6201,
       "limit": 3486,
       "registered": false,
       "name": "+62 881-8691-228",
@@ -50776,7 +50776,7 @@
       "lastBanned": 0
     },
     "6285931400906@s.whatsapp.net": {
-      "exp": 2491,
+      "exp": 2505,
       "limit": 259,
       "registered": false,
       "name": "Dino",
@@ -56388,6 +56388,45 @@
       "limit": 499,
       "registered": false,
       "name": "+62 822-8238-3035",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "156096861868054_1@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6287821830947@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 878-2183-0947",
       "age": -1,
       "regTime": -1,
       "unreg": false,
@@ -62975,10 +63014,10 @@
       "lastSuccess": 1735018466682
     },
     "downloader-tiktok.js": {
-      "total": 1734,
-      "success": 1606,
-      "last": 1735018185290,
-      "lastSuccess": 1735018185290
+      "total": 1736,
+      "success": 1607,
+      "last": 1735019585573,
+      "lastSuccess": 1735019585573
     },
     "owner-sf.js": {
       "total": 1057,
@@ -62987,10 +63026,10 @@
       "lastSuccess": 1735003694862
     },
     "downloader-play.js": {
-      "total": 1888,
-      "success": 1778,
-      "last": 1735014374594,
-      "lastSuccess": 1735014374594
+      "total": 1892,
+      "success": 1782,
+      "last": 1735020596809,
+      "lastSuccess": 1735020596809
     },
     "downloader-ytvideo.js": {
       "total": 136,
@@ -63023,10 +63062,10 @@
       "lastSuccess": 1732841419311
     },
     "main-profile.js": {
-      "total": 229,
-      "success": 228,
-      "last": 1734978245413,
-      "lastSuccess": 1734978245413
+      "total": 230,
+      "success": 229,
+      "last": 1735019860943,
+      "lastSuccess": 1735019860943
     },
     "main-daftar.js": {
       "total": 36,
@@ -63713,10 +63752,10 @@
       "lastSuccess": 0
     },
     "tool-tomp3.js": {
-      "total": 126,
-      "success": 126,
-      "last": 1734966218926,
-      "lastSuccess": 1734966218926
+      "total": 127,
+      "success": 127,
+      "last": 1735019458339,
+      "lastSuccess": 1735019458339
     },
     "vn-bot.js": {
       "total": 33,
@@ -65236,7 +65275,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735016997267,
+      "backupDB": 1735019179775,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
