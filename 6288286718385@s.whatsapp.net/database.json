@@ -135255,7 +135255,7 @@
       "premiumTime": 0
     },
     "120363356468992489@g.us": {
-      "exp": 299,
+      "exp": 300,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -135603,7 +135603,7 @@
       "premiumTime": 0
     },
     "6283846829169@s.whatsapp.net": {
-      "exp": 2227,
+      "exp": 2229,
       "limit": 449,
       "registered": false,
       "name": "~B🗿",
@@ -135619,7 +135619,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1735101416038,
@@ -150661,7 +150661,7 @@
       "lastcommand": 1734522245272
     },
     "62895320702875@s.whatsapp.net": {
-      "exp": 21,
+      "exp": 45,
       "limit": 499,
       "registered": false,
       "name": "niull",
@@ -150677,9 +150677,10 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "lastBanned": 0
+      "lastBanned": 0,
+      "lastcommand": 1735130344192
     },
     "177395604688951_1@s.whatsapp.net": {
       "exp": 8,
@@ -173406,16 +173407,16 @@
       "expired": 1820679932210,
       "total": {
         "62881022366285@s.whatsapp.net": 1485,
-        "6283846829169@s.whatsapp.net": 2332,
-        "6287890456123@s.whatsapp.net": 394,
+        "6283846829169@s.whatsapp.net": 2346,
+        "6287890456123@s.whatsapp.net": 398,
         "6282298862377@s.whatsapp.net": 25,
         "6288225432435@s.whatsapp.net": 334,
         "6283824012756@s.whatsapp.net": 168,
         "6287777850689@s.whatsapp.net": 25,
-        "6285960191220@s.whatsapp.net": 566,
+        "6285960191220@s.whatsapp.net": 594,
         "6282162161146@s.whatsapp.net": 31,
-        "6287719003775@s.whatsapp.net": 27,
-        "62895360871897@s.whatsapp.net": 32
+        "6287719003775@s.whatsapp.net": 29,
+        "62895360871897@s.whatsapp.net": 46
       },
       "totalChat": 0
     },
@@ -175215,10 +175216,10 @@
       "lastSuccess": 1735093317116
     },
     "_cek.js": {
-      "total": 1689,
-      "success": 1686,
-      "last": 1735101416385,
-      "lastSuccess": 1735101416385
+      "total": 1690,
+      "success": 1687,
+      "last": 1735130344500,
+      "lastSuccess": 1735130344500
     },
     "econ-claim.js": {
       "total": 1806,
@@ -177350,7 +177351,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735127976311,
+      "backupDB": 1735129874704,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
