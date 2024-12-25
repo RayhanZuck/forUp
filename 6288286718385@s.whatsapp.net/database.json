@@ -135255,7 +135255,7 @@
       "premiumTime": 0
     },
     "120363356468992489@g.us": {
-      "exp": 300,
+      "exp": 305,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -135603,7 +135603,7 @@
       "premiumTime": 0
     },
     "6283846829169@s.whatsapp.net": {
-      "exp": 2229,
+      "exp": 2237,
       "limit": 449,
       "registered": false,
       "name": "~B🗿",
@@ -153640,8 +153640,8 @@
       "premiumTime": 0
     },
     "6281297729591@s.whatsapp.net": {
-      "exp": 585,
-      "limit": 499,
+      "exp": 603,
+      "limit": 494,
       "registered": false,
       "name": "𝙃𝘼𝙉𝙕 𝙎𝙏𝙊𝙍𝙀",
       "age": -1,
@@ -164249,6 +164249,25 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0
+    },
+    "127848727728245_1@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -173407,16 +173426,18 @@
       "expired": 1820679932210,
       "total": {
         "62881022366285@s.whatsapp.net": 1485,
-        "6283846829169@s.whatsapp.net": 2346,
-        "6287890456123@s.whatsapp.net": 398,
+        "6283846829169@s.whatsapp.net": 2368,
+        "6287890456123@s.whatsapp.net": 404,
         "6282298862377@s.whatsapp.net": 25,
         "6288225432435@s.whatsapp.net": 334,
         "6283824012756@s.whatsapp.net": 168,
         "6287777850689@s.whatsapp.net": 25,
-        "6285960191220@s.whatsapp.net": 594,
+        "6285960191220@s.whatsapp.net": 636,
         "6282162161146@s.whatsapp.net": 31,
-        "6287719003775@s.whatsapp.net": 29,
-        "62895360871897@s.whatsapp.net": 46
+        "6287719003775@s.whatsapp.net": 32,
+        "62895360871897@s.whatsapp.net": 67,
+        "62895320702875@s.whatsapp.net": 3,
+        "6281297729591@s.whatsapp.net": 2
       },
       "totalChat": 0
     },
@@ -176200,10 +176221,10 @@
       "lastSuccess": 1726392492776
     },
     "sticker-all.js": {
-      "total": 174,
-      "success": 164,
-      "last": 1735107089488,
-      "lastSuccess": 1734887752938
+      "total": 175,
+      "success": 165,
+      "last": 1735132828562,
+      "lastSuccess": 1735132828562
     },
     "owner-addprem.js": {
       "total": 106,
@@ -177351,7 +177372,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735129874704,
+      "backupDB": 1735132803432,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
