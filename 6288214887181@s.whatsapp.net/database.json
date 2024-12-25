@@ -4318,8 +4318,8 @@
       "premiumTime": 0
     },
     "6288225852908@s.whatsapp.net": {
-      "exp": 13325,
-      "limit": 77,
+      "exp": 13364,
+      "limit": 52,
       "registered": false,
       "name": "💙",
       "age": -1,
@@ -49320,7 +49320,7 @@
       "lastBanned": 0
     },
     "6281258193521@s.whatsapp.net": {
-      "exp": 7805,
+      "exp": 9585,
       "limit": 699,
       "registered": false,
       "name": "Ytta",
@@ -57668,6 +57668,45 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "40493455020224_1@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6281253719602@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 812-5371-9602",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -64853,10 +64892,10 @@
       "lastSuccess": 1735117294203
     },
     "games-tebakkata.js": {
-      "total": 1388,
-      "success": 1337,
-      "last": 1735143167827,
-      "lastSuccess": 1735143167827
+      "total": 1389,
+      "success": 1338,
+      "last": 1735155561185,
+      "lastSuccess": 1735155561185
     },
     "game-susunkata.js": {
       "total": 2189,
@@ -64907,10 +64946,10 @@
       "lastSuccess": 1735098308286
     },
     "downloader-spotify.js": {
-      "total": 228,
-      "success": 193,
-      "last": 1735092096269,
-      "lastSuccess": 1734955963981
+      "total": 229,
+      "success": 194,
+      "last": 1735156660995,
+      "lastSuccess": 1735156660995
     },
     "games-tictactoe.js": {
       "total": 37,
@@ -66670,7 +66709,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735152507740,
+      "backupDB": 1735155550100,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
