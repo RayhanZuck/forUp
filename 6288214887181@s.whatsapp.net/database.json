@@ -718,8 +718,8 @@
       "lastdaily": 1732086399164
     },
     "628884584571@s.whatsapp.net": {
-      "exp": 36891,
-      "limit": 9,
+      "exp": 38967,
+      "limit": 89,
       "registered": false,
       "name": "iky",
       "age": -1,
@@ -738,7 +738,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1733004882355,
-      "lastdaily": 1735010937028
+      "lastdaily": 1735139994658
     },
     "6285819941601@s.whatsapp.net": {
       "exp": 1655,
@@ -2957,7 +2957,7 @@
       "lastrob": 1734666388023
     },
     "6287845351838@s.whatsapp.net": {
-      "exp": 37395,
+      "exp": 37408,
       "limit": 119,
       "registered": false,
       "name": "𝓐𝓷𝓪𝓴  𝓰𝓪𝓭𝓲𝓼 ♥︎",
@@ -33744,7 +33744,7 @@
       "lastwork": 1732920838372
     },
     "6282143175110@s.whatsapp.net": {
-      "exp": 1240,
+      "exp": 1272,
       "limit": 264,
       "registered": false,
       "name": "ARAFAT KODOK COOL",
@@ -57590,6 +57590,25 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "248047665713262_1@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -64319,10 +64338,10 @@
       "lastSuccess": 1735122013892
     },
     "downloader-tiktok.js": {
-      "total": 1781,
-      "success": 1642,
-      "last": 1735137997281,
-      "lastSuccess": 1735137997281
+      "total": 1783,
+      "success": 1644,
+      "last": 1735140036992,
+      "lastSuccess": 1735140036992
     },
     "owner-sf.js": {
       "total": 1069,
@@ -64343,10 +64362,10 @@
       "lastSuccess": 1735034052043
     },
     "sticker-sticker.js": {
-      "total": 882,
-      "success": 767,
-      "last": 1735131681962,
-      "lastSuccess": 1735131681962
+      "total": 883,
+      "success": 768,
+      "last": 1735140816682,
+      "lastSuccess": 1735140816682
     },
     "sticker-toimg.js": {
       "total": 85,
@@ -64379,10 +64398,10 @@
       "lastSuccess": 1735107315293
     },
     "econ-claim.js": {
-      "total": 2040,
-      "success": 1378,
-      "last": 1735135228831,
-      "lastSuccess": 1735130131085
+      "total": 2041,
+      "success": 1379,
+      "last": 1735139994658,
+      "lastSuccess": 1735139994658
     },
     "game-curi.js": {
       "total": 1125,
@@ -66592,7 +66611,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735136605543,
+      "backupDB": 1735139698227,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
