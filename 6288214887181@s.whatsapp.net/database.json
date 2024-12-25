@@ -14265,8 +14265,8 @@
       "premiumTime": 0
     },
     "6287740908701@s.whatsapp.net": {
-      "exp": 37468,
-      "limit": 332,
+      "exp": 41527,
+      "limit": 632,
       "registered": false,
       "name": "Merzzx Story Kece",
       "age": -1,
@@ -14279,13 +14279,13 @@
       "role": "Beginner",
       "BannedReason": "",
       "WarnReason": "",
-      "lastweekly": 1733006537915,
+      "lastweekly": 1735146154218,
       "lastmonthly": 1733006573886,
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1734836625801,
-      "lastdaily": 1734748830133,
+      "lastdaily": 1735146140776,
       "lastwork": 1734435824869
     },
     "62895393389680@s.whatsapp.net": {
@@ -57649,6 +57649,25 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
+    },
+    "187291192541197_1@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -64438,10 +64457,10 @@
       "lastSuccess": 1735107315293
     },
     "econ-claim.js": {
-      "total": 2041,
-      "success": 1379,
-      "last": 1735139994658,
-      "lastSuccess": 1735139994658
+      "total": 2043,
+      "success": 1381,
+      "last": 1735146154218,
+      "lastSuccess": 1735146154218
     },
     "game-curi.js": {
       "total": 1125,
@@ -66651,7 +66670,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735143729663,
+      "backupDB": 1735146140361,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
