@@ -153640,8 +153640,8 @@
       "premiumTime": 0
     },
     "6281297729591@s.whatsapp.net": {
-      "exp": 604,
-      "limit": 494,
+      "exp": 726,
+      "limit": 474,
       "registered": false,
       "name": "𝙃𝘼𝙉𝙕 𝙎𝙏𝙊𝙍𝙀",
       "age": -1,
@@ -153658,7 +153658,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "lastBanned": 0
+      "lastBanned": 0,
+      "lastcommand": 1735153897262
     },
     "6285961091930@s.whatsapp.net": {
       "exp": 160,
@@ -173505,18 +173506,18 @@
       "expired": 1820679932210,
       "total": {
         "62881022366285@s.whatsapp.net": 1485,
-        "6283846829169@s.whatsapp.net": 2376,
-        "6287890456123@s.whatsapp.net": 406,
+        "6283846829169@s.whatsapp.net": 2410,
+        "6287890456123@s.whatsapp.net": 414,
         "6282298862377@s.whatsapp.net": 25,
         "6288225432435@s.whatsapp.net": 334,
         "6283824012756@s.whatsapp.net": 168,
         "6287777850689@s.whatsapp.net": 25,
-        "6285960191220@s.whatsapp.net": 650,
+        "6285960191220@s.whatsapp.net": 706,
         "6282162161146@s.whatsapp.net": 31,
-        "6287719003775@s.whatsapp.net": 33,
-        "62895360871897@s.whatsapp.net": 74,
-        "62895320702875@s.whatsapp.net": 4,
-        "6281297729591@s.whatsapp.net": 4
+        "6287719003775@s.whatsapp.net": 37,
+        "62895360871897@s.whatsapp.net": 102,
+        "62895320702875@s.whatsapp.net": 9,
+        "6281297729591@s.whatsapp.net": 33
       },
       "totalChat": 0
     },
@@ -175370,10 +175371,10 @@
       "lastSuccess": 1734942174339
     },
     "_rayhan-allmenu.js": {
-      "total": 210,
-      "success": 199,
-      "last": 1734866616040,
-      "lastSuccess": 1734866616040
+      "total": 211,
+      "success": 200,
+      "last": 1735153927274,
+      "lastSuccess": 1735153927274
     },
     "sticker-quotely.js": {
       "total": 446,
@@ -176300,10 +176301,10 @@
       "lastSuccess": 1726392492776
     },
     "sticker-all.js": {
-      "total": 175,
-      "success": 165,
-      "last": 1735132828562,
-      "lastSuccess": 1735132828562
+      "total": 177,
+      "success": 167,
+      "last": 1735154186322,
+      "lastSuccess": 1735154186322
     },
     "owner-addprem.js": {
       "total": 106,
@@ -177320,10 +177321,10 @@
       "lastSuccess": 1732985022022
     },
     "maker-carbonify.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1732985165758,
-      "lastSuccess": 1732985165758
+      "total": 5,
+      "success": 4,
+      "last": 1735154286263,
+      "lastSuccess": 1735154286263
     },
     "sv.js": {
       "total": 6,
@@ -177451,7 +177452,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735150089037,
+      "backupDB": 1735153495021,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
