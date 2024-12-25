@@ -109618,7 +109618,7 @@
       "premiumTime": 0
     },
     "6282143028053@s.whatsapp.net": {
-      "exp": 137,
+      "exp": 148,
       "limit": 499,
       "registered": false,
       "name": "perrelDreamybull",
@@ -164325,6 +164325,25 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0
+    },
+    "187291192541197_1@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -164567,14 +164586,15 @@
       "antiGrup": true,
       "total": {
         "6283137913336@s.whatsapp.net": 124,
-        "6282266206795@s.whatsapp.net": 1508,
-        "6289525303884@s.whatsapp.net": 1402,
+        "6282266206795@s.whatsapp.net": 1516,
+        "6289525303884@s.whatsapp.net": 1404,
         "6281281875994@s.whatsapp.net": 60,
         "6283128873026@s.whatsapp.net": 44,
         "62895340375355@s.whatsapp.net": 627,
-        "6289649990523@s.whatsapp.net": 18,
-        "6282358004776@s.whatsapp.net": 22,
-        "6285706745520@s.whatsapp.net": 3
+        "6289649990523@s.whatsapp.net": 20,
+        "6282358004776@s.whatsapp.net": 28,
+        "6285706745520@s.whatsapp.net": 7,
+        "6282143028053@s.whatsapp.net": 3
       },
       "totalChat": 0
     },
@@ -177430,7 +177450,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735142614112,
+      "backupDB": 1735146715958,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
