@@ -88,7 +88,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 139500,
+      "exp": 141530,
       "limit": 0,
       "registered": false,
       "name": "Rayhan?",
@@ -181,7 +181,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3843,
+      "exp": 3849,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -957,7 +957,7 @@
       "lastdaily": 1733554666793
     },
     "6282150698385@s.whatsapp.net": {
-      "exp": 2318,
+      "exp": 2327,
       "limit": 499,
       "registered": false,
       "name": "Je t'aime😉🌿",
@@ -1046,7 +1046,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 6183,
+      "exp": 6186,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1112,7 +1112,7 @@
       "lastcommand": 1733934913763
     },
     "6283191371141@s.whatsapp.net": {
-      "exp": 23300,
+      "exp": 23306,
       "limit": 52,
       "registered": false,
       "name": "Vyn",
@@ -2457,7 +2457,7 @@
       "lastrob": 1734765188287
     },
     "6282123163120@s.whatsapp.net": {
-      "exp": 219,
+      "exp": 292,
       "limit": 499,
       "registered": false,
       "name": "Ikyy Bottz",
@@ -5867,8 +5867,8 @@
       "premiumTime": 0
     },
     "6287877901251@s.whatsapp.net": {
-      "exp": 7869,
-      "limit": 239,
+      "exp": 7925,
+      "limit": 199,
       "registered": false,
       "name": "@xys_syaa'",
       "age": -1,
@@ -34745,7 +34745,7 @@
       "lastBanned": 0
     },
     "6285750397742@s.whatsapp.net": {
-      "exp": 35,
+      "exp": 36,
       "limit": 499,
       "registered": false,
       "name": "Riska Rorrr🌸🌸",
@@ -34761,7 +34761,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1734965388203
@@ -57143,6 +57143,26 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
+    },
+    "6288221590493@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 499,
+      "registered": false,
+      "name": "Elsa ameliaa🥰🫰💝🌹",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -63768,10 +63788,10 @@
       "lastSuccess": 1735101333637
     },
     "downloader-tiktok.js": {
-      "total": 1763,
-      "success": 1625,
-      "last": 1735099565921,
-      "lastSuccess": 1735099565921
+      "total": 1765,
+      "success": 1627,
+      "last": 1735104839750,
+      "lastSuccess": 1735104839750
     },
     "owner-sf.js": {
       "total": 1069,
@@ -64224,22 +64244,22 @@
       "lastSuccess": 1735095880411
     },
     "games-tebakkata.js": {
-      "total": 1366,
-      "success": 1316,
-      "last": 1735096364036,
-      "lastSuccess": 1735096364036
+      "total": 1367,
+      "success": 1317,
+      "last": 1735103930153,
+      "lastSuccess": 1735103930153
     },
     "game-susunkata.js": {
-      "total": 2169,
-      "success": 1980,
-      "last": 1735095521738,
-      "lastSuccess": 1735095521738
+      "total": 2175,
+      "success": 1984,
+      "last": 1735104697180,
+      "lastSuccess": 1735104697180
     },
     "game-susunkata_hint.js": {
-      "total": 300,
-      "success": 290,
-      "last": 1734852890872,
-      "lastSuccess": 1734852890872
+      "total": 303,
+      "success": 293,
+      "last": 1735104447044,
+      "lastSuccess": 1735104447044
     },
     "info-ping.js": {
       "total": 256,
@@ -66035,7 +66055,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735101391065,
+      "backupDB": 1735103929355,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
