@@ -112081,7 +112081,7 @@
       "premiumTime": 0
     },
     "6282266206795@s.whatsapp.net": {
-      "exp": 934,
+      "exp": 944,
       "limit": 274,
       "registered": false,
       "name": ".",
@@ -163922,7 +163922,7 @@
       "premiumTime": 0
     },
     "6289525303884@s.whatsapp.net": {
-      "exp": 241,
+      "exp": 248,
       "limit": 499,
       "registered": false,
       "name": "𝕹_𝖉𝖆",
@@ -164077,6 +164077,25 @@
     },
     "198101524549790_1@s.whatsapp.net": {
       "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "249907638186063_1@s.whatsapp.net": {
+      "exp": 3,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -164335,8 +164354,8 @@
       "antiGrup": true,
       "total": {
         "6283137913336@s.whatsapp.net": 81,
-        "6282266206795@s.whatsapp.net": 1202,
-        "6289525303884@s.whatsapp.net": 956,
+        "6282266206795@s.whatsapp.net": 1236,
+        "6289525303884@s.whatsapp.net": 983,
         "6281281875994@s.whatsapp.net": 60,
         "6283128873026@s.whatsapp.net": 44,
         "62895340375355@s.whatsapp.net": 275
@@ -177192,7 +177211,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735085178777,
+      "backupDB": 1735087150745,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
