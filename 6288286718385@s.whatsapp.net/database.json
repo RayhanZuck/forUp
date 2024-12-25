@@ -108627,7 +108627,7 @@
       "lastBanned": 0
     },
     "6288286718385@s.whatsapp.net": {
-      "exp": 836,
+      "exp": 843,
       "limit": 499,
       "registered": true,
       "name": "nenen",
@@ -112081,7 +112081,7 @@
       "premiumTime": 0
     },
     "6282266206795@s.whatsapp.net": {
-      "exp": 983,
+      "exp": 1047,
       "limit": 274,
       "registered": false,
       "name": ".",
@@ -164188,6 +164188,27 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "6282358004776@s.whatsapp.net": {
+      "exp": 13,
+      "limit": 499,
+      "registered": false,
+      "name": "Bang R",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -164429,13 +164450,14 @@
       "antiFoto": false,
       "antiGrup": true,
       "total": {
-        "6283137913336@s.whatsapp.net": 112,
-        "6282266206795@s.whatsapp.net": 1454,
-        "6289525303884@s.whatsapp.net": 1335,
+        "6283137913336@s.whatsapp.net": 122,
+        "6282266206795@s.whatsapp.net": 1494,
+        "6289525303884@s.whatsapp.net": 1390,
         "6281281875994@s.whatsapp.net": 60,
         "6283128873026@s.whatsapp.net": 44,
-        "62895340375355@s.whatsapp.net": 561,
-        "6289649990523@s.whatsapp.net": 5
+        "62895340375355@s.whatsapp.net": 616,
+        "6289649990523@s.whatsapp.net": 15,
+        "6282358004776@s.whatsapp.net": 16
       },
       "totalChat": 0
     },
@@ -175411,10 +175433,10 @@
       "lastSuccess": 1734757966407
     },
     "owner-kick.js": {
-      "total": 198,
-      "success": 194,
-      "last": 1734946827275,
-      "lastSuccess": 1734946827275
+      "total": 200,
+      "success": 196,
+      "last": 1735117000273,
+      "lastSuccess": 1735117000273
     },
     "group-link.js": {
       "total": 37,
@@ -177288,7 +177310,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735112045235,
+      "backupDB": 1735115812333,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
