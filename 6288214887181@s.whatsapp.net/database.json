@@ -181,7 +181,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3820,
+      "exp": 3821,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -54707,8 +54707,8 @@
       "lastBanned": 0
     },
     "6281392076995@s.whatsapp.net": {
-      "exp": 8961,
-      "limit": 889,
+      "exp": 8988,
+      "limit": 864,
       "registered": false,
       "name": "Astaroth Van Astarity",
       "age": -1,
@@ -56988,6 +56988,45 @@
     },
     "247304619573454_1@s.whatsapp.net": {
       "exp": 7,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6283157298433@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 831-5729-8433",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "194309118754996_1@s.whatsapp.net": {
+      "exp": 3,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -63641,10 +63680,10 @@
       "lastSuccess": 1735045188810
     },
     "downloader-play.js": {
-      "total": 1910,
-      "success": 1794,
-      "last": 1735061137131,
-      "lastSuccess": 1735061137131
+      "total": 1911,
+      "success": 1795,
+      "last": 1735083588571,
+      "lastSuccess": 1735083588571
     },
     "downloader-ytvideo.js": {
       "total": 137,
@@ -65890,7 +65929,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735081062121,
+      "backupDB": 1735083568197,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
