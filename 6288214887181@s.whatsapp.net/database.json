@@ -4552,8 +4552,8 @@
       "premiumTime": 0
     },
     "6285656504982@s.whatsapp.net": {
-      "exp": 5381,
-      "limit": 69,
+      "exp": 5410,
+      "limit": 44,
       "registered": false,
       "name": "Doff",
       "age": -1,
@@ -45011,7 +45011,7 @@
       "premiumTime": 0
     },
     "6283143509483@s.whatsapp.net": {
-      "exp": 10,
+      "exp": 97,
       "limit": 499,
       "registered": false,
       "name": "mell•",
@@ -64391,10 +64391,10 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 760,
-      "success": 705,
-      "last": 1735122013892,
-      "lastSuccess": 1735122013892
+      "total": 761,
+      "success": 706,
+      "last": 1735152800035,
+      "lastSuccess": 1735152800035
     },
     "downloader-tiktok.js": {
       "total": 1784,
@@ -66670,7 +66670,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735146140361,
+      "backupDB": 1735152507740,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
