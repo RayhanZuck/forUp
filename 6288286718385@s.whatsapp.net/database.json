@@ -79880,7 +79880,7 @@
       "lastBanned": 0
     },
     "6285797703977@s.whatsapp.net": {
-      "exp": 965,
+      "exp": 974,
       "limit": 399,
       "registered": false,
       "name": "PLAYER 1 LOW",
@@ -164586,15 +164586,16 @@
       "antiGrup": true,
       "total": {
         "6283137913336@s.whatsapp.net": 124,
-        "6282266206795@s.whatsapp.net": 1516,
-        "6289525303884@s.whatsapp.net": 1404,
+        "6282266206795@s.whatsapp.net": 1520,
+        "6289525303884@s.whatsapp.net": 1405,
         "6281281875994@s.whatsapp.net": 60,
         "6283128873026@s.whatsapp.net": 44,
         "62895340375355@s.whatsapp.net": 627,
-        "6289649990523@s.whatsapp.net": 20,
-        "6282358004776@s.whatsapp.net": 28,
-        "6285706745520@s.whatsapp.net": 7,
-        "6282143028053@s.whatsapp.net": 3
+        "6289649990523@s.whatsapp.net": 21,
+        "6282358004776@s.whatsapp.net": 31,
+        "6285706745520@s.whatsapp.net": 9,
+        "6282143028053@s.whatsapp.net": 5,
+        "6285797703977@s.whatsapp.net": 1
       },
       "totalChat": 0
     },
@@ -177450,7 +177451,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735146715958,
+      "backupDB": 1735150089037,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
