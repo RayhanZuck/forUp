@@ -160,7 +160,7 @@
       "lastcommand": 1735076311886
     },
     "120363183420865643@g.us": {
-      "exp": 5029,
+      "exp": 5039,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -181,7 +181,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3856,
+      "exp": 3860,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1046,7 +1046,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 6190,
+      "exp": 6199,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -4126,8 +4126,8 @@
       "premiumTime": 0
     },
     "6289681757750@s.whatsapp.net": {
-      "exp": 169,
-      "limit": 474,
+      "exp": 194,
+      "limit": 449,
       "registered": false,
       "name": "Dhnz",
       "age": -1,
@@ -20404,7 +20404,7 @@
       "lastBanned": 0
     },
     "62882006212609@s.whatsapp.net": {
-      "exp": 1445,
+      "exp": 1460,
       "limit": 609,
       "registered": false,
       "name": "Aljndn",
@@ -46234,7 +46234,7 @@
       "premiumTime": 0
     },
     "601157250489@s.whatsapp.net": {
-      "exp": 101,
+      "exp": 109,
       "limit": 414,
       "registered": false,
       "name": "Ibu Anak Tiga😝🤍😘",
@@ -57302,6 +57302,45 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "6289512761037@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "name": "RULLY PACE",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "20315346354305_1@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -64097,10 +64136,10 @@
       "lastSuccess": 1734415656247
     },
     "ai-remini.js": {
-      "total": 876,
-      "success": 821,
-      "last": 1735108758544,
-      "lastSuccess": 1735108758544
+      "total": 877,
+      "success": 822,
+      "last": 1735112486403,
+      "lastSuccess": 1735112486403
     },
     "game-tebakbendera.js": {
       "total": 427,
@@ -66220,7 +66259,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735109484318,
+      "backupDB": 1735112044251,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
