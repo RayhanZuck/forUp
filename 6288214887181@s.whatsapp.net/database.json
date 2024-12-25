@@ -957,7 +957,7 @@
       "lastdaily": 1733554666793
     },
     "6282150698385@s.whatsapp.net": {
-      "exp": 2359,
+      "exp": 2379,
       "limit": 499,
       "registered": false,
       "name": "Je t'aime😉🌿",
@@ -3166,7 +3166,7 @@
       "lastcommand": 1731464359766
     },
     "628983678985@s.whatsapp.net": {
-      "exp": 31879,
+      "exp": 31953,
       "limit": 89,
       "registered": true,
       "name": "adilla",
@@ -4467,7 +4467,7 @@
       "premiumTime": 0
     },
     "6285765868163@s.whatsapp.net": {
-      "exp": 554708,
+      "exp": 554740,
       "limit": 53211,
       "registered": false,
       "name": "KERz....",
@@ -4486,7 +4486,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1735137402258,
+      "lastcommand": 1735167611442,
       "lastdaily": 1734536034906,
       "lastwork": 1735011607673
     },
@@ -30037,7 +30037,7 @@
       "premiumTime": 0
     },
     "6282196331095@s.whatsapp.net": {
-      "exp": 9,
+      "exp": 12,
       "limit": 499,
       "registered": false,
       "name": "telemarketing",
@@ -51716,8 +51716,8 @@
       "premiumTime": 0
     },
     "62895341178597@s.whatsapp.net": {
-      "exp": 22895,
-      "limit": 423,
+      "exp": 28671,
+      "limit": 421,
       "registered": false,
       "name": "I want to die",
       "age": -1,
@@ -57700,6 +57700,25 @@
       "afk": -1,
       "afkReason": "",
       "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "212197707890795_1@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": true,
       "level": 0,
       "role": "Beginner",
       "BannedReason": "",
@@ -64461,10 +64480,10 @@
       "lastSuccess": 1735034052043
     },
     "sticker-sticker.js": {
-      "total": 885,
-      "success": 770,
-      "last": 1735164549019,
-      "lastSuccess": 1735164549019
+      "total": 887,
+      "success": 771,
+      "last": 1735167138984,
+      "lastSuccess": 1735167138984
     },
     "sticker-toimg.js": {
       "total": 85,
@@ -64515,10 +64534,10 @@
       "lastSuccess": 1735164674884
     },
     "main-balance.js": {
-      "total": 313,
-      "success": 311,
-      "last": 1735166023983,
-      "lastSuccess": 1735165406120
+      "total": 314,
+      "success": 312,
+      "last": 1735166704506,
+      "lastSuccess": 1735166704506
     },
     "main-shop.js": {
       "total": 827,
@@ -64545,10 +64564,10 @@
       "lastSuccess": 1735011611843
     },
     "main-limit.js": {
-      "total": 1246,
-      "success": 1246,
-      "last": 1735161192192,
-      "lastSuccess": 1735161192192
+      "total": 1247,
+      "success": 1247,
+      "last": 1735166734061,
+      "lastSuccess": 1735166734061
     },
     "game-ulartangga.js": {
       "total": 142,
@@ -64605,10 +64624,10 @@
       "lastSuccess": 1734956110225
     },
     "_cek.js": {
-      "total": 814,
-      "success": 814,
-      "last": 1735161188657,
-      "lastSuccess": 1735161188657
+      "total": 815,
+      "success": 815,
+      "last": 1735167612961,
+      "lastSuccess": 1735167612961
     },
     "enable.js": {
       "total": 104,
@@ -64893,10 +64912,10 @@
       "lastSuccess": 1735117294203
     },
     "games-tebakkata.js": {
-      "total": 1395,
-      "success": 1343,
-      "last": 1735166021708,
-      "lastSuccess": 1735165839146
+      "total": 1398,
+      "success": 1346,
+      "last": 1735166807296,
+      "lastSuccess": 1735166807296
     },
     "game-susunkata.js": {
       "total": 2189,
@@ -65223,10 +65242,10 @@
       "lastSuccess": 1735120116728
     },
     "games-tebakkata_hint.js": {
-      "total": 313,
-      "success": 298,
-      "last": 1735165867131,
-      "lastSuccess": 1735165867131
+      "total": 314,
+      "success": 299,
+      "last": 1735166673127,
+      "lastSuccess": 1735166673127
     },
     "fun-cek.js": {
       "total": 189,
@@ -65373,10 +65392,10 @@
       "lastSuccess": 0
     },
     "game-bom.js": {
-      "total": 132,
-      "success": 132,
-      "last": 1735165259778,
-      "lastSuccess": 1735165259778
+      "total": 133,
+      "success": 133,
+      "last": 1735166610575,
+      "lastSuccess": 1735166610575
     },
     "ai-txt2img.js": {
       "total": 8,
@@ -66710,7 +66729,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735164517855,
+      "backupDB": 1735166357570,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
