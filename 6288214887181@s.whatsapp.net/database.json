@@ -1,7 +1,7 @@
 {
   "users": {
     "6288214887181@s.whatsapp.net": {
-      "exp": -3620,
+      "exp": -3611,
       "limit": 470,
       "registered": false,
       "name": "Ciel",
@@ -2672,7 +2672,7 @@
       "lastcommand": 1734246943469
     },
     "6289615791122@s.whatsapp.net": {
-      "exp": 17,
+      "exp": 28,
       "limit": 499,
       "registered": false,
       "name": "putri?",
@@ -2959,8 +2959,8 @@
       "lastrob": 1734666388023
     },
     "6287845351838@s.whatsapp.net": {
-      "exp": 41955,
-      "limit": 394,
+      "exp": 42193,
+      "limit": 284,
       "registered": false,
       "name": "𝓐𝓷𝓪𝓴  𝓰𝓪𝓭𝓲𝓼 ♥︎",
       "age": -1,
@@ -58841,6 +58841,44 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "217020620660824_1@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "24713510260786_1@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -65640,6 +65678,32 @@
       "teks": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "639692369842@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "pembatasan": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "antiBadword": false,
+      "simi": false,
+      "nsfw": false,
+      "rpg": true,
+      "game": true,
+      "teks": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -65944,10 +66008,10 @@
       "lastSuccess": 1730161441000
     },
     "downloader-tiktoksearch.js": {
-      "total": 793,
-      "success": 786,
-      "last": 1735191604257,
-      "lastSuccess": 1735191604257
+      "total": 795,
+      "success": 788,
+      "last": 1735223446699,
+      "lastSuccess": 1735223446699
     },
     "ai-llama.js": {
       "total": 352,
@@ -67780,10 +67844,10 @@
       "lastSuccess": 1734075717969
     },
     "ai-main.js": {
-      "total": 60,
-      "success": 51,
-      "last": 1735219632475,
-      "lastSuccess": 1735219632475
+      "total": 68,
+      "success": 59,
+      "last": 1735224853008,
+      "lastSuccess": 1735224853008
     },
     "sticker-tweet.js": {
       "total": 2,
@@ -67923,7 +67987,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735220901348,
+      "backupDB": 1735223029196,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
