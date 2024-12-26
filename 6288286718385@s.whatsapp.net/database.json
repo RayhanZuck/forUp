@@ -3304,7 +3304,7 @@
       "lastBanned": 0
     },
     "120363280765137622@g.us": {
-      "exp": 7337,
+      "exp": 7340,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -54104,7 +54104,7 @@
       "premiumTime": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 39688,
+      "exp": 39855,
       "limit": 499,
       "registered": false,
       "name": "RayhanAdzShl",
@@ -54123,7 +54123,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1735169947555,
+      "lastcommand": 1735204882594,
       "aiprompt": "mulai sekarang nama kamu adalah joko widodo",
       "warn": 0,
       "aisesi": 0,
@@ -135628,7 +135628,7 @@
       "lastwork": 1734674720588
     },
     "6282123163120@s.whatsapp.net": {
-      "exp": 1498,
+      "exp": 1536,
       "limit": 499,
       "registered": false,
       "name": "Bott Ikyy",
@@ -135647,7 +135647,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734418180463
+      "lastcommand": 1735204714776
     },
     "187162360324325_1@s.whatsapp.net": {
       "exp": 9,
@@ -158022,7 +158022,7 @@
       "premiumTime": 0
     },
     "6287890456123@s.whatsapp.net": {
-      "exp": 220,
+      "exp": 230,
       "limit": 474,
       "registered": false,
       "name": "🇹🇭ราดิตยา อันดิกา",
@@ -165941,7 +165941,7 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285766064200@s.whatsapp.net": 42
+        "6285766064200@s.whatsapp.net": 43
       },
       "totalChat": 0
     },
@@ -172066,10 +172066,10 @@
       "expired": 0,
       "autoSticker": false,
       "total": {
-        "6285766064200@s.whatsapp.net": 597,
-        "6283132534772@s.whatsapp.net": 533,
-        "6288214887181@s.whatsapp.net": 528,
-        "6282123163120@s.whatsapp.net": 365
+        "6285766064200@s.whatsapp.net": 661,
+        "6283132534772@s.whatsapp.net": 583,
+        "6288214887181@s.whatsapp.net": 577,
+        "6282123163120@s.whatsapp.net": 408
       },
       "totalChat": 0
     },
@@ -174104,19 +174104,19 @@
       "expired": 1820679932210,
       "total": {
         "62881022366285@s.whatsapp.net": 1485,
-        "6283846829169@s.whatsapp.net": 2476,
-        "6287890456123@s.whatsapp.net": 502,
+        "6283846829169@s.whatsapp.net": 2486,
+        "6287890456123@s.whatsapp.net": 518,
         "6282298862377@s.whatsapp.net": 25,
-        "6288225432435@s.whatsapp.net": 349,
+        "6288225432435@s.whatsapp.net": 351,
         "6283824012756@s.whatsapp.net": 168,
         "6287777850689@s.whatsapp.net": 25,
         "6285960191220@s.whatsapp.net": 706,
         "6282162161146@s.whatsapp.net": 31,
         "6287719003775@s.whatsapp.net": 37,
-        "62895360871897@s.whatsapp.net": 278,
-        "62895320702875@s.whatsapp.net": 32,
-        "6281297729591@s.whatsapp.net": 232,
-        "6282245573241@s.whatsapp.net": 3
+        "62895360871897@s.whatsapp.net": 294,
+        "62895320702875@s.whatsapp.net": 34,
+        "6281297729591@s.whatsapp.net": 252,
+        "6282245573241@s.whatsapp.net": 5
       },
       "totalChat": 0
     },
@@ -175808,16 +175808,16 @@
       "lastSuccess": 1735126240290
     },
     "owner-exec.js": {
-      "total": 193,
-      "success": 193,
-      "last": 1735046204147,
-      "lastSuccess": 1735046204147
+      "total": 195,
+      "success": 195,
+      "last": 1735204720988,
+      "lastSuccess": 1735204720988
     },
     "info-ping.js": {
-      "total": 781,
-      "success": 778,
-      "last": 1734946944455,
-      "lastSuccess": 1734946944455
+      "total": 783,
+      "success": 780,
+      "last": 1735204887905,
+      "lastSuccess": 1735204887905
     },
     "tool-getpp.js": {
       "total": 8,
@@ -175844,9 +175844,9 @@
       "lastSuccess": 1734696170475
     },
     "downloader-play.js": {
-      "total": 1487,
+      "total": 1488,
       "success": 1447,
-      "last": 1735106297867,
+      "last": 1735204619622,
       "lastSuccess": 1735106297867
     },
     "main-profile.js": {
@@ -175910,10 +175910,10 @@
       "lastSuccess": 1734749179882
     },
     "owner-sf.js": {
-      "total": 375,
-      "success": 341,
-      "last": 1735093317116,
-      "lastSuccess": 1735093317116
+      "total": 376,
+      "success": 342,
+      "last": 1735204384114,
+      "lastSuccess": 1735204384114
     },
     "_cek.js": {
       "total": 1690,
@@ -176432,10 +176432,10 @@
       "lastSuccess": 1723702174291
     },
     "group-cekid.js": {
-      "total": 32,
-      "success": 32,
-      "last": 1734449715919,
-      "lastSuccess": 1734449715919
+      "total": 33,
+      "success": 33,
+      "last": 1735204524864,
+      "lastSuccess": 1735204524864
     },
     "maker-quozio.js": {
       "total": 3,
@@ -176468,10 +176468,10 @@
       "lastSuccess": 1722962094440
     },
     "vn-bot.js": {
-      "total": 71,
-      "success": 71,
-      "last": 1734906593085,
-      "lastSuccess": 1734906593085
+      "total": 72,
+      "success": 72,
+      "last": 1735204714781,
+      "lastSuccess": 1735204714781
     },
     "sticker-toimg.js": {
       "total": 157,
@@ -178051,7 +178051,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735201630104,
+      "backupDB": 1735203960867,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
