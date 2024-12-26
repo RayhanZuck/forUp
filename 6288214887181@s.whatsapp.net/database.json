@@ -26321,7 +26321,7 @@
       "premiumTime": 0
     },
     "6281931417168@s.whatsapp.net": {
-      "exp": 5,
+      "exp": 6,
       "limit": 499,
       "registered": false,
       "name": "Nazwa Aura",
@@ -26338,7 +26338,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6282170112442@s.whatsapp.net": {
       "exp": 5,
@@ -53856,8 +53857,8 @@
       "premiumTime": 0
     },
     "62895415196214@s.whatsapp.net": {
-      "exp": 9686,
-      "limit": 1114,
+      "exp": 9727,
+      "limit": 1064,
       "registered": false,
       "name": "Mafaaza Chicken Parung",
       "age": -1,
@@ -58959,6 +58960,25 @@
     },
     "247918414041140_1@s.whatsapp.net": {
       "exp": 6,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "192629836873929_1@s.whatsapp.net": {
+      "exp": 8,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -65804,10 +65824,10 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 774,
-      "success": 719,
-      "last": 1735243412807,
-      "lastSuccess": 1735243412807
+      "total": 776,
+      "success": 721,
+      "last": 1735245017868,
+      "lastSuccess": 1735245017868
     },
     "downloader-tiktok.js": {
       "total": 1819,
@@ -68083,7 +68103,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735243180363,
+      "backupDB": 1735245008360,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
