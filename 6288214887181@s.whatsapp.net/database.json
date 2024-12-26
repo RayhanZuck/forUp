@@ -718,8 +718,8 @@
       "lastdaily": 1732086399164
     },
     "628884584571@s.whatsapp.net": {
-      "exp": 39048,
-      "limit": 44,
+      "exp": 39112,
+      "limit": 4,
       "registered": false,
       "name": "iky",
       "age": -1,
@@ -787,8 +787,8 @@
       "lastBanned": 0
     },
     "919366665173@s.whatsapp.net": {
-      "exp": 48426,
-      "limit": 139,
+      "exp": 48461,
+      "limit": 114,
       "registered": false,
       "name": "debjit.",
       "age": -1,
@@ -51464,8 +51464,8 @@
       "premiumTime": 0
     },
     "6282291607732@s.whatsapp.net": {
-      "exp": 8611,
-      "limit": 672,
+      "exp": 8672,
+      "limit": 662,
       "registered": true,
       "name": "pikran",
       "age": 15,
@@ -58958,7 +58958,7 @@
       "premiumTime": 0
     },
     "247918414041140_1@s.whatsapp.net": {
-      "exp": 0,
+      "exp": 6,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -58973,7 +58973,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0
     }
   },
@@ -65804,16 +65804,16 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 769,
-      "success": 714,
-      "last": 1735202288469,
-      "lastSuccess": 1735202288469
+      "total": 770,
+      "success": 715,
+      "last": 1735232236183,
+      "lastSuccess": 1735232236183
     },
     "downloader-tiktok.js": {
-      "total": 1816,
-      "success": 1672,
-      "last": 1735226715408,
-      "lastSuccess": 1735226715408
+      "total": 1818,
+      "success": 1674,
+      "last": 1735232637695,
+      "lastSuccess": 1735232637695
     },
     "owner-sf.js": {
       "total": 1076,
@@ -66728,10 +66728,10 @@
       "lastSuccess": 1735128975892
     },
     "sticker-all.js": {
-      "total": 557,
-      "success": 519,
-      "last": 1735229950036,
-      "lastSuccess": 1735229950036
+      "total": 559,
+      "success": 521,
+      "last": 1735231373938,
+      "lastSuccess": 1735231373938
     },
     "game-nebang.js": {
       "total": 169,
@@ -68083,7 +68083,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735228787978,
+      "backupDB": 1735230986842,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
