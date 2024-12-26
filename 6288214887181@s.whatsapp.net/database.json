@@ -181,7 +181,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3955,
+      "exp": 3963,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1046,7 +1046,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 6317,
+      "exp": 6318,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1112,7 +1112,7 @@
       "lastcommand": 1733934913763
     },
     "6283191371141@s.whatsapp.net": {
-      "exp": 25579,
+      "exp": 25612,
       "limit": 102,
       "registered": false,
       "name": "Vyn",
@@ -1128,7 +1128,7 @@
       "WarnReason": "",
       "lastweekly": 1735208898083,
       "lastmonthly": 1733584773607,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1735091611088,
@@ -1230,8 +1230,8 @@
       "lastcommand": 1732391448904
     },
     "6283169226415@s.whatsapp.net": {
-      "exp": 27148,
-      "limit": 19,
+      "exp": 20194,
+      "limit": 39,
       "registered": false,
       "name": "I Just Need Time🎐",
       "age": -1,
@@ -3319,8 +3319,8 @@
       "lastdaily": 1730357910770
     },
     "62881037157545@s.whatsapp.net": {
-      "exp": 17121,
-      "limit": 1119,
+      "exp": 19215,
+      "limit": 1194,
       "registered": false,
       "name": "きょういき Izumi",
       "age": -1,
@@ -3338,7 +3338,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastdaily": 1734948619072
+      "lastdaily": 1735251491880
     },
     "6287720941484@s.whatsapp.net": {
       "exp": 55,
@@ -20389,7 +20389,7 @@
       "premiumTime": 0
     },
     "6281295767447@s.whatsapp.net": {
-      "exp": 19,
+      "exp": 23,
       "limit": 499,
       "registered": false,
       "name": "Galgadoth",
@@ -58995,6 +58995,25 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "27333725560939_1@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -65824,10 +65843,10 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 776,
-      "success": 721,
-      "last": 1735245017868,
-      "lastSuccess": 1735245017868
+      "total": 777,
+      "success": 722,
+      "last": 1735251529693,
+      "lastSuccess": 1735251529693
     },
     "downloader-tiktok.js": {
       "total": 1822,
@@ -65890,10 +65909,10 @@
       "lastSuccess": 1735107315293
     },
     "econ-claim.js": {
-      "total": 2090,
-      "success": 1414,
-      "last": 1735235731495,
-      "lastSuccess": 1735235731495
+      "total": 2091,
+      "success": 1415,
+      "last": 1735251491880,
+      "lastSuccess": 1735251491880
     },
     "game-curi.js": {
       "total": 1145,
@@ -65914,10 +65933,10 @@
       "lastSuccess": 1735212407836
     },
     "main-shop.js": {
-      "total": 832,
-      "success": 832,
-      "last": 1735184816177,
-      "lastSuccess": 1735184816177
+      "total": 833,
+      "success": 833,
+      "last": 1735252348982,
+      "lastSuccess": 1735252348982
     },
     "main-level.js": {
       "total": 208,
@@ -68103,7 +68122,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735247953233,
+      "backupDB": 1735251491723,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
