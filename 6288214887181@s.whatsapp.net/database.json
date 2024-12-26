@@ -29582,7 +29582,7 @@
       "lastBanned": 0
     },
     "201065264389@s.whatsapp.net": {
-      "exp": 27,
+      "exp": 38,
       "limit": 499,
       "registered": false,
       "name": "M",
@@ -53856,8 +53856,8 @@
       "premiumTime": 0
     },
     "62895415196214@s.whatsapp.net": {
-      "exp": 9657,
-      "limit": 1139,
+      "exp": 9686,
+      "limit": 1114,
       "registered": false,
       "name": "Mafaaza Chicken Parung",
       "age": -1,
@@ -65804,10 +65804,10 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 773,
-      "success": 718,
-      "last": 1735238329057,
-      "lastSuccess": 1735238329057
+      "total": 774,
+      "success": 719,
+      "last": 1735243412807,
+      "lastSuccess": 1735243412807
     },
     "downloader-tiktok.js": {
       "total": 1819,
@@ -68083,7 +68083,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735237956747,
+      "backupDB": 1735243180363,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
