@@ -3362,8 +3362,8 @@
       "lastBanned": 0
     },
     "6285877044241@s.whatsapp.net": {
-      "exp": 7655,
-      "limit": 719,
+      "exp": 7861,
+      "limit": 549,
       "registered": false,
       "name": "⛓️CAINEMATES⛓️",
       "age": -1,
@@ -3381,7 +3381,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734875947841,
+      "lastcommand": 1735238567182,
       "lastdaily": 1732544755487
     },
     "6282220634490@s.whatsapp.net": {
@@ -4617,8 +4617,8 @@
       "premiumTime": 0
     },
     "6282245573241@s.whatsapp.net": {
-      "exp": 9993,
-      "limit": 1209,
+      "exp": 10124,
+      "limit": 1134,
       "registered": false,
       "name": "Haris",
       "age": -1,
@@ -4636,7 +4636,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1735209455890,
+      "lastcommand": 1735238533508,
       "lastdaily": 1735070266739
     },
     "6285373704543@s.whatsapp.net": {
@@ -65804,10 +65804,10 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 771,
-      "success": 716,
-      "last": 1735235741842,
-      "lastSuccess": 1735235741842
+      "total": 773,
+      "success": 718,
+      "last": 1735238329057,
+      "lastSuccess": 1735238329057
     },
     "downloader-tiktok.js": {
       "total": 1819,
@@ -65822,10 +65822,10 @@
       "lastSuccess": 1735221875776
     },
     "downloader-play.js": {
-      "total": 1971,
-      "success": 1848,
-      "last": 1735229211987,
-      "lastSuccess": 1735229211987
+      "total": 1974,
+      "success": 1851,
+      "last": 1735238192547,
+      "lastSuccess": 1735238192547
     },
     "downloader-ytvideo.js": {
       "total": 138,
@@ -66020,10 +66020,10 @@
       "lastSuccess": 1731509107103
     },
     "downloader-pinterest.js": {
-      "total": 617,
-      "success": 547,
-      "last": 1735131343620,
-      "lastSuccess": 1735131343620
+      "total": 623,
+      "success": 553,
+      "last": 1735238744162,
+      "lastSuccess": 1735238744162
     },
     "downloader-soundcloud.js": {
       "total": 22,
@@ -66080,10 +66080,10 @@
       "lastSuccess": 1735094563673
     },
     "_rayhan-menu.js": {
-      "total": 515,
-      "success": 485,
-      "last": 1735229915511,
-      "lastSuccess": 1735222033286
+      "total": 516,
+      "success": 486,
+      "last": 1735238561515,
+      "lastSuccess": 1735238561515
     },
     "downloader-ytvideo2.js": {
       "total": 4,
@@ -66446,10 +66446,10 @@
       "lastSuccess": 1735122307851
     },
     "_rayhan-allmenu.js": {
-      "total": 217,
-      "success": 209,
-      "last": 1735136738560,
-      "lastSuccess": 1735136738560
+      "total": 218,
+      "success": 210,
+      "last": 1735238593450,
+      "lastSuccess": 1735238593450
     },
     "ai-ailogo.js": {
       "total": 18,
@@ -68083,7 +68083,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735235730308,
+      "backupDB": 1735237956747,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
