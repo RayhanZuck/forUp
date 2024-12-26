@@ -160,7 +160,7 @@
       "lastcommand": 1735076311886
     },
     "120363183420865643@g.us": {
-      "exp": 5091,
+      "exp": 5107,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -176,12 +176,12 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3889,
+      "exp": 3904,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1046,7 +1046,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 6218,
+      "exp": 6234,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1062,7 +1062,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
     },
@@ -3653,8 +3653,8 @@
       "lastBanned": 0
     },
     "6282182341366@s.whatsapp.net": {
-      "exp": 5217,
-      "limit": 79,
+      "exp": 5336,
+      "limit": 54,
       "registered": false,
       "name": "delfiqa",
       "age": -1,
@@ -12438,7 +12438,7 @@
       "lastrob": 1734788194552
     },
     "6289506041099@s.whatsapp.net": {
-      "exp": 4,
+      "exp": 13,
       "limit": 499,
       "registered": false,
       "name": "Admin",
@@ -12455,7 +12455,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "96504173821966_1@s.whatsapp.net": {
       "exp": 7,
@@ -58117,6 +58118,85 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
+    },
+    "6282246489768@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 499,
+      "registered": false,
+      "name": "r'endI Ayip Ih....BUBUb;)",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6288980243783@s.whatsapp.net": {
+      "exp": 23,
+      "limit": 499,
+      "registered": false,
+      "name": "Jossss",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
+    },
+    "29940837793802_1@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "86496698745008_1@s.whatsapp.net": {
+      "exp": 7,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -65764,10 +65844,10 @@
       "lastSuccess": 1735128975892
     },
     "sticker-all.js": {
-      "total": 483,
-      "success": 447,
-      "last": 1735179635734,
-      "lastSuccess": 1735179635734
+      "total": 488,
+      "success": 452,
+      "last": 1735183414854,
+      "lastSuccess": 1735183414854
     },
     "game-nebang.js": {
       "total": 166,
@@ -67119,7 +67199,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735179631775,
+      "backupDB": 1735181613195,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
