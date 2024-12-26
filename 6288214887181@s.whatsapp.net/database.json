@@ -160,7 +160,7 @@
       "lastcommand": 1735076311886
     },
     "120363183420865643@g.us": {
-      "exp": 5083,
+      "exp": 5091,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -176,12 +176,12 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3884,
+      "exp": 3889,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1046,7 +1046,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 6215,
+      "exp": 6218,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1062,7 +1062,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0
     },
@@ -2958,8 +2958,8 @@
       "lastrob": 1734666388023
     },
     "6287845351838@s.whatsapp.net": {
-      "exp": 37587,
-      "limit": 39,
+      "exp": 37613,
+      "limit": 24,
       "registered": false,
       "name": "𝓐𝓷𝓪𝓴  𝓰𝓪𝓭𝓲𝓼 ♥︎",
       "age": -1,
@@ -3273,7 +3273,7 @@
       "lastcommand": 1734240872472
     },
     "6283897914923@s.whatsapp.net": {
-      "exp": 7881,
+      "exp": 7903,
       "limit": 204,
       "registered": false,
       "name": "Izyy_izumi",
@@ -34727,8 +34727,8 @@
       "premiumTime": 0
     },
     "6281240232241@s.whatsapp.net": {
-      "exp": 2103,
-      "limit": 769,
+      "exp": 2128,
+      "limit": 764,
       "registered": false,
       "name": "Rii Kiyotaka's",
       "age": -1,
@@ -58096,6 +58096,27 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "6282137300674@s.whatsapp.net": {
+      "exp": 12,
+      "limit": 499,
+      "registered": false,
+      "name": "Admin",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -65119,10 +65140,10 @@
       "lastSuccess": 1730161441000
     },
     "downloader-tiktoksearch.js": {
-      "total": 784,
-      "success": 777,
-      "last": 1735177581801,
-      "lastSuccess": 1735177581801
+      "total": 785,
+      "success": 778,
+      "last": 1735179685146,
+      "lastSuccess": 1735179685146
     },
     "ai-llama.js": {
       "total": 352,
@@ -65401,10 +65422,10 @@
       "lastSuccess": 1733006768989
     },
     "av-bot.js": {
-      "total": 24,
-      "success": 24,
-      "last": 1734950444830,
-      "lastSuccess": 1734950444830
+      "total": 25,
+      "success": 25,
+      "last": 1735180668034,
+      "lastSuccess": 1735180668034
     },
     "main-balanceme.js": {
       "total": 26,
@@ -65743,10 +65764,10 @@
       "lastSuccess": 1735128975892
     },
     "sticker-all.js": {
-      "total": 482,
-      "success": 446,
-      "last": 1735179286503,
-      "lastSuccess": 1735179286503
+      "total": 483,
+      "success": 447,
+      "last": 1735179635734,
+      "lastSuccess": 1735179635734
     },
     "game-nebang.js": {
       "total": 166,
@@ -67098,7 +67119,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735177743167,
+      "backupDB": 1735179631775,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
