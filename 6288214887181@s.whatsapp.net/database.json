@@ -6840,8 +6840,8 @@
       "lastwork": 1730875845799
     },
     "6283846804660@s.whatsapp.net": {
-      "exp": 8316,
-      "limit": 709,
+      "exp": 10375,
+      "limit": 784,
       "registered": false,
       "name": "Fulan",
       "age": -1,
@@ -6859,7 +6859,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastdaily": 1734593728186
+      "lastdaily": 1735235731495
     },
     "628172345241@s.whatsapp.net": {
       "exp": -2303,
@@ -65804,10 +65804,10 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 770,
-      "success": 715,
-      "last": 1735232236183,
-      "lastSuccess": 1735232236183
+      "total": 771,
+      "success": 716,
+      "last": 1735235741842,
+      "lastSuccess": 1735235741842
     },
     "downloader-tiktok.js": {
       "total": 1819,
@@ -65870,10 +65870,10 @@
       "lastSuccess": 1735107315293
     },
     "econ-claim.js": {
-      "total": 2089,
-      "success": 1413,
-      "last": 1735226039780,
-      "lastSuccess": 1735226039780
+      "total": 2090,
+      "success": 1414,
+      "last": 1735235731495,
+      "lastSuccess": 1735235731495
     },
     "game-curi.js": {
       "total": 1145,
@@ -68083,7 +68083,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735233726169,
+      "backupDB": 1735235730308,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
