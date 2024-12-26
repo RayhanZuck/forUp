@@ -1448,8 +1448,8 @@
       "lastcommand": 1733719486575
     },
     "6283822760236@s.whatsapp.net": {
-      "exp": 815,
-      "limit": 1880,
+      "exp": 851,
+      "limit": 1855,
       "registered": false,
       "name": "ᥫ᭡𔔁𔘓﹏𝙵𝙰𝙽𝙸﹏𔘓𔔁ᥫ",
       "age": -1,
@@ -1951,7 +1951,7 @@
       "lastdaily": 1734254488975
     },
     "6289523149696@s.whatsapp.net": {
-      "exp": 12599,
+      "exp": 12600,
       "limit": 169,
       "registered": false,
       "name": "Pvznlyyy",
@@ -5932,7 +5932,7 @@
       "lastBanned": 0
     },
     "94762346697@s.whatsapp.net": {
-      "exp": -1916,
+      "exp": -1894,
       "limit": 244,
       "registered": false,
       "name": "Education",
@@ -8039,8 +8039,8 @@
       "lastBanned": 0
     },
     "628818691228@s.whatsapp.net": {
-      "exp": 6759,
-      "limit": 3714,
+      "exp": 6811,
+      "limit": 3699,
       "registered": false,
       "name": "+62 881-8691-228",
       "age": -1,
@@ -54425,8 +54425,8 @@
       "premiumTime": 0
     },
     "6285757581265@s.whatsapp.net": {
-      "exp": 244,
-      "limit": 394,
+      "exp": 271,
+      "limit": 389,
       "registered": false,
       "name": "mieeeeeeeeee",
       "age": -1,
@@ -55682,7 +55682,7 @@
       "premiumTime": 0
     },
     "213125471174739_1@s.whatsapp.net": {
-      "exp": 7,
+      "exp": 8,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -55698,7 +55698,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6282386535838@s.whatsapp.net": {
       "exp": 13,
@@ -58123,7 +58124,7 @@
       "lastBanned": 0
     },
     "6282246489768@s.whatsapp.net": {
-      "exp": 6,
+      "exp": 14,
       "limit": 499,
       "registered": false,
       "name": "r'endI Ayip Ih....BUBUb;)",
@@ -58140,7 +58141,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6288980243783@s.whatsapp.net": {
       "exp": 23,
@@ -58301,6 +58303,25 @@
     },
     "169780308918430_1@s.whatsapp.net": {
       "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "97801136533521_1@s.whatsapp.net": {
+      "exp": 7,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -65066,10 +65087,10 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 765,
-      "success": 710,
-      "last": 1735189170364,
-      "lastSuccess": 1735189170364
+      "total": 766,
+      "success": 711,
+      "last": 1735195887172,
+      "lastSuccess": 1735195887172
     },
     "downloader-tiktok.js": {
       "total": 1795,
@@ -65780,10 +65801,10 @@
       "lastSuccess": 1735097176009
     },
     "audio-effect.js": {
-      "total": 82,
-      "success": 75,
-      "last": 1735053693451,
-      "lastSuccess": 1735053693451
+      "total": 83,
+      "success": 76,
+      "last": 1735196911787,
+      "lastSuccess": 1735196911787
     },
     "game-tebaklagujkt48.js": {
       "total": 49,
@@ -65990,10 +66011,10 @@
       "lastSuccess": 1735128975892
     },
     "sticker-all.js": {
-      "total": 495,
-      "success": 459,
-      "last": 1735194181930,
-      "lastSuccess": 1735194181930
+      "total": 496,
+      "success": 460,
+      "last": 1735195783406,
+      "lastSuccess": 1735195783406
     },
     "game-nebang.js": {
       "total": 166,
@@ -67345,7 +67366,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735193423265,
+      "backupDB": 1735195504406,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
