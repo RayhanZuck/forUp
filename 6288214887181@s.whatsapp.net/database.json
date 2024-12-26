@@ -1334,7 +1334,7 @@
       "premiumTime": 0
     },
     "6281947888865@s.whatsapp.net": {
-      "exp": 2219,
+      "exp": 2259,
       "limit": 195,
       "registered": true,
       "name": "Olan",
@@ -1448,8 +1448,8 @@
       "lastcommand": 1733719486575
     },
     "6283822760236@s.whatsapp.net": {
-      "exp": 2888,
-      "limit": 1955,
+      "exp": 2928,
+      "limit": 1950,
       "registered": false,
       "name": "ᥫ᭡𔔁𔘓﹏𝙵𝙰𝙽𝙸﹏𔘓𔔁ᥫ",
       "age": -1,
@@ -3531,8 +3531,8 @@
       "premiumTime": 0
     },
     "6288221308746@s.whatsapp.net": {
-      "exp": 265,
-      "limit": 374,
+      "exp": 287,
+      "limit": 354,
       "registered": false,
       "name": "@gemil",
       "age": -1,
@@ -54435,8 +54435,8 @@
       "premiumTime": 0
     },
     "6285757581265@s.whatsapp.net": {
-      "exp": 271,
-      "limit": 389,
+      "exp": 308,
+      "limit": 384,
       "registered": false,
       "name": "mieeeeeeeeee",
       "age": -1,
@@ -58904,6 +58904,25 @@
       "limit": 499,
       "registered": false,
       "name": "639692369842",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "148778153685168_1@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
       "age": -1,
       "regTime": -1,
       "unreg": false,
@@ -65753,10 +65772,10 @@
       "lastSuccess": 1735202288469
     },
     "downloader-tiktok.js": {
-      "total": 1815,
-      "success": 1671,
-      "last": 1735221899585,
-      "lastSuccess": 1735221899585
+      "total": 1816,
+      "success": 1672,
+      "last": 1735226715408,
+      "lastSuccess": 1735226715408
     },
     "owner-sf.js": {
       "total": 1076,
@@ -65777,10 +65796,10 @@
       "lastSuccess": 1735184578268
     },
     "sticker-sticker.js": {
-      "total": 890,
-      "success": 772,
-      "last": 1735226662382,
-      "lastSuccess": 1735193388256
+      "total": 892,
+      "success": 774,
+      "last": 1735226767525,
+      "lastSuccess": 1735226767525
     },
     "sticker-toimg.js": {
       "total": 88,
@@ -65861,10 +65880,10 @@
       "lastSuccess": 1735208460479
     },
     "main-limit.js": {
-      "total": 1256,
-      "success": 1256,
-      "last": 1735219888888,
-      "lastSuccess": 1735219888888
+      "total": 1257,
+      "success": 1257,
+      "last": 1735227058150,
+      "lastSuccess": 1735227058150
     },
     "game-ulartangga.js": {
       "total": 147,
@@ -66671,10 +66690,10 @@
       "lastSuccess": 1735128975892
     },
     "sticker-all.js": {
-      "total": 550,
-      "success": 513,
-      "last": 1735225568403,
-      "lastSuccess": 1735225568403
+      "total": 552,
+      "success": 515,
+      "last": 1735227438363,
+      "lastSuccess": 1735227438363
     },
     "game-nebang.js": {
       "total": 169,
@@ -68026,7 +68045,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735224903470,
+      "backupDB": 1735226710540,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
