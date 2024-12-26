@@ -88,7 +88,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 142545,
+      "exp": 142566,
       "limit": 0,
       "registered": false,
       "name": "Rayhan?",
@@ -104,7 +104,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1735204882283,
@@ -7255,8 +7255,8 @@
       "lastcommand": 1730821138098
     },
     "62895320702875@s.whatsapp.net": {
-      "exp": 10066,
-      "limit": 456,
+      "exp": 10119,
+      "limit": 446,
       "registered": false,
       "name": "niakkk",
       "age": -1,
@@ -58700,6 +58700,25 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "25293649645663_1@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -66425,10 +66444,10 @@
       "lastSuccess": 1735128975892
     },
     "sticker-all.js": {
-      "total": 535,
-      "success": 498,
-      "last": 1735213097169,
-      "lastSuccess": 1735213097169
+      "total": 537,
+      "success": 500,
+      "last": 1735215406912,
+      "lastSuccess": 1735215406912
     },
     "game-nebang.js": {
       "total": 169,
@@ -67780,7 +67799,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735212719350,
+      "backupDB": 1735214555724,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
