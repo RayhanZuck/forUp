@@ -1879,8 +1879,8 @@
       "lastdaily": 1733807842363
     },
     "6287810709618@s.whatsapp.net": {
-      "exp": 155936,
-      "limit": 2487,
+      "exp": 155955,
+      "limit": 2482,
       "registered": false,
       "name": "nrull_lethaa～⁠♡",
       "age": -1,
@@ -1996,8 +1996,8 @@
       "lastcommand": 1730741161174
     },
     "6283869691725@s.whatsapp.net": {
-      "exp": 26708,
-      "limit": 79,
+      "exp": 26741,
+      "limit": 54,
       "registered": false,
       "name": "Minn",
       "age": -1,
@@ -3272,8 +3272,8 @@
       "lastcommand": 1734240872472
     },
     "6283897914923@s.whatsapp.net": {
-      "exp": 7855,
-      "limit": 234,
+      "exp": 7881,
+      "limit": 204,
       "registered": false,
       "name": "Izyy_izumi",
       "age": -1,
@@ -7253,8 +7253,8 @@
       "lastcommand": 1730821138098
     },
     "62895320702875@s.whatsapp.net": {
-      "exp": 10040,
-      "limit": 461,
+      "exp": 10066,
+      "limit": 456,
       "registered": false,
       "name": "niakkk",
       "age": -1,
@@ -20248,7 +20248,7 @@
       "premiumTime": 0
     },
     "919686822441@s.whatsapp.net": {
-      "exp": 103,
+      "exp": 109,
       "limit": 499,
       "registered": false,
       "name": "Big Stat",
@@ -56259,7 +56259,7 @@
       "premiumTime": 0
     },
     "173757800923153_1@s.whatsapp.net": {
-      "exp": 4,
+      "exp": 7,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -56275,7 +56275,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "56999031119887_1@s.whatsapp.net": {
       "exp": 1,
@@ -57151,7 +57152,7 @@
       "lastBanned": 0
     },
     "6288221590493@s.whatsapp.net": {
-      "exp": 3,
+      "exp": 11,
       "limit": 499,
       "registered": false,
       "name": "Elsa ameliaa🥰🫰💝🌹",
@@ -57168,7 +57169,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "263792965480466_1@s.whatsapp.net": {
       "exp": 7,
@@ -57941,6 +57943,44 @@
     },
     "24953961361480_1@s.whatsapp.net": {
       "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "54211446366266_1@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "269719768686608_1@s.whatsapp.net": {
+      "exp": 5,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -64698,10 +64738,10 @@
       "lastSuccess": 1735169396433
     },
     "downloader-play.js": {
-      "total": 1951,
-      "success": 1835,
-      "last": 1735170769573,
-      "lastSuccess": 1735170769573
+      "total": 1952,
+      "success": 1836,
+      "last": 1735172646758,
+      "lastSuccess": 1735172646758
     },
     "downloader-ytvideo.js": {
       "total": 137,
@@ -65604,10 +65644,10 @@
       "lastSuccess": 1735128975892
     },
     "sticker-all.js": {
-      "total": 460,
-      "success": 424,
-      "last": 1735136429286,
-      "lastSuccess": 1735136429286
+      "total": 462,
+      "success": 426,
+      "last": 1735173807853,
+      "lastSuccess": 1735173807853
     },
     "game-nebang.js": {
       "total": 166,
@@ -65784,10 +65824,10 @@
       "lastSuccess": 1732545559487
     },
     "downloader-yt2.js": {
-      "total": 385,
-      "success": 249,
-      "last": 1735170686918,
-      "lastSuccess": 1735170642366
+      "total": 386,
+      "success": 250,
+      "last": 1735172210780,
+      "lastSuccess": 1735172210780
     },
     "internet-playlist.js": {
       "total": 20,
@@ -66959,7 +66999,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735170357946,
+      "backupDB": 1735172183794,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
