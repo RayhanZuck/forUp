@@ -1046,7 +1046,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 6247,
+      "exp": 6257,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1880,8 +1880,8 @@
       "lastdaily": 1733807842363
     },
     "6287810709618@s.whatsapp.net": {
-      "exp": 218743,
-      "limit": 2463,
+      "exp": 218811,
+      "limit": 2448,
       "registered": false,
       "name": "nrull_lethaa～⁠♡",
       "age": -1,
@@ -4616,7 +4616,7 @@
       "premiumTime": 0
     },
     "6282245573241@s.whatsapp.net": {
-      "exp": 9939,
+      "exp": 9966,
       "limit": 1209,
       "registered": false,
       "name": "Haris",
@@ -4632,10 +4632,10 @@
       "WarnReason": "",
       "lastweekly": 1735070259175,
       "lastmonthly": 1733893692290,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1733718101127,
+      "lastcommand": 1735199004937,
       "lastdaily": 1735070266739
     },
     "6285373704543@s.whatsapp.net": {
@@ -20408,8 +20408,8 @@
       "lastBanned": 0
     },
     "62882006212609@s.whatsapp.net": {
-      "exp": 1460,
-      "limit": 609,
+      "exp": 1580,
+      "limit": 549,
       "registered": false,
       "name": "Aljndn",
       "age": -1,
@@ -58338,6 +58338,27 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "6282324438109@s.whatsapp.net": {
+      "exp": 23,
+      "limit": 499,
+      "registered": false,
+      "name": "chaa★",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "lastcommand": 1735197319842
     }
   },
   "chats": {
@@ -65083,6 +65104,32 @@
       "teks": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6282324438109@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "pembatasan": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "antiBadword": false,
+      "simi": false,
+      "nsfw": false,
+      "rpg": true,
+      "game": true,
+      "teks": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -65093,10 +65140,10 @@
       "lastSuccess": 1735195887172
     },
     "downloader-tiktok.js": {
-      "total": 1795,
-      "success": 1653,
-      "last": 1735193429790,
-      "lastSuccess": 1735193429790
+      "total": 1798,
+      "success": 1656,
+      "last": 1735199120533,
+      "lastSuccess": 1735199120533
     },
     "owner-sf.js": {
       "total": 1070,
@@ -65261,10 +65308,10 @@
       "lastSuccess": 1734956110225
     },
     "_cek.js": {
-      "total": 822,
-      "success": 822,
-      "last": 1735192964468,
-      "lastSuccess": 1735192964468
+      "total": 824,
+      "success": 824,
+      "last": 1735199005389,
+      "lastSuccess": 1735199005389
     },
     "enable.js": {
       "total": 104,
@@ -66011,10 +66058,10 @@
       "lastSuccess": 1735128975892
     },
     "sticker-all.js": {
-      "total": 496,
-      "success": 460,
-      "last": 1735195783406,
-      "lastSuccess": 1735195783406
+      "total": 499,
+      "success": 463,
+      "last": 1735198953080,
+      "lastSuccess": 1735198953080
     },
     "game-nebang.js": {
       "total": 166,
@@ -67366,7 +67413,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735195504406,
+      "backupDB": 1735197319841,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
