@@ -48094,7 +48094,7 @@
       "premiumTime": 0
     },
     "6281388168886@s.whatsapp.net": {
-      "exp": 2,
+      "exp": 5,
       "limit": 499,
       "registered": false,
       "name": "kelvinz",
@@ -48111,7 +48111,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6282241261990@s.whatsapp.net": {
       "exp": 8,
@@ -68939,7 +68940,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735327638175,
+      "backupDB": 1735332086077,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
