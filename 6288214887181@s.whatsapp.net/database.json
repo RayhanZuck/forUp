@@ -1880,8 +1880,8 @@
       "lastdaily": 1733807842363
     },
     "6287810709618@s.whatsapp.net": {
-      "exp": 219074,
-      "limit": 2438,
+      "exp": 219122,
+      "limit": 2413,
       "registered": false,
       "name": "nrull_lethaa～⁠♡",
       "age": -1,
@@ -1896,9 +1896,9 @@
       "WarnReason": "",
       "lastweekly": 1735010409516,
       "lastmonthly": 1733610473179,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "lastcommand": 1735212732202,
+      "lastcommand": 1735256361223,
       "lastBanned": 0,
       "lastdaily": 1735161680631,
       "lastwork": 1735212679025,
@@ -17709,7 +17709,7 @@
       "premiumTime": 0
     },
     "6281328823174@s.whatsapp.net": {
-      "exp": 47780,
+      "exp": 47817,
       "limit": 4,
       "registered": false,
       "name": "bng•ᴅᴀᴇɴɢ",
@@ -57389,7 +57389,7 @@
       "premiumTime": 0
     },
     "6283893822152@s.whatsapp.net": {
-      "exp": 705,
+      "exp": 732,
       "limit": 364,
       "registered": false,
       "name": "Fadd",
@@ -58998,6 +58998,25 @@
     },
     "27333725560939_1@s.whatsapp.net": {
       "exp": 6,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "277008210759910_1@s.whatsapp.net": {
+      "exp": 1,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -65861,10 +65880,10 @@
       "lastSuccess": 1735221875776
     },
     "downloader-play.js": {
-      "total": 1974,
-      "success": 1851,
-      "last": 1735238192547,
-      "lastSuccess": 1735238192547
+      "total": 1975,
+      "success": 1852,
+      "last": 1735257568860,
+      "lastSuccess": 1735257568860
     },
     "downloader-ytvideo.js": {
       "total": 138,
@@ -65945,10 +65964,10 @@
       "lastSuccess": 1735207801818
     },
     "_shortcut.js": {
-      "total": 320,
-      "success": 311,
-      "last": 1735248139881,
-      "lastSuccess": 1735248139881
+      "total": 321,
+      "success": 312,
+      "last": 1735256485109,
+      "lastSuccess": 1735256485109
     },
     "game-slot.js": {
       "total": 108,
@@ -65993,10 +66012,10 @@
       "lastSuccess": 1735188558812
     },
     "ai-remini.js": {
-      "total": 895,
-      "success": 840,
-      "last": 1735233726779,
-      "lastSuccess": 1735233726779
+      "total": 896,
+      "success": 841,
+      "last": 1735256353471,
+      "lastSuccess": 1735256353471
     },
     "game-tebakbendera.js": {
       "total": 427,
@@ -66017,10 +66036,10 @@
       "lastSuccess": 1734956110225
     },
     "_cek.js": {
-      "total": 836,
-      "success": 836,
-      "last": 1735225548334,
-      "lastSuccess": 1735225548334
+      "total": 837,
+      "success": 837,
+      "last": 1735256361992,
+      "lastSuccess": 1735256361992
     },
     "enable.js": {
       "total": 108,
@@ -68122,7 +68141,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735253711329,
+      "backupDB": 1735256348267,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
