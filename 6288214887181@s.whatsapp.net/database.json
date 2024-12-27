@@ -1811,8 +1811,8 @@
       "premiumTime": 0
     },
     "6285819196249@s.whatsapp.net": {
-      "exp": 39824,
-      "limit": 504,
+      "exp": 39906,
+      "limit": 429,
       "registered": false,
       "name": "ror",
       "age": -1,
@@ -2177,7 +2177,7 @@
       "lastrob": 1735212388687
     },
     "6288983017604@s.whatsapp.net": {
-      "exp": 1548,
+      "exp": 1559,
       "limit": 23,
       "registered": false,
       "name": "Rodan Ay",
@@ -20411,8 +20411,8 @@
       "lastBanned": 0
     },
     "62882006212609@s.whatsapp.net": {
-      "exp": 27696,
-      "limit": 1084,
+      "exp": 27810,
+      "limit": 1074,
       "registered": false,
       "name": "Aljndn",
       "age": -1,
@@ -24488,8 +24488,8 @@
       "premiumTime": 0
     },
     "6281364434575@s.whatsapp.net": {
-      "exp": 8805,
-      "limit": 556,
+      "exp": 8988,
+      "limit": 526,
       "registered": false,
       "name": "EllAngler",
       "age": -1,
@@ -24508,7 +24508,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastwork": 1734329727348,
-      "lastcommand": 1735291796095,
+      "lastcommand": 1735312060183,
       "lastdaily": 1733135866603,
       "title": "Angler"
     },
@@ -33667,7 +33667,7 @@
       "lastBanned": 0
     },
     "6289637192199@s.whatsapp.net": {
-      "exp": 576,
+      "exp": 602,
       "limit": 499,
       "registered": false,
       "name": "T",
@@ -33686,7 +33686,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1733467763570
+      "lastcommand": 1735310682277
     },
     "6285823009574@s.whatsapp.net": {
       "exp": 11,
@@ -41146,7 +41146,7 @@
       "lastBanned": 0
     },
     "13135550002@s.whatsapp.net": {
-      "exp": 2082,
+      "exp": 2184,
       "limit": 499,
       "registered": false,
       "name": "13135550002",
@@ -66535,10 +66535,10 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 787,
-      "success": 732,
-      "last": 1735300695383,
-      "lastSuccess": 1735300695383
+      "total": 790,
+      "success": 735,
+      "last": 1735311215373,
+      "lastSuccess": 1735311215373
     },
     "downloader-tiktok.js": {
       "total": 1874,
@@ -66811,10 +66811,10 @@
       "lastSuccess": 1735094563673
     },
     "_rayhan-menu.js": {
-      "total": 527,
-      "success": 497,
-      "last": 1735306632884,
-      "lastSuccess": 1735306632884
+      "total": 528,
+      "success": 498,
+      "last": 1735310711969,
+      "lastSuccess": 1735310711969
     },
     "downloader-ytvideo2.js": {
       "total": 4,
@@ -67039,9 +67039,9 @@
       "lastSuccess": 1734400278576
     },
     "group-listonline.js": {
-      "total": 167,
+      "total": 169,
       "success": 149,
-      "last": 1735302739544,
+      "last": 1735312114940,
       "lastSuccess": 1735302739544
     },
     "tools-lyrics.js": {
@@ -67177,10 +67177,10 @@
       "lastSuccess": 1735122307851
     },
     "_rayhan-allmenu.js": {
-      "total": 221,
-      "success": 213,
-      "last": 1735300854719,
-      "lastSuccess": 1735300854719
+      "total": 222,
+      "success": 214,
+      "last": 1735312092412,
+      "lastSuccess": 1735312092412
     },
     "ai-ailogo.js": {
       "total": 21,
@@ -67459,10 +67459,10 @@
       "lastSuccess": 1735273727852
     },
     "sticker-all.js": {
-      "total": 572,
-      "success": 532,
-      "last": 1735309915729,
-      "lastSuccess": 1735309915729
+      "total": 575,
+      "success": 534,
+      "last": 1735311835936,
+      "lastSuccess": 1735311835936
     },
     "game-nebang.js": {
       "total": 169,
@@ -68671,10 +68671,10 @@
       "lastSuccess": 1734075717969
     },
     "ai-main.js": {
-      "total": 85,
-      "success": 76,
-      "last": 1735302219539,
-      "lastSuccess": 1735302219539
+      "total": 88,
+      "success": 79,
+      "last": 1735312487788,
+      "lastSuccess": 1735312487788
     },
     "sticker-tweet.js": {
       "total": 2,
@@ -68838,7 +68838,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735308544683,
+      "backupDB": 1735310681943,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
