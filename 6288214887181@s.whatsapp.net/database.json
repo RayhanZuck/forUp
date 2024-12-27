@@ -88,7 +88,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 143161,
+      "exp": 143218,
       "limit": 0,
       "registered": false,
       "name": "Rayhan?",
@@ -160,7 +160,7 @@
       "lastcommand": 1735076311886
     },
     "120363183420865643@g.us": {
-      "exp": 5237,
+      "exp": 5243,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -181,7 +181,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3982,
+      "exp": 3991,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -602,8 +602,8 @@
       "lastrob": 1730711453293
     },
     "628568162468@s.whatsapp.net": {
-      "exp": 450,
-      "limit": 630,
+      "exp": 504,
+      "limit": 580,
       "registered": false,
       "name": "Mechanisiertes Bataillon",
       "age": -1,
@@ -957,7 +957,7 @@
       "lastdaily": 1733554666793
     },
     "6282150698385@s.whatsapp.net": {
-      "exp": 2444,
+      "exp": 2450,
       "limit": 499,
       "registered": false,
       "name": "Je t'aime😉🌿",
@@ -1046,7 +1046,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 6346,
+      "exp": 6352,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1997,8 +1997,8 @@
       "lastcommand": 1730741161174
     },
     "6283869691725@s.whatsapp.net": {
-      "exp": 26741,
-      "limit": 54,
+      "exp": 26765,
+      "limit": 29,
       "registered": false,
       "name": "Minn",
       "age": -1,
@@ -42411,7 +42411,7 @@
       "premiumTime": 0
     },
     "6282396748817@s.whatsapp.net": {
-      "exp": 199,
+      "exp": 215,
       "limit": 499,
       "registered": false,
       "name": "Fonji",
@@ -52785,8 +52785,8 @@
       "lastBanned": 0
     },
     "6281957133061@s.whatsapp.net": {
-      "exp": 186735,
-      "limit": 1547,
+      "exp": 186774,
+      "limit": 1542,
       "registered": false,
       "name": "nanaa",
       "age": -1,
@@ -59373,6 +59373,46 @@
     },
     "196289149059115_1@s.whatsapp.net": {
       "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6287782655835@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 499,
+      "registered": false,
+      "name": "FERI SATORU",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
+    },
+    "198599841427604_1@s.whatsapp.net": {
+      "exp": 3,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -66236,10 +66276,10 @@
       "lastSuccess": 1735280843750
     },
     "downloader-play.js": {
-      "total": 1983,
-      "success": 1859,
-      "last": 1735280294800,
-      "lastSuccess": 1735280294800
+      "total": 1986,
+      "success": 1862,
+      "last": 1735298676881,
+      "lastSuccess": 1735298676881
     },
     "downloader-ytvideo.js": {
       "total": 138,
@@ -67142,10 +67182,10 @@
       "lastSuccess": 1735273727852
     },
     "sticker-all.js": {
-      "total": 562,
-      "success": 524,
-      "last": 1735295488008,
-      "lastSuccess": 1735295488008
+      "total": 563,
+      "success": 525,
+      "last": 1735298264659,
+      "lastSuccess": 1735298264659
     },
     "game-nebang.js": {
       "total": 169,
@@ -68402,10 +68442,10 @@
       "lastSuccess": 1734529996162
     },
     "spammail.js": {
-      "total": 32,
-      "success": 32,
-      "last": 1735001975210,
-      "lastSuccess": 1735001975210
+      "total": 34,
+      "success": 34,
+      "last": 1735298879951,
+      "lastSuccess": 1735298879951
     },
     "tool-ocr.js": {
       "total": 2,
@@ -68515,7 +68555,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735294858890,
+      "backupDB": 1735297125304,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
