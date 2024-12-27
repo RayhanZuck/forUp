@@ -1712,7 +1712,7 @@
       "warn": 5
     },
     "6283875689467@s.whatsapp.net": {
-      "exp": 7721,
+      "exp": 7726,
       "limit": 499,
       "registered": false,
       "name": "Sinnnnnn.",
@@ -165803,6 +165803,25 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0
+    },
+    "48219983708214_1@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -178963,7 +178982,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735309775194,
+      "backupDB": 1735312548664,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
