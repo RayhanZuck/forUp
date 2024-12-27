@@ -160,7 +160,7 @@
       "lastcommand": 1735076311886
     },
     "120363183420865643@g.us": {
-      "exp": 5208,
+      "exp": 5210,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -181,7 +181,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3963,
+      "exp": 3970,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -718,8 +718,8 @@
       "lastdaily": 1732086399164
     },
     "628884584571@s.whatsapp.net": {
-      "exp": 39130,
-      "limit": 4,
+      "exp": 41184,
+      "limit": 79,
       "registered": false,
       "name": "iky",
       "age": -1,
@@ -738,7 +738,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1733004882355,
-      "lastdaily": 1735139994658
+      "lastdaily": 1735262027215
     },
     "6285819941601@s.whatsapp.net": {
       "exp": 1655,
@@ -1046,7 +1046,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 6325,
+      "exp": 6328,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -3274,8 +3274,8 @@
       "lastcommand": 1734240872472
     },
     "6283897914923@s.whatsapp.net": {
-      "exp": 8027,
-      "limit": 104,
+      "exp": 8067,
+      "limit": 54,
       "registered": false,
       "name": "Izyy_izumi",
       "age": -1,
@@ -3319,8 +3319,8 @@
       "lastdaily": 1730357910770
     },
     "62881037157545@s.whatsapp.net": {
-      "exp": 19236,
-      "limit": 1169,
+      "exp": 19285,
+      "limit": 1129,
       "registered": false,
       "name": "きょういき Izumi",
       "age": -1,
@@ -59072,6 +59072,27 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "6283187435697@s.whatsapp.net": {
+      "exp": 7,
+      "limit": 499,
+      "registered": false,
+      "name": "Agus",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -65907,10 +65928,10 @@
       "lastSuccess": 1735253949316
     },
     "downloader-tiktok.js": {
-      "total": 1823,
-      "success": 1677,
-      "last": 1735253718565,
-      "lastSuccess": 1735248918697
+      "total": 1825,
+      "success": 1679,
+      "last": 1735261624207,
+      "lastSuccess": 1735261624207
     },
     "owner-sf.js": {
       "total": 1076,
@@ -65967,10 +65988,10 @@
       "lastSuccess": 1735107315293
     },
     "econ-claim.js": {
-      "total": 2093,
-      "success": 1416,
-      "last": 1735260083757,
-      "lastSuccess": 1735259997421
+      "total": 2094,
+      "success": 1417,
+      "last": 1735262027215,
+      "lastSuccess": 1735262027215
     },
     "game-curi.js": {
       "total": 1145,
@@ -66051,10 +66072,10 @@
       "lastSuccess": 1735188558812
     },
     "ai-remini.js": {
-      "total": 902,
-      "success": 847,
-      "last": 1735260080484,
-      "lastSuccess": 1735260080484
+      "total": 903,
+      "success": 848,
+      "last": 1735262039859,
+      "lastSuccess": 1735262039859
     },
     "game-tebakbendera.js": {
       "total": 427,
@@ -66159,10 +66180,10 @@
       "lastSuccess": 1734673478565
     },
     "downloader-play2.js": {
-      "total": 63,
-      "success": 51,
-      "last": 1735219100870,
-      "lastSuccess": 1735219100870
+      "total": 65,
+      "success": 53,
+      "last": 1735260863870,
+      "lastSuccess": 1735260863870
     },
     "owner-exec.js": {
       "total": 384,
@@ -68180,7 +68201,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735258775547,
+      "backupDB": 1735260788322,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
