@@ -1712,7 +1712,7 @@
       "warn": 5
     },
     "6283875689467@s.whatsapp.net": {
-      "exp": 7702,
+      "exp": 7712,
       "limit": 499,
       "registered": false,
       "name": "Sinnnnnn.",
@@ -108631,7 +108631,7 @@
       "lastBanned": 0
     },
     "6288286718385@s.whatsapp.net": {
-      "exp": 1240,
+      "exp": 1254,
       "limit": 499,
       "registered": true,
       "name": "nenen",
@@ -135217,7 +135217,7 @@
       "premiumTime": 0
     },
     "13135550002@s.whatsapp.net": {
-      "exp": 7718,
+      "exp": 7803,
       "limit": 499,
       "registered": false,
       "name": "13135550002",
@@ -135258,7 +135258,7 @@
       "premiumTime": 0
     },
     "120363356468992489@g.us": {
-      "exp": 367,
+      "exp": 370,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -163624,7 +163624,7 @@
       "premiumTime": 0
     },
     "6287777850689@s.whatsapp.net": {
-      "exp": 10,
+      "exp": 16,
       "limit": 499,
       "registered": false,
       "name": "Asiaap",
@@ -163641,7 +163641,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "173757800923153_1@s.whatsapp.net": {
       "exp": 12,
@@ -165588,6 +165589,44 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
+      "premiumTime": 0
+    },
+    "228806111567918_1@s.whatsapp.net": {
+      "exp": 7,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "100631587086471_1@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
       "premiumTime": 0
     }
   },
@@ -174775,7 +174814,7 @@
         "6287719003775@s.whatsapp.net": 37,
         "62895360871897@s.whatsapp.net": 322,
         "62895320702875@s.whatsapp.net": 37,
-        "6281297729591@s.whatsapp.net": 328,
+        "6281297729591@s.whatsapp.net": 330,
         "6282245573241@s.whatsapp.net": 38,
         "6281559556794@s.whatsapp.net": 32,
         "6281958351619@s.whatsapp.net": 99,
@@ -178744,7 +178783,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735287609349,
+      "backupDB": 1735291124106,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
