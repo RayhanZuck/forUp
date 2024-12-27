@@ -3304,7 +3304,7 @@
       "lastBanned": 0
     },
     "120363280765137622@g.us": {
-      "exp": 7440,
+      "exp": 7448,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -54105,7 +54105,7 @@
       "premiumTime": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 40356,
+      "exp": 40421,
       "limit": 499,
       "registered": false,
       "name": "RayhanAdzShl",
@@ -108631,7 +108631,7 @@
       "lastBanned": 0
     },
     "6288286718385@s.whatsapp.net": {
-      "exp": 1233,
+      "exp": 1240,
       "limit": 499,
       "registered": true,
       "name": "nenen",
@@ -165532,6 +165532,25 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "199612967162009_1@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -172669,10 +172688,10 @@
       "expired": 0,
       "autoSticker": false,
       "total": {
-        "6285766064200@s.whatsapp.net": 838,
-        "6283132534772@s.whatsapp.net": 697,
-        "6288214887181@s.whatsapp.net": 690,
-        "6282123163120@s.whatsapp.net": 473
+        "6285766064200@s.whatsapp.net": 913,
+        "6283132534772@s.whatsapp.net": 724,
+        "6288214887181@s.whatsapp.net": 727,
+        "6282123163120@s.whatsapp.net": 493
       },
       "totalChat": 0
     },
@@ -176540,16 +176559,16 @@
       "lastSuccess": 1735268157183
     },
     "owner-df.js": {
-      "total": 30,
-      "success": 30,
-      "last": 1734749179882,
-      "lastSuccess": 1734749179882
+      "total": 31,
+      "success": 31,
+      "last": 1735280135793,
+      "lastSuccess": 1735280135793
     },
     "owner-sf.js": {
-      "total": 386,
-      "success": 352,
-      "last": 1735276702370,
-      "lastSuccess": 1735276702370
+      "total": 388,
+      "success": 354,
+      "last": 1735280843063,
+      "lastSuccess": 1735280843063
     },
     "_cek.js": {
       "total": 1694,
@@ -178687,7 +178706,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735276701105,
+      "backupDB": 1735280135512,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
