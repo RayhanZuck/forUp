@@ -54105,7 +54105,7 @@
       "premiumTime": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 40160,
+      "exp": 40329,
       "limit": 499,
       "registered": false,
       "name": "RayhanAdzShl",
@@ -135629,7 +135629,7 @@
       "lastwork": 1734674720588
     },
     "6282123163120@s.whatsapp.net": {
-      "exp": 1551,
+      "exp": 1566,
       "limit": 499,
       "registered": false,
       "name": "Bott Ikyy",
@@ -165475,6 +165475,63 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "185418385481796_1@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "223545028260090_1@s.whatsapp.net": {
+      "exp": 7,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "144289946431742_1@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -172612,10 +172669,10 @@
       "expired": 0,
       "autoSticker": false,
       "total": {
-        "6285766064200@s.whatsapp.net": 774,
-        "6283132534772@s.whatsapp.net": 676,
-        "6288214887181@s.whatsapp.net": 657,
-        "6282123163120@s.whatsapp.net": 435
+        "6285766064200@s.whatsapp.net": 826,
+        "6283132534772@s.whatsapp.net": 694,
+        "6288214887181@s.whatsapp.net": 685,
+        "6282123163120@s.whatsapp.net": 469
       },
       "totalChat": 0
     },
@@ -176477,10 +176534,10 @@
       "lastSuccess": 1734969169581
     },
     "owner-gp.js": {
-      "total": 19,
-      "success": 19,
-      "last": 1735212899405,
-      "lastSuccess": 1735212899405
+      "total": 20,
+      "success": 20,
+      "last": 1735268157183,
+      "lastSuccess": 1735268157183
     },
     "owner-df.js": {
       "total": 30,
@@ -176489,10 +176546,10 @@
       "lastSuccess": 1734749179882
     },
     "owner-sf.js": {
-      "total": 381,
-      "success": 347,
-      "last": 1735213241935,
-      "lastSuccess": 1735213241935
+      "total": 385,
+      "success": 351,
+      "last": 1735269635961,
+      "lastSuccess": 1735269635961
     },
     "_cek.js": {
       "total": 1694,
@@ -177011,10 +177068,10 @@
       "lastSuccess": 1723702174291
     },
     "group-cekid.js": {
-      "total": 33,
-      "success": 33,
-      "last": 1735204524864,
-      "lastSuccess": 1735204524864
+      "total": 34,
+      "success": 34,
+      "last": 1735268398676,
+      "lastSuccess": 1735268398676
     },
     "maker-quozio.js": {
       "total": 3,
@@ -178630,7 +178687,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735265669668,
+      "backupDB": 1735268136035,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
