@@ -787,8 +787,8 @@
       "lastBanned": 0
     },
     "919366665173@s.whatsapp.net": {
-      "exp": 48545,
-      "limit": 39,
+      "exp": 48578,
+      "limit": 14,
       "registered": false,
       "name": "debjit.",
       "age": -1,
@@ -10708,7 +10708,7 @@
       "premiumTime": 0
     },
     "6282335928511@s.whatsapp.net": {
-      "exp": 434,
+      "exp": 484,
       "limit": 399,
       "registered": false,
       "name": "RAN",
@@ -10726,7 +10726,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "lastcommand": 1735318749511,
+      "lastcommand": 1735322258965,
       "lastBanned": 0
     },
     "144405876990022_1@s.whatsapp.net": {
@@ -38460,8 +38460,8 @@
       "premiumTime": 0
     },
     "6283878703066@s.whatsapp.net": {
-      "exp": 47130,
-      "limit": 1161,
+      "exp": 47190,
+      "limit": 1136,
       "registered": false,
       "name": "My Biru",
       "age": -1,
@@ -59710,7 +59710,7 @@
       "premiumTime": 0
     },
     "60129217379@s.whatsapp.net": {
-      "exp": 12,
+      "exp": 20,
       "limit": 499,
       "registered": false,
       "name": "sya.",
@@ -66636,10 +66636,10 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 792,
-      "success": 737,
-      "last": 1735313229398,
-      "lastSuccess": 1735313229398
+      "total": 793,
+      "success": 738,
+      "last": 1735321615394,
+      "lastSuccess": 1735321615394
     },
     "downloader-tiktok.js": {
       "total": 1877,
@@ -66654,10 +66654,10 @@
       "lastSuccess": 1735280843750
     },
     "downloader-play.js": {
-      "total": 1995,
-      "success": 1871,
-      "last": 1735318774501,
-      "lastSuccess": 1735318774501
+      "total": 1996,
+      "success": 1872,
+      "last": 1735322607520,
+      "lastSuccess": 1735322607520
     },
     "downloader-ytvideo.js": {
       "total": 139,
@@ -66912,10 +66912,10 @@
       "lastSuccess": 1735094563673
     },
     "_rayhan-menu.js": {
-      "total": 531,
-      "success": 501,
-      "last": 1735318794550,
-      "lastSuccess": 1735318794550
+      "total": 532,
+      "success": 502,
+      "last": 1735322297145,
+      "lastSuccess": 1735322297145
     },
     "downloader-ytvideo2.js": {
       "total": 4,
@@ -68939,7 +68939,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735318748879,
+      "backupDB": 1735321358270,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
