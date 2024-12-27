@@ -3304,7 +3304,7 @@
       "lastBanned": 0
     },
     "120363280765137622@g.us": {
-      "exp": 7491,
+      "exp": 7496,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -125143,7 +125143,7 @@
       "premiumTime": 0
     },
     "6282137295629@s.whatsapp.net": {
-      "exp": 2,
+      "exp": 3,
       "limit": 499,
       "registered": false,
       "name": "+62 821-3729-5629",
@@ -125160,7 +125160,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6283132897771@s.whatsapp.net": {
       "exp": 3,
@@ -135259,7 +135260,7 @@
       "premiumTime": 0
     },
     "120363356468992489@g.us": {
-      "exp": 394,
+      "exp": 402,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -165744,6 +165745,25 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "235549277327458_1@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -174933,7 +174953,7 @@
         "6287719003775@s.whatsapp.net": 37,
         "62895360871897@s.whatsapp.net": 322,
         "62895320702875@s.whatsapp.net": 37,
-        "6281297729591@s.whatsapp.net": 335,
+        "6281297729591@s.whatsapp.net": 337,
         "6282245573241@s.whatsapp.net": 38,
         "6281559556794@s.whatsapp.net": 32,
         "6281958351619@s.whatsapp.net": 99,
@@ -174941,7 +174961,8 @@
         "6283816389250@s.whatsapp.net": 51,
         "6288971815805@s.whatsapp.net": 6,
         "6282291607732@s.whatsapp.net": 1,
-        "6288221590493@s.whatsapp.net": 1
+        "6288221590493@s.whatsapp.net": 3,
+        "6282137295629@s.whatsapp.net": 1
       },
       "totalChat": 0,
       "detekporn": true
@@ -178903,7 +178924,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735301932172,
+      "backupDB": 1735303811673,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
