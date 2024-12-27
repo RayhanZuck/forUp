@@ -1689,7 +1689,7 @@
       "lastBanned": 0
     },
     "6283871900349@s.whatsapp.net": {
-      "exp": 22716,
+      "exp": 22718,
       "limit": 14,
       "registered": false,
       "name": "Candra",
@@ -1712,7 +1712,7 @@
       "warn": 5
     },
     "6283875689467@s.whatsapp.net": {
-      "exp": 7712,
+      "exp": 7721,
       "limit": 499,
       "registered": false,
       "name": "Sinnnnnn.",
@@ -106500,7 +106500,7 @@
       "premiumTime": 0
     },
     "118184967417945_1@s.whatsapp.net": {
-      "exp": 4,
+      "exp": 14,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -106516,7 +106516,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "2340790734943_1@s.whatsapp.net": {
       "exp": 6,
@@ -135258,7 +135259,7 @@
       "premiumTime": 0
     },
     "120363356468992489@g.us": {
-      "exp": 370,
+      "exp": 378,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -165628,6 +165629,25 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0
+    },
+    "54855859200208_1@s.whatsapp.net": {
+      "exp": 7,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -174814,7 +174834,7 @@
         "6287719003775@s.whatsapp.net": 37,
         "62895360871897@s.whatsapp.net": 322,
         "62895320702875@s.whatsapp.net": 37,
-        "6281297729591@s.whatsapp.net": 330,
+        "6281297729591@s.whatsapp.net": 332,
         "6282245573241@s.whatsapp.net": 38,
         "6281559556794@s.whatsapp.net": 32,
         "6281958351619@s.whatsapp.net": 99,
@@ -178783,7 +178803,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735291124106,
+      "backupDB": 1735293307242,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
