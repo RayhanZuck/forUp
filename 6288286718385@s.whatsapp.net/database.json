@@ -3304,7 +3304,7 @@
       "lastBanned": 0
     },
     "120363280765137622@g.us": {
-      "exp": 7458,
+      "exp": 7475,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -28540,8 +28540,8 @@
       "lastdaily": 1727158139477
     },
     "6283137913336@s.whatsapp.net": {
-      "exp": 1328,
-      "limit": 1949,
+      "exp": 1408,
+      "limit": 1874,
       "registered": false,
       "name": "><~always Anna~><",
       "age": -1,
@@ -30054,7 +30054,7 @@
       "lastBanned": 0
     },
     "6283145749741@s.whatsapp.net": {
-      "exp": 6841,
+      "exp": 6851,
       "limit": 824,
       "registered": false,
       "name": "~cacing berkaki🦵🏻",
@@ -31698,7 +31698,7 @@
       "lastcommand": 1724457523506
     },
     "6283110552801@s.whatsapp.net": {
-      "exp": 74452,
+      "exp": 74460,
       "limit": 77,
       "registered": false,
       "name": "....",
@@ -165667,6 +165667,25 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "198599841427604_1@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -165916,8 +165935,8 @@
       "antiFoto": false,
       "antiGrup": true,
       "total": {
-        "6283137913336@s.whatsapp.net": 134,
-        "6282266206795@s.whatsapp.net": 1571,
+        "6283137913336@s.whatsapp.net": 170,
+        "6282266206795@s.whatsapp.net": 1592,
         "6289525303884@s.whatsapp.net": 1411,
         "6281281875994@s.whatsapp.net": 60,
         "6283128873026@s.whatsapp.net": 44,
@@ -165929,7 +165948,8 @@
         "6285797703977@s.whatsapp.net": 7,
         "6282144246119@s.whatsapp.net": 6,
         "6285776285560@s.whatsapp.net": 5,
-        "6283145749741@s.whatsapp.net": 18
+        "6283145749741@s.whatsapp.net": 46,
+        "6283110552801@s.whatsapp.net": 13
       },
       "totalChat": 0
     },
@@ -177018,10 +177038,10 @@
       "lastSuccess": 1725006103284
     },
     "ai-remini.js": {
-      "total": 824,
-      "success": 789,
-      "last": 1735297258880,
-      "lastSuccess": 1735297258880
+      "total": 827,
+      "success": 792,
+      "last": 1735299545551,
+      "lastSuccess": 1735299545551
     },
     "own-edit.js": {
       "total": 3,
@@ -178823,7 +178843,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735295625687,
+      "backupDB": 1735297962074,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
