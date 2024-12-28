@@ -3304,7 +3304,7 @@
       "lastBanned": 0
     },
     "120363280765137622@g.us": {
-      "exp": 7527,
+      "exp": 7542,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -54105,7 +54105,7 @@
       "premiumTime": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 40648,
+      "exp": 40656,
       "limit": 499,
       "registered": false,
       "name": "RayhanAdzShl",
@@ -135260,7 +135260,7 @@
       "premiumTime": 0
     },
     "120363356468992489@g.us": {
-      "exp": 411,
+      "exp": 420,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -135631,7 +135631,7 @@
       "lastwork": 1734674720588
     },
     "6282123163120@s.whatsapp.net": {
-      "exp": 1566,
+      "exp": 1569,
       "limit": 499,
       "registered": false,
       "name": "Bott Ikyy",
@@ -165993,6 +165993,25 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "50625232506926_1@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -173134,9 +173153,9 @@
       "autoSticker": false,
       "total": {
         "6285766064200@s.whatsapp.net": 1082,
-        "6283132534772@s.whatsapp.net": 802,
+        "6283132534772@s.whatsapp.net": 803,
         "6288214887181@s.whatsapp.net": 796,
-        "6282123163120@s.whatsapp.net": 501
+        "6282123163120@s.whatsapp.net": 502
       },
       "totalChat": 0
     },
@@ -179153,7 +179172,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735379886860,
+      "backupDB": 1735384434469,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
