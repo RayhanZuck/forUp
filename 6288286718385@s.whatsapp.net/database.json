@@ -54105,7 +54105,7 @@
       "premiumTime": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 40478,
+      "exp": 40558,
       "limit": 499,
       "registered": false,
       "name": "RayhanAdzShl",
@@ -160800,7 +160800,7 @@
       "lastBanned": 0
     },
     "6283143509483@s.whatsapp.net": {
-      "exp": 95,
+      "exp": 105,
       "limit": 499,
       "registered": false,
       "name": "•",
@@ -173019,9 +173019,9 @@
       "expired": 0,
       "autoSticker": false,
       "total": {
-        "6285766064200@s.whatsapp.net": 950,
-        "6283132534772@s.whatsapp.net": 738,
-        "6288214887181@s.whatsapp.net": 745,
+        "6285766064200@s.whatsapp.net": 995,
+        "6283132534772@s.whatsapp.net": 760,
+        "6288214887181@s.whatsapp.net": 760,
         "6282123163120@s.whatsapp.net": 501
       },
       "totalChat": 0
@@ -175068,16 +175068,16 @@
         "6287719003775@s.whatsapp.net": 37,
         "62895360871897@s.whatsapp.net": 322,
         "62895320702875@s.whatsapp.net": 37,
-        "6281297729591@s.whatsapp.net": 341,
-        "6282245573241@s.whatsapp.net": 40,
+        "6281297729591@s.whatsapp.net": 342,
+        "6282245573241@s.whatsapp.net": 41,
         "6281559556794@s.whatsapp.net": 32,
         "6281958351619@s.whatsapp.net": 99,
         "6285766064200@s.whatsapp.net": 24,
         "6283816389250@s.whatsapp.net": 51,
         "6288971815805@s.whatsapp.net": 6,
         "6282291607732@s.whatsapp.net": 1,
-        "6288221590493@s.whatsapp.net": 7,
-        "6282137295629@s.whatsapp.net": 5
+        "6288221590493@s.whatsapp.net": 8,
+        "6282137295629@s.whatsapp.net": 6
       },
       "totalChat": 0,
       "detekporn": true
@@ -176898,10 +176898,10 @@
       "lastSuccess": 1735280135793
     },
     "owner-sf.js": {
-      "total": 389,
-      "success": 355,
-      "last": 1735300834612,
-      "lastSuccess": 1735300834612
+      "total": 392,
+      "success": 356,
+      "last": 1735346142908,
+      "lastSuccess": 1735346142908
     },
     "_cek.js": {
       "total": 1695,
@@ -179039,7 +179039,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735340748175,
+      "backupDB": 1735344357955,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
