@@ -391,7 +391,7 @@
       "lastBanned": 0
     },
     "6288225432435@s.whatsapp.net": {
-      "exp": 17528,
+      "exp": 17539,
       "limit": 484,
       "registered": false,
       "name": "🦖AQSHA X GOD🦈",
@@ -3304,7 +3304,7 @@
       "lastBanned": 0
     },
     "120363280765137622@g.us": {
-      "exp": 7517,
+      "exp": 7527,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -165955,6 +165955,44 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "133814437290064_1@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "4453897871478_1@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -179115,7 +179153,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735372981627,
+      "backupDB": 1735376030316,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
