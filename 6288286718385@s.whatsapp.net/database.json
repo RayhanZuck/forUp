@@ -1712,7 +1712,7 @@
       "warn": 5
     },
     "6283875689467@s.whatsapp.net": {
-      "exp": 7735,
+      "exp": 7750,
       "limit": 499,
       "registered": false,
       "name": "Sinnnnnn.",
@@ -149759,7 +149759,7 @@
       "premiumTime": 0
     },
     "6282291607732@s.whatsapp.net": {
-      "exp": 151,
+      "exp": 156,
       "limit": 499,
       "registered": false,
       "name": ".",
@@ -165879,6 +165879,25 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "251475150299175_1@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -175068,16 +175087,16 @@
         "6287719003775@s.whatsapp.net": 37,
         "62895360871897@s.whatsapp.net": 322,
         "62895320702875@s.whatsapp.net": 37,
-        "6281297729591@s.whatsapp.net": 342,
-        "6282245573241@s.whatsapp.net": 41,
+        "6281297729591@s.whatsapp.net": 343,
+        "6282245573241@s.whatsapp.net": 42,
         "6281559556794@s.whatsapp.net": 32,
         "6281958351619@s.whatsapp.net": 99,
         "6285766064200@s.whatsapp.net": 24,
         "6283816389250@s.whatsapp.net": 51,
         "6288971815805@s.whatsapp.net": 6,
         "6282291607732@s.whatsapp.net": 1,
-        "6288221590493@s.whatsapp.net": 8,
-        "6282137295629@s.whatsapp.net": 6
+        "6288221590493@s.whatsapp.net": 9,
+        "6282137295629@s.whatsapp.net": 7
       },
       "totalChat": 0,
       "detekporn": true
@@ -179039,7 +179058,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735355555532,
+      "backupDB": 1735357784372,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
