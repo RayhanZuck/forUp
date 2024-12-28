@@ -160,7 +160,7 @@
       "lastcommand": 1735076311886
     },
     "120363183420865643@g.us": {
-      "exp": 5306,
+      "exp": 5322,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -181,7 +181,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 3998,
+      "exp": 4002,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -787,8 +787,8 @@
       "lastBanned": 0
     },
     "919366665173@s.whatsapp.net": {
-      "exp": 50757,
-      "limit": 64,
+      "exp": 50778,
+      "limit": 39,
       "registered": false,
       "name": "debjit.",
       "age": -1,
@@ -1047,7 +1047,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 6385,
+      "exp": 6388,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1952,8 +1952,8 @@
       "lastdaily": 1734254488975
     },
     "6289523149696@s.whatsapp.net": {
-      "exp": 12690,
-      "limit": 139,
+      "exp": 12796,
+      "limit": 134,
       "registered": false,
       "name": "Pvznlyyy",
       "age": -1,
@@ -2153,7 +2153,7 @@
       "lastcommand": 1730727286271
     },
     "6285720973051@s.whatsapp.net": {
-      "exp": 239525,
+      "exp": 239532,
       "limit": 9117,
       "registered": true,
       "name": "citra",
@@ -4213,7 +4213,7 @@
       "premiumTime": 0
     },
     "6289621609393@s.whatsapp.net": {
-      "exp": 71794,
+      "exp": 71836,
       "limit": 1484,
       "registered": false,
       "name": "~Poetra",
@@ -4233,7 +4233,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastdaily": 1735097798206,
-      "lastcommand": 1735218875718
+      "lastcommand": 1735364461379
     },
     "6283132719310@s.whatsapp.net": {
       "exp": 52,
@@ -12417,8 +12417,8 @@
       "lastcommand": 1731472269564
     },
     "6281958351619@s.whatsapp.net": {
-      "exp": 4467,
-      "limit": 20,
+      "exp": 4487,
+      "limit": 15,
       "registered": false,
       "name": "kaAll",
       "age": -1,
@@ -59790,6 +59790,27 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "6282140063419@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 499,
+      "registered": false,
+      "name": "Rapi",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -66697,10 +66718,10 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 795,
-      "success": 740,
-      "last": 1735363844779,
-      "lastSuccess": 1735363844779
+      "total": 796,
+      "success": 741,
+      "last": 1735364109151,
+      "lastSuccess": 1735364109151
     },
     "downloader-tiktok.js": {
       "total": 1880,
@@ -67177,10 +67198,10 @@
       "lastSuccess": 1735295903614
     },
     "info-ping.js": {
-      "total": 278,
-      "success": 278,
-      "last": 1735301398366,
-      "lastSuccess": 1735301398366
+      "total": 279,
+      "success": 279,
+      "last": 1735364466187,
+      "lastSuccess": 1735364466187
     },
     "ai-toanime.js": {
       "total": 99,
@@ -67621,10 +67642,10 @@
       "lastSuccess": 1735273727852
     },
     "sticker-all.js": {
-      "total": 584,
-      "success": 543,
-      "last": 1735360440469,
-      "lastSuccess": 1735360440469
+      "total": 587,
+      "success": 545,
+      "last": 1735364277190,
+      "lastSuccess": 1735364277190
     },
     "game-nebang.js": {
       "total": 170,
@@ -69000,7 +69021,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735362154436,
+      "backupDB": 1735364075171,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
