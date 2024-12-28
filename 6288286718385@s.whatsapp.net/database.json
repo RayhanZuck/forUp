@@ -54105,7 +54105,7 @@
       "premiumTime": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 40617,
+      "exp": 40648,
       "limit": 499,
       "registered": false,
       "name": "RayhanAdzShl",
@@ -173019,9 +173019,9 @@
       "expired": 0,
       "autoSticker": false,
       "total": {
-        "6285766064200@s.whatsapp.net": 1049,
-        "6283132534772@s.whatsapp.net": 786,
-        "6288214887181@s.whatsapp.net": 782,
+        "6285766064200@s.whatsapp.net": 1082,
+        "6283132534772@s.whatsapp.net": 802,
+        "6288214887181@s.whatsapp.net": 796,
         "6282123163120@s.whatsapp.net": 501
       },
       "totalChat": 0
@@ -176898,10 +176898,10 @@
       "lastSuccess": 1735280135793
     },
     "owner-sf.js": {
-      "total": 394,
-      "success": 358,
-      "last": 1735349445984,
-      "lastSuccess": 1735349445984
+      "total": 395,
+      "success": 359,
+      "last": 1735350397661,
+      "lastSuccess": 1735350397661
     },
     "_cek.js": {
       "total": 1695,
@@ -179039,7 +179039,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735348248298,
+      "backupDB": 1735350395180,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
