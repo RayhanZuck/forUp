@@ -1448,8 +1448,8 @@
       "lastcommand": 1733719486575
     },
     "6283822760236@s.whatsapp.net": {
-      "exp": 2995,
-      "limit": 1900,
+      "exp": 100,
+      "limit": 2220,
       "registered": false,
       "name": "ᥫ᭡𔔁𔘓﹏𝙵𝙰𝙽𝙸﹏𔘓𔔁ᥫ",
       "age": -1,
@@ -1462,12 +1462,12 @@
       "role": "Beginner",
       "BannedReason": "",
       "WarnReason": "",
-      "lastweekly": 1734533079815,
+      "lastweekly": 1735358964379,
       "lastmonthly": 1734533076382,
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastdaily": 1735226039780,
+      "lastdaily": 1735358928944,
       "lastcommand": 1735110120667,
       "lastwork": 1735008793385,
       "lastrob": 1734943533343
@@ -1997,8 +1997,8 @@
       "lastcommand": 1730741161174
     },
     "6283869691725@s.whatsapp.net": {
-      "exp": 28854,
-      "limit": 79,
+      "exp": 28886,
+      "limit": 54,
       "registered": false,
       "name": "Minn",
       "age": -1,
@@ -2177,7 +2177,7 @@
       "lastrob": 1735212388687
     },
     "6288983017604@s.whatsapp.net": {
-      "exp": 442,
+      "exp": 532,
       "limit": 24,
       "registered": false,
       "name": "Rodan Ay",
@@ -51468,7 +51468,7 @@
       "premiumTime": 0
     },
     "6282291607732@s.whatsapp.net": {
-      "exp": 8672,
+      "exp": 8675,
       "limit": 662,
       "registered": true,
       "name": "pikran",
@@ -57533,8 +57533,8 @@
       "premiumTime": 0
     },
     "6285376093311@s.whatsapp.net": {
-      "exp": 601,
-      "limit": 374,
+      "exp": 637,
+      "limit": 369,
       "registered": false,
       "name": "Rhaaaaa",
       "age": -1,
@@ -59756,6 +59756,25 @@
       "limit": 499,
       "registered": false,
       "name": "+62 859-2137-1714",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "251475150299175_1@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
       "age": -1,
       "regTime": -1,
       "unreg": false,
@@ -66695,10 +66714,10 @@
       "lastSuccess": 1735350397479
     },
     "downloader-play.js": {
-      "total": 2002,
-      "success": 1876,
-      "last": 1735354611153,
-      "lastSuccess": 1735354611153
+      "total": 2003,
+      "success": 1877,
+      "last": 1735358454710,
+      "lastSuccess": 1735358454710
     },
     "downloader-ytvideo.js": {
       "total": 139,
@@ -66743,10 +66762,10 @@
       "lastSuccess": 1735271593830
     },
     "econ-claim.js": {
-      "total": 2137,
-      "success": 1441,
-      "last": 1735352586323,
-      "lastSuccess": 1735346459870
+      "total": 2141,
+      "success": 1443,
+      "last": 1735359006754,
+      "lastSuccess": 1735358964379
     },
     "game-curi.js": {
       "total": 1166,
@@ -66767,10 +66786,10 @@
       "lastSuccess": 1735346617756
     },
     "main-shop.js": {
-      "total": 839,
-      "success": 839,
-      "last": 1735317876961,
-      "lastSuccess": 1735317876961
+      "total": 840,
+      "success": 840,
+      "last": 1735359001375,
+      "lastSuccess": 1735359001375
     },
     "main-level.js": {
       "total": 219,
@@ -66827,10 +66846,10 @@
       "lastSuccess": 1735346520215
     },
     "ai-remini.js": {
-      "total": 915,
-      "success": 859,
-      "last": 1735307438691,
-      "lastSuccess": 1735307438691
+      "total": 916,
+      "success": 860,
+      "last": 1735357866359,
+      "lastSuccess": 1735357866359
     },
     "game-tebakbendera.js": {
       "total": 427,
@@ -67601,10 +67620,10 @@
       "lastSuccess": 1735273727852
     },
     "sticker-all.js": {
-      "total": 582,
-      "success": 541,
-      "last": 1735352621498,
-      "lastSuccess": 1735352621498
+      "total": 583,
+      "success": 542,
+      "last": 1735359456370,
+      "lastSuccess": 1735359456370
     },
     "game-nebang.js": {
       "total": 170,
@@ -68980,7 +68999,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735355964985,
+      "backupDB": 1735357783385,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
