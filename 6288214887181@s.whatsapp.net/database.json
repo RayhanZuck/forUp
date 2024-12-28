@@ -602,7 +602,7 @@
       "lastrob": 1730711453293
     },
     "628568162468@s.whatsapp.net": {
-      "exp": 2082,
+      "exp": 3143,
       "limit": 580,
       "registered": false,
       "name": "Mechanisiertes Bataillon",
@@ -622,9 +622,9 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastdaily": 1735101309259,
-      "lastcommand": 1735300058193,
+      "lastcommand": 1735370181307,
       "lastwork": 1735101265620,
-      "lastrob": 1735367365857
+      "lastrob": 1735370241658
     },
     "6285878464218@s.whatsapp.net": {
       "exp": 20827,
@@ -1273,8 +1273,8 @@
       "premiumTime": 0
     },
     "6281325107002@s.whatsapp.net": {
-      "exp": 2406,
-      "limit": 85,
+      "exp": 2492,
+      "limit": 10,
       "registered": false,
       "name": "abdurhmnaufa",
       "age": -1,
@@ -2154,7 +2154,7 @@
       "lastcommand": 1730727286271
     },
     "6285720973051@s.whatsapp.net": {
-      "exp": 240112,
+      "exp": 239122,
       "limit": 9117,
       "registered": true,
       "name": "citra",
@@ -21675,7 +21675,7 @@
       "premiumTime": 0
     },
     "6288233803450@s.whatsapp.net": {
-      "exp": -610,
+      "exp": -600,
       "limit": 499,
       "registered": false,
       "name": "PUTRA STARBOY 😎👨‍⚖️🤵🤵👮😎",
@@ -51731,7 +51731,7 @@
       "premiumTime": 0
     },
     "62895341178597@s.whatsapp.net": {
-      "exp": 68376,
+      "exp": 69695,
       "limit": 727,
       "registered": false,
       "name": "I want to die",
@@ -51751,7 +51751,7 @@
       "premiumTime": 0,
       "lastcommand": "2024-12-27T05:42:43.303Z",
       "lastBanned": 0,
-      "lastwork": 1735278576883,
+      "lastwork": 1735371562087,
       "lastrob": 1735277936885,
       "lastdaily": 1735185525267
     },
@@ -58220,8 +58220,8 @@
       "premiumTime": 0
     },
     "62882021309956@s.whatsapp.net": {
-      "exp": 187,
-      "limit": 374,
+      "exp": 212,
+      "limit": 354,
       "registered": false,
       "name": "ikky",
       "age": -1,
@@ -59834,6 +59834,25 @@
     },
     "43521457283072_1@s.whatsapp.net": {
       "exp": 2,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "116324911046772_1@s.whatsapp.net": {
+      "exp": 5,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -66757,16 +66776,16 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 796,
-      "success": 741,
-      "last": 1735364109151,
-      "lastSuccess": 1735364109151
+      "total": 799,
+      "success": 744,
+      "last": 1735370281787,
+      "lastSuccess": 1735370281787
     },
     "downloader-tiktok.js": {
-      "total": 1882,
-      "success": 1736,
-      "last": 1735367483396,
-      "lastSuccess": 1735367483396
+      "total": 1883,
+      "success": 1737,
+      "last": 1735370654475,
+      "lastSuccess": 1735370654475
     },
     "owner-sf.js": {
       "total": 1095,
@@ -66799,10 +66818,10 @@
       "lastSuccess": 1735210603485
     },
     "game-kerja.js": {
-      "total": 995,
-      "success": 821,
-      "last": 1735367456462,
-      "lastSuccess": 1735367456462
+      "total": 996,
+      "success": 822,
+      "last": 1735371563080,
+      "lastSuccess": 1735371563080
     },
     "ai-blackbox.js": {
       "total": 14,
@@ -66829,10 +66848,10 @@
       "lastSuccess": 1735367427098
     },
     "game-curi.js": {
-      "total": 1170,
-      "success": 864,
-      "last": 1735368971673,
-      "lastSuccess": 1735368971673
+      "total": 1171,
+      "success": 865,
+      "last": 1735370242278,
+      "lastSuccess": 1735370242278
     },
     "game-copet.js": {
       "total": 176,
@@ -67237,10 +67256,10 @@
       "lastSuccess": 1735295903614
     },
     "info-ping.js": {
-      "total": 279,
-      "success": 279,
-      "last": 1735364466187,
-      "lastSuccess": 1735364466187
+      "total": 280,
+      "success": 280,
+      "last": 1735370194547,
+      "lastSuccess": 1735370194547
     },
     "ai-toanime.js": {
       "total": 99,
@@ -69060,7 +69079,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735368267524,
+      "backupDB": 1735370137153,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
