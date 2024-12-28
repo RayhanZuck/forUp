@@ -958,7 +958,7 @@
       "lastdaily": 1733554666793
     },
     "6282150698385@s.whatsapp.net": {
-      "exp": 2498,
+      "exp": 2508,
       "limit": 499,
       "registered": false,
       "name": "Je t'aime😉🌿",
@@ -2154,7 +2154,7 @@
       "lastcommand": 1730727286271
     },
     "6285720973051@s.whatsapp.net": {
-      "exp": 239122,
+      "exp": 239147,
       "limit": 9117,
       "registered": true,
       "name": "citra",
@@ -3253,8 +3253,8 @@
       "premiumTime": 0
     },
     "6287761263814@s.whatsapp.net": {
-      "exp": 31152,
-      "limit": 99,
+      "exp": 31256,
+      "limit": 24,
       "registered": false,
       "name": "Aldo 👽",
       "age": -1,
@@ -3276,7 +3276,7 @@
       "lastcommand": 1734240872472
     },
     "6283897914923@s.whatsapp.net": {
-      "exp": 8116,
+      "exp": 8140,
       "limit": 54,
       "registered": false,
       "name": "Izyy_izumi",
@@ -3292,10 +3292,10 @@
       "WarnReason": "",
       "lastweekly": 1734396473153,
       "lastmonthly": 1734900303776,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734132558745,
+      "lastcommand": 1735373210460,
       "lastdaily": 1734149277220
     },
     "6285856214288@s.whatsapp.net": {
@@ -4471,8 +4471,8 @@
       "premiumTime": 0
     },
     "6285765868163@s.whatsapp.net": {
-      "exp": 557577,
-      "limit": 53186,
+      "exp": 557667,
+      "limit": 53106,
       "registered": false,
       "name": "KERz....",
       "age": -1,
@@ -12418,8 +12418,8 @@
       "lastcommand": 1731472269564
     },
     "6281958351619@s.whatsapp.net": {
-      "exp": 4487,
-      "limit": 15,
+      "exp": 8610,
+      "limit": 315,
       "registered": false,
       "name": "kaAll",
       "age": -1,
@@ -12432,13 +12432,13 @@
       "role": "Beginner",
       "BannedReason": "",
       "WarnReason": "",
-      "lastweekly": 1734085705052,
+      "lastweekly": 1735373497307,
       "lastmonthly": 1733405579519,
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1735129812627,
-      "lastdaily": 1735200158654,
+      "lastcommand": 1735373442482,
+      "lastdaily": 1735373471652,
       "lastwork": 1734788333153,
       "lastrob": 1734788194552
     },
@@ -66782,10 +66782,10 @@
       "lastSuccess": 1735370281787
     },
     "downloader-tiktok.js": {
-      "total": 1883,
-      "success": 1737,
-      "last": 1735370654475,
-      "lastSuccess": 1735370654475
+      "total": 1887,
+      "success": 1741,
+      "last": 1735373670320,
+      "lastSuccess": 1735373670320
     },
     "owner-sf.js": {
       "total": 1095,
@@ -66794,10 +66794,10 @@
       "lastSuccess": 1735350397479
     },
     "downloader-play.js": {
-      "total": 2003,
-      "success": 1877,
-      "last": 1735358454710,
-      "lastSuccess": 1735358454710
+      "total": 2004,
+      "success": 1878,
+      "last": 1735373458939,
+      "lastSuccess": 1735373458939
     },
     "downloader-ytvideo.js": {
       "total": 139,
@@ -66842,10 +66842,10 @@
       "lastSuccess": 1735271593830
     },
     "econ-claim.js": {
-      "total": 2153,
-      "success": 1450,
-      "last": 1735368946066,
-      "lastSuccess": 1735367427098
+      "total": 2157,
+      "success": 1452,
+      "last": 1735373533572,
+      "lastSuccess": 1735373497307
     },
     "game-curi.js": {
       "total": 1171,
@@ -66950,10 +66950,10 @@
       "lastSuccess": 1734956110225
     },
     "_cek.js": {
-      "total": 864,
-      "success": 864,
-      "last": 1735369997967,
-      "lastSuccess": 1735369997967
+      "total": 866,
+      "success": 866,
+      "last": 1735373443301,
+      "lastSuccess": 1735373443301
     },
     "enable.js": {
       "total": 109,
@@ -67436,10 +67436,10 @@
       "lastSuccess": 1730270937202
     },
     "downloader-twitter.js": {
-      "total": 46,
-      "success": 45,
-      "last": 1735302408597,
-      "lastSuccess": 1735302408597
+      "total": 49,
+      "success": 48,
+      "last": 1735373584776,
+      "lastSuccess": 1735373584776
     },
     "dl-pinterest.js": {
       "total": 38,
@@ -69079,7 +69079,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735370137153,
+      "backupDB": 1735372772535,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
