@@ -1712,7 +1712,7 @@
       "warn": 5
     },
     "6283875689467@s.whatsapp.net": {
-      "exp": 7790,
+      "exp": 7795,
       "limit": 499,
       "registered": false,
       "name": "Sinnnnnn.",
@@ -3304,7 +3304,7 @@
       "lastBanned": 0
     },
     "120363280765137622@g.us": {
-      "exp": 7542,
+      "exp": 7556,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -135608,7 +135608,7 @@
       "premiumTime": 0
     },
     "6283846829169@s.whatsapp.net": {
-      "exp": 2261,
+      "exp": 2266,
       "limit": 449,
       "registered": false,
       "name": "~B🗿",
@@ -166012,6 +166012,44 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "228685969899724_1@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "87565843574970_1@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -175211,7 +175249,7 @@
         "6282291607732@s.whatsapp.net": 1,
         "6288221590493@s.whatsapp.net": 9,
         "6282137295629@s.whatsapp.net": 7,
-        "6287845351838@s.whatsapp.net": 1
+        "6287845351838@s.whatsapp.net": 2
       },
       "totalChat": 0,
       "detekporn": true
@@ -179179,7 +179217,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735387521957,
+      "backupDB": 1735389775938,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
