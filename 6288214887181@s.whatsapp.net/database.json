@@ -160,7 +160,7 @@
       "lastcommand": 1735076311886
     },
     "120363183420865643@g.us": {
-      "exp": 5322,
+      "exp": 5331,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -602,8 +602,8 @@
       "lastrob": 1730711453293
     },
     "628568162468@s.whatsapp.net": {
-      "exp": 3143,
-      "limit": 580,
+      "exp": 3181,
+      "limit": 555,
       "registered": false,
       "name": "Mechanisiertes Bataillon",
       "age": -1,
@@ -787,8 +787,8 @@
       "lastBanned": 0
     },
     "919366665173@s.whatsapp.net": {
-      "exp": 50778,
-      "limit": 39,
+      "exp": 50814,
+      "limit": 14,
       "registered": false,
       "name": "debjit.",
       "age": -1,
@@ -803,7 +803,7 @@
       "WarnReason": "",
       "lastweekly": 1734802559650,
       "lastmonthly": 1733593000713,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastdaily": 1735363819801,
@@ -1047,7 +1047,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 6393,
+      "exp": 6403,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -14050,7 +14050,7 @@
       "premiumTime": 0
     },
     "6282328062718@s.whatsapp.net": {
-      "exp": 3168,
+      "exp": 3482,
       "limit": 424,
       "registered": false,
       "name": "Ambacrot",
@@ -55844,8 +55844,8 @@
       "lastBanned": 0
     },
     "6287751940870@s.whatsapp.net": {
-      "exp": 519,
-      "limit": 459,
+      "exp": 560,
+      "limit": 454,
       "registered": false,
       "name": "KeysaFitri",
       "age": -1,
@@ -59793,7 +59793,7 @@
       "premiumTime": 0
     },
     "6282140063419@s.whatsapp.net": {
-      "exp": 149,
+      "exp": 159,
       "limit": 499,
       "registered": false,
       "name": "Rapi",
@@ -59911,6 +59911,46 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1735376096579
+    },
+    "6289676504259@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 499,
+      "registered": false,
+      "name": "Bayar Hutang Bgsat",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6281243936809@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 812-4393-6809",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -66994,10 +67034,10 @@
       "lastSuccess": 1735360150037
     },
     "ai-remini.js": {
-      "total": 924,
-      "success": 868,
-      "last": 1735375263730,
-      "lastSuccess": 1735375263730
+      "total": 925,
+      "success": 869,
+      "last": 1735377005360,
+      "lastSuccess": 1735377005360
     },
     "game-tebakbendera.js": {
       "total": 427,
@@ -67282,10 +67322,10 @@
       "lastSuccess": 1735353016058
     },
     "sticker-meme.js": {
-      "total": 145,
-      "success": 136,
-      "last": 1734910301630,
-      "lastSuccess": 1734910301630
+      "total": 146,
+      "success": 137,
+      "last": 1735377756978,
+      "lastSuccess": 1735377756978
     },
     "tool-translate.js": {
       "total": 44,
@@ -67768,10 +67808,10 @@
       "lastSuccess": 1735273727852
     },
     "sticker-all.js": {
-      "total": 595,
-      "success": 553,
-      "last": 1735367431725,
-      "lastSuccess": 1735367431725
+      "total": 596,
+      "success": 554,
+      "last": 1735377136549,
+      "lastSuccess": 1735377136549
     },
     "game-nebang.js": {
       "total": 170,
@@ -68056,10 +68096,10 @@
       "lastSuccess": 1731247321544
     },
     "tool-getpp.js": {
-      "total": 6,
-      "success": 6,
-      "last": 1734912939588,
-      "lastSuccess": 1734912939588
+      "total": 7,
+      "success": 7,
+      "last": 1735377715511,
+      "lastSuccess": 1735377715511
     },
     "tool-cekresolution.js": {
       "total": 8,
@@ -69147,7 +69187,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735375124393,
+      "backupDB": 1735376995602,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
