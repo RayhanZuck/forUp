@@ -3304,7 +3304,7 @@
       "lastBanned": 0
     },
     "120363280765137622@g.us": {
-      "exp": 7574,
+      "exp": 7579,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -28980,7 +28980,7 @@
       "premiumTime": 0
     },
     "6288214887181@s.whatsapp.net": {
-      "exp": 8531,
+      "exp": 8540,
       "limit": 499,
       "registered": false,
       "name": "Velgrynd",
@@ -28996,7 +28996,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
     },
@@ -38123,7 +38123,7 @@
       "premiumTime": 0
     },
     "98114602008605_1@s.whatsapp.net": {
-      "exp": 17,
+      "exp": 21,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -135632,7 +135632,7 @@
       "lastwork": 1734674720588
     },
     "6282123163120@s.whatsapp.net": {
-      "exp": 1569,
+      "exp": 1573,
       "limit": 499,
       "registered": false,
       "name": "Bott Ikyy",
@@ -173291,9 +173291,9 @@
       "autoSticker": false,
       "total": {
         "6285766064200@s.whatsapp.net": 1082,
-        "6283132534772@s.whatsapp.net": 803,
+        "6283132534772@s.whatsapp.net": 804,
         "6288214887181@s.whatsapp.net": 796,
-        "6282123163120@s.whatsapp.net": 502
+        "6282123163120@s.whatsapp.net": 503
       },
       "totalChat": 0
     },
@@ -179318,7 +179318,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735401375803,
+      "backupDB": 1735404039275,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
