@@ -1712,7 +1712,7 @@
       "warn": 5
     },
     "6283875689467@s.whatsapp.net": {
-      "exp": 7774,
+      "exp": 7790,
       "limit": 499,
       "registered": false,
       "name": "Sinnnnnn.",
@@ -15756,8 +15756,8 @@
       "lastdaily": 1726745083856
     },
     "6287845351838@s.whatsapp.net": {
-      "exp": 10057,
-      "limit": 69,
+      "exp": 10208,
+      "limit": 24,
       "registered": false,
       "name": "𝓐𝓷𝓪𝓴  𝓰𝓪𝓭𝓲𝓼 ♥︎",
       "age": -1,
@@ -135260,7 +135260,7 @@
       "premiumTime": 0
     },
     "120363356468992489@g.us": {
-      "exp": 420,
+      "exp": 425,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -175210,7 +175210,8 @@
         "6288971815805@s.whatsapp.net": 6,
         "6282291607732@s.whatsapp.net": 1,
         "6288221590493@s.whatsapp.net": 9,
-        "6282137295629@s.whatsapp.net": 7
+        "6282137295629@s.whatsapp.net": 7,
+        "6287845351838@s.whatsapp.net": 1
       },
       "totalChat": 0,
       "detekporn": true
@@ -177751,10 +177752,10 @@
       "lastSuccess": 1724578334042
     },
     "downloader-ytmp3.js": {
-      "total": 112,
-      "success": 105,
-      "last": 1734757064257,
-      "lastSuccess": 1734678142223
+      "total": 113,
+      "success": 106,
+      "last": 1735389204687,
+      "lastSuccess": 1735389204687
     },
     "vn-dosa.js": {
       "total": 55,
@@ -178003,10 +178004,10 @@
       "lastSuccess": 1732619535317
     },
     "youtube-search.js": {
-      "total": 84,
-      "success": 78,
-      "last": 1734662388320,
-      "lastSuccess": 1734662388320
+      "total": 85,
+      "success": 79,
+      "last": 1735388920099,
+      "lastSuccess": 1735388920099
     },
     "internet-playlist.js": {
       "total": 15,
@@ -178693,9 +178694,9 @@
       "lastSuccess": 1734542408776
     },
     "downloader-yt2.js": {
-      "total": 120,
+      "total": 122,
       "success": 68,
-      "last": 1735044999652,
+      "last": 1735389061994,
       "lastSuccess": 1734692573657
     },
     "ai-llama.js": {
@@ -179071,10 +179072,10 @@
       "lastSuccess": 1734744808249
     },
     "ai-main.js": {
-      "total": 17,
-      "success": 13,
-      "last": 1734745890042,
-      "lastSuccess": 1734745890042
+      "total": 18,
+      "success": 14,
+      "last": 1735388864066,
+      "lastSuccess": 1735388864066
     },
     "game-tebakkabupaten.js": {
       "total": 3,
@@ -179129,6 +179130,12 @@
       "success": 7,
       "last": 1734909324874,
       "lastSuccess": 1734909324874
+    },
+    "downloader-playvideo.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1735389109627,
+      "lastSuccess": 1735389109627
     }
   },
   "msgs": {},
@@ -179172,7 +179179,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735384434469,
+      "backupDB": 1735387521957,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
