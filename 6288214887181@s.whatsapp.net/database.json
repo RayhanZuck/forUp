@@ -160,7 +160,7 @@
       "lastcommand": 1735076311886
     },
     "120363183420865643@g.us": {
-      "exp": 5301,
+      "exp": 5306,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1473,7 +1473,7 @@
       "lastrob": 1734943533343
     },
     "6288210170915@s.whatsapp.net": {
-      "exp": 2880,
+      "exp": 2939,
       "limit": 611,
       "registered": false,
       "name": "Ikyy",
@@ -1493,7 +1493,7 @@
       "premiumTime": 0,
       "lastdaily": 1735211545860,
       "lastBanned": 0,
-      "lastcommand": 1735039842583,
+      "lastcommand": 1735355965000,
       "lastrob": 1732423912577,
       "lastwork": 1732423995873
     },
@@ -22185,8 +22185,8 @@
       "premiumTime": 0
     },
     "6282229475800@s.whatsapp.net": {
-      "exp": 118751,
-      "limit": 601,
+      "exp": 118789,
+      "limit": 591,
       "registered": false,
       "name": "L",
       "age": -1,
@@ -66851,10 +66851,10 @@
       "lastSuccess": 1734956110225
     },
     "_cek.js": {
-      "total": 855,
-      "success": 855,
-      "last": 1735345170957,
-      "lastSuccess": 1735345170957
+      "total": 856,
+      "success": 856,
+      "last": 1735355965174,
+      "lastSuccess": 1735355965174
     },
     "enable.js": {
       "total": 109,
@@ -66875,10 +66875,10 @@
       "lastSuccess": 1735168878585
     },
     "info-payment.js": {
-      "total": 48,
-      "success": 48,
-      "last": 1735305309293,
-      "lastSuccess": 1735305309293
+      "total": 49,
+      "success": 49,
+      "last": 1735355972968,
+      "lastSuccess": 1735355972968
     },
     "_rayhan-creator.js": {
       "total": 29,
@@ -67283,10 +67283,10 @@
       "lastSuccess": 1734863637688
     },
     "sticker-quotely.js": {
-      "total": 566,
-      "success": 566,
-      "last": 1735292108727,
-      "lastSuccess": 1735292108727
+      "total": 567,
+      "success": 567,
+      "last": 1735357127351,
+      "lastSuccess": 1735357127351
     },
     "group-delete.js": {
       "total": 37,
@@ -68980,7 +68980,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735354097551,
+      "backupDB": 1735355964985,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
