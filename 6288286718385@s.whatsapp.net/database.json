@@ -1712,7 +1712,7 @@
       "warn": 5
     },
     "6283875689467@s.whatsapp.net": {
-      "exp": 7804,
+      "exp": 7816,
       "limit": 499,
       "registered": false,
       "name": "Sinnnnnn.",
@@ -122257,7 +122257,7 @@
       "premiumTime": 0
     },
     "6287719003775@s.whatsapp.net": {
-      "exp": 33,
+      "exp": 55,
       "limit": 499,
       "registered": false,
       "name": "𓆩Scha𓆪❀ ~",
@@ -122275,7 +122275,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "lastBanned": 0
+      "lastBanned": 0,
+      "lastcommand": 1735401376665
     },
     "6288989405349@s.whatsapp.net": {
       "exp": 10,
@@ -175328,14 +175329,14 @@
       "total": {
         "62881022366285@s.whatsapp.net": 1575,
         "6283846829169@s.whatsapp.net": 2531,
-        "6287890456123@s.whatsapp.net": 793,
+        "6287890456123@s.whatsapp.net": 795,
         "6282298862377@s.whatsapp.net": 53,
         "6288225432435@s.whatsapp.net": 354,
         "6283824012756@s.whatsapp.net": 168,
         "6287777850689@s.whatsapp.net": 25,
-        "6285960191220@s.whatsapp.net": 806,
+        "6285960191220@s.whatsapp.net": 817,
         "6282162161146@s.whatsapp.net": 31,
-        "6287719003775@s.whatsapp.net": 37,
+        "6287719003775@s.whatsapp.net": 38,
         "62895360871897@s.whatsapp.net": 322,
         "62895320702875@s.whatsapp.net": 37,
         "6281297729591@s.whatsapp.net": 343,
@@ -175348,8 +175349,8 @@
         "6282291607732@s.whatsapp.net": 1,
         "6288221590493@s.whatsapp.net": 9,
         "6282137295629@s.whatsapp.net": 7,
-        "6287845351838@s.whatsapp.net": 27,
-        "6287785090009@s.whatsapp.net": 59
+        "6287845351838@s.whatsapp.net": 28,
+        "6287785090009@s.whatsapp.net": 64
       },
       "totalChat": 0,
       "detekporn": true
@@ -177350,10 +177351,10 @@
       "lastSuccess": 1727577077164
     },
     "vn-salam.js": {
-      "total": 144,
-      "success": 144,
-      "last": 1734874022764,
-      "lastSuccess": 1734874022764
+      "total": 145,
+      "success": 145,
+      "last": 1735401376669,
+      "lastSuccess": 1735401376669
     },
     "ai-txt2img.js": {
       "total": 23,
@@ -179317,7 +179318,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735396616578,
+      "backupDB": 1735401375803,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
