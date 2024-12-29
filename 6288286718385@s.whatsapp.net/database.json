@@ -3304,7 +3304,7 @@
       "lastBanned": 0
     },
     "120363280765137622@g.us": {
-      "exp": 7587,
+      "exp": 7592,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -54105,7 +54105,7 @@
       "premiumTime": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 40767,
+      "exp": 40919,
       "limit": 499,
       "registered": false,
       "name": "RayhanAdzShl",
@@ -54121,10 +54121,10 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1735213160734,
+      "lastcommand": 1735441566693,
       "aiprompt": "mulai sekarang nama kamu adalah joko widodo",
       "warn": 0,
       "aisesi": 0,
@@ -166207,6 +166207,25 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "266876584198225_1@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -173349,7 +173368,7 @@
       "expired": 0,
       "autoSticker": false,
       "total": {
-        "6285766064200@s.whatsapp.net": 1086,
+        "6285766064200@s.whatsapp.net": 1101,
         "6283132534772@s.whatsapp.net": 820,
         "6288214887181@s.whatsapp.net": 796,
         "6282123163120@s.whatsapp.net": 506
@@ -177122,10 +177141,10 @@
       "lastSuccess": 1734602779485
     },
     "_rayhan-menu.js": {
-      "total": 784,
-      "success": 736,
-      "last": 1735126240290,
-      "lastSuccess": 1735126240290
+      "total": 785,
+      "success": 737,
+      "last": 1735441420174,
+      "lastSuccess": 1735441420174
     },
     "owner-exec.js": {
       "total": 195,
@@ -177230,16 +177249,16 @@
       "lastSuccess": 1735280135793
     },
     "owner-sf.js": {
-      "total": 395,
-      "success": 359,
-      "last": 1735350397661,
-      "lastSuccess": 1735350397661
+      "total": 398,
+      "success": 361,
+      "last": 1735441558425,
+      "lastSuccess": 1735441558425
     },
     "_cek.js": {
-      "total": 1695,
-      "success": 1692,
-      "last": 1735296865530,
-      "lastSuccess": 1735296865530
+      "total": 1696,
+      "success": 1693,
+      "last": 1735441567437,
+      "lastSuccess": 1735441567437
     },
     "econ-claim.js": {
       "total": 1813,
@@ -177290,10 +177309,10 @@
       "lastSuccess": 1735411312558
     },
     "_rayhan-allmenu.js": {
-      "total": 211,
-      "success": 200,
-      "last": 1735153927274,
-      "lastSuccess": 1735153927274
+      "total": 212,
+      "success": 201,
+      "last": 1735441441639,
+      "lastSuccess": 1735441441639
     },
     "sticker-quotely.js": {
       "total": 446,
@@ -179377,7 +179396,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735437753448,
+      "backupDB": 1735440327109,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
