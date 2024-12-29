@@ -4705,8 +4705,8 @@
       "premiumTime": 0
     },
     "6285973073661@s.whatsapp.net": {
-      "exp": 14947,
-      "limit": 679,
+      "exp": 19020,
+      "limit": 979,
       "registered": false,
       "name": "ul_tra",
       "age": -1,
@@ -4719,14 +4719,15 @@
       "role": "Beginner",
       "BannedReason": "",
       "WarnReason": "",
-      "lastweekly": 0,
+      "lastweekly": 1735473307625,
       "lastmonthly": 1735473301211,
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1735471158696,
       "lastrob": 1735472477386,
-      "lastwork": 1735473264520
+      "lastwork": 1735473264520,
+      "lastdaily": 1735473315557
     },
     "168251166310491_1@s.whatsapp.net": {
       "exp": 1,
@@ -60237,10 +60238,10 @@
         "62882009039053@s.whatsapp.net": 151,
         "6288980231187@s.whatsapp.net": 31,
         "6287875121929@s.whatsapp.net": 30,
-        "6285973073661@s.whatsapp.net": 1610,
+        "6285973073661@s.whatsapp.net": 1623,
         "6285766064200@s.whatsapp.net": 522,
-        "6285720973051@s.whatsapp.net": 1323,
-        "6285877044241@s.whatsapp.net": 9
+        "6285720973051@s.whatsapp.net": 1340,
+        "6285877044241@s.whatsapp.net": 12
       },
       "totalChat": 0
     },
@@ -67101,10 +67102,10 @@
       "lastSuccess": 1735271593830
     },
     "econ-claim.js": {
-      "total": 2170,
-      "success": 1464,
-      "last": 1735473301211,
-      "lastSuccess": 1735473301211
+      "total": 2172,
+      "success": 1466,
+      "last": 1735473315557,
+      "lastSuccess": 1735473315557
     },
     "game-curi.js": {
       "total": 1173,
@@ -67119,10 +67120,10 @@
       "lastSuccess": 1735368955282
     },
     "main-balance.js": {
-      "total": 354,
-      "success": 352,
-      "last": 1735473049888,
-      "lastSuccess": 1735473049888
+      "total": 355,
+      "success": 353,
+      "last": 1735473325228,
+      "lastSuccess": 1735473325228
     },
     "main-shop.js": {
       "total": 840,
