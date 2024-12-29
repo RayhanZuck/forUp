@@ -88,7 +88,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 144512,
+      "exp": 144830,
       "limit": 0,
       "registered": false,
       "name": "Rayhan?",
@@ -107,7 +107,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1735204882283,
+      "lastcommand": 1735467782555,
       "lastwork": 1735007026344,
       "aiprompt": "mulai sekarang nama kamu adalah jinan safa safira, kamu orang yang sangat baik",
       "warn": 0,
@@ -602,7 +602,7 @@
       "lastrob": 1730711453293
     },
     "628568162468@s.whatsapp.net": {
-      "exp": 3280,
+      "exp": 3304,
       "limit": 510,
       "registered": false,
       "name": "Mechanisiertes Bataillon",
@@ -3985,8 +3985,8 @@
       "premiumTime": 0
     },
     "62882009039053@s.whatsapp.net": {
-      "exp": 2034,
-      "limit": 599,
+      "exp": 8330,
+      "limit": 1174,
       "registered": false,
       "name": "Boss_jiaa☘️🍀☘️🍀",
       "age": -1,
@@ -3999,12 +3999,13 @@
       "role": "Beginner",
       "BannedReason": "",
       "WarnReason": "",
-      "lastweekly": 0,
-      "lastmonthly": 0,
+      "lastweekly": 1735467643148,
+      "lastmonthly": 1735467651370,
       "premium": true,
       "premiumTime": 0,
-      "lastdaily": 1730357786685,
-      "lastBanned": 0
+      "lastdaily": 1735467631270,
+      "lastBanned": 0,
+      "lastwork": 1735467375674
     },
     "628990785059@s.whatsapp.net": {
       "exp": 100,
@@ -5525,7 +5526,7 @@
       "premiumTime": 0
     },
     "6288980231187@s.whatsapp.net": {
-      "exp": 6662,
+      "exp": 6681,
       "limit": 317,
       "registered": false,
       "name": "اجياا",
@@ -12418,8 +12419,8 @@
       "lastcommand": 1731472269564
     },
     "6281958351619@s.whatsapp.net": {
-      "exp": 8610,
-      "limit": 315,
+      "exp": 8632,
+      "limit": 290,
       "registered": false,
       "name": "kaAll",
       "age": -1,
@@ -26180,7 +26181,7 @@
       "lastBanned": 0
     },
     "6287875121929@s.whatsapp.net": {
-      "exp": 3,
+      "exp": 14,
       "limit": 499,
       "registered": false,
       "name": "WILLY ALPRIDO",
@@ -29904,7 +29905,7 @@
       "premiumTime": 0
     },
     "601172392866@s.whatsapp.net": {
-      "exp": 412,
+      "exp": 430,
       "limit": 776,
       "registered": false,
       "name": "dinosor",
@@ -29924,7 +29925,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastwork": 1732712185461,
-      "lastcommand": 1734717052862,
+      "lastcommand": 1735466968722,
       "lastdaily": 1733325749101,
       "lastrob": 1734943363269
     },
@@ -52788,8 +52789,8 @@
       "lastBanned": 0
     },
     "6281957133061@s.whatsapp.net": {
-      "exp": 186842,
-      "limit": 1512,
+      "exp": 188876,
+      "limit": 1612,
       "registered": false,
       "name": "nanaa",
       "age": -1,
@@ -52808,7 +52809,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": "2024-12-27T09:55:28.017Z",
-      "lastdaily": 1735290722490,
+      "lastdaily": 1735466362129,
       "lastwork": 1735293670176,
       "lastrob": 1735203096850
     },
@@ -60130,7 +60131,10 @@
         "6287785090009@s.whatsapp.net": 8,
         "6281326617972@s.whatsapp.net": 20,
         "6285766064200@s.whatsapp.net": 5,
-        "919366665173@s.whatsapp.net": 5
+        "919366665173@s.whatsapp.net": 5,
+        "6281957133061@s.whatsapp.net": 1,
+        "6281958351619@s.whatsapp.net": 1,
+        "601172392866@s.whatsapp.net": 1
       },
       "totalChat": 0
     },
@@ -60164,11 +60168,14 @@
       "detekporn": true,
       "antiLinkOther": true,
       "total": {
-        "6283117118901@s.whatsapp.net": 10,
-        "6282140063419@s.whatsapp.net": 10,
-        "6282192309828@s.whatsapp.net": 17,
-        "6281364434575@s.whatsapp.net": 28,
-        "628568162468@s.whatsapp.net": 10
+        "6283117118901@s.whatsapp.net": 11,
+        "6282140063419@s.whatsapp.net": 11,
+        "6282192309828@s.whatsapp.net": 20,
+        "6281364434575@s.whatsapp.net": 32,
+        "628568162468@s.whatsapp.net": 18,
+        "62882009039053@s.whatsapp.net": 26,
+        "6288980231187@s.whatsapp.net": 6,
+        "6287875121929@s.whatsapp.net": 5
       },
       "totalChat": 0
     },
@@ -66975,16 +66982,16 @@
       "lastSuccess": 1735373670320
     },
     "owner-sf.js": {
-      "total": 1095,
-      "success": 1000,
-      "last": 1735350397479,
-      "lastSuccess": 1735350397479
+      "total": 1098,
+      "success": 1003,
+      "last": 1735467772456,
+      "lastSuccess": 1735467772456
     },
     "downloader-play.js": {
-      "total": 2004,
-      "success": 1878,
-      "last": 1735373458939,
-      "lastSuccess": 1735373458939
+      "total": 2006,
+      "success": 1880,
+      "last": 1735467727576,
+      "lastSuccess": 1735467727576
     },
     "downloader-ytvideo.js": {
       "total": 139,
@@ -67029,10 +67036,10 @@
       "lastSuccess": 1735271593830
     },
     "econ-claim.js": {
-      "total": 2161,
-      "success": 1455,
-      "last": 1735464259607,
-      "lastSuccess": 1735464259607
+      "total": 2165,
+      "success": 1459,
+      "last": 1735467651371,
+      "lastSuccess": 1735467651371
     },
     "game-curi.js": {
       "total": 1171,
@@ -67077,10 +67084,10 @@
       "lastSuccess": 1735208460479
     },
     "main-limit.js": {
-      "total": 1273,
-      "success": 1273,
-      "last": 1735363844546,
-      "lastSuccess": 1735363844546
+      "total": 1274,
+      "success": 1274,
+      "last": 1735467513763,
+      "lastSuccess": 1735467513763
     },
     "game-ulartangga.js": {
       "total": 156,
@@ -67095,10 +67102,10 @@
       "lastSuccess": 1735225326167
     },
     "game-mancing.js": {
-      "total": 1115,
-      "success": 806,
-      "last": 1735313654594,
-      "lastSuccess": 1735313654594
+      "total": 1116,
+      "success": 807,
+      "last": 1735467388408,
+      "lastSuccess": 1735467388408
     },
     "game-tambang.js": {
       "total": 219,
@@ -67137,10 +67144,10 @@
       "lastSuccess": 1734956110225
     },
     "_cek.js": {
-      "total": 866,
-      "success": 866,
-      "last": 1735373443301,
-      "lastSuccess": 1735373443301
+      "total": 867,
+      "success": 867,
+      "last": 1735467783087,
+      "lastSuccess": 1735467783087
     },
     "enable.js": {
       "total": 109,
@@ -67227,10 +67234,10 @@
       "lastSuccess": 1735347448837
     },
     "owner-exec.js": {
-      "total": 398,
-      "success": 398,
-      "last": 1735369815169,
-      "lastSuccess": 1735369815169
+      "total": 403,
+      "success": 403,
+      "last": 1735467801486,
+      "lastSuccess": 1735467801486
     },
     "downloader-ytmp3.js": {
       "total": 163,
@@ -67239,10 +67246,10 @@
       "lastSuccess": 1735094563673
     },
     "_rayhan-menu.js": {
-      "total": 543,
-      "success": 513,
-      "last": 1735376431839,
-      "lastSuccess": 1735376431839
+      "total": 545,
+      "success": 515,
+      "last": 1735467776591,
+      "lastSuccess": 1735467776591
     },
     "downloader-ytvideo2.js": {
       "total": 4,
@@ -67389,10 +67396,10 @@
       "lastSuccess": 1733406885496
     },
     "fun-cekoshi.js": {
-      "total": 26,
-      "success": 26,
-      "last": 1733750281693,
-      "lastSuccess": 1733750281693
+      "total": 29,
+      "success": 29,
+      "last": 1735466584509,
+      "lastSuccess": 1735466584509
     },
     "tool-tts.js": {
       "total": 20,
@@ -67443,10 +67450,10 @@
       "lastSuccess": 1735295903614
     },
     "info-ping.js": {
-      "total": 280,
-      "success": 280,
-      "last": 1735370194547,
-      "lastSuccess": 1735370194547
+      "total": 281,
+      "success": 281,
+      "last": 1735466975042,
+      "lastSuccess": 1735466975042
     },
     "ai-toanime.js": {
       "total": 99,
@@ -69288,13 +69295,14 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735464114821,
+      "backupDB": 1735466330711,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
       "lastcleartmp": 0,
       "status": 0,
-      "anticall": true
+      "anticall": true,
+      "namebot": "efata"
     }
   }
 }
