@@ -5465,7 +5465,7 @@
       "premiumTime": 0
     },
     "919863871445@s.whatsapp.net": {
-      "exp": 60364,
+      "exp": 60388,
       "limit": 59,
       "registered": false,
       "name": "Asahi.",
@@ -67834,10 +67834,10 @@
       "lastSuccess": 1735314545504
     },
     "sticker-sticker.js": {
-      "total": 921,
-      "success": 799,
-      "last": 1735575767160,
-      "lastSuccess": 1735575767160
+      "total": 922,
+      "success": 800,
+      "last": 1735585950353,
+      "lastSuccess": 1735585950353
     },
     "sticker-toimg.js": {
       "total": 88,
@@ -70147,7 +70147,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735580638197,
+      "backupDB": 1735585948623,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
