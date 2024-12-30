@@ -1113,8 +1113,8 @@
       "lastcommand": 1733934913763
     },
     "6283191371141@s.whatsapp.net": {
-      "exp": 26016,
-      "limit": 52,
+      "exp": 26046,
+      "limit": 32,
       "registered": false,
       "name": "Vyn",
       "age": -1,
@@ -16329,8 +16329,8 @@
       "lastBanned": 0
     },
     "6285961457520@s.whatsapp.net": {
-      "exp": 71,
-      "limit": 499,
+      "exp": 137,
+      "limit": 474,
       "registered": false,
       "name": "𝙁𝙖𝙣𝙣",
       "age": -1,
@@ -55088,7 +55088,7 @@
       "lastcommand": 1734868676254
     },
     "6289520939011@s.whatsapp.net": {
-      "exp": 35414,
+      "exp": 35423,
       "limit": 396,
       "registered": false,
       "name": ".",
@@ -59995,7 +59995,7 @@
       "premiumTime": 0
     },
     "6283842836842@s.whatsapp.net": {
-      "exp": 84,
+      "exp": 86,
       "limit": 499,
       "registered": false,
       "name": "Xiro",
@@ -60102,6 +60102,25 @@
       "limit": 499,
       "registered": false,
       "name": "ī.am/Shikimori ͖ͬͤ͡͞͡",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "266627828465697_1@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 499,
+      "registered": false,
       "age": -1,
       "regTime": -1,
       "unreg": false,
@@ -60235,23 +60254,23 @@
       "antiAudio": false,
       "antiLinkOther": true,
       "total": {
-        "6283842836842@s.whatsapp.net": 154,
+        "6283842836842@s.whatsapp.net": 208,
         "6289621609393@s.whatsapp.net": 22,
-        "6287810709618@s.whatsapp.net": 32,
+        "6287810709618@s.whatsapp.net": 40,
         "6285150845191@s.whatsapp.net": 22,
-        "6288225432435@s.whatsapp.net": 319,
-        "6281957133061@s.whatsapp.net": 66,
+        "6288225432435@s.whatsapp.net": 323,
+        "6281957133061@s.whatsapp.net": 78,
         "6287761263814@s.whatsapp.net": 22,
         "62882007880538@s.whatsapp.net": 22,
         "6287731548171@s.whatsapp.net": 41,
         "6285766064200@s.whatsapp.net": 32,
-        "6285394495227@s.whatsapp.net": 136,
-        "6285720973051@s.whatsapp.net": 124,
-        "6283822760236@s.whatsapp.net": 19,
-        "628388996801@s.whatsapp.net": 37,
-        "6287862112981@s.whatsapp.net": 13,
-        "6282143175110@s.whatsapp.net": 10,
-        "6285961457520@s.whatsapp.net": 6
+        "6285394495227@s.whatsapp.net": 152,
+        "6285720973051@s.whatsapp.net": 140,
+        "6283822760236@s.whatsapp.net": 23,
+        "628388996801@s.whatsapp.net": 45,
+        "6287862112981@s.whatsapp.net": 17,
+        "6282143175110@s.whatsapp.net": 14,
+        "6285961457520@s.whatsapp.net": 25
       },
       "totalChat": 0
     },
@@ -67116,10 +67135,10 @@
       "lastSuccess": 1735370281787
     },
     "downloader-tiktok.js": {
-      "total": 1889,
-      "success": 1743,
-      "last": 1735533037695,
-      "lastSuccess": 1735533037695
+      "total": 1890,
+      "success": 1744,
+      "last": 1735535303542,
+      "lastSuccess": 1735535303542
     },
     "owner-sf.js": {
       "total": 1099,
@@ -67164,10 +67183,10 @@
       "lastSuccess": 1732841419311
     },
     "main-profile.js": {
-      "total": 249,
-      "success": 248,
-      "last": 1735345109736,
-      "lastSuccess": 1735345109736
+      "total": 250,
+      "success": 249,
+      "last": 1735533804105,
+      "lastSuccess": 1735533804105
     },
     "main-daftar.js": {
       "total": 41,
@@ -67224,10 +67243,10 @@
       "lastSuccess": 1735208460479
     },
     "main-limit.js": {
-      "total": 1274,
-      "success": 1274,
-      "last": 1735528453952,
-      "lastSuccess": 1735528453952
+      "total": 1275,
+      "success": 1275,
+      "last": 1735533772775,
+      "lastSuccess": 1735533772775
     },
     "game-ulartangga.js": {
       "total": 156,
@@ -67380,10 +67399,10 @@
       "lastSuccess": 1735533043370
     },
     "downloader-ytmp3.js": {
-      "total": 163,
-      "success": 141,
-      "last": 1735347424465,
-      "lastSuccess": 1735094563673
+      "total": 164,
+      "success": 142,
+      "last": 1735533749071,
+      "lastSuccess": 1735533749071
     },
     "_rayhan-menu.js": {
       "total": 543,
@@ -69435,7 +69454,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735531824197,
+      "backupDB": 1735533729679,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
