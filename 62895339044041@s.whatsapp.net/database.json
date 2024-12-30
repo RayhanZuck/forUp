@@ -189,7 +189,7 @@
       "lastBanned": 0
     },
     "6289630130762@s.whatsapp.net": {
-      "exp": 1309,
+      "exp": 1339,
       "limit": 109,
       "registered": false,
       "name": "وَكَفٰى بِاللّٰهِ شَهِيْد",
@@ -205,9 +205,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "lastcommand": 1735572613680,
+      "lastcommand": 1735589169945,
       "lastBanned": 0
     },
     "62882006302126@s.whatsapp.net": {
@@ -2971,7 +2971,7 @@
       "lastBanned": 0
     },
     "62895354243444@s.whatsapp.net": {
-      "exp": 88,
+      "exp": 120,
       "limit": 499,
       "registered": false,
       "name": "BINTANG RF DAOP8",
@@ -3139,7 +3139,7 @@
       "lastBanned": 0
     },
     "62882001362936@s.whatsapp.net": {
-      "exp": 442,
+      "exp": 452,
       "limit": 469,
       "registered": false,
       "name": "i'm GeKa",
@@ -6595,7 +6595,7 @@
       "premiumTime": 0
     },
     "628158007493@s.whatsapp.net": {
-      "exp": 23,
+      "exp": 26,
       "limit": 499,
       "registered": false,
       "name": "RFP",
@@ -8118,6 +8118,45 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "6282211461012@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "name": "Bukan Nama Mu Lagi:)",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "189112342597789_1@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -9457,12 +9496,12 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285716666553@s.whatsapp.net": 32,
-        "6285716162035@s.whatsapp.net": 48,
-        "6282153939491@s.whatsapp.net": 50,
-        "628158007493@s.whatsapp.net": 19,
-        "6283119732132@s.whatsapp.net": 5,
-        "62895412904597@s.whatsapp.net": 1
+        "6285716666553@s.whatsapp.net": 34,
+        "6285716162035@s.whatsapp.net": 52,
+        "6282153939491@s.whatsapp.net": 56,
+        "628158007493@s.whatsapp.net": 23,
+        "6283119732132@s.whatsapp.net": 7,
+        "62895412904597@s.whatsapp.net": 2
       },
       "totalChat": 0
     },
@@ -11345,10 +11384,10 @@
       "lastSuccess": 1735559751054
     },
     "_cek.js": {
-      "total": 25,
-      "success": 25,
-      "last": 1735585060294,
-      "lastSuccess": 1735585060294
+      "total": 26,
+      "success": 26,
+      "last": 1735589170582,
+      "lastSuccess": 1735589170582
     },
     "sticker-quotely.js": {
       "total": 92,
@@ -11646,7 +11685,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735585948251,
+      "backupDB": 1735587773829,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
