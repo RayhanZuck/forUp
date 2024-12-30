@@ -43449,8 +43449,8 @@
       "lastBanned": 0
     },
     "62895422730678@s.whatsapp.net": {
-      "exp": 6877,
-      "limit": 524,
+      "exp": 6900,
+      "limit": 499,
       "registered": false,
       "name": "Pria sigma",
       "age": -1,
@@ -67822,10 +67822,10 @@
       "lastSuccess": 1735566564613
     },
     "downloader-play.js": {
-      "total": 2068,
-      "success": 1934,
-      "last": 1735581784761,
-      "lastSuccess": 1735581784761
+      "total": 2069,
+      "success": 1935,
+      "last": 1735587861294,
+      "lastSuccess": 1735587861294
     },
     "downloader-ytvideo.js": {
       "total": 139,
@@ -70147,7 +70147,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735585948623,
+      "backupDB": 1735587834768,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
