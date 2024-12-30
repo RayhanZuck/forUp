@@ -1047,7 +1047,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 6491,
+      "exp": 6493,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -20748,8 +20748,8 @@
       "premiumTime": 0
     },
     "6283865533087@s.whatsapp.net": {
-      "exp": 26862,
-      "limit": 1124,
+      "exp": 27064,
+      "limit": 1084,
       "registered": false,
       "name": "—Fly in sky",
       "age": -1,
@@ -20766,7 +20766,7 @@
       "lastmonthly": 1733236344199,
       "premium": true,
       "premiumTime": 0,
-      "lastcommand": 1735563128242,
+      "lastcommand": 1735574362147,
       "lastBanned": 0,
       "lastdaily": 1735561737087,
       "lastrob": 1733477849879,
@@ -38651,8 +38651,8 @@
       "premiumTime": 0
     },
     "6283117118901@s.whatsapp.net": {
-      "exp": 3928,
-      "limit": 324,
+      "exp": 4345,
+      "limit": 24,
       "registered": false,
       "name": "F",
       "age": -1,
@@ -59797,8 +59797,8 @@
       "premiumTime": 0
     },
     "6282140063419@s.whatsapp.net": {
-      "exp": 13842,
-      "limit": 641,
+      "exp": 13965,
+      "limit": 616,
       "registered": false,
       "name": "Rapi",
       "age": -1,
@@ -59807,8 +59807,8 @@
       "afk": -1,
       "afkReason": "",
       "banned": false,
-      "level": 0,
-      "role": "Beginner",
+      "level": 7,
+      "role": "Beginner Grade 3 ⚊³",
       "BannedReason": "",
       "WarnReason": "",
       "lastweekly": 1735565074867,
@@ -60123,7 +60123,7 @@
       "premiumTime": 0
     },
     "266627828465697_1@s.whatsapp.net": {
-      "exp": 5,
+      "exp": 13,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -60139,7 +60139,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6282278969103@s.whatsapp.net": {
       "exp": 17,
@@ -60567,6 +60568,26 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "6282323278588@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 823-2327-8588",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -60762,22 +60783,22 @@
         "6282179477450@s.whatsapp.net": 30,
         "6288225432435@s.whatsapp.net": 89,
         "6281258193521@s.whatsapp.net": 30,
-        "6285766064200@s.whatsapp.net": 83,
+        "6285766064200@s.whatsapp.net": 85,
         "6282143175110@s.whatsapp.net": 52,
         "6289660958090@s.whatsapp.net": 20,
         "6285822798934@s.whatsapp.net": 100,
-        "6282140063419@s.whatsapp.net": 80,
+        "6282140063419@s.whatsapp.net": 120,
         "6285947468832@s.whatsapp.net": 12,
-        "6287785090009@s.whatsapp.net": 47,
+        "6287785090009@s.whatsapp.net": 49,
         "6281220652661@s.whatsapp.net": 9,
         "6281360727093@s.whatsapp.net": 9,
         "6285754680615@s.whatsapp.net": 9,
-        "6289520939011@s.whatsapp.net": 130,
-        "6283119901412@s.whatsapp.net": 20,
-        "628568162468@s.whatsapp.net": 15,
-        "628388996801@s.whatsapp.net": 11,
-        "6283848826211@s.whatsapp.net": 17,
-        "6283117118901@s.whatsapp.net": 17
+        "6289520939011@s.whatsapp.net": 144,
+        "6283119901412@s.whatsapp.net": 22,
+        "628568162468@s.whatsapp.net": 17,
+        "628388996801@s.whatsapp.net": 13,
+        "6283848826211@s.whatsapp.net": 21,
+        "6283117118901@s.whatsapp.net": 221
       },
       "totalChat": 0
     },
@@ -67670,10 +67691,10 @@
       "lastSuccess": 1735566564613
     },
     "downloader-play.js": {
-      "total": 2048,
-      "success": 1917,
-      "last": 1735572849517,
-      "lastSuccess": 1735572849517
+      "total": 2065,
+      "success": 1931,
+      "last": 1735573915471,
+      "lastSuccess": 1735573915471
     },
     "downloader-ytvideo.js": {
       "total": 139,
@@ -67706,10 +67727,10 @@
       "lastSuccess": 1732841419311
     },
     "main-profile.js": {
-      "total": 251,
-      "success": 250,
-      "last": 1735564759603,
-      "lastSuccess": 1735564759603
+      "total": 254,
+      "success": 253,
+      "last": 1735574001482,
+      "lastSuccess": 1735574001482
     },
     "main-daftar.js": {
       "total": 41,
@@ -67718,10 +67739,10 @@
       "lastSuccess": 1735271593830
     },
     "econ-claim.js": {
-      "total": 2178,
-      "success": 1466,
-      "last": 1735566565381,
-      "lastSuccess": 1735565074867
+      "total": 2179,
+      "success": 1467,
+      "last": 1735573605546,
+      "lastSuccess": 1735573605546
     },
     "game-curi.js": {
       "total": 1171,
@@ -67748,10 +67769,10 @@
       "lastSuccess": 1735564989276
     },
     "main-level.js": {
-      "total": 219,
-      "success": 219,
-      "last": 1735312811945,
-      "lastSuccess": 1735312811945
+      "total": 220,
+      "success": 220,
+      "last": 1735573915912,
+      "lastSuccess": 1735573915912
     },
     "_shortcut.js": {
       "total": 330,
@@ -67826,10 +67847,10 @@
       "lastSuccess": 1735558498917
     },
     "_cek.js": {
-      "total": 882,
-      "success": 882,
-      "last": 1735566451071,
-      "lastSuccess": 1735566451071
+      "total": 883,
+      "success": 883,
+      "last": 1735574362554,
+      "lastSuccess": 1735574362554
     },
     "enable.js": {
       "total": 109,
@@ -68576,10 +68597,10 @@
       "lastSuccess": 1735273727852
     },
     "sticker-all.js": {
-      "total": 611,
-      "success": 569,
-      "last": 1735568025070,
-      "lastSuccess": 1735568025070
+      "total": 619,
+      "success": 577,
+      "last": 1735574692055,
+      "lastSuccess": 1735574692055
     },
     "game-nebang.js": {
       "total": 170,
@@ -69995,7 +70016,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735571069137,
+      "backupDB": 1735572914675,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
