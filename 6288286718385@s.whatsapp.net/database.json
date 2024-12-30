@@ -60042,7 +60042,7 @@
       "lastBanned": 0
     },
     "6283875689467@s.whatsapp.net": {
-      "exp": 35,
+      "exp": 36,
       "limit": 499,
       "registered": false,
       "name": "ʚpunyaaa Wahyuuuuɞ",
@@ -60690,6 +60690,45 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "6283194532066@s.whatsapp.net": {
+      "exp": 7,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 831-9453-2066",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "189112342597789_1@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -60890,7 +60929,7 @@
         "6282143175110@s.whatsapp.net": 52,
         "6289660958090@s.whatsapp.net": 20,
         "6285822798934@s.whatsapp.net": 100,
-        "6282140063419@s.whatsapp.net": 316,
+        "6282140063419@s.whatsapp.net": 318,
         "6285947468832@s.whatsapp.net": 12,
         "6287785090009@s.whatsapp.net": 49,
         "6281220652661@s.whatsapp.net": 9,
@@ -60901,9 +60940,9 @@
         "628568162468@s.whatsapp.net": 17,
         "628388996801@s.whatsapp.net": 13,
         "6283848826211@s.whatsapp.net": 21,
-        "6283117118901@s.whatsapp.net": 677,
+        "6283117118901@s.whatsapp.net": 693,
         "62895386828765@s.whatsapp.net": 31,
-        "6285338596638@s.whatsapp.net": 42
+        "6285338596638@s.whatsapp.net": 44
       },
       "totalChat": 0
     },
@@ -70147,7 +70186,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735587834768,
+      "backupDB": 1735590070672,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
