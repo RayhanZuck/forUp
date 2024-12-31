@@ -59805,7 +59805,7 @@
       "premiumTime": 0
     },
     "6282140063419@s.whatsapp.net": {
-      "exp": 14551,
+      "exp": 14616,
       "limit": 616,
       "registered": false,
       "name": "Rapi",
@@ -59990,7 +59990,7 @@
       "resetSent": true
     },
     "6281233814146@s.whatsapp.net": {
-      "exp": 91,
+      "exp": 111,
       "limit": 499,
       "registered": false,
       "name": "シャオリス",
@@ -60921,6 +60921,26 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
+    },
+    "62882022063723@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "name": "Reyy",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -61049,7 +61069,7 @@
         "6287761263814@s.whatsapp.net": 141,
         "62882007880538@s.whatsapp.net": 220,
         "6287731548171@s.whatsapp.net": 41,
-        "6285766064200@s.whatsapp.net": 426,
+        "6285766064200@s.whatsapp.net": 430,
         "6285394495227@s.whatsapp.net": 815,
         "6285720973051@s.whatsapp.net": 602,
         "6283822760236@s.whatsapp.net": 45,
@@ -61059,7 +61079,7 @@
         "6285961457520@s.whatsapp.net": 101,
         "62882006212609@s.whatsapp.net": 76,
         "628999684800@s.whatsapp.net": 19,
-        "6282140063419@s.whatsapp.net": 2055,
+        "6282140063419@s.whatsapp.net": 2124,
         "6283169226415@s.whatsapp.net": 751,
         "6285947468832@s.whatsapp.net": 96,
         "6285786829931@s.whatsapp.net": 24,
@@ -61091,8 +61111,8 @@
         "6285717205265@s.whatsapp.net": 280,
         "6282396748817@s.whatsapp.net": 53,
         "6289505879658@s.whatsapp.net": 33,
-        "6285716661950@s.whatsapp.net": 19,
-        "6283837362281@s.whatsapp.net": 2
+        "6285716661950@s.whatsapp.net": 39,
+        "6283837362281@s.whatsapp.net": 6
       },
       "totalChat": 0
     },
@@ -68794,9 +68814,9 @@
       "lastSuccess": 1733233830291
     },
     "downloader-facebook.js": {
-      "total": 51,
+      "total": 53,
       "success": 32,
-      "last": 1735360361203,
+      "last": 1735631301306,
       "lastSuccess": 1735360361203
     },
     "tool-bgcolor.js": {
@@ -70447,7 +70467,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735629344289,
+      "backupDB": 1735631156051,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
