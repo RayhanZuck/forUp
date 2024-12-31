@@ -9721,8 +9721,8 @@
       "premiumTime": 0
     },
     "6287719003775@s.whatsapp.net": {
-      "exp": 442,
-      "limit": 109,
+      "exp": 485,
+      "limit": 59,
       "registered": false,
       "name": "𓆩Scha𓆪❀ ~",
       "age": -1,
@@ -63949,6 +63949,46 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "6282274066919@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 822-7406-6919",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6288245893110@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 882-4589-3110",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -71298,18 +71338,18 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285735072824@s.whatsapp.net": 66,
-        "62895386134592@s.whatsapp.net": 42
+        "6285735072824@s.whatsapp.net": 68,
+        "62895386134592@s.whatsapp.net": 44
       },
       "totalChat": 0
     }
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 831,
-      "success": 773,
-      "last": 1735659205391,
-      "lastSuccess": 1735659205391
+      "total": 833,
+      "success": 775,
+      "last": 1735681050755,
+      "lastSuccess": 1735681050755
     },
     "downloader-tiktok.js": {
       "total": 1962,
@@ -73649,7 +73689,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735677401318,
+      "backupDB": 1735679706062,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
