@@ -3364,8 +3364,8 @@
       "lastBanned": 0
     },
     "6285877044241@s.whatsapp.net": {
-      "exp": 14258,
-      "limit": 824,
+      "exp": 14342,
+      "limit": 764,
       "registered": false,
       "name": "⛓️CAINEMATES⛓️",
       "age": -1,
@@ -10209,8 +10209,8 @@
       "premiumTime": 0
     },
     "6287863701651@s.whatsapp.net": {
-      "exp": -2227,
-      "limit": 499,
+      "exp": -2085,
+      "limit": 409,
       "registered": false,
       "name": "『𝐴𝐿𝐶』 RJ",
       "age": -1,
@@ -59996,7 +59996,7 @@
       "resetSent": true
     },
     "6281233814146@s.whatsapp.net": {
-      "exp": 173,
+      "exp": 184,
       "limit": 499,
       "registered": false,
       "name": "シャオリス",
@@ -63729,6 +63729,105 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "6281222026051@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 812-2202-6051",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6282211201788@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 822-1120-1788",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "136876866404589_1@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6285702330021@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 857-0233-0021",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6285849816588@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 858-4981-6588",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -64183,7 +64282,7 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285766064200@s.whatsapp.net": 167
+        "6285766064200@s.whatsapp.net": 172
       },
       "totalChat": 0
     },
@@ -71077,8 +71176,8 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285735072824@s.whatsapp.net": 57,
-        "62895386134592@s.whatsapp.net": 33
+        "6285735072824@s.whatsapp.net": 61,
+        "62895386134592@s.whatsapp.net": 37
       },
       "totalChat": 0
     }
@@ -72039,10 +72138,10 @@
       "lastSuccess": 1733375317601
     },
     "ai-blur.js": {
-      "total": 5,
-      "success": 5,
-      "last": 1731479931492,
-      "lastSuccess": 1731479931492
+      "total": 15,
+      "success": 15,
+      "last": 1735667002234,
+      "lastSuccess": 1735667002234
     },
     "ai-diffusion.js": {
       "total": 7,
@@ -73428,7 +73527,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735664922766,
+      "backupDB": 1735666799401,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
