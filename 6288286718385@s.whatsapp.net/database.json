@@ -1113,8 +1113,8 @@
       "lastcommand": 1733934913763
     },
     "6283191371141@s.whatsapp.net": {
-      "exp": 28235,
-      "limit": 107,
+      "exp": 28257,
+      "limit": 87,
       "registered": false,
       "name": "Vyn",
       "age": -1,
@@ -20978,7 +20978,7 @@
       "lastcommand": 1733848074583
     },
     "6282266132903@s.whatsapp.net": {
-      "exp": 9,
+      "exp": 13,
       "limit": 499,
       "registered": false,
       "name": "Nana",
@@ -20995,7 +20995,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "47661268873448_1@s.whatsapp.net": {
       "exp": 7,
@@ -51308,7 +51309,7 @@
       "premiumTime": 0
     },
     "6288225432435@s.whatsapp.net": {
-      "exp": 10258,
+      "exp": 10267,
       "limit": 3027,
       "registered": false,
       "name": "Aksa Wibisono",
@@ -60961,14 +60962,14 @@
       "detekporn": true,
       "antiLinkOther": true,
       "total": {
-        "6282179477450@s.whatsapp.net": 31,
+        "6282179477450@s.whatsapp.net": 32,
         "6288225432435@s.whatsapp.net": 89,
         "6281258193521@s.whatsapp.net": 30,
         "6285766064200@s.whatsapp.net": 85,
         "6282143175110@s.whatsapp.net": 52,
         "6289660958090@s.whatsapp.net": 20,
         "6285822798934@s.whatsapp.net": 100,
-        "6282140063419@s.whatsapp.net": 320,
+        "6282140063419@s.whatsapp.net": 322,
         "6285947468832@s.whatsapp.net": 12,
         "6287785090009@s.whatsapp.net": 49,
         "6281220652661@s.whatsapp.net": 9,
@@ -60979,9 +60980,9 @@
         "628568162468@s.whatsapp.net": 17,
         "628388996801@s.whatsapp.net": 13,
         "6283848826211@s.whatsapp.net": 21,
-        "6283117118901@s.whatsapp.net": 709,
+        "6283117118901@s.whatsapp.net": 725,
         "62895386828765@s.whatsapp.net": 31,
-        "6285338596638@s.whatsapp.net": 46
+        "6285338596638@s.whatsapp.net": 48
       },
       "totalChat": 0
     },
@@ -67888,10 +67889,10 @@
       "lastSuccess": 1735567255080
     },
     "downloader-tiktok.js": {
-      "total": 1920,
-      "success": 1774,
-      "last": 1735578691986,
-      "lastSuccess": 1735578691986
+      "total": 1921,
+      "success": 1775,
+      "last": 1735603694338,
+      "lastSuccess": 1735603694338
     },
     "owner-sf.js": {
       "total": 1118,
@@ -70225,7 +70226,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735600750352,
+      "backupDB": 1735602869276,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
