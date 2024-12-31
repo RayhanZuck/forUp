@@ -627,8 +627,8 @@
       "lastrob": 1735370241658
     },
     "6285878464218@s.whatsapp.net": {
-      "exp": 20897,
-      "limit": 4,
+      "exp": 22985,
+      "limit": 54,
       "registered": false,
       "name": "nnd'del.rey",
       "age": -1,
@@ -646,7 +646,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastdaily": 1734499495338,
+      "lastdaily": 1735685883563,
       "lastcommand": 1734508007369
     },
     "6289660958090@s.whatsapp.net": {
@@ -64233,7 +64233,7 @@
         "6285947468832@s.whatsapp.net": 96,
         "6285786829931@s.whatsapp.net": 33,
         "628568162468@s.whatsapp.net": 986,
-        "6281326617972@s.whatsapp.net": 1041,
+        "6281326617972@s.whatsapp.net": 1050,
         "919863871445@s.whatsapp.net": 7,
         "6287785090009@s.whatsapp.net": 183,
         "6283191371141@s.whatsapp.net": 181,
@@ -64262,7 +64262,7 @@
         "6289505879658@s.whatsapp.net": 33,
         "6285716661950@s.whatsapp.net": 181,
         "6283837362281@s.whatsapp.net": 15,
-        "6285878464218@s.whatsapp.net": 27,
+        "6285878464218@s.whatsapp.net": 28,
         "966537864819@s.whatsapp.net": 7,
         "85293332660@s.whatsapp.net": 16,
         "6281958351619@s.whatsapp.net": 98,
@@ -64279,7 +64279,7 @@
         "6285931400906@s.whatsapp.net": 23,
         "62882022063723@s.whatsapp.net": 82,
         "6288294411864@s.whatsapp.net": 96,
-        "6287838073395@s.whatsapp.net": 1
+        "6287838073395@s.whatsapp.net": 2
       },
       "totalChat": 0
     },
@@ -71464,10 +71464,10 @@
       "lastSuccess": 1735566564613
     },
     "downloader-play.js": {
-      "total": 2096,
-      "success": 1960,
-      "last": 1735668928895,
-      "lastSuccess": 1735668928895
+      "total": 2099,
+      "success": 1963,
+      "last": 1735685954298,
+      "lastSuccess": 1735685954298
     },
     "downloader-ytvideo.js": {
       "total": 140,
@@ -71512,10 +71512,10 @@
       "lastSuccess": 1735271593830
     },
     "econ-claim.js": {
-      "total": 2241,
-      "success": 1508,
-      "last": 1735674169231,
-      "lastSuccess": 1735674169231
+      "total": 2242,
+      "success": 1509,
+      "last": 1735685883563,
+      "lastSuccess": 1735685883563
     },
     "game-curi.js": {
       "total": 1172,
@@ -73789,7 +73789,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735683609976,
+      "backupDB": 1735685837661,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
