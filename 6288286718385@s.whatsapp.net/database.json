@@ -602,7 +602,7 @@
       "lastrob": 1730711453293
     },
     "628568162468@s.whatsapp.net": {
-      "exp": 4490,
+      "exp": 4522,
       "limit": 409,
       "registered": false,
       "name": "Mechanisiertes Bataillon",
@@ -1047,7 +1047,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 6511,
+      "exp": 6517,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -4214,8 +4214,8 @@
       "premiumTime": 0
     },
     "6289621609393@s.whatsapp.net": {
-      "exp": 71836,
-      "limit": 1484,
+      "exp": 73982,
+      "limit": 1564,
       "registered": false,
       "name": "~Poetra",
       "age": -1,
@@ -4233,8 +4233,8 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastdaily": 1735097798206,
-      "lastcommand": 1735364461379
+      "lastdaily": 1735624766732,
+      "lastcommand": 1735624673930
     },
     "6283132719310@s.whatsapp.net": {
       "exp": 52,
@@ -42757,8 +42757,8 @@
       "premiumTime": 0
     },
     "6285717205265@s.whatsapp.net": {
-      "exp": 11226,
-      "limit": 22,
+      "exp": 17376,
+      "limit": 597,
       "registered": false,
       "name": "Ayam",
       "age": -1,
@@ -42771,11 +42771,12 @@
       "role": "Beginner",
       "BannedReason": "",
       "WarnReason": "",
-      "lastweekly": 0,
-      "lastmonthly": 0,
+      "lastweekly": 1735624811597,
+      "lastmonthly": 1735624809886,
       "premium": true,
       "premiumTime": 0,
-      "lastBanned": 0
+      "lastBanned": 0,
+      "lastdaily": 1735624810901
     },
     "96444044316916_1@s.whatsapp.net": {
       "exp": 10,
@@ -59802,7 +59803,7 @@
       "premiumTime": 0
     },
     "6282140063419@s.whatsapp.net": {
-      "exp": 14097,
+      "exp": 14103,
       "limit": 616,
       "registered": false,
       "name": "Rapi",
@@ -60997,16 +60998,16 @@
       "antiLinkOther": true,
       "total": {
         "6283842836842@s.whatsapp.net": 1934,
-        "6289621609393@s.whatsapp.net": 22,
+        "6289621609393@s.whatsapp.net": 58,
         "6287810709618@s.whatsapp.net": 40,
         "6285150845191@s.whatsapp.net": 22,
         "6288225432435@s.whatsapp.net": 1205,
-        "6281957133061@s.whatsapp.net": 613,
+        "6281957133061@s.whatsapp.net": 641,
         "6287761263814@s.whatsapp.net": 141,
         "62882007880538@s.whatsapp.net": 220,
         "6287731548171@s.whatsapp.net": 41,
         "6285766064200@s.whatsapp.net": 412,
-        "6285394495227@s.whatsapp.net": 794,
+        "6285394495227@s.whatsapp.net": 815,
         "6285720973051@s.whatsapp.net": 602,
         "6283822760236@s.whatsapp.net": 45,
         "628388996801@s.whatsapp.net": 96,
@@ -61015,14 +61016,14 @@
         "6285961457520@s.whatsapp.net": 101,
         "62882006212609@s.whatsapp.net": 76,
         "628999684800@s.whatsapp.net": 19,
-        "6282140063419@s.whatsapp.net": 1795,
-        "6283169226415@s.whatsapp.net": 632,
+        "6282140063419@s.whatsapp.net": 1796,
+        "6283169226415@s.whatsapp.net": 751,
         "6285947468832@s.whatsapp.net": 96,
         "6285786829931@s.whatsapp.net": 24,
-        "628568162468@s.whatsapp.net": 941,
+        "628568162468@s.whatsapp.net": 962,
         "6281326617972@s.whatsapp.net": 465,
         "919863871445@s.whatsapp.net": 7,
-        "6287785090009@s.whatsapp.net": 100,
+        "6287785090009@s.whatsapp.net": 114,
         "6283191371141@s.whatsapp.net": 181,
         "6281410908925@s.whatsapp.net": 47,
         "62895339044041@s.whatsapp.net": 57,
@@ -61042,9 +61043,9 @@
         "62881037157545@s.whatsapp.net": 32,
         "6283878703066@s.whatsapp.net": 154,
         "6288290178884@s.whatsapp.net": 10,
-        "6281244990646@s.whatsapp.net": 5,
-        "6283128310287@s.whatsapp.net": 7,
-        "6285717205265@s.whatsapp.net": 1
+        "6281244990646@s.whatsapp.net": 12,
+        "6283128310287@s.whatsapp.net": 28,
+        "6285717205265@s.whatsapp.net": 100
       },
       "totalChat": 0
     },
@@ -68034,10 +68035,10 @@
       "lastSuccess": 1735618315196
     },
     "downloader-tiktok.js": {
-      "total": 1931,
-      "success": 1783,
-      "last": 1735622728611,
-      "lastSuccess": 1735622728611
+      "total": 1933,
+      "success": 1784,
+      "last": 1735624694166,
+      "lastSuccess": 1735624694166
     },
     "owner-sf.js": {
       "total": 1118,
@@ -68046,10 +68047,10 @@
       "lastSuccess": 1735566564613
     },
     "downloader-play.js": {
-      "total": 2080,
-      "success": 1946,
-      "last": 1735619061016,
-      "lastSuccess": 1735619061016
+      "total": 2082,
+      "success": 1948,
+      "last": 1735624834531,
+      "lastSuccess": 1735624834531
     },
     "downloader-ytvideo.js": {
       "total": 139,
@@ -68094,10 +68095,10 @@
       "lastSuccess": 1735271593830
     },
     "econ-claim.js": {
-      "total": 2195,
-      "success": 1476,
-      "last": 1735618311469,
-      "lastSuccess": 1735617209905
+      "total": 2201,
+      "success": 1480,
+      "last": 1735624811597,
+      "lastSuccess": 1735624811597
     },
     "game-curi.js": {
       "total": 1171,
@@ -68142,10 +68143,10 @@
       "lastSuccess": 1735208460479
     },
     "main-limit.js": {
-      "total": 1282,
-      "success": 1282,
-      "last": 1735612382060,
-      "lastSuccess": 1735612382060
+      "total": 1283,
+      "success": 1283,
+      "last": 1735624551612,
+      "lastSuccess": 1735624551612
     },
     "game-ulartangga.js": {
       "total": 156,
@@ -68508,10 +68509,10 @@
       "lastSuccess": 1735564976287
     },
     "info-ping.js": {
-      "total": 284,
-      "success": 284,
-      "last": 1735607507286,
-      "lastSuccess": 1735607507286
+      "total": 285,
+      "success": 285,
+      "last": 1735624677942,
+      "lastSuccess": 1735624677942
     },
     "ai-toanime.js": {
       "total": 99,
@@ -70371,7 +70372,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735622566949,
+      "backupDB": 1735624532370,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
