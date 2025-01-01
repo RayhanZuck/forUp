@@ -161,7 +161,7 @@
       "lastcommand": 1735076311886
     },
     "120363183420865643@g.us": {
-      "exp": 5520,
+      "exp": 5530,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -182,7 +182,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 4141,
+      "exp": 4142,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1048,7 +1048,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 6591,
+      "exp": 6595,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1232,7 +1232,7 @@
       "lastcommand": 1732391448904
     },
     "6283169226415@s.whatsapp.net": {
-      "exp": 3056,
+      "exp": 3080,
       "limit": 45,
       "registered": false,
       "name": "I Just Need Time🎐",
@@ -2937,7 +2937,7 @@
       "lastBanned": 0
     },
     "6283867247755@s.whatsapp.net": {
-      "exp": 72082,
+      "exp": 72116,
       "limit": 5999,
       "registered": true,
       "name": "ツ",
@@ -2955,7 +2955,7 @@
       "lastmonthly": 1735607276564,
       "premium": true,
       "premiumTime": 0,
-      "lastcommand": 1735645061771,
+      "lastcommand": 1735704136915,
       "lastBanned": 0,
       "lastdaily": 1735607009583,
       "lastwork": 1735645261573,
@@ -64221,6 +64221,24 @@
       "atm": 999,
       "premium": true,
       "premiumTime": 0
+    },
+    "923402841948@s.whatsapp.net": {
+      "exp": 1007,
+      "limit": 999,
+      "money": 999,
+      "bank": 999,
+      "atm": 999,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6281285292079@s.whatsapp.net": {
+      "exp": 1002,
+      "limit": 999,
+      "money": 999,
+      "bank": 999,
+      "atm": 999,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -64369,12 +64387,12 @@
         "6283822760236@s.whatsapp.net": 85,
         "628388996801@s.whatsapp.net": 133,
         "6287862112981@s.whatsapp.net": 17,
-        "6282143175110@s.whatsapp.net": 15,
+        "6282143175110@s.whatsapp.net": 18,
         "6285961457520@s.whatsapp.net": 101,
-        "62882006212609@s.whatsapp.net": 80,
+        "62882006212609@s.whatsapp.net": 86,
         "628999684800@s.whatsapp.net": 19,
         "6282140063419@s.whatsapp.net": 2295,
-        "6283169226415@s.whatsapp.net": 751,
+        "6283169226415@s.whatsapp.net": 752,
         "6285947468832@s.whatsapp.net": 96,
         "6285786829931@s.whatsapp.net": 33,
         "628568162468@s.whatsapp.net": 986,
@@ -64395,7 +64413,7 @@
         "62895414186224@s.whatsapp.net": 41,
         "6282223286962@s.whatsapp.net": 31,
         "62895422730678@s.whatsapp.net": 10,
-        "6283867247755@s.whatsapp.net": 151,
+        "6283867247755@s.whatsapp.net": 153,
         "62895341178597@s.whatsapp.net": 82,
         "62881037157545@s.whatsapp.net": 44,
         "6283878703066@s.whatsapp.net": 154,
@@ -64435,7 +64453,7 @@
       "antiSpaml": true,
       "antiFoto": false,
       "antiVideo": false,
-      "delay": 1735702958829
+      "delay": 1735704150710
     },
     "120363240711248334@g.us": {
       "isBanned": false,
@@ -64516,7 +64534,8 @@
         "6287863701651@s.whatsapp.net": 6,
         "85293332660@s.whatsapp.net": 1,
         "6287719003775@s.whatsapp.net": 2,
-        "6287852486637@s.whatsapp.net": 1
+        "6287852486637@s.whatsapp.net": 1,
+        "6283852851985@s.whatsapp.net": 1
       },
       "totalChat": 0,
       "acc": false,
@@ -71673,10 +71692,10 @@
       "lastSuccess": 1735702519635
     },
     "downloader-play.js": {
-      "total": 2102,
-      "success": 1966,
-      "last": 1735692668730,
-      "lastSuccess": 1735692668730
+      "total": 2103,
+      "success": 1967,
+      "last": 1735704150710,
+      "lastSuccess": 1735704150710
     },
     "downloader-ytvideo.js": {
       "total": 140,
@@ -72135,9 +72154,9 @@
       "lastSuccess": 1735564976287
     },
     "info-ping.js": {
-      "total": 294,
+      "total": 295,
       "success": 292,
-      "last": 1735701541163,
+      "last": 1735704136942,
       "lastSuccess": 1735701541163
     },
     "ai-toanime.js": {
@@ -73998,7 +74017,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735701354607,
+      "backupDB": 1735703195857,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
