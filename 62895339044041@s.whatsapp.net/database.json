@@ -1846,7 +1846,7 @@
       "premiumTime": 0
     },
     "6282329546871@s.whatsapp.net": {
-      "exp": 1154,
+      "exp": 1156,
       "limit": 414,
       "registered": false,
       "name": "Bimzz • (+13M)",
@@ -4090,7 +4090,7 @@
       "lastBanned": 0
     },
     "6285692802035@s.whatsapp.net": {
-      "exp": 206,
+      "exp": 225,
       "limit": 499,
       "registered": false,
       "name": "Fariel Ardiansyah",
@@ -4819,7 +4819,7 @@
       "lastBanned": 0
     },
     "6285695298213@s.whatsapp.net": {
-      "exp": 2137,
+      "exp": 2190,
       "limit": 499,
       "registered": false,
       "name": "Seba",
@@ -4835,10 +4835,10 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1735759737416
+      "lastcommand": 1735764131569
     },
     "6288212998950@s.whatsapp.net": {
       "exp": 10,
@@ -7951,8 +7951,8 @@
       "lastBanned": 0
     },
     "628812786907@s.whatsapp.net": {
-      "exp": 532,
-      "limit": 419,
+      "exp": 599,
+      "limit": 399,
       "registered": false,
       "name": "𝙅𝘼𝙏𝙍𝙊𝙋𝙃𝘼 𝘿𝙄𝙋𝘼 𝘿𝙋 𝟒 (𝙍𝘽𝙂)✨",
       "age": -1,
@@ -17898,7 +17898,7 @@
       "premiumTime": 0
     },
     "6285882488937@s.whatsapp.net": {
-      "exp": 548,
+      "exp": 574,
       "limit": 499,
       "registered": false,
       "name": "𝓔𝓻𝓲 𝓟𝓾𝓽𝓻𝓲 𝓢𝔂𝓪𝓯𝓲𝓽𝓻𝓲",
@@ -21987,18 +21987,18 @@
       "expired": 0,
       "total": {
         "6289677089760@s.whatsapp.net": 5595,
-        "6285695298213@s.whatsapp.net": 7324,
+        "6285695298213@s.whatsapp.net": 7337,
         "6289509094912@s.whatsapp.net": 3366,
-        "62881038295181@s.whatsapp.net": 2624,
+        "62881038295181@s.whatsapp.net": 2625,
         "6285333698298@s.whatsapp.net": 1626,
         "6283877011012@s.whatsapp.net": 19,
-        "6285751711250@s.whatsapp.net": 318,
+        "6285751711250@s.whatsapp.net": 323,
         "6283829777673@s.whatsapp.net": 128,
         "6287866223812@s.whatsapp.net": 107,
         "6285606291907@s.whatsapp.net": 28,
         "60139913662@s.whatsapp.net": 628,
         "62895415537216@s.whatsapp.net": 1390,
-        "6283141102109@s.whatsapp.net": 883,
+        "6283141102109@s.whatsapp.net": 889,
         "6285807109880@s.whatsapp.net": 17,
         "6289662526134@s.whatsapp.net": 15,
         "62881026671840@s.whatsapp.net": 195,
@@ -22011,8 +22011,8 @@
         "6283896326523@s.whatsapp.net": 29,
         "6289691240845@s.whatsapp.net": 190,
         "6283159367056@s.whatsapp.net": 521,
-        "923273164574@s.whatsapp.net": 42,
-        "6283897219461@s.whatsapp.net": 1
+        "923273164574@s.whatsapp.net": 46,
+        "6283897219461@s.whatsapp.net": 2
       },
       "totalChat": 0
     },
@@ -22962,7 +22962,7 @@
       "total": {
         "6285781810015@s.whatsapp.net": 63,
         "6289619621030@s.whatsapp.net": 1115,
-        "628812786907@s.whatsapp.net": 1388,
+        "628812786907@s.whatsapp.net": 1426,
         "62882001891203@s.whatsapp.net": 188,
         "6285709082832@s.whatsapp.net": 130,
         "6281295504112@s.whatsapp.net": 14,
@@ -22977,7 +22977,7 @@
         "6282124347199@s.whatsapp.net": 41,
         "6285860000205@s.whatsapp.net": 131,
         "6285782911926@s.whatsapp.net": 102,
-        "6283145673079@s.whatsapp.net": 1224
+        "6283145673079@s.whatsapp.net": 1304
       },
       "totalChat": 0
     },
@@ -25139,16 +25139,16 @@
       "lastSuccess": 1735725220764
     },
     "_cek.js": {
-      "total": 112,
-      "success": 112,
-      "last": 1735759741659,
-      "lastSuccess": 1735759741659
+      "total": 114,
+      "success": 114,
+      "last": 1735764139487,
+      "lastSuccess": 1735764139487
     },
     "sticker-quotely.js": {
-      "total": 212,
-      "success": 211,
-      "last": 1735754546387,
-      "lastSuccess": 1735754546387
+      "total": 214,
+      "success": 213,
+      "last": 1735764053484,
+      "lastSuccess": 1735764053484
     },
     "_shortcut.js": {
       "total": 30,
@@ -25620,7 +25620,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735759629255,
+      "backupDB": 1735762372682,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
