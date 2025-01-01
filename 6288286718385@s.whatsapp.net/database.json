@@ -20754,7 +20754,7 @@
       "premiumTime": 0
     },
     "6283865533087@s.whatsapp.net": {
-      "exp": 29681,
+      "exp": 29720,
       "limit": 1089,
       "registered": false,
       "name": "—Fly in sky",
@@ -20777,7 +20777,7 @@
       "lastdaily": 1735655730702,
       "lastrob": 1733477849879,
       "lastwork": 1734616653260,
-      "delay": 1735718697080
+      "delay": 1735720870857
     },
     "7022690967610_1@s.whatsapp.net": {
       "exp": 6,
@@ -60002,7 +60002,7 @@
       "resetSent": true
     },
     "6281233814146@s.whatsapp.net": {
-      "exp": 264,
+      "exp": 287,
       "limit": 499,
       "registered": false,
       "name": "シャオリス",
@@ -64402,6 +64402,33 @@
     },
     "6281371194562@s.whatsapp.net": {
       "exp": 1001,
+      "limit": 999,
+      "money": 999,
+      "bank": 999,
+      "atm": 999,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6281260388664@s.whatsapp.net": {
+      "exp": 1009,
+      "limit": 999,
+      "money": 999,
+      "bank": 999,
+      "atm": 999,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6285602978730@s.whatsapp.net": {
+      "exp": 1007,
+      "limit": 999,
+      "money": 999,
+      "bank": 999,
+      "atm": 999,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6287877658964@s.whatsapp.net": {
+      "exp": 1003,
       "limit": 999,
       "money": 999,
       "bank": 999,
@@ -71828,7 +71855,7 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285735072824@s.whatsapp.net": 79,
+        "6285735072824@s.whatsapp.net": 82,
         "62895386134592@s.whatsapp.net": 52
       },
       "totalChat": 0,
@@ -72562,10 +72589,10 @@
       "lastSuccess": 1735538536091
     },
     "downloader-all.js": {
-      "total": 47,
-      "success": 30,
-      "last": 1735718642394,
-      "lastSuccess": 1735718642394
+      "total": 48,
+      "success": 31,
+      "last": 1735720870857,
+      "lastSuccess": 1735720870857
     },
     "sticker-tovideo.js": {
       "total": 53,
@@ -74233,7 +74260,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735717717703,
+      "backupDB": 1735719807751,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
