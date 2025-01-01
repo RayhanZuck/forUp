@@ -60619,7 +60619,7 @@
       "premiumTime": 0
     },
     "601121834754@s.whatsapp.net": {
-      "exp": 1,
+      "exp": 3,
       "limit": 499,
       "registered": false,
       "name": "Ro ke",
@@ -60636,7 +60636,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6281269814001@s.whatsapp.net": {
       "exp": 52,
@@ -66582,6 +66583,26 @@
       "exp": 9,
       "limit": 499,
       "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6285894927306@s.whatsapp.net": {
+      "exp": 7,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 858-9492-7306",
       "age": -1,
       "regTime": -1,
       "unreg": false,
@@ -74039,7 +74060,7 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285735072824@s.whatsapp.net": 129,
+        "6285735072824@s.whatsapp.net": 130,
         "62895386134592@s.whatsapp.net": 52
       },
       "totalChat": 0,
@@ -76663,7 +76684,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735761059848,
+      "backupDB": 1735763675885,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
