@@ -1429,7 +1429,7 @@
       "lastwork": 1730627739066
     },
     "6282213576013@s.whatsapp.net": {
-      "exp": 586,
+      "exp": 591,
       "limit": 39,
       "registered": false,
       "name": "Zinuha",
@@ -20754,7 +20754,7 @@
       "premiumTime": 0
     },
     "6283865533087@s.whatsapp.net": {
-      "exp": 29437,
+      "exp": 29681,
       "limit": 1089,
       "registered": false,
       "name": "—Fly in sky",
@@ -20772,11 +20772,12 @@
       "lastmonthly": 1733236344199,
       "premium": true,
       "premiumTime": 0,
-      "lastcommand": 1735701946204,
+      "lastcommand": 1735718687306,
       "lastBanned": 0,
       "lastdaily": 1735655730702,
       "lastrob": 1733477849879,
-      "lastwork": 1734616653260
+      "lastwork": 1734616653260,
+      "delay": 1735718697080
     },
     "7022690967610_1@s.whatsapp.net": {
       "exp": 6,
@@ -62227,7 +62228,7 @@
       "premiumTime": 0
     },
     "6285735072824@s.whatsapp.net": {
-      "exp": 13,
+      "exp": 69,
       "limit": 499,
       "registered": false,
       "name": "+62 857-3507-2824",
@@ -64380,6 +64381,33 @@
       "atm": 999,
       "premium": true,
       "premiumTime": 0
+    },
+    "6287827823342@s.whatsapp.net": {
+      "exp": 1006,
+      "limit": 999,
+      "money": 999,
+      "bank": 999,
+      "atm": 999,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6285143896012@s.whatsapp.net": {
+      "exp": 1005,
+      "limit": 999,
+      "money": 999,
+      "bank": 999,
+      "atm": 999,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6281371194562@s.whatsapp.net": {
+      "exp": 1001,
+      "limit": 999,
+      "money": 999,
+      "bank": 999,
+      "atm": 999,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -64525,7 +64553,7 @@
         "6285766064200@s.whatsapp.net": 592,
         "6285394495227@s.whatsapp.net": 956,
         "6285720973051@s.whatsapp.net": 760,
-        "6283822760236@s.whatsapp.net": 88,
+        "6283822760236@s.whatsapp.net": 89,
         "628388996801@s.whatsapp.net": 133,
         "6287862112981@s.whatsapp.net": 17,
         "6282143175110@s.whatsapp.net": 57,
@@ -64572,7 +64600,7 @@
         "6281958351619@s.whatsapp.net": 98,
         "6282295272552@s.whatsapp.net": 60,
         "6288213051620@s.whatsapp.net": 38,
-        "6285842562537@s.whatsapp.net": 782,
+        "6285842562537@s.whatsapp.net": 795,
         "6285945960981@s.whatsapp.net": 55,
         "6282213576013@s.whatsapp.net": 44,
         "6282258614162@s.whatsapp.net": 44,
@@ -69758,7 +69786,13 @@
       "game": true,
       "teks": true,
       "autolevelup": true,
-      "expired": 0
+      "expired": 0,
+      "acc": false,
+      "antiCall": true,
+      "antiSpaml": true,
+      "antiFoto": false,
+      "antiVideo": false,
+      "antiAudio": false
     },
     "6285964241702@s.whatsapp.net": {
       "isBanned": false,
@@ -71794,7 +71828,7 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285735072824@s.whatsapp.net": 76,
+        "6285735072824@s.whatsapp.net": 79,
         "62895386134592@s.whatsapp.net": 52
       },
       "totalChat": 0,
@@ -72006,10 +72040,10 @@
       "lastSuccess": 1735626637989
     },
     "ai-remini.js": {
-      "total": 973,
-      "success": 916,
-      "last": 1735701558462,
-      "lastSuccess": 1735697561923
+      "total": 975,
+      "success": 918,
+      "last": 1735718194199,
+      "lastSuccess": 1735718194199
     },
     "game-tebakbendera.js": {
       "total": 427,
@@ -72030,10 +72064,10 @@
       "lastSuccess": 1735606925267
     },
     "_cek.js": {
-      "total": 905,
-      "success": 905,
-      "last": 1735702428649,
-      "lastSuccess": 1735702428649
+      "total": 908,
+      "success": 908,
+      "last": 1735718697080,
+      "lastSuccess": 1735718697080
     },
     "enable.js": {
       "total": 110,
@@ -72528,10 +72562,10 @@
       "lastSuccess": 1735538536091
     },
     "downloader-all.js": {
-      "total": 44,
-      "success": 29,
-      "last": 1735099129085,
-      "lastSuccess": 1735099129085
+      "total": 47,
+      "success": 30,
+      "last": 1735718642394,
+      "lastSuccess": 1735718642394
     },
     "sticker-tovideo.js": {
       "total": 53,
@@ -74199,7 +74233,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735715913213,
+      "backupDB": 1735717717703,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
