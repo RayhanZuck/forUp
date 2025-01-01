@@ -3321,8 +3321,8 @@
       "lastdaily": 1730357910770
     },
     "62881037157545@s.whatsapp.net": {
-      "exp": 23396,
-      "limit": 1384,
+      "exp": 23416,
+      "limit": 1359,
       "registered": false,
       "name": "きょういき Izumi",
       "age": -1,
@@ -5871,8 +5871,8 @@
       "premiumTime": 0
     },
     "6287877901251@s.whatsapp.net": {
-      "exp": 12429,
-      "limit": 239,
+      "exp": 12475,
+      "limit": 199,
       "registered": false,
       "name": "@xys_syaa'",
       "age": -1,
@@ -10254,8 +10254,8 @@
       "lastcommand": 1732626343051
     },
     "628388144574@s.whatsapp.net": {
-      "exp": -155,
-      "limit": 299,
+      "exp": -135,
+      "limit": 269,
       "registered": false,
       "name": ".",
       "age": -1,
@@ -51319,7 +51319,7 @@
       "premiumTime": 0
     },
     "6288225432435@s.whatsapp.net": {
-      "exp": 12238,
+      "exp": 12296,
       "limit": 3025,
       "registered": false,
       "name": "Aksa Wibisono",
@@ -64213,7 +64213,7 @@
         "6289621609393@s.whatsapp.net": 221,
         "6287810709618@s.whatsapp.net": 40,
         "6285150845191@s.whatsapp.net": 22,
-        "6288225432435@s.whatsapp.net": 1205,
+        "6288225432435@s.whatsapp.net": 1226,
         "6281957133061@s.whatsapp.net": 944,
         "6287761263814@s.whatsapp.net": 169,
         "62882007880538@s.whatsapp.net": 220,
@@ -64233,7 +64233,7 @@
         "6285947468832@s.whatsapp.net": 96,
         "6285786829931@s.whatsapp.net": 33,
         "628568162468@s.whatsapp.net": 986,
-        "6281326617972@s.whatsapp.net": 1050,
+        "6281326617972@s.whatsapp.net": 1104,
         "919863871445@s.whatsapp.net": 7,
         "6287785090009@s.whatsapp.net": 183,
         "6283191371141@s.whatsapp.net": 181,
@@ -64262,7 +64262,7 @@
         "6289505879658@s.whatsapp.net": 33,
         "6285716661950@s.whatsapp.net": 181,
         "6283837362281@s.whatsapp.net": 15,
-        "6285878464218@s.whatsapp.net": 28,
+        "6285878464218@s.whatsapp.net": 52,
         "966537864819@s.whatsapp.net": 7,
         "85293332660@s.whatsapp.net": 16,
         "6281958351619@s.whatsapp.net": 98,
@@ -64279,7 +64279,7 @@
         "6285931400906@s.whatsapp.net": 23,
         "62882022063723@s.whatsapp.net": 82,
         "6288294411864@s.whatsapp.net": 96,
-        "6287838073395@s.whatsapp.net": 2
+        "6287838073395@s.whatsapp.net": 8
       },
       "totalChat": 0
     },
@@ -71446,16 +71446,16 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 833,
-      "success": 775,
-      "last": 1735681050755,
-      "lastSuccess": 1735681050755
+      "total": 834,
+      "success": 776,
+      "last": 1735689544626,
+      "lastSuccess": 1735689544626
     },
     "downloader-tiktok.js": {
-      "total": 1962,
-      "success": 1813,
-      "last": 1735666519392,
-      "lastSuccess": 1735666519392
+      "total": 1964,
+      "success": 1815,
+      "last": 1735689257308,
+      "lastSuccess": 1735689257308
     },
     "owner-sf.js": {
       "total": 1118,
@@ -72550,10 +72550,10 @@
       "lastSuccess": 1735279797727
     },
     "downloader-yt2.js": {
-      "total": 417,
-      "success": 262,
-      "last": 1735663676352,
-      "lastSuccess": 1735663676352
+      "total": 418,
+      "success": 263,
+      "last": 1735688856571,
+      "lastSuccess": 1735688856571
     },
     "internet-playlist.js": {
       "total": 20,
@@ -73789,7 +73789,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735685837661,
+      "backupDB": 1735687996058,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
