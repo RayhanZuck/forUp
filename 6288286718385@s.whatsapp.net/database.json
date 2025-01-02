@@ -182,7 +182,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 4306,
+      "exp": 4315,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1049,7 +1049,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 6962,
+      "exp": 6968,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -89529,6 +89529,26 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "989155961839@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "name": "fisalmobai",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -89824,7 +89844,7 @@
         "6287713931944@s.whatsapp.net": 19,
         "6285161408046@s.whatsapp.net": 184,
         "628388144574@s.whatsapp.net": 19,
-        "628818691228@s.whatsapp.net": 144,
+        "628818691228@s.whatsapp.net": 145,
         "62881026445984@s.whatsapp.net": 359,
         "628812611040@s.whatsapp.net": 4382,
         "6285775650917@s.whatsapp.net": 13,
@@ -89856,13 +89876,13 @@
         "628895625259@s.whatsapp.net": 117,
         "6282180938263@s.whatsapp.net": 353,
         "6282250501816@s.whatsapp.net": 8,
-        "6287711107921@s.whatsapp.net": 27,
+        "6287711107921@s.whatsapp.net": 28,
         "6288232632166@s.whatsapp.net": 30,
         "6285946889399@s.whatsapp.net": 25,
         "60149447283@s.whatsapp.net": 61,
-        "6283129657601@s.whatsapp.net": 19,
-        "6283177066847@s.whatsapp.net": 7,
-        "6285230734889@s.whatsapp.net": 15
+        "6283129657601@s.whatsapp.net": 21,
+        "6283177066847@s.whatsapp.net": 9,
+        "6285230734889@s.whatsapp.net": 20
       },
       "totalChat": 0,
       "acc": false,
@@ -99893,7 +99913,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735856165023,
+      "backupDB": 1735859059779,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
