@@ -60962,8 +60962,8 @@
       "lastBanned": 0
     },
     "62882022063723@s.whatsapp.net": {
-      "exp": 13055,
-      "limit": 534,
+      "exp": 13074,
+      "limit": 514,
       "registered": false,
       "name": "Reyy",
       "age": -1,
@@ -89969,7 +89969,7 @@
       "lastBanned": 0
     },
     "628815266879@s.whatsapp.net": {
-      "exp": 40652,
+      "exp": 40657,
       "limit": 14,
       "registered": true,
       "name": "king vanzz",
@@ -90540,10 +90540,10 @@
         "6282258614162@s.whatsapp.net": 80,
         "6285960625531@s.whatsapp.net": 46,
         "6281299654598@s.whatsapp.net": 84,
-        "6282245573241@s.whatsapp.net": 176,
+        "6282245573241@s.whatsapp.net": 187,
         "6281398178926@s.whatsapp.net": 37,
         "6285931400906@s.whatsapp.net": 58,
-        "62882022063723@s.whatsapp.net": 1106,
+        "62882022063723@s.whatsapp.net": 1107,
         "6288294411864@s.whatsapp.net": 123,
         "6287838073395@s.whatsapp.net": 20,
         "6282350521338@s.whatsapp.net": 86,
@@ -90577,7 +90577,7 @@
         "6283897914923@s.whatsapp.net": 128,
         "919739198999@s.whatsapp.net": 80,
         "62895334909494@s.whatsapp.net": 10,
-        "628815266879@s.whatsapp.net": 3766,
+        "628815266879@s.whatsapp.net": 3785,
         "6285877044241@s.whatsapp.net": 144
       },
       "totalChat": 0,
@@ -98486,10 +98486,10 @@
       "lastSuccess": 1735904264283
     },
     "downloader-tiktok.js": {
-      "total": 2077,
-      "success": 1927,
-      "last": 1735939392949,
-      "lastSuccess": 1735939392949
+      "total": 2078,
+      "success": 1928,
+      "last": 1735945135169,
+      "lastSuccess": 1735945135169
     },
     "owner-sf.js": {
       "total": 1147,
@@ -100847,7 +100847,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735941156157,
+      "backupDB": 1735945129415,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
