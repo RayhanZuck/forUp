@@ -75018,7 +75018,7 @@
       "premiumTime": 0
     },
     "6285215928208@s.whatsapp.net": {
-      "exp": 45,
+      "exp": 52,
       "limit": 499,
       "registered": false,
       "name": "لانج",
@@ -89969,7 +89969,7 @@
       "lastBanned": 0
     },
     "628815266879@s.whatsapp.net": {
-      "exp": 37281,
+      "exp": 39256,
       "limit": 1,
       "registered": true,
       "name": "king vanzz",
@@ -90282,6 +90282,66 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "6282184381428@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 821-8438-1428",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "218575231008914_1@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "6288973045215@s.whatsapp.net": {
+      "exp": 7,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 889-7304-5215",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -90517,7 +90577,7 @@
         "6283897914923@s.whatsapp.net": 128,
         "919739198999@s.whatsapp.net": 80,
         "62895334909494@s.whatsapp.net": 10,
-        "628815266879@s.whatsapp.net": 2567,
+        "628815266879@s.whatsapp.net": 2993,
         "6285877044241@s.whatsapp.net": 144
       },
       "totalChat": 0,
@@ -98162,19 +98222,19 @@
       "expired": 0,
       "total": {
         "6281242969388@s.whatsapp.net": 1441,
-        "6283137913336@s.whatsapp.net": 1139,
-        "6285215928208@s.whatsapp.net": 249,
+        "6283137913336@s.whatsapp.net": 1143,
+        "6285215928208@s.whatsapp.net": 261,
         "6283187239811@s.whatsapp.net": 30,
         "6283871900349@s.whatsapp.net": 650,
-        "6282260319658@s.whatsapp.net": 214,
-        "6289510342996@s.whatsapp.net": 65,
-        "62895380314499@s.whatsapp.net": 53,
+        "6282260319658@s.whatsapp.net": 218,
+        "6289510342996@s.whatsapp.net": 77,
+        "62895380314499@s.whatsapp.net": 61,
         "62895320803143@s.whatsapp.net": 30,
-        "6287864579649@s.whatsapp.net": 52,
+        "6287864579649@s.whatsapp.net": 56,
         "60135694079@s.whatsapp.net": 79,
-        "6283179458669@s.whatsapp.net": 44,
-        "6285137490049@s.whatsapp.net": 6,
-        "6283166427372@s.whatsapp.net": 14
+        "6283179458669@s.whatsapp.net": 48,
+        "6285137490049@s.whatsapp.net": 10,
+        "6283166427372@s.whatsapp.net": 30
       },
       "totalChat": 0
     },
@@ -99703,10 +99763,10 @@
       "lastSuccess": 1734369502679
     },
     "game-asahotak.js": {
-      "total": 112,
-      "success": 112,
-      "last": 1735937105522,
-      "lastSuccess": 1735937105522
+      "total": 119,
+      "success": 119,
+      "last": 1735937772308,
+      "lastSuccess": 1735937772308
     },
     "game-asahotak_hint.js": {
       "total": 24,
@@ -100786,7 +100846,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735935314323,
+      "backupDB": 1735937122612,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
