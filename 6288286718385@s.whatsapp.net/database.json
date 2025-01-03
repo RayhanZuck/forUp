@@ -25814,7 +25814,7 @@
       "lastBanned": 0
     },
     "855964142602@s.whatsapp.net": {
-      "exp": 10,
+      "exp": 18,
       "limit": 499,
       "registered": false,
       "name": "Novia",
@@ -25831,7 +25831,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6282390325545@s.whatsapp.net": {
       "exp": 52,
@@ -35452,7 +35453,7 @@
       "premiumTime": 0
     },
     "959666030715@s.whatsapp.net": {
-      "exp": 7,
+      "exp": 13,
       "limit": 499,
       "registered": false,
       "name": "MI030715",
@@ -35469,7 +35470,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "959650305731@s.whatsapp.net": {
       "exp": 19,
@@ -60023,7 +60025,7 @@
       "resetSent": true
     },
     "6281233814146@s.whatsapp.net": {
-      "exp": 385,
+      "exp": 407,
       "limit": 499,
       "registered": false,
       "name": "シャオリス",
@@ -89967,7 +89969,7 @@
       "lastBanned": 0
     },
     "628815266879@s.whatsapp.net": {
-      "exp": 29774,
+      "exp": 29839,
       "limit": 218,
       "registered": false,
       "name": "VAN>JK🚀🚀",
@@ -89986,7 +89988,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1735928364157,
+      "lastcommand": 1735929146709,
       "lastdaily": 1735920099256
     },
     "119520903622740_1@s.whatsapp.net": {
@@ -90242,6 +90244,44 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "242150776283199_1@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "128432927150111_1@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -90477,7 +90517,7 @@
         "6283897914923@s.whatsapp.net": 128,
         "919739198999@s.whatsapp.net": 80,
         "62895334909494@s.whatsapp.net": 10,
-        "628815266879@s.whatsapp.net": 950,
+        "628815266879@s.whatsapp.net": 1066,
         "6285877044241@s.whatsapp.net": 144
       },
       "totalChat": 0,
@@ -90520,7 +90560,7 @@
       "antiLinkOther": true,
       "total": {
         "6282179477450@s.whatsapp.net": 42,
-        "6288225432435@s.whatsapp.net": 142,
+        "6288225432435@s.whatsapp.net": 150,
         "6281258193521@s.whatsapp.net": 30,
         "6285766064200@s.whatsapp.net": 160,
         "6282143175110@s.whatsapp.net": 175,
@@ -90570,7 +90610,7 @@
         "6287719003775@s.whatsapp.net": 2,
         "6287852486637@s.whatsapp.net": 1,
         "6283852851985@s.whatsapp.net": 17,
-        "6285819196249@s.whatsapp.net": 171,
+        "6285819196249@s.whatsapp.net": 182,
         "6285756525188@s.whatsapp.net": 638,
         "62881022366285@s.whatsapp.net": 556,
         "6281947888865@s.whatsapp.net": 7,
@@ -90597,7 +90637,7 @@
         "6287832919878@s.whatsapp.net": 169,
         "6283191371141@s.whatsapp.net": 31,
         "919739198999@s.whatsapp.net": 76,
-        "6285775803094@s.whatsapp.net": 26
+        "6285775803094@s.whatsapp.net": 28
       },
       "totalChat": 0,
       "acc": false,
@@ -98547,10 +98587,10 @@
       "lastSuccess": 1732004033928
     },
     "owner-kick.js": {
-      "total": 60,
-      "success": 55,
-      "last": 1735806046805,
-      "lastSuccess": 1735728779818
+      "total": 61,
+      "success": 56,
+      "last": 1735929245517,
+      "lastSuccess": 1735929245517
     },
     "_cek.js": {
       "total": 947,
@@ -99021,10 +99061,10 @@
       "lastSuccess": 1735905277205
     },
     "_rayhan-allmenu.js": {
-      "total": 241,
-      "success": 233,
-      "last": 1735928398460,
-      "lastSuccess": 1735928398460
+      "total": 243,
+      "success": 235,
+      "last": 1735929159480,
+      "lastSuccess": 1735929159480
     },
     "ai-ailogo.js": {
       "total": 21,
@@ -100746,7 +100786,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735926671288,
+      "backupDB": 1735928486905,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
