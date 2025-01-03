@@ -60025,7 +60025,7 @@
       "resetSent": true
     },
     "6281233814146@s.whatsapp.net": {
-      "exp": 419,
+      "exp": 426,
       "limit": 499,
       "registered": false,
       "name": "シャオリス",
@@ -89969,8 +89969,8 @@
       "lastBanned": 0
     },
     "628815266879@s.whatsapp.net": {
-      "exp": 27705,
-      "limit": 5,
+      "exp": 37281,
+      "limit": 1,
       "registered": true,
       "name": "king vanzz",
       "age": 14,
@@ -90517,7 +90517,7 @@
         "6283897914923@s.whatsapp.net": 128,
         "919739198999@s.whatsapp.net": 80,
         "62895334909494@s.whatsapp.net": 10,
-        "628815266879@s.whatsapp.net": 1296,
+        "628815266879@s.whatsapp.net": 2567,
         "6285877044241@s.whatsapp.net": 144
       },
       "totalChat": 0,
@@ -99703,16 +99703,16 @@
       "lastSuccess": 1734369502679
     },
     "game-asahotak.js": {
-      "total": 91,
-      "success": 91,
-      "last": 1735879421082,
-      "lastSuccess": 1735879421082
+      "total": 112,
+      "success": 112,
+      "last": 1735937105522,
+      "lastSuccess": 1735937105522
     },
     "game-asahotak_hint.js": {
-      "total": 21,
-      "success": 21,
-      "last": 1735879445393,
-      "lastSuccess": 1735879445393
+      "total": 24,
+      "success": 24,
+      "last": 1735935927173,
+      "lastSuccess": 1735935927173
     },
     "tool-spam.js": {
       "total": 4,
@@ -100153,10 +100153,10 @@
       "lastSuccess": 1734584967448
     },
     "rpg-role.js": {
-      "total": 11,
-      "success": 11,
-      "last": 1735267686081,
-      "lastSuccess": 1735267686081
+      "total": 12,
+      "success": 12,
+      "last": 1735935314804,
+      "lastSuccess": 1735935314804
     },
     "group-setwelcome.js": {
       "total": 2,
@@ -100786,7 +100786,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735933041834,
+      "backupDB": 1735935314323,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
