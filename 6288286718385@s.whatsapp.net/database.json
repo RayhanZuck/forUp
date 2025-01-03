@@ -1453,8 +1453,8 @@
       "lastcommand": 1733719486575
     },
     "6283822760236@s.whatsapp.net": {
-      "exp": 6413,
-      "limit": 2500,
+      "exp": 6492,
+      "limit": 2425,
       "registered": false,
       "name": "ᥫ᭡𔔁𔘓﹏𝙵𝙰𝙽𝙸﹏𔘓𔔁ᥫ",
       "age": -1,
@@ -11758,8 +11758,8 @@
       "lastdaily": 1733495894416
     },
     "6288286718385@s.whatsapp.net": {
-      "exp": 95,
-      "limit": 444,
+      "exp": 206,
+      "limit": 424,
       "registered": false,
       "name": "efata.",
       "age": -1,
@@ -34754,8 +34754,8 @@
       "premiumTime": 0
     },
     "6281240232241@s.whatsapp.net": {
-      "exp": 6372,
-      "limit": 984,
+      "exp": 6396,
+      "limit": 959,
       "registered": false,
       "name": "Rii Kiyotaka's",
       "age": -1,
@@ -51336,8 +51336,8 @@
       "premiumTime": 0
     },
     "6288225432435@s.whatsapp.net": {
-      "exp": 3009,
-      "limit": 2926,
+      "exp": 3419,
+      "limit": 2901,
       "registered": false,
       "name": "Aksa Wibisono",
       "age": -1,
@@ -51357,10 +51357,10 @@
       "lastBanned": 0,
       "lastwork": 1734944104649,
       "lastdaily": 1735864990523,
-      "lastcommand": 1735866942444,
+      "lastcommand": 1735867269866,
       "lastrob": 1734944098031,
       "aisesi": 0,
-      "resetSent": true
+      "resetSent": false
     },
     "4703626743941_1@s.whatsapp.net": {
       "exp": 3,
@@ -51424,7 +51424,7 @@
       "lastBanned": 0
     },
     "6283108482204@s.whatsapp.net": {
-      "exp": 6,
+      "exp": 30,
       "limit": 499,
       "registered": false,
       "name": ".",
@@ -51440,8 +51440,10 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
-      "premiumTime": 0
+      "premium": false,
+      "premiumTime": 0,
+      "lastBanned": 0,
+      "lastcommand": 1735867707526
     },
     "6285169784253@s.whatsapp.net": {
       "exp": 2,
@@ -60951,8 +60953,8 @@
       "lastBanned": 0
     },
     "62882022063723@s.whatsapp.net": {
-      "exp": 12810,
-      "limit": 614,
+      "exp": 12931,
+      "limit": 559,
       "registered": false,
       "name": "Reyy",
       "age": -1,
@@ -89594,7 +89596,7 @@
       "premiumTime": 0
     },
     "6283163551857@s.whatsapp.net": {
-      "exp": 6373,
+      "exp": 7050,
       "limit": 599,
       "registered": false,
       "name": "٭❆*",
@@ -89613,9 +89615,9 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1735866918508,
+      "lastcommand": 1735867354580,
       "lastdaily": 1735865755388,
-      "lastwork": 1735866420988
+      "lastwork": 1735868086373
     }
   },
   "chats": {
@@ -89753,15 +89755,15 @@
         "6289621609393@s.whatsapp.net": 366,
         "6287810709618@s.whatsapp.net": 108,
         "6285150845191@s.whatsapp.net": 37,
-        "6288225432435@s.whatsapp.net": 2163,
+        "6288225432435@s.whatsapp.net": 3205,
         "6281957133061@s.whatsapp.net": 944,
         "6287761263814@s.whatsapp.net": 245,
         "62882007880538@s.whatsapp.net": 220,
         "6287731548171@s.whatsapp.net": 41,
         "6285766064200@s.whatsapp.net": 970,
         "6285394495227@s.whatsapp.net": 956,
-        "6285720973051@s.whatsapp.net": 1056,
-        "6283822760236@s.whatsapp.net": 242,
+        "6285720973051@s.whatsapp.net": 1072,
+        "6283822760236@s.whatsapp.net": 263,
         "628388996801@s.whatsapp.net": 179,
         "6287862112981@s.whatsapp.net": 17,
         "6282143175110@s.whatsapp.net": 629,
@@ -89817,7 +89819,7 @@
         "6282245573241@s.whatsapp.net": 94,
         "6281398178926@s.whatsapp.net": 37,
         "6285931400906@s.whatsapp.net": 37,
-        "62882022063723@s.whatsapp.net": 862,
+        "62882022063723@s.whatsapp.net": 913,
         "6288294411864@s.whatsapp.net": 123,
         "6287838073395@s.whatsapp.net": 20,
         "6282350521338@s.whatsapp.net": 86,
@@ -89839,7 +89841,9 @@
         "6283857571704@s.whatsapp.net": 32,
         "6285230734889@s.whatsapp.net": 171,
         "6289653835699@s.whatsapp.net": 36,
-        "6283163551857@s.whatsapp.net": 446
+        "6283163551857@s.whatsapp.net": 932,
+        "6281240232241@s.whatsapp.net": 41,
+        "6283108482204@s.whatsapp.net": 41
       },
       "totalChat": 0,
       "acc": false,
@@ -97644,10 +97648,10 @@
       "lastSuccess": 1735827041998
     },
     "downloader-play.js": {
-      "total": 2171,
-      "success": 2032,
-      "last": 1735866907911,
-      "lastSuccess": 1735866907911
+      "total": 2176,
+      "success": 2037,
+      "last": 1735868556755,
+      "lastSuccess": 1735868556755
     },
     "downloader-ytvideo.js": {
       "total": 140,
@@ -97656,10 +97660,10 @@
       "lastSuccess": 1735663622238
     },
     "sticker-sticker.js": {
-      "total": 956,
-      "success": 832,
-      "last": 1735848668767,
-      "lastSuccess": 1735848668767
+      "total": 957,
+      "success": 833,
+      "last": 1735868336520,
+      "lastSuccess": 1735868336520
     },
     "sticker-toimg.js": {
       "total": 96,
@@ -97758,10 +97762,10 @@
       "lastSuccess": 1735225326167
     },
     "game-mancing.js": {
-      "total": 1131,
-      "success": 820,
-      "last": 1735866421342,
-      "lastSuccess": 1735866421342
+      "total": 1132,
+      "success": 821,
+      "last": 1735868086719,
+      "lastSuccess": 1735868086719
     },
     "game-tambang.js": {
       "total": 222,
@@ -97776,10 +97780,10 @@
       "lastSuccess": 1735826605203
     },
     "ai-remini.js": {
-      "total": 1029,
-      "success": 969,
-      "last": 1735866067011,
-      "lastSuccess": 1735866067011
+      "total": 1030,
+      "success": 970,
+      "last": 1735868456999,
+      "lastSuccess": 1735868456999
     },
     "game-tebakbendera.js": {
       "total": 427,
@@ -97800,10 +97804,10 @@
       "lastSuccess": 1735728779818
     },
     "_cek.js": {
-      "total": 937,
-      "success": 937,
-      "last": 1735825892893,
-      "lastSuccess": 1735825892893
+      "total": 938,
+      "success": 938,
+      "last": 1735867708174,
+      "lastSuccess": 1735867708174
     },
     "enable.js": {
       "total": 115,
@@ -97854,10 +97858,10 @@
       "lastSuccess": 1731925258840
     },
     "fun-allcek.js": {
-      "total": 38,
-      "success": 36,
-      "last": 1735866942444,
-      "lastSuccess": 1735866942444
+      "total": 44,
+      "success": 42,
+      "last": 1735867354581,
+      "lastSuccess": 1735867354581
     },
     "game-angka.js": {
       "total": 12,
@@ -98064,10 +98068,10 @@
       "lastSuccess": 1735353016058
     },
     "sticker-meme.js": {
-      "total": 156,
-      "success": 146,
-      "last": 1735829492532,
-      "lastSuccess": 1735829300568
+      "total": 158,
+      "success": 148,
+      "last": 1735868489528,
+      "lastSuccess": 1735868489528
     },
     "tool-translate.js": {
       "total": 46,
@@ -98136,10 +98140,10 @@
       "lastSuccess": 1735566946771
     },
     "tools-lyrics.js": {
-      "total": 158,
-      "success": 157,
-      "last": 1735784968247,
-      "lastSuccess": 1735784968247
+      "total": 159,
+      "success": 158,
+      "last": 1735867627080,
+      "lastSuccess": 1735867627080
     },
     "downloader-spotify.js": {
       "total": 248,
@@ -98370,10 +98374,10 @@
       "lastSuccess": 0
     },
     "tool-tomp3.js": {
-      "total": 147,
-      "success": 147,
-      "last": 1735865411704,
-      "lastSuccess": 1735865411704
+      "total": 148,
+      "success": 148,
+      "last": 1735867731537,
+      "lastSuccess": 1735867731537
     },
     "vn-bot.js": {
       "total": 37,
@@ -98424,10 +98428,10 @@
       "lastSuccess": 1735796864743
     },
     "fun-cek.js": {
-      "total": 203,
-      "success": 203,
-      "last": 1735866908276,
-      "lastSuccess": 1735866908276
+      "total": 206,
+      "success": 206,
+      "last": 1735867151297,
+      "lastSuccess": 1735867151297
     },
     "shortcut.js": {
       "total": 42,
@@ -99846,10 +99850,10 @@
       "lastSuccess": 1735093526571
     },
     "ai-sesi.js": {
-      "total": 22,
-      "success": 18,
-      "last": 1735866572973,
-      "lastSuccess": 1735866572973
+      "total": 24,
+      "success": 20,
+      "last": 1735867131465,
+      "lastSuccess": 1735867131465
     },
     "ai-deepenglish.js": {
       "total": 5,
@@ -99981,7 +99985,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735865156617,
+      "backupDB": 1735866973959,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
