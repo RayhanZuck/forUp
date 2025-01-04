@@ -1050,7 +1050,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 7206,
+      "exp": 7213,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -60093,7 +60093,7 @@
       "lastBanned": 0
     },
     "6283875689467@s.whatsapp.net": {
-      "exp": 198,
+      "exp": 203,
       "limit": 499,
       "registered": false,
       "name": "ʚpunyaaa Wahyuuuuɞ",
@@ -91348,6 +91348,25 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
+    },
+    "23021511246042_1@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -101986,7 +102005,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736007565264,
+      "backupDB": 1736009440049,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
