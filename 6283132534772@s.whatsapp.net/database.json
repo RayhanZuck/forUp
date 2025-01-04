@@ -507,7 +507,7 @@
       "lastBanned": 0
     },
     "120363280765137622@g.us": {
-      "exp": 1910,
+      "exp": 1919,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -29145,7 +29145,7 @@
       "premiumTime": 0
     },
     "6282295272552@s.whatsapp.net": {
-      "exp": 2126,
+      "exp": 2168,
       "limit": 599,
       "registered": false,
       "name": "Miyan Japri",
@@ -29161,10 +29161,11 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastdaily": 1734759043535,
-      "lastBanned": 0
+      "lastBanned": 0,
+      "lastcommand": 1736028180732
     },
     "6288221019426@s.whatsapp.net": {
       "exp": 58,
@@ -130921,7 +130922,7 @@
       "premiumTime": 0
     },
     "6288225363374@s.whatsapp.net": {
-      "exp": 176,
+      "exp": 186,
       "limit": 499,
       "registered": false,
       "name": "`",
@@ -131668,6 +131669,25 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
+    },
+    "68350461923509_1@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -134707,7 +134727,7 @@
         "6287713931944@s.whatsapp.net": 200,
         "6285373704543@s.whatsapp.net": 24,
         "62895384251701@s.whatsapp.net": 68,
-        "6285819196249@s.whatsapp.net": 683,
+        "6285819196249@s.whatsapp.net": 687,
         "6281328823174@s.whatsapp.net": 69,
         "6285960191220@s.whatsapp.net": 6908,
         "6285960625531@s.whatsapp.net": 90,
@@ -134746,7 +134766,7 @@
         "6285228455280@s.whatsapp.net": 331,
         "62895341178597@s.whatsapp.net": 1004,
         "6283865429691@s.whatsapp.net": 24,
-        "6281292442896@s.whatsapp.net": 17657,
+        "6281292442896@s.whatsapp.net": 17667,
         "628385801643@s.whatsapp.net": 3196,
         "62895414186224@s.whatsapp.net": 115,
         "62895415196214@s.whatsapp.net": 28,
@@ -139081,15 +139101,15 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285863000810@s.whatsapp.net": 6698,
+        "6285863000810@s.whatsapp.net": 6707,
         "6285150884105@s.whatsapp.net": 1468,
-        "6285601800364@s.whatsapp.net": 3775,
+        "6285601800364@s.whatsapp.net": 3790,
         "6282249466011@s.whatsapp.net": 48,
         "6285327718250@s.whatsapp.net": 1603,
         "6283195842672@s.whatsapp.net": 46,
         "6281219927246@s.whatsapp.net": 78,
         "6285940788438@s.whatsapp.net": 463,
-        "6282136566311@s.whatsapp.net": 90,
+        "6282136566311@s.whatsapp.net": 96,
         "51991134021@s.whatsapp.net": 447,
         "6285754970165@s.whatsapp.net": 151,
         "6287717501201@s.whatsapp.net": 294,
@@ -139107,7 +139127,7 @@
         "6285706879597@s.whatsapp.net": 356,
         "6281809328376@s.whatsapp.net": 348,
         "628985315091@s.whatsapp.net": 934,
-        "6288225363374@s.whatsapp.net": 625,
+        "6288225363374@s.whatsapp.net": 631,
         "6285952882468@s.whatsapp.net": 42,
         "6285805109360@s.whatsapp.net": 13,
         "628895976103@s.whatsapp.net": 67,
@@ -139253,10 +139273,10 @@
       "lastSuccess": 1735995083124
     },
     "_cek.js": {
-      "total": 528,
-      "success": 526,
-      "last": 1736014443860,
-      "lastSuccess": 1736014443860
+      "total": 529,
+      "success": 527,
+      "last": 1736028181867,
+      "lastSuccess": 1736028181867
     },
     "main-afk_.js": {
       "total": 94,
@@ -140730,7 +140750,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736024746542,
+      "backupDB": 1736026746033,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
