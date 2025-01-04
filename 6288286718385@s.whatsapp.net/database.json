@@ -3907,7 +3907,7 @@
       "premiumTime": 0
     },
     "6283137913336@s.whatsapp.net": {
-      "exp": 1628,
+      "exp": 1633,
       "limit": 412,
       "registered": false,
       "name": "☆~Always_ Anna~☆><⋆ ˚｡⋆",
@@ -3923,7 +3923,7 @@
       "WarnReason": "",
       "lastweekly": 1734327233779,
       "lastmonthly": 1734327247581,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastdaily": 1734327216056,
@@ -90466,6 +90466,27 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "919871279962@s.whatsapp.net": {
+      "exp": 39,
+      "limit": 479,
+      "registered": false,
+      "name": "Momo Ayase's Domain",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -98350,19 +98371,19 @@
       "expired": 0,
       "total": {
         "6281242969388@s.whatsapp.net": 1441,
-        "6283137913336@s.whatsapp.net": 1145,
-        "6285215928208@s.whatsapp.net": 265,
+        "6283137913336@s.whatsapp.net": 1152,
+        "6285215928208@s.whatsapp.net": 273,
         "6283187239811@s.whatsapp.net": 30,
         "6283871900349@s.whatsapp.net": 650,
-        "6282260319658@s.whatsapp.net": 219,
-        "6289510342996@s.whatsapp.net": 80,
-        "62895380314499@s.whatsapp.net": 63,
+        "6282260319658@s.whatsapp.net": 221,
+        "6289510342996@s.whatsapp.net": 86,
+        "62895380314499@s.whatsapp.net": 67,
         "62895320803143@s.whatsapp.net": 30,
-        "6287864579649@s.whatsapp.net": 57,
+        "6287864579649@s.whatsapp.net": 59,
         "60135694079@s.whatsapp.net": 79,
-        "6283179458669@s.whatsapp.net": 50,
-        "6285137490049@s.whatsapp.net": 11,
-        "6283166427372@s.whatsapp.net": 34
+        "6283179458669@s.whatsapp.net": 54,
+        "6285137490049@s.whatsapp.net": 13,
+        "6283166427372@s.whatsapp.net": 42
       },
       "totalChat": 0
     },
@@ -98629,20 +98650,46 @@
       "teks": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "919871279962@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "pembatasan": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "antiBadword": false,
+      "simi": false,
+      "nsfw": false,
+      "rpg": true,
+      "game": true,
+      "teks": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 872,
+      "total": 873,
       "success": 813,
-      "last": 1735965552649,
+      "last": 1735968485144,
       "lastSuccess": 1735965552649
     },
     "downloader-tiktok.js": {
-      "total": 2083,
-      "success": 1933,
-      "last": 1735965490156,
-      "lastSuccess": 1735965490156
+      "total": 2084,
+      "success": 1934,
+      "last": 1735968500823,
+      "lastSuccess": 1735968500823
     },
     "owner-sf.js": {
       "total": 1149,
@@ -101000,7 +101047,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735966673207,
+      "backupDB": 1735968485032,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
