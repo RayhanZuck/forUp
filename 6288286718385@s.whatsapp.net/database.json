@@ -3372,8 +3372,8 @@
       "lastBanned": 0
     },
     "6285877044241@s.whatsapp.net": {
-      "exp": 18697,
-      "limit": 914,
+      "exp": 20778,
+      "limit": 989,
       "registered": false,
       "name": "⛓️CAINEMATES⛓️",
       "age": -1,
@@ -3392,7 +3392,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1735808232200,
-      "lastdaily": 1735921262141
+      "lastdaily": 1736015979541
     },
     "6282220634490@s.whatsapp.net": {
       "exp": 13021,
@@ -20430,8 +20430,8 @@
       "lastBanned": 0
     },
     "62882006212609@s.whatsapp.net": {
-      "exp": 216,
-      "limit": 475,
+      "exp": 316,
+      "limit": 425,
       "registered": false,
       "name": "Aljndn",
       "age": -1,
@@ -20449,7 +20449,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1735820837886,
+      "lastcommand": 1736015279211,
       "lastdaily": 1735915006948,
       "lastwork": 1735207824775,
       "delay": 1735702700559
@@ -99671,10 +99671,10 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 885,
-      "success": 825,
-      "last": 1735999652143,
-      "lastSuccess": 1735999652143
+      "total": 886,
+      "success": 826,
+      "last": 1736015981458,
+      "lastSuccess": 1736015981458
     },
     "downloader-tiktok.js": {
       "total": 2121,
@@ -99737,10 +99737,10 @@
       "lastSuccess": 1735987134547
     },
     "econ-claim.js": {
-      "total": 2423,
-      "success": 1637,
-      "last": 1735998097017,
-      "lastSuccess": 1735998097017
+      "total": 2426,
+      "success": 1638,
+      "last": 1736016029932,
+      "lastSuccess": 1736015979541
     },
     "game-curi.js": {
       "total": 1181,
@@ -99821,10 +99821,10 @@
       "lastSuccess": 1735826605203
     },
     "ai-remini.js": {
-      "total": 1046,
-      "success": 986,
-      "last": 1735994890584,
-      "lastSuccess": 1735994890584
+      "total": 1048,
+      "success": 988,
+      "last": 1736015322289,
+      "lastSuccess": 1736015322289
     },
     "game-tebakbendera.js": {
       "total": 427,
@@ -99845,10 +99845,10 @@
       "lastSuccess": 1735929245517
     },
     "_cek.js": {
-      "total": 961,
-      "success": 961,
-      "last": 1735993478720,
-      "lastSuccess": 1735993478720
+      "total": 962,
+      "success": 962,
+      "last": 1736015279602,
+      "lastSuccess": 1736015279602
     },
     "enable.js": {
       "total": 115,
@@ -102044,7 +102044,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736013170788,
+      "backupDB": 1736015278669,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
