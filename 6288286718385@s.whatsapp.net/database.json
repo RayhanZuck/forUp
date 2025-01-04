@@ -1818,8 +1818,8 @@
       "premiumTime": 0
     },
     "6285819196249@s.whatsapp.net": {
-      "exp": 49109,
-      "limit": 714,
+      "exp": 49135,
+      "limit": 689,
       "registered": false,
       "name": "ror",
       "age": -1,
@@ -99690,10 +99690,10 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 886,
-      "success": 826,
-      "last": 1736015981458,
-      "lastSuccess": 1736015981458
+      "total": 887,
+      "success": 827,
+      "last": 1736024095508,
+      "lastSuccess": 1736024095508
     },
     "downloader-tiktok.js": {
       "total": 2123,
@@ -102063,7 +102063,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736022165912,
+      "backupDB": 1736024088149,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
