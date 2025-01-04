@@ -161,7 +161,7 @@
       "lastcommand": 1735076311886
     },
     "120363183420865643@g.us": {
-      "exp": 5854,
+      "exp": 5869,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1571,8 +1571,8 @@
       "lastdaily": 1731554573646
     },
     "6283837362281@s.whatsapp.net": {
-      "exp": 115,
-      "limit": 778,
+      "exp": 136,
+      "limit": 753,
       "registered": false,
       "name": "ivyy",
       "age": -1,
@@ -89969,8 +89969,8 @@
       "lastBanned": 0
     },
     "628815266879@s.whatsapp.net": {
-      "exp": 40834,
-      "limit": 3,
+      "exp": 17082,
+      "limit": 46,
       "registered": true,
       "name": "king vanzz",
       "age": 14,
@@ -89988,7 +89988,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1735947482822,
+      "lastcommand": 1735951474660,
       "lastdaily": 1735920099256
     },
     "119520903622740_1@s.whatsapp.net": {
@@ -90477,10 +90477,10 @@
       "total": {
         "6283842836842@s.whatsapp.net": 1934,
         "6289621609393@s.whatsapp.net": 452,
-        "6287810709618@s.whatsapp.net": 114,
+        "6287810709618@s.whatsapp.net": 144,
         "6285150845191@s.whatsapp.net": 37,
         "6288225432435@s.whatsapp.net": 4260,
-        "6281957133061@s.whatsapp.net": 1077,
+        "6281957133061@s.whatsapp.net": 1097,
         "6287761263814@s.whatsapp.net": 362,
         "62882007880538@s.whatsapp.net": 220,
         "6287731548171@s.whatsapp.net": 41,
@@ -90577,7 +90577,7 @@
         "6283897914923@s.whatsapp.net": 128,
         "919739198999@s.whatsapp.net": 80,
         "62895334909494@s.whatsapp.net": 10,
-        "628815266879@s.whatsapp.net": 3834,
+        "628815266879@s.whatsapp.net": 4073,
         "6285877044241@s.whatsapp.net": 144
       },
       "totalChat": 0,
@@ -98524,10 +98524,10 @@
       "lastSuccess": 1735915521437
     },
     "downloader-play.js": {
-      "total": 2243,
-      "success": 2103,
-      "last": 1735948281471,
-      "lastSuccess": 1735948281471
+      "total": 2244,
+      "success": 2104,
+      "last": 1735951450318,
+      "lastSuccess": 1735951450318
     },
     "downloader-ytvideo.js": {
       "total": 140,
@@ -98560,10 +98560,10 @@
       "lastSuccess": 1732841419311
     },
     "main-profile.js": {
-      "total": 278,
-      "success": 277,
-      "last": 1735947366880,
-      "lastSuccess": 1735947366880
+      "total": 281,
+      "success": 280,
+      "last": 1735950675942,
+      "lastSuccess": 1735950675942
     },
     "main-daftar.js": {
       "total": 43,
@@ -98608,16 +98608,16 @@
       "lastSuccess": 1735915880344
     },
     "_shortcut.js": {
-      "total": 348,
-      "success": 339,
-      "last": 1735934232474,
-      "lastSuccess": 1735934232474
+      "total": 349,
+      "success": 340,
+      "last": 1735950190006,
+      "lastSuccess": 1735950190006
     },
     "game-slot.js": {
-      "total": 139,
-      "success": 97,
-      "last": 1735927967560,
-      "lastSuccess": 1735927967560
+      "total": 142,
+      "success": 100,
+      "last": 1735950835206,
+      "lastSuccess": 1735950835206
     },
     "main-limit.js": {
       "total": 1300,
@@ -98680,10 +98680,10 @@
       "lastSuccess": 1735929245517
     },
     "_cek.js": {
-      "total": 949,
-      "success": 949,
-      "last": 1735941212568,
-      "lastSuccess": 1735941212568
+      "total": 951,
+      "success": 951,
+      "last": 1735949963346,
+      "lastSuccess": 1735949963346
     },
     "enable.js": {
       "total": 115,
@@ -99148,10 +99148,10 @@
       "lastSuccess": 1735905277205
     },
     "_rayhan-allmenu.js": {
-      "total": 244,
-      "success": 236,
-      "last": 1735933151290,
-      "lastSuccess": 1735933151290
+      "total": 245,
+      "success": 237,
+      "last": 1735950117878,
+      "lastSuccess": 1735950117878
     },
     "ai-ailogo.js": {
       "total": 21,
@@ -99358,10 +99358,10 @@
       "lastSuccess": 1735917556863
     },
     "game-suit.js": {
-      "total": 268,
-      "success": 266,
-      "last": 1735947482822,
-      "lastSuccess": 1735947482822
+      "total": 413,
+      "success": 409,
+      "last": 1735951478031,
+      "lastSuccess": 1735951478031
     },
     "sticker-avatar.js": {
       "total": 5,
@@ -100873,7 +100873,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1735947059136,
+      "backupDB": 1735949683019,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
