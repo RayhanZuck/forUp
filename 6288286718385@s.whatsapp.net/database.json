@@ -88,7 +88,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 156669,
+      "exp": 156690,
       "limit": 0,
       "registered": false,
       "name": "Rayhan?",
@@ -58823,8 +58823,8 @@
       "premiumTime": 0
     },
     "628385801643@s.whatsapp.net": {
-      "exp": 11950,
-      "limit": 524,
+      "exp": 11972,
+      "limit": 499,
       "registered": false,
       "name": "Rumah Tanpa Jendela🌀",
       "age": -1,
@@ -91857,8 +91857,8 @@
       "lastcommand": 1736084817992
     },
     "6285691376963@s.whatsapp.net": {
-      "exp": 282,
-      "limit": 499,
+      "exp": 507,
+      "limit": 384,
       "registered": false,
       "name": "Abay",
       "age": -1,
@@ -92072,14 +92072,14 @@
         "6283842836842@s.whatsapp.net": 1934,
         "6289621609393@s.whatsapp.net": 612,
         "6287810709618@s.whatsapp.net": 144,
-        "6285150845191@s.whatsapp.net": 38,
+        "6285150845191@s.whatsapp.net": 40,
         "6288225432435@s.whatsapp.net": 5408,
         "6281957133061@s.whatsapp.net": 1671,
         "6287761263814@s.whatsapp.net": 481,
         "62882007880538@s.whatsapp.net": 220,
         "6287731548171@s.whatsapp.net": 41,
-        "6285766064200@s.whatsapp.net": 2470,
-        "6285394495227@s.whatsapp.net": 1416,
+        "6285766064200@s.whatsapp.net": 2472,
+        "6285394495227@s.whatsapp.net": 1444,
         "6285720973051@s.whatsapp.net": 1764,
         "6283822760236@s.whatsapp.net": 712,
         "628388996801@s.whatsapp.net": 179,
@@ -92088,7 +92088,7 @@
         "6285961457520@s.whatsapp.net": 101,
         "62882006212609@s.whatsapp.net": 471,
         "628999684800@s.whatsapp.net": 19,
-        "6282140063419@s.whatsapp.net": 2988,
+        "6282140063419@s.whatsapp.net": 2990,
         "6283169226415@s.whatsapp.net": 892,
         "6285947468832@s.whatsapp.net": 96,
         "6285786829931@s.whatsapp.net": 33,
@@ -92105,7 +92105,7 @@
         "919366665173@s.whatsapp.net": 264,
         "6288983017604@s.whatsapp.net": 137,
         "628818691228@s.whatsapp.net": 1493,
-        "6288216100890@s.whatsapp.net": 175,
+        "6288216100890@s.whatsapp.net": 185,
         "6283119901412@s.whatsapp.net": 34,
         "62895414186224@s.whatsapp.net": 41,
         "6282223286962@s.whatsapp.net": 31,
@@ -92122,7 +92122,7 @@
         "6289505879658@s.whatsapp.net": 33,
         "6285716661950@s.whatsapp.net": 387,
         "6283837362281@s.whatsapp.net": 396,
-        "6285878464218@s.whatsapp.net": 355,
+        "6285878464218@s.whatsapp.net": 365,
         "966537864819@s.whatsapp.net": 7,
         "85293332660@s.whatsapp.net": 62,
         "6281958351619@s.whatsapp.net": 161,
@@ -92196,10 +92196,10 @@
         "6283163782377@s.whatsapp.net": 133,
         "6285817976362@s.whatsapp.net": 146,
         "6283894972269@s.whatsapp.net": 52,
-        "6285830623201@s.whatsapp.net": 82,
-        "6285691376963@s.whatsapp.net": 40,
-        "6285608287205@s.whatsapp.net": 3,
-        "628385801643@s.whatsapp.net": 3
+        "6285830623201@s.whatsapp.net": 86,
+        "6285691376963@s.whatsapp.net": 45,
+        "6285608287205@s.whatsapp.net": 5,
+        "628385801643@s.whatsapp.net": 9
       },
       "totalChat": 0,
       "acc": false,
@@ -100961,10 +100961,10 @@
       "lastSuccess": 1730270937202
     },
     "downloader-twitter.js": {
-      "total": 65,
-      "success": 64,
-      "last": 1736093439115,
-      "lastSuccess": 1736093439115
+      "total": 67,
+      "success": 66,
+      "last": 1736095001096,
+      "lastSuccess": 1736095001096
     },
     "dl-pinterest.js": {
       "total": 42,
@@ -101285,10 +101285,10 @@
       "lastSuccess": 1735271562427
     },
     "sticker-nobg.js": {
-      "total": 27,
-      "success": 19,
-      "last": 1732320760363,
-      "lastSuccess": 1732320760363
+      "total": 37,
+      "success": 25,
+      "last": 1736093680541,
+      "lastSuccess": 1736093680541
     },
     "internet-happymod.js": {
       "total": 3,
@@ -102710,7 +102710,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736091728962,
+      "backupDB": 1736093566151,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
