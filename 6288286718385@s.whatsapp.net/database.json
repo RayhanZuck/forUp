@@ -1050,7 +1050,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 7312,
+      "exp": 7317,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -90219,7 +90219,7 @@
       "premiumTime": 0
     },
     "6283166427372@s.whatsapp.net": {
-      "exp": 337,
+      "exp": 415,
       "limit": 499,
       "registered": false,
       "name": "Khoir N.Z",
@@ -90238,7 +90238,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1736101225430
+      "lastcommand": 1736105926137
     },
     "68917414342836_1@s.whatsapp.net": {
       "exp": 3,
@@ -99860,7 +99860,7 @@
       "expired": 0,
       "total": {
         "6281242969388@s.whatsapp.net": 1441,
-        "6283137913336@s.whatsapp.net": 1356,
+        "6283137913336@s.whatsapp.net": 1416,
         "6285215928208@s.whatsapp.net": 349,
         "6283187239811@s.whatsapp.net": 48,
         "6283871900349@s.whatsapp.net": 650,
@@ -99872,7 +99872,7 @@
         "60135694079@s.whatsapp.net": 79,
         "6283179458669@s.whatsapp.net": 159,
         "6285137490049@s.whatsapp.net": 32,
-        "6283166427372@s.whatsapp.net": 673,
+        "6283166427372@s.whatsapp.net": 858,
         "6285975196223@s.whatsapp.net": 58,
         "6282390325545@s.whatsapp.net": 31
       },
@@ -100475,10 +100475,10 @@
       "lastSuccess": 1735929245517
     },
     "_cek.js": {
-      "total": 976,
-      "success": 976,
-      "last": 1736100120702,
-      "lastSuccess": 1736100120702
+      "total": 977,
+      "success": 977,
+      "last": 1736105927067,
+      "lastSuccess": 1736105927067
     },
     "enable.js": {
       "total": 118,
@@ -102710,7 +102710,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736102819840,
+      "backupDB": 1736105926137,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
