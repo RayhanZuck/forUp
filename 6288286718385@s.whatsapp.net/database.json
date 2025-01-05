@@ -3908,7 +3908,7 @@
       "premiumTime": 0
     },
     "6283137913336@s.whatsapp.net": {
-      "exp": 1770,
+      "exp": 1779,
       "limit": 412,
       "registered": false,
       "name": "☆~Always_ Anna~☆><⋆ ˚｡⋆",
@@ -12430,8 +12430,8 @@
       "lastcommand": 1731472269564
     },
     "6281958351619@s.whatsapp.net": {
-      "exp": 13318,
-      "limit": 210,
+      "exp": 13376,
+      "limit": 170,
       "registered": false,
       "name": "kaAll",
       "age": -1,
@@ -12449,7 +12449,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1735989305582,
+      "lastcommand": 1736100118839,
       "lastdaily": 1735998097017,
       "lastwork": 1734788333153,
       "lastrob": 1734788194552
@@ -90219,7 +90219,7 @@
       "premiumTime": 0
     },
     "6283166427372@s.whatsapp.net": {
-      "exp": 265,
+      "exp": 337,
       "limit": 499,
       "registered": false,
       "name": "Khoir N.Z",
@@ -90238,7 +90238,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1736099665131
+      "lastcommand": 1736101225430
     },
     "68917414342836_1@s.whatsapp.net": {
       "exp": 3,
@@ -99860,7 +99860,7 @@
       "expired": 0,
       "total": {
         "6281242969388@s.whatsapp.net": 1441,
-        "6283137913336@s.whatsapp.net": 1324,
+        "6283137913336@s.whatsapp.net": 1338,
         "6285215928208@s.whatsapp.net": 349,
         "6283187239811@s.whatsapp.net": 48,
         "6283871900349@s.whatsapp.net": 650,
@@ -99872,7 +99872,7 @@
         "60135694079@s.whatsapp.net": 79,
         "6283179458669@s.whatsapp.net": 159,
         "6285137490049@s.whatsapp.net": 32,
-        "6283166427372@s.whatsapp.net": 568,
+        "6283166427372@s.whatsapp.net": 625,
         "6285975196223@s.whatsapp.net": 58,
         "6282390325545@s.whatsapp.net": 31
       },
@@ -100319,10 +100319,10 @@
       "lastSuccess": 1735985528639
     },
     "downloader-play.js": {
-      "total": 2311,
-      "success": 2169,
-      "last": 1736086697104,
-      "lastSuccess": 1736086697104
+      "total": 2312,
+      "success": 2170,
+      "last": 1736100162429,
+      "lastSuccess": 1736100162429
     },
     "downloader-ytvideo.js": {
       "total": 143,
@@ -100403,10 +100403,10 @@
       "lastSuccess": 1735915880344
     },
     "_shortcut.js": {
-      "total": 358,
-      "success": 349,
-      "last": 1736097011907,
-      "lastSuccess": 1736097011907
+      "total": 359,
+      "success": 350,
+      "last": 1736101245634,
+      "lastSuccess": 1736101245634
     },
     "game-slot.js": {
       "total": 142,
@@ -100475,10 +100475,10 @@
       "lastSuccess": 1735929245517
     },
     "_cek.js": {
-      "total": 975,
-      "success": 975,
-      "last": 1736093351374,
-      "lastSuccess": 1736093351374
+      "total": 976,
+      "success": 976,
+      "last": 1736100120702,
+      "lastSuccess": 1736100120702
     },
     "enable.js": {
       "total": 118,
@@ -100577,10 +100577,10 @@
       "lastSuccess": 1736064091782
     },
     "_rayhan-menu.js": {
-      "total": 630,
-      "success": 597,
-      "last": 1736099678988,
-      "lastSuccess": 1736099678988
+      "total": 631,
+      "success": 598,
+      "last": 1736101238297,
+      "lastSuccess": 1736101238297
     },
     "downloader-ytvideo2.js": {
       "total": 4,
@@ -100601,10 +100601,10 @@
       "lastSuccess": 1730161441000
     },
     "downloader-tiktoksearch.js": {
-      "total": 913,
-      "success": 905,
-      "last": 1736064252352,
-      "lastSuccess": 1736064252352
+      "total": 914,
+      "success": 906,
+      "last": 1736100204429,
+      "lastSuccess": 1736100204429
     },
     "ai-llama.js": {
       "total": 352,
@@ -102710,7 +102710,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736098260353,
+      "backupDB": 1736100118839,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
