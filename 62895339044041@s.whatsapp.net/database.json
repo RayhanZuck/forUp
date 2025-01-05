@@ -442,7 +442,7 @@
       "lastBanned": 0
     },
     "6285711709647@s.whatsapp.net": {
-      "exp": 421,
+      "exp": 442,
       "limit": 499,
       "registered": false,
       "name": "77 17🔰🥀🥀",
@@ -458,9 +458,10 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "lastBanned": 0
+      "lastBanned": 0,
+      "lastcommand": 1736098131207
     },
     "6281290855325@s.whatsapp.net": {
       "exp": 38,
@@ -7246,7 +7247,7 @@
       "lastBanned": 0
     },
     "6285774183070@s.whatsapp.net": {
-      "exp": 72,
+      "exp": 119,
       "limit": 499,
       "registered": false,
       "name": "zaky Ganteng",
@@ -18020,7 +18021,7 @@
       "premiumTime": 0
     },
     "6285882488937@s.whatsapp.net": {
-      "exp": 2045,
+      "exp": 2092,
       "limit": 499,
       "registered": false,
       "name": "𝓔𝓻𝓲 𝓟𝓾𝓽𝓻𝓲 𝓢𝔂𝓪𝓯𝓲𝓽𝓻𝓲",
@@ -31637,7 +31638,7 @@
       "premiumTime": 0
     },
     "15517868415@s.whatsapp.net": {
-      "exp": 16,
+      "exp": 26,
       "limit": 499,
       "registered": false,
       "name": "15517868415",
@@ -39440,10 +39441,10 @@
       "lastSuccess": 1736087719014
     },
     "_cek.js": {
-      "total": 218,
-      "success": 218,
-      "last": 1736085569145,
-      "lastSuccess": 1736085569145
+      "total": 219,
+      "success": 219,
+      "last": 1736098131469,
+      "lastSuccess": 1736098131469
     },
     "sticker-quotely.js": {
       "total": 438,
@@ -40083,7 +40084,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736095538377,
+      "backupDB": 1736097507110,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
