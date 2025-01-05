@@ -442,7 +442,7 @@
       "lastBanned": 0
     },
     "6285711709647@s.whatsapp.net": {
-      "exp": 442,
+      "exp": 455,
       "limit": 499,
       "registered": false,
       "name": "77 17🔰🥀🥀",
@@ -458,7 +458,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1736098131207
@@ -40104,7 +40104,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736100034711,
+      "backupDB": 1736102770658,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
