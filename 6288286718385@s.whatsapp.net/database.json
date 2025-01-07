@@ -90094,8 +90094,8 @@
       "premiumTime": 0
     },
     "6285191480121@s.whatsapp.net": {
-      "exp": 78,
-      "limit": 414,
+      "exp": 103,
+      "limit": 394,
       "registered": false,
       "name": "edvivi",
       "age": -1,
@@ -93103,6 +93103,25 @@
     },
     "247317588365318_1@s.whatsapp.net": {
       "exp": 2,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
+    },
+    "71558718591132_1@s.whatsapp.net": {
+      "exp": 10,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -101676,10 +101695,10 @@
       "lastSuccess": 1736267353418
     },
     "downloader-tiktok.js": {
-      "total": 2189,
-      "success": 2034,
-      "last": 1736271942120,
-      "lastSuccess": 1736271942120
+      "total": 2190,
+      "success": 2035,
+      "last": 1736286045638,
+      "lastSuccess": 1736286045638
     },
     "owner-sf.js": {
       "total": 1153,
@@ -104169,7 +104188,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736279653489,
+      "backupDB": 1736285595588,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
