@@ -93100,6 +93100,25 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0
+    },
+    "247317588365318_1@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -104150,7 +104169,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736274085797,
+      "backupDB": 1736279653489,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
