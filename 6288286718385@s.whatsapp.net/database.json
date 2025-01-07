@@ -464,7 +464,7 @@
       "lastBanned": 0
     },
     "919739198999@s.whatsapp.net": {
-      "exp": 809,
+      "exp": 819,
       "limit": 234,
       "registered": false,
       "name": "happy",
@@ -1050,7 +1050,7 @@
       "lastdaily": 1734326522723
     },
     "120363280765137622@g.us": {
-      "exp": 7508,
+      "exp": 7517,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -2072,8 +2072,8 @@
       "lastBanned": 0
     },
     "6283879425472@s.whatsapp.net": {
-      "exp": 2322,
-      "limit": 389,
+      "exp": 2341,
+      "limit": 364,
       "registered": false,
       "name": "wnnz",
       "age": -1,
@@ -93036,6 +93036,28 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "6282323554461@s.whatsapp.net": {
+      "exp": 36,
+      "limit": 499,
+      "registered": false,
+      "name": "Mas Jihan",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastcommand": 1736267472804,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -93269,7 +93291,7 @@
         "6287713931944@s.whatsapp.net": 16,
         "6281280820166@s.whatsapp.net": 285,
         "6283897914923@s.whatsapp.net": 128,
-        "919739198999@s.whatsapp.net": 121,
+        "919739198999@s.whatsapp.net": 122,
         "62895334909494@s.whatsapp.net": 10,
         "628815266879@s.whatsapp.net": 4931,
         "6285877044241@s.whatsapp.net": 256,
@@ -93278,7 +93300,7 @@
         "6285191480121@s.whatsapp.net": 70,
         "6283801649687@s.whatsapp.net": 20,
         "919686822441@s.whatsapp.net": 39,
-        "6285694647631@s.whatsapp.net": 2249,
+        "6285694647631@s.whatsapp.net": 2266,
         "6283865429691@s.whatsapp.net": 43,
         "6289521240176@s.whatsapp.net": 149,
         "6281260168500@s.whatsapp.net": 28,
@@ -101556,14 +101578,40 @@
       "teks": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6282323554461@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "pembatasan": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "antiBadword": false,
+      "simi": false,
+      "nsfw": false,
+      "rpg": true,
+      "game": true,
+      "teks": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 903,
-      "success": 843,
-      "last": 1736260066100,
-      "lastSuccess": 1736260066100
+      "total": 904,
+      "success": 844,
+      "last": 1736267353418,
+      "lastSuccess": 1736267353418
     },
     "downloader-tiktok.js": {
       "total": 2187,
@@ -102976,10 +103024,10 @@
       "lastSuccess": 1735634557928
     },
     "vn-salam.js": {
-      "total": 32,
-      "success": 32,
-      "last": 1736261945678,
-      "lastSuccess": 1736261945678
+      "total": 33,
+      "success": 33,
+      "last": 1736267472805,
+      "lastSuccess": 1736267472805
     },
     "dl-snapsave.js": {
       "total": 3,
@@ -104053,7 +104101,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736263245343,
+      "backupDB": 1736265887042,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
