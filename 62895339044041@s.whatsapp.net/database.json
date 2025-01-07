@@ -274,7 +274,7 @@
       "lastBanned": 0
     },
     "62895339044041@s.whatsapp.net": {
-      "exp": 25265,
+      "exp": 25273,
       "limit": 499,
       "registered": false,
       "name": "1337XYRZ",
@@ -2163,7 +2163,7 @@
       "lastcommand": 1735775777404
     },
     "6289523985326@s.whatsapp.net": {
-      "exp": 1541,
+      "exp": 1574,
       "limit": 499,
       "registered": false,
       "name": "lalaaa",
@@ -2973,7 +2973,7 @@
       "lastcommand": 1735735062719
     },
     "6283825221878@s.whatsapp.net": {
-      "exp": 502,
+      "exp": 508,
       "limit": 499,
       "registered": false,
       "name": "Kak Zavmanda Cute Girl",
@@ -18032,7 +18032,7 @@
       "lastBanned": 0
     },
     "6285882488937@s.whatsapp.net": {
-      "exp": 2084,
+      "exp": 2096,
       "limit": 499,
       "registered": false,
       "name": "𝓔𝓻𝓲 𝓟𝓾𝓽𝓻𝓲 𝓢𝔂𝓪𝓯𝓲𝓽𝓻𝓲",
@@ -32955,6 +32955,26 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "6285340180407@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 499,
+      "registered": false,
+      "name": "rsyhrul",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -35020,8 +35040,8 @@
         "6285839255479@s.whatsapp.net": 3295,
         "6285774034156@s.whatsapp.net": 60,
         "6282312707604@s.whatsapp.net": 59,
-        "6285609216823@s.whatsapp.net": 279,
-        "6282261070658@s.whatsapp.net": 172,
+        "6285609216823@s.whatsapp.net": 281,
+        "6282261070658@s.whatsapp.net": 173,
         "6282253716585@s.whatsapp.net": 331,
         "6283138760932@s.whatsapp.net": 29,
         "6285397899276@s.whatsapp.net": 93,
@@ -35045,7 +35065,8 @@
         "62895355356603@s.whatsapp.net": 45,
         "60183642849@s.whatsapp.net": 15,
         "6285600624213@s.whatsapp.net": 12,
-        "6281265917406@s.whatsapp.net": 108
+        "6281265917406@s.whatsapp.net": 118,
+        "6285340180407@s.whatsapp.net": 1
       },
       "totalChat": 0
     },
@@ -41331,7 +41352,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736215492471,
+      "backupDB": 1736217331769,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
