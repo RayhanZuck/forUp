@@ -51798,8 +51798,8 @@
       "premiumTime": 0
     },
     "62895341178597@s.whatsapp.net": {
-      "exp": 72830,
-      "limit": 922,
+      "exp": 72848,
+      "limit": 917,
       "registered": false,
       "name": "I want to die",
       "age": -1,
@@ -94010,11 +94010,11 @@
       "total": {
         "6283842836842@s.whatsapp.net": 1934,
         "6289621609393@s.whatsapp.net": 668,
-        "6287810709618@s.whatsapp.net": 840,
+        "6287810709618@s.whatsapp.net": 842,
         "6285150845191@s.whatsapp.net": 138,
         "6288225432435@s.whatsapp.net": 5584,
         "6281957133061@s.whatsapp.net": 2564,
-        "6287761263814@s.whatsapp.net": 618,
+        "6287761263814@s.whatsapp.net": 621,
         "62882007880538@s.whatsapp.net": 220,
         "6287731548171@s.whatsapp.net": 41,
         "6285766064200@s.whatsapp.net": 2961,
@@ -94050,7 +94050,7 @@
         "6282223286962@s.whatsapp.net": 3624,
         "62895422730678@s.whatsapp.net": 10,
         "6283867247755@s.whatsapp.net": 727,
-        "62895341178597@s.whatsapp.net": 232,
+        "62895341178597@s.whatsapp.net": 233,
         "62881037157545@s.whatsapp.net": 399,
         "6283878703066@s.whatsapp.net": 658,
         "6288290178884@s.whatsapp.net": 34,
@@ -94140,7 +94140,7 @@
         "6285608287205@s.whatsapp.net": 6,
         "628385801643@s.whatsapp.net": 178,
         "6285954157503@s.whatsapp.net": 97,
-        "6282138378629@s.whatsapp.net": 7176,
+        "6282138378629@s.whatsapp.net": 7180,
         "923293086921@s.whatsapp.net": 86,
         "6285775803094@s.whatsapp.net": 54,
         "6289519629264@s.whatsapp.net": 22,
@@ -94164,7 +94164,7 @@
         "6285883694834@s.whatsapp.net": 21,
         "6285894170337@s.whatsapp.net": 38,
         "6283107284728@s.whatsapp.net": 8,
-        "6287742683957@s.whatsapp.net": 11
+        "6287742683957@s.whatsapp.net": 12
       },
       "totalChat": 0,
       "acc": false,
@@ -103454,10 +103454,10 @@
       "lastSuccess": 1736189526958
     },
     "sticker-all.js": {
-      "total": 814,
-      "success": 765,
-      "last": 1736347625154,
-      "lastSuccess": 1736347625154
+      "total": 815,
+      "success": 766,
+      "last": 1736347788459,
+      "lastSuccess": 1736347788459
     },
     "game-nebang.js": {
       "total": 172,
@@ -105059,7 +105059,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736345962564,
+      "backupDB": 1736347786125,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
