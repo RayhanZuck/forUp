@@ -90104,8 +90104,8 @@
       "premiumTime": 0
     },
     "6285191480121@s.whatsapp.net": {
-      "exp": 130,
-      "limit": 374,
+      "exp": 154,
+      "limit": 354,
       "registered": false,
       "name": "edvivi",
       "age": -1,
@@ -91963,7 +91963,7 @@
       "premiumTime": 0
     },
     "6282295700134@s.whatsapp.net": {
-      "exp": 4,
+      "exp": 13,
       "limit": 499,
       "registered": false,
       "name": "~PEMUDA HIJRAH",
@@ -91980,7 +91980,8 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
     },
     "6283873476370@s.whatsapp.net": {
       "exp": 21,
@@ -101937,7 +101938,7 @@
       "expired": 0,
       "total": {
         "6281242969388@s.whatsapp.net": 1441,
-        "6283137913336@s.whatsapp.net": 1748,
+        "6283137913336@s.whatsapp.net": 1755,
         "6285215928208@s.whatsapp.net": 400,
         "6283187239811@s.whatsapp.net": 48,
         "6283871900349@s.whatsapp.net": 650,
@@ -101952,10 +101953,10 @@
         "6283166427372@s.whatsapp.net": 2650,
         "6285975196223@s.whatsapp.net": 58,
         "6282390325545@s.whatsapp.net": 33,
-        "6282295700134@s.whatsapp.net": 11,
+        "6282295700134@s.whatsapp.net": 12,
         "919863212156@s.whatsapp.net": 121,
         "6282318970905@s.whatsapp.net": 33,
-        "62895352086841@s.whatsapp.net": 203
+        "62895352086841@s.whatsapp.net": 212
       },
       "totalChat": 0
     },
@@ -102648,10 +102649,10 @@
       "lastSuccess": 1736353203948
     },
     "downloader-tiktok.js": {
-      "total": 2240,
-      "success": 2084,
-      "last": 1736364705014,
-      "lastSuccess": 1736364705014
+      "total": 2241,
+      "success": 2085,
+      "last": 1736367245694,
+      "lastSuccess": 1736367245694
     },
     "owner-sf.js": {
       "total": 1156,
@@ -105171,7 +105172,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736364697012,
+      "backupDB": 1736366656188,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
