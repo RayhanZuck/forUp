@@ -1117,8 +1117,8 @@
       "lastdaily": 1735812370759
     },
     "6283191371141@s.whatsapp.net": {
-      "exp": 6990,
-      "limit": 224,
+      "exp": 7041,
+      "limit": 199,
       "registered": false,
       "name": "Vyn",
       "age": -1,
@@ -1136,14 +1136,14 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1735345338377,
+      "lastcommand": 1736383870936,
       "lastdaily": 1736119039289,
       "lastwork": 1730875837906,
       "lastrob": 1735778404705,
       "delay": 1735714023009
     },
     "6285817976362@s.whatsapp.net": {
-      "exp": 331,
+      "exp": 335,
       "limit": 3073,
       "registered": false,
       "name": "sleepyhead",
@@ -2095,7 +2095,7 @@
       "lastcommand": 1736353146811
     },
     "628812611040@s.whatsapp.net": {
-      "exp": 10124,
+      "exp": 10197,
       "limit": 1552,
       "registered": false,
       "name": "𝙃𝙢𝙢𝙢",
@@ -2115,7 +2115,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastdaily": 1736257490445,
-      "lastcommand": 1735917378019,
+      "lastcommand": 1736383135874,
       "lastwork": 1736258158373
     },
     "6283863906541@s.whatsapp.net": {
@@ -94299,14 +94299,14 @@
         "923273164574@s.whatsapp.net": 28,
         "6288287133705@s.whatsapp.net": 2,
         "6283163782377@s.whatsapp.net": 133,
-        "6285817976362@s.whatsapp.net": 10916,
+        "6285817976362@s.whatsapp.net": 10917,
         "6283894972269@s.whatsapp.net": 113,
         "6285830623201@s.whatsapp.net": 88,
         "6285691376963@s.whatsapp.net": 136,
         "6285608287205@s.whatsapp.net": 6,
         "628385801643@s.whatsapp.net": 178,
         "6285954157503@s.whatsapp.net": 97,
-        "6282138378629@s.whatsapp.net": 7301,
+        "6282138378629@s.whatsapp.net": 7302,
         "923293086921@s.whatsapp.net": 86,
         "6285775803094@s.whatsapp.net": 194,
         "6289519629264@s.whatsapp.net": 22,
@@ -94407,7 +94407,7 @@
         "628388144574@s.whatsapp.net": 78,
         "628818691228@s.whatsapp.net": 5046,
         "62881026445984@s.whatsapp.net": 1388,
-        "628812611040@s.whatsapp.net": 6147,
+        "628812611040@s.whatsapp.net": 6152,
         "6285775650917@s.whatsapp.net": 13,
         "6285366436812@s.whatsapp.net": 48,
         "6289520113982@s.whatsapp.net": 46,
@@ -94449,7 +94449,7 @@
         "6285600769184@s.whatsapp.net": 41,
         "6287810205913@s.whatsapp.net": 75,
         "6287832919878@s.whatsapp.net": 169,
-        "6283191371141@s.whatsapp.net": 401,
+        "6283191371141@s.whatsapp.net": 402,
         "919739198999@s.whatsapp.net": 76,
         "6285775803094@s.whatsapp.net": 156,
         "6285742048825@s.whatsapp.net": 22,
@@ -102754,10 +102754,10 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 919,
-      "success": 859,
-      "last": 1736353203948,
-      "lastSuccess": 1736353203948
+      "total": 920,
+      "success": 860,
+      "last": 1736383876179,
+      "lastSuccess": 1736383876179
     },
     "downloader-tiktok.js": {
       "total": 2245,
@@ -102928,10 +102928,10 @@
       "lastSuccess": 1736138263097
     },
     "_cek.js": {
-      "total": 1019,
-      "success": 1019,
-      "last": 1736379441480,
-      "lastSuccess": 1736379441480
+      "total": 1020,
+      "success": 1020,
+      "last": 1736383136788,
+      "lastSuccess": 1736383136788
     },
     "enable.js": {
       "total": 118,
@@ -103030,10 +103030,10 @@
       "lastSuccess": 1736345757947
     },
     "_rayhan-menu.js": {
-      "total": 654,
-      "success": 619,
-      "last": 1736356001356,
-      "lastSuccess": 1736356001356
+      "total": 655,
+      "success": 620,
+      "last": 1736383883276,
+      "lastSuccess": 1736383883276
     },
     "downloader-ytvideo2.js": {
       "total": 4,
@@ -103216,10 +103216,10 @@
       "lastSuccess": 1735618473478
     },
     "games-tebakkata.js": {
-      "total": 1938,
-      "success": 1871,
-      "last": 1736356440291,
-      "lastSuccess": 1736356440291
+      "total": 1939,
+      "success": 1872,
+      "last": 1736383136204,
+      "lastSuccess": 1736383136204
     },
     "game-susunkata.js": {
       "total": 2305,
@@ -105283,7 +105283,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736380119548,
+      "backupDB": 1736383135495,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
