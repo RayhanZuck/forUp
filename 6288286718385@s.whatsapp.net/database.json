@@ -88,7 +88,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 159660,
+      "exp": 160421,
       "limit": 0,
       "registered": false,
       "name": "Rayhan?",
@@ -107,7 +107,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1736418410293,
+      "lastcommand": 1736443737897,
       "lastwork": 1735007026344,
       "aiprompt": "mulai sekarang nama kamu adalah jinan safa safira, kamu orang yang sangat baik",
       "warn": 0,
@@ -103505,10 +103505,10 @@
       "lastSuccess": 1736437434254
     },
     "owner-sf.js": {
-      "total": 1168,
-      "success": 1062,
-      "last": 1736443299201,
-      "lastSuccess": 1736443299201
+      "total": 1174,
+      "success": 1068,
+      "last": 1736444704709,
+      "lastSuccess": 1736444704709
     },
     "downloader-play.js": {
       "total": 2399,
@@ -103667,10 +103667,10 @@
       "lastSuccess": 1736138263097
     },
     "_cek.js": {
-      "total": 1034,
-      "success": 1034,
-      "last": 1736438211906,
-      "lastSuccess": 1736438211906
+      "total": 1035,
+      "success": 1035,
+      "last": 1736443738539,
+      "lastSuccess": 1736443738539
     },
     "enable.js": {
       "total": 120,
@@ -103745,10 +103745,10 @@
       "lastSuccess": 1736430127582
     },
     "owner-df.js": {
-      "total": 81,
-      "success": 81,
-      "last": 1736443063757,
-      "lastSuccess": 1736443063757
+      "total": 82,
+      "success": 82,
+      "last": 1736443951947,
+      "lastSuccess": 1736443951947
     },
     "downloader-play2.js": {
       "total": 79,
@@ -103757,10 +103757,10 @@
       "lastSuccess": 1735915281876
     },
     "owner-exec.js": {
-      "total": 460,
-      "success": 460,
-      "last": 1736442913177,
-      "lastSuccess": 1736442913177
+      "total": 461,
+      "success": 461,
+      "last": 1736443815651,
+      "lastSuccess": 1736443815651
     },
     "downloader-ytmp3.js": {
       "total": 202,
@@ -104195,10 +104195,10 @@
       "lastSuccess": 1731509095029
     },
     "owner-exec2.js": {
-      "total": 55,
-      "success": 55,
-      "last": 1736443206705,
-      "lastSuccess": 1736443206705
+      "total": 60,
+      "success": 60,
+      "last": 1736443827399,
+      "lastSuccess": 1736443827399
     },
     "sticker-pinterest.js": {
       "total": 117,
@@ -106007,10 +106007,10 @@
       "lastSuccess": 1736435611229
     },
     "dlup.js": {
-      "total": 4,
-      "success": 1,
-      "last": 1736443145619,
-      "lastSuccess": 1736442664343
+      "total": 22,
+      "success": 17,
+      "last": 1736445077993,
+      "lastSuccess": 1736445077993
     }
   },
   "msgs": {},
@@ -106040,7 +106040,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736441583420,
+      "backupDB": 1736443391357,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
