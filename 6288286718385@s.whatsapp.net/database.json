@@ -2972,7 +2972,7 @@
       "lastrob": 1735271459025
     },
     "6287845351838@s.whatsapp.net": {
-      "exp": 54955,
+      "exp": 55014,
       "limit": 3,
       "registered": false,
       "name": "𝓐𝓷𝓪𝓴  𝓰𝓪𝓭𝓲𝓼 ♥︎",
@@ -3911,7 +3911,7 @@
       "premiumTime": 0
     },
     "6283137913336@s.whatsapp.net": {
-      "exp": 1944,
+      "exp": 1998,
       "limit": 392,
       "registered": false,
       "name": "☆~Always_ Anna~☆><⋆ ˚｡⋆",
@@ -3927,7 +3927,7 @@
       "WarnReason": "",
       "lastweekly": 1734327233779,
       "lastmonthly": 1734327247581,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastdaily": 1734327216056,
@@ -33521,7 +33521,7 @@
       "lastBanned": 0
     },
     "6282260319658@s.whatsapp.net": {
-      "exp": 1912,
+      "exp": 1917,
       "limit": 499,
       "registered": false,
       "name": "BANG AL",
@@ -91965,7 +91965,7 @@
       "premiumTime": 0
     },
     "6282295700134@s.whatsapp.net": {
-      "exp": 13,
+      "exp": 27,
       "limit": 499,
       "registered": false,
       "name": "~PEMUDA HIJRAH",
@@ -102025,11 +102025,11 @@
       "expired": 0,
       "total": {
         "6281242969388@s.whatsapp.net": 1441,
-        "6283137913336@s.whatsapp.net": 1755,
+        "6283137913336@s.whatsapp.net": 1807,
         "6285215928208@s.whatsapp.net": 400,
         "6283187239811@s.whatsapp.net": 48,
         "6283871900349@s.whatsapp.net": 650,
-        "6282260319658@s.whatsapp.net": 656,
+        "6282260319658@s.whatsapp.net": 668,
         "6289510342996@s.whatsapp.net": 333,
         "62895380314499@s.whatsapp.net": 324,
         "62895320803143@s.whatsapp.net": 30,
@@ -102040,7 +102040,7 @@
         "6283166427372@s.whatsapp.net": 2650,
         "6285975196223@s.whatsapp.net": 58,
         "6282390325545@s.whatsapp.net": 33,
-        "6282295700134@s.whatsapp.net": 12,
+        "6282295700134@s.whatsapp.net": 18,
         "919863212156@s.whatsapp.net": 121,
         "6282318970905@s.whatsapp.net": 33,
         "62895352086841@s.whatsapp.net": 212
@@ -103002,10 +103002,10 @@
       "lastSuccess": 1735981870339
     },
     "youtube-search.js": {
-      "total": 161,
-      "success": 152,
-      "last": 1736331501253,
-      "lastSuccess": 1736331501253
+      "total": 162,
+      "success": 153,
+      "last": 1736388855486,
+      "lastSuccess": 1736388855486
     },
     "owner-df.js": {
       "total": 80,
@@ -105102,9 +105102,9 @@
       "lastSuccess": 1735980428380
     },
     "havefun-claim.js": {
-      "total": 118,
+      "total": 120,
       "success": 81,
-      "last": 1736375990779,
+      "last": 1736388824429,
       "lastSuccess": 1736355876952
     },
     "user-limit.js": {
@@ -105285,7 +105285,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736385221132,
+      "backupDB": 1736387697911,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
