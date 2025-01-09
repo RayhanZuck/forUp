@@ -88,7 +88,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 159003,
+      "exp": 159660,
       "limit": 0,
       "registered": false,
       "name": "Rayhan?",
@@ -35968,7 +35968,7 @@
       "premiumTime": 0
     },
     "6282172480990@s.whatsapp.net": {
-      "exp": 713,
+      "exp": 716,
       "limit": 299,
       "registered": false,
       "name": "ApipAy🇮🇩²",
@@ -95155,7 +95155,7 @@
         "6287719003775@s.whatsapp.net": 2,
         "6287852486637@s.whatsapp.net": 1,
         "6283852851985@s.whatsapp.net": 340,
-        "6285819196249@s.whatsapp.net": 1126,
+        "6285819196249@s.whatsapp.net": 1127,
         "6285756525188@s.whatsapp.net": 960,
         "62881022366285@s.whatsapp.net": 556,
         "6281947888865@s.whatsapp.net": 87,
@@ -95232,11 +95232,11 @@
         "6287712032177@s.whatsapp.net": 1458,
         "62887436528699@s.whatsapp.net": 262,
         "6281364434575@s.whatsapp.net": 55,
-        "6283801649687@s.whatsapp.net": 90,
+        "6283801649687@s.whatsapp.net": 91,
         "6289518985064@s.whatsapp.net": 20,
         "6285757574671@s.whatsapp.net": 42,
-        "6282116736578@s.whatsapp.net": 859,
-        "628561462905@s.whatsapp.net": 8
+        "6282116736578@s.whatsapp.net": 869,
+        "628561462905@s.whatsapp.net": 9
       },
       "totalChat": 0,
       "acc": false,
@@ -103505,10 +103505,10 @@
       "lastSuccess": 1736437434254
     },
     "owner-sf.js": {
-      "total": 1163,
-      "success": 1059,
-      "last": 1736437064262,
-      "lastSuccess": 1736437064262
+      "total": 1168,
+      "success": 1062,
+      "last": 1736443299201,
+      "lastSuccess": 1736443299201
     },
     "downloader-play.js": {
       "total": 2399,
@@ -103745,10 +103745,10 @@
       "lastSuccess": 1736430127582
     },
     "owner-df.js": {
-      "total": 80,
-      "success": 80,
-      "last": 1735280131741,
-      "lastSuccess": 1735280131741
+      "total": 81,
+      "success": 81,
+      "last": 1736443063757,
+      "lastSuccess": 1736443063757
     },
     "downloader-play2.js": {
       "total": 79,
@@ -103757,10 +103757,10 @@
       "lastSuccess": 1735915281876
     },
     "owner-exec.js": {
-      "total": 454,
-      "success": 454,
-      "last": 1736437227870,
-      "lastSuccess": 1736437227870
+      "total": 460,
+      "success": 460,
+      "last": 1736442913177,
+      "lastSuccess": 1736442913177
     },
     "downloader-ytmp3.js": {
       "total": 202,
@@ -104195,10 +104195,10 @@
       "lastSuccess": 1731509095029
     },
     "owner-exec2.js": {
-      "total": 43,
-      "success": 43,
-      "last": 1736436490551,
-      "lastSuccess": 1736436490551
+      "total": 55,
+      "success": 55,
+      "last": 1736443206705,
+      "lastSuccess": 1736443206705
     },
     "sticker-pinterest.js": {
       "total": 117,
@@ -104933,9 +104933,9 @@
       "lastSuccess": 1736331834905
     },
     "tool-sendquote.js": {
-      "total": 14,
+      "total": 15,
       "success": 11,
-      "last": 1735729202354,
+      "last": 1736441644144,
       "lastSuccess": 1735729202354
     },
     "tesar.js": {
@@ -106005,6 +106005,12 @@
       "success": 2,
       "last": 1736435611229,
       "lastSuccess": 1736435611229
+    },
+    "dlup.js": {
+      "total": 4,
+      "success": 1,
+      "last": 1736443145619,
+      "lastSuccess": 1736442664343
     }
   },
   "msgs": {},
@@ -106034,7 +106040,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736438899894,
+      "backupDB": 1736441583420,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
