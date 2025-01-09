@@ -5483,7 +5483,7 @@
       "premiumTime": 0
     },
     "919863871445@s.whatsapp.net": {
-      "exp": 73205,
+      "exp": 73231,
       "limit": 344,
       "registered": false,
       "name": "Asahi.",
@@ -94787,7 +94787,7 @@
       "premiumTime": 0
     },
     "100618450501741_1@s.whatsapp.net": {
-      "exp": 0,
+      "exp": 3,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -94802,7 +94802,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0
     }
   },
@@ -106080,7 +106080,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736447668195,
+      "backupDB": 1736449632230,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
