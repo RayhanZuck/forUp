@@ -182,7 +182,7 @@
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
-      "exp": 4828,
+      "exp": 4833,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -3911,7 +3911,7 @@
       "premiumTime": 0
     },
     "6283137913336@s.whatsapp.net": {
-      "exp": 2142,
+      "exp": 2161,
       "limit": 392,
       "registered": false,
       "name": "☆~Always_ Anna~☆><⋆ ˚｡⋆",
@@ -3927,7 +3927,7 @@
       "WarnReason": "",
       "lastweekly": 1734327233779,
       "lastmonthly": 1734327247581,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastdaily": 1734327216056,
@@ -60065,7 +60065,7 @@
       "resetSent": true
     },
     "6281233814146@s.whatsapp.net": {
-      "exp": 757,
+      "exp": 766,
       "limit": 499,
       "registered": false,
       "name": "シャオリス",
@@ -89284,8 +89284,8 @@
       "premiumTime": 0
     },
     "6283177066847@s.whatsapp.net": {
-      "exp": 134,
-      "limit": 459,
+      "exp": 298,
+      "limit": 374,
       "registered": false,
       "name": "XxCF VXOC",
       "age": -1,
@@ -89303,7 +89303,8 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1736187380298
+      "lastcommand": 1736187380298,
+      "warn": 1
     },
     "6285230734889@s.whatsapp.net": {
       "exp": 153,
@@ -94649,7 +94650,7 @@
       "premiumTime": 0
     },
     "628561462905@s.whatsapp.net": {
-      "exp": 87,
+      "exp": 136,
       "limit": 489,
       "registered": false,
       "name": "ambarawa",
@@ -94667,7 +94668,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "lastBanned": 0
+      "lastBanned": 0,
+      "lastcommand": 1736483591650
     },
     "77808063758368_1@s.whatsapp.net": {
       "exp": 10,
@@ -95048,6 +95050,25 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1736478891042
+    },
+    "19310760202478_1@s.whatsapp.net": {
+      "exp": 7,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -95404,7 +95425,7 @@
         "6285754680615@s.whatsapp.net": 9,
         "6289520939011@s.whatsapp.net": 563,
         "6283119901412@s.whatsapp.net": 106,
-        "628568162468@s.whatsapp.net": 3804,
+        "628568162468@s.whatsapp.net": 3874,
         "628388996801@s.whatsapp.net": 137,
         "6283848826211@s.whatsapp.net": 21,
         "6283117118901@s.whatsapp.net": 935,
@@ -95458,7 +95479,7 @@
         "6285946889399@s.whatsapp.net": 36,
         "60149447283@s.whatsapp.net": 61,
         "6283129657601@s.whatsapp.net": 82,
-        "6283177066847@s.whatsapp.net": 103,
+        "6283177066847@s.whatsapp.net": 148,
         "6285230734889@s.whatsapp.net": 135,
         "6285878464218@s.whatsapp.net": 488,
         "6282291670098@s.whatsapp.net": 27,
@@ -95514,14 +95535,14 @@
         "6283879425472@s.whatsapp.net": 13,
         "6282218939532@s.whatsapp.net": 58,
         "6282122917158@s.whatsapp.net": 50,
-        "6287712032177@s.whatsapp.net": 1687,
+        "6287712032177@s.whatsapp.net": 1847,
         "62887436528699@s.whatsapp.net": 262,
         "6281364434575@s.whatsapp.net": 55,
         "6283801649687@s.whatsapp.net": 105,
         "6289518985064@s.whatsapp.net": 20,
         "6285757574671@s.whatsapp.net": 42,
         "6282116736578@s.whatsapp.net": 1009,
-        "628561462905@s.whatsapp.net": 23,
+        "628561462905@s.whatsapp.net": 43,
         "6282276081846@s.whatsapp.net": 9
       },
       "totalChat": 0,
@@ -103875,10 +103896,10 @@
       "lastSuccess": 1736445298587
     },
     "downloader-play.js": {
-      "total": 2414,
-      "success": 2268,
-      "last": 1736477957670,
-      "lastSuccess": 1736477957670
+      "total": 2417,
+      "success": 2271,
+      "last": 1736483930981,
+      "lastSuccess": 1736483930981
     },
     "downloader-ytvideo.js": {
       "total": 144,
@@ -103887,16 +103908,16 @@
       "lastSuccess": 1736332450885
     },
     "sticker-sticker.js": {
-      "total": 1053,
-      "success": 919,
-      "last": 1736437803042,
-      "lastSuccess": 1736437803042
+      "total": 1054,
+      "success": 920,
+      "last": 1736483809415,
+      "lastSuccess": 1736483809415
     },
     "sticker-toimg.js": {
-      "total": 99,
-      "success": 89,
-      "last": 1736000429828,
-      "lastSuccess": 1736000429828
+      "total": 100,
+      "success": 90,
+      "last": 1736483765092,
+      "lastSuccess": 1736483765092
     },
     "game-kerja.js": {
       "total": 1024,
@@ -104133,10 +104154,10 @@
       "lastSuccess": 1736467520997
     },
     "_rayhan-menu.js": {
-      "total": 667,
-      "success": 632,
-      "last": 1736454765884,
-      "lastSuccess": 1736454765884
+      "total": 668,
+      "success": 633,
+      "last": 1736483606090,
+      "lastSuccess": 1736483606090
     },
     "downloader-ytvideo2.js": {
       "total": 4,
@@ -104499,10 +104520,10 @@
       "lastSuccess": 1735987291629
     },
     "_rayhan-allmenu.js": {
-      "total": 264,
-      "success": 256,
-      "last": 1736435200055,
-      "lastSuccess": 1736435200055
+      "total": 265,
+      "success": 257,
+      "last": 1736483636609,
+      "lastSuccess": 1736483636609
     },
     "ai-ailogo.js": {
       "total": 21,
@@ -106410,7 +106431,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736481390765,
+      "backupDB": 1736483208242,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
