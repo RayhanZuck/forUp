@@ -25344,8 +25344,8 @@
       "premiumTime": 0
     },
     "6289699656185@s.whatsapp.net": {
-      "exp": 145,
-      "limit": 399,
+      "exp": 199,
+      "limit": 374,
       "registered": false,
       "name": "nujum",
       "age": -1,
@@ -25363,7 +25363,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1736607789985
+      "lastcommand": 1736623900760
     },
     "6282325120131@s.whatsapp.net": {
       "exp": 17,
@@ -60080,7 +60080,7 @@
       "resetSent": true
     },
     "6281233814146@s.whatsapp.net": {
-      "exp": 775,
+      "exp": 797,
       "limit": 499,
       "registered": false,
       "name": "シャオリス",
@@ -105487,10 +105487,10 @@
       "lastSuccess": 1735826605203
     },
     "ai-remini.js": {
-      "total": 1157,
-      "success": 1094,
-      "last": 1736617654489,
-      "lastSuccess": 1736617654489
+      "total": 1158,
+      "success": 1095,
+      "last": 1736623916657,
+      "lastSuccess": 1736623916657
     },
     "game-tebakbendera.js": {
       "total": 461,
@@ -105613,10 +105613,10 @@
       "lastSuccess": 1736467520997
     },
     "_rayhan-menu.js": {
-      "total": 690,
-      "success": 653,
-      "last": 1736607804638,
-      "lastSuccess": 1736607804638
+      "total": 691,
+      "success": 654,
+      "last": 1736623915770,
+      "lastSuccess": 1736623915770
     },
     "downloader-ytvideo2.js": {
       "total": 4,
@@ -107902,7 +107902,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736619576676,
+      "backupDB": 1736622220239,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
