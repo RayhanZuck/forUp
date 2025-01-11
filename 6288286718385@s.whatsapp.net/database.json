@@ -21782,8 +21782,8 @@
       "lastBanned": 0
     },
     "60177392284@s.whatsapp.net": {
-      "exp": 7690,
-      "limit": 3178,
+      "exp": 7863,
+      "limit": 3038,
       "registered": false,
       "name": "PENJAHAT",
       "age": -1,
@@ -25344,8 +25344,8 @@
       "premiumTime": 0
     },
     "6289699656185@s.whatsapp.net": {
-      "exp": 199,
-      "limit": 374,
+      "exp": 224,
+      "limit": 349,
       "registered": false,
       "name": "nujum",
       "age": -1,
@@ -36664,7 +36664,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0
     },
@@ -105343,10 +105343,10 @@
       "lastSuccess": 1736604601850
     },
     "downloader-tiktok.js": {
-      "total": 2327,
-      "success": 2159,
-      "last": 1736611997486,
-      "lastSuccess": 1736611997486
+      "total": 2334,
+      "success": 2166,
+      "last": 1736624543273,
+      "lastSuccess": 1736624543273
     },
     "owner-sf.js": {
       "total": 1188,
@@ -105487,10 +105487,10 @@
       "lastSuccess": 1735826605203
     },
     "ai-remini.js": {
-      "total": 1158,
-      "success": 1095,
-      "last": 1736623916657,
-      "lastSuccess": 1736623916657
+      "total": 1159,
+      "success": 1096,
+      "last": 1736624200838,
+      "lastSuccess": 1736624200838
     },
     "game-tebakbendera.js": {
       "total": 461,
@@ -107902,7 +107902,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736622220239,
+      "backupDB": 1736624196672,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
