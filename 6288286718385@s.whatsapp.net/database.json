@@ -69838,8 +69838,8 @@
       "premiumTime": 0
     },
     "628895625259@s.whatsapp.net": {
-      "exp": 2876,
-      "limit": 49,
+      "exp": 2898,
+      "limit": 24,
       "registered": false,
       "name": "xzzli",
       "age": -1,
@@ -96159,6 +96159,25 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0
+    },
+    "66099597029593_1@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -105275,10 +105294,10 @@
       "lastSuccess": 1736599734524
     },
     "downloader-play.js": {
-      "total": 2477,
-      "success": 2322,
-      "last": 1736613534744,
-      "lastSuccess": 1736604754899
+      "total": 2478,
+      "success": 2323,
+      "last": 1736613894214,
+      "lastSuccess": 1736613894214
     },
     "downloader-ytvideo.js": {
       "total": 144,
@@ -107822,7 +107841,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736611939388,
+      "backupDB": 1736613833116,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
