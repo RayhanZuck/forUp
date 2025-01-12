@@ -11814,7 +11814,7 @@
       "lastcommand": 1736536075109,
       "lastdaily": 1736693118026,
       "lastwork": 1731937245474,
-      "activation": 1736719292784
+      "activation": 1736721108803
     },
     "248348212785312_1@s.whatsapp.net": {
       "exp": 4,
@@ -33737,8 +33737,8 @@
       "lastBanned": 0
     },
     "6289637192199@s.whatsapp.net": {
-      "exp": 602,
-      "limit": 499,
+      "exp": 621,
+      "limit": 474,
       "registered": false,
       "name": "T",
       "age": -1,
@@ -33756,7 +33756,8 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1735310682277
+      "lastcommand": 1735310682277,
+      "activation": 1736721108796
     },
     "6285823009574@s.whatsapp.net": {
       "exp": 11,
@@ -97227,6 +97228,46 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0
+    },
+    "76605489729774_1@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1736720072055
+    },
+    "20032264351812_1@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1736721584128
     }
   },
   "chats": {
@@ -106638,10 +106679,10 @@
       "lastSuccess": 1735826605203
     },
     "ai-remini.js": {
-      "total": 1190,
-      "success": 1127,
-      "last": 1736699271204,
-      "lastSuccess": 1736699271204
+      "total": 1191,
+      "success": 1128,
+      "last": 1736721108796,
+      "lastSuccess": 1736721108796
     },
     "game-tebakbendera.js": {
       "total": 461,
@@ -109089,7 +109130,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736714634863,
+      "backupDB": 1736720071639,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
