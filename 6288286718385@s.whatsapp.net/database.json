@@ -5495,8 +5495,8 @@
       "premiumTime": 0
     },
     "919863871445@s.whatsapp.net": {
-      "exp": 77388,
-      "limit": 549,
+      "exp": 79522,
+      "limit": 609,
       "registered": false,
       "name": "Asahi.",
       "age": -1,
@@ -5514,7 +5514,8 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastdaily": 1736577498173
+      "lastdaily": 1736714637296,
+      "activation": 1736714689743
     },
     "54396297711823_1@s.whatsapp.net": {
       "exp": 4,
@@ -11813,7 +11814,7 @@
       "lastcommand": 1736536075109,
       "lastdaily": 1736693118026,
       "lastwork": 1731937245474,
-      "activation": 1736713047221
+      "activation": 1736719292784
     },
     "248348212785312_1@s.whatsapp.net": {
       "exp": 4,
@@ -99510,7 +99511,8 @@
       "antiSpaml": true,
       "antiFoto": false,
       "antiVideo": false,
-      "antiAudio": false
+      "antiAudio": false,
+      "detekporn": true
     },
     "6283846804660@s.whatsapp.net": {
       "isBanned": false,
@@ -106516,10 +106518,10 @@
       "lastSuccess": 1736332450885
     },
     "sticker-sticker.js": {
-      "total": 1090,
-      "success": 952,
-      "last": 1736698759066,
-      "lastSuccess": 1736698759066
+      "total": 1092,
+      "success": 954,
+      "last": 1736714689743,
+      "lastSuccess": 1736714689743
     },
     "sticker-toimg.js": {
       "total": 110,
@@ -108304,10 +108306,10 @@
       "lastSuccess": 1732625090496
     },
     "tool-removebg.js": {
-      "total": 25,
-      "success": 23,
-      "last": 1736517228761,
-      "lastSuccess": 1736517228761
+      "total": 27,
+      "success": 25,
+      "last": 1736714682692,
+      "lastSuccess": 1736714682692
     },
     "islam-kisahnabi.js": {
       "total": 9,
@@ -108832,10 +108834,10 @@
       "lastSuccess": 1735980428380
     },
     "havefun-claim.js": {
-      "total": 283,
-      "success": 191,
-      "last": 1736693137921,
-      "lastSuccess": 1736693118027
+      "total": 284,
+      "success": 192,
+      "last": 1736714637296,
+      "lastSuccess": 1736714637296
     },
     "user-limit.js": {
       "total": 64,
@@ -109087,7 +109089,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736711328424,
+      "backupDB": 1736714634863,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
