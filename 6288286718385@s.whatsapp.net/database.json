@@ -89,7 +89,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 3625,
+      "exp": 4038,
       "limit": 0,
       "registered": false,
       "name": "Rayhan?",
@@ -116,7 +116,7 @@
       "lastrob": 1734752367160,
       "resetSent": true,
       "delay": 1735728719020,
-      "activation": 1736700708462
+      "activation": 1736701559564
     },
     "6289512651656@s.whatsapp.net": {
       "exp": 7,
@@ -11812,7 +11812,7 @@
       "lastcommand": 1736536075109,
       "lastdaily": 1736693118026,
       "lastwork": 1731937245474,
-      "activation": 1736700708469
+      "activation": 1736701559795
     },
     "248348212785312_1@s.whatsapp.net": {
       "exp": 4,
@@ -106452,10 +106452,10 @@
       "lastSuccess": 1736696659267
     },
     "owner-sf.js": {
-      "total": 1211,
-      "success": 1101,
-      "last": 1736700701469,
-      "lastSuccess": 1736700701469
+      "total": 1214,
+      "success": 1104,
+      "last": 1736701487722,
+      "lastSuccess": 1736701487722
     },
     "downloader-play.js": {
       "total": 2532,
@@ -106632,10 +106632,10 @@
       "lastSuccess": 1733746613154
     },
     "internet-fetch.js": {
-      "total": 230,
-      "success": 207,
-      "last": 1736437384962,
-      "lastSuccess": 1736437384962
+      "total": 231,
+      "success": 208,
+      "last": 1736700925210,
+      "lastSuccess": 1736700925210
     },
     "info-payment.js": {
       "total": 53,
@@ -106740,10 +106740,10 @@
       "lastSuccess": 1730161441000
     },
     "downloader-tiktoksearch.js": {
-      "total": 1046,
-      "success": 1038,
-      "last": 1736698746185,
-      "lastSuccess": 1736698746185
+      "total": 1047,
+      "success": 1039,
+      "last": 1736700725229,
+      "lastSuccess": 1736700725229
     },
     "ai-llama.js": {
       "total": 352,
@@ -108732,10 +108732,10 @@
       "lastSuccess": 1736606386634
     },
     "downloader-playvideo.js": {
-      "total": 27,
-      "success": 23,
-      "last": 1736605976505,
-      "lastSuccess": 1736605976505
+      "total": 28,
+      "success": 24,
+      "last": 1736701062050,
+      "lastSuccess": 1736701062050
     },
     "game-tebaklogo_hint.js": {
       "total": 3,
@@ -109002,10 +109002,16 @@
       "lastSuccess": 1736700241401
     },
     "uptodoods.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1736700708462,
-      "lastSuccess": 1736700708462
+      "total": 11,
+      "success": 8,
+      "last": 1736701522914,
+      "lastSuccess": 1736701522914
+    },
+    "dooddl.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1736701559564,
+      "lastSuccess": 1736701559564
     }
   },
   "msgs": {},
@@ -109035,7 +109041,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736698911569,
+      "backupDB": 1736700724985,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
