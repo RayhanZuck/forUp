@@ -2176,7 +2176,7 @@
       "activation": 1736660197560
     },
     "6285894170337@s.whatsapp.net": {
-      "exp": 499,
+      "exp": 503,
       "limit": 499,
       "registered": false,
       "name": "Wanzzrf MJ",
@@ -2192,11 +2192,11 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1735775777404,
-      "activation": 1736651588793
+      "activation": 1736663395891
     },
     "6289523985326@s.whatsapp.net": {
       "exp": 2188,
@@ -6687,7 +6687,7 @@
       "activation": 1736574365433
     },
     "6281382365503@s.whatsapp.net": {
-      "exp": 1519,
+      "exp": 1521,
       "limit": 499,
       "registered": false,
       "name": "Suryanah",
@@ -6706,7 +6706,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1736663344814
+      "activation": 1736663396133
     },
     "6281511764337@s.whatsapp.net": {
       "exp": 199,
@@ -9705,7 +9705,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
       "activation": 1736659041384
@@ -15250,7 +15250,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1735907596107,
