@@ -1439,8 +1439,8 @@
       "lastwork": 1730627739066
     },
     "6282213576013@s.whatsapp.net": {
-      "exp": 6828,
-      "limit": 524,
+      "exp": 6854,
+      "limit": 499,
       "registered": false,
       "name": "Zinuha",
       "age": -1,
@@ -1459,7 +1459,8 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1733719486575,
-      "lastdaily": 1735904241584
+      "lastdaily": 1735904241584,
+      "activation": 1736704142043
     },
     "6283822760236@s.whatsapp.net": {
       "exp": 143,
@@ -11812,7 +11813,7 @@
       "lastcommand": 1736536075109,
       "lastdaily": 1736693118026,
       "lastwork": 1731937245474,
-      "activation": 1736701559795
+      "activation": 1736704142278
     },
     "248348212785312_1@s.whatsapp.net": {
       "exp": 4,
@@ -60093,7 +60094,7 @@
       "resetSent": true
     },
     "6281233814146@s.whatsapp.net": {
-      "exp": 839,
+      "exp": 857,
       "limit": 499,
       "registered": false,
       "name": "シャオリス",
@@ -60111,7 +60112,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "lastBanned": 0
+      "lastBanned": 0,
+      "activation": 1736703367859
     },
     "6283842836842@s.whatsapp.net": {
       "exp": 665,
@@ -97968,7 +97970,8 @@
       "antiSpaml": true,
       "antiFoto": false,
       "antiVideo": false,
-      "antiAudio": false
+      "antiAudio": false,
+      "detekporn": true
     },
     "6285652156176@s.whatsapp.net": {
       "isBanned": false,
@@ -98208,7 +98211,8 @@
       "game": true,
       "teks": true,
       "autolevelup": true,
-      "expired": 0
+      "expired": 0,
+      "detekporn": true
     },
     "6285849096881@s.whatsapp.net": {
       "isBanned": false,
@@ -106440,10 +106444,10 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 971,
-      "success": 905,
-      "last": 1736699964456,
-      "lastSuccess": 1736699964456
+      "total": 972,
+      "success": 906,
+      "last": 1736704142043,
+      "lastSuccess": 1736704142043
     },
     "downloader-tiktok.js": {
       "total": 2374,
@@ -109041,7 +109045,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736700724985,
+      "backupDB": 1736703240512,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
