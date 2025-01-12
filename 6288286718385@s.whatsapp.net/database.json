@@ -1439,8 +1439,8 @@
       "lastwork": 1730627739066
     },
     "6282213576013@s.whatsapp.net": {
-      "exp": 6854,
-      "limit": 499,
+      "exp": 6882,
+      "limit": 474,
       "registered": false,
       "name": "Zinuha",
       "age": -1,
@@ -1460,7 +1460,7 @@
       "lastBanned": 0,
       "lastcommand": 1733719486575,
       "lastdaily": 1735904241584,
-      "activation": 1736704142043
+      "activation": 1736711336446
     },
     "6283822760236@s.whatsapp.net": {
       "exp": 143,
@@ -11813,7 +11813,7 @@
       "lastcommand": 1736536075109,
       "lastdaily": 1736693118026,
       "lastwork": 1731937245474,
-      "activation": 1736708428360
+      "activation": 1736713047221
     },
     "248348212785312_1@s.whatsapp.net": {
       "exp": 4,
@@ -106486,10 +106486,10 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 972,
-      "success": 906,
-      "last": 1736704142043,
-      "lastSuccess": 1736704142043
+      "total": 973,
+      "success": 907,
+      "last": 1736711336446,
+      "lastSuccess": 1736711336446
     },
     "downloader-tiktok.js": {
       "total": 2374,
@@ -109087,7 +109087,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736706471801,
+      "backupDB": 1736711328424,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
