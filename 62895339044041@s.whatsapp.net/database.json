@@ -297,7 +297,7 @@
       "lastBanned": 0,
       "lastcommand": 1736782458069,
       "limitprem": 10000,
-      "activation": 1736792847788
+      "activation": 1736794028056
     },
     "62882017032144@s.whatsapp.net": {
       "exp": 110,
@@ -2160,7 +2160,7 @@
       "activation": 1736751027064
     },
     "6287770442352@s.whatsapp.net": {
-      "exp": 2087,
+      "exp": 2094,
       "limit": 499,
       "registered": false,
       "name": "Vika Rf D1",
@@ -2180,7 +2180,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1736351121038,
-      "activation": 1736786176153
+      "activation": 1736794152045
     },
     "6285894170337@s.whatsapp.net": {
       "exp": 622,
@@ -3540,7 +3540,7 @@
       "activation": 1736667853545
     },
     "6281299925108@s.whatsapp.net": {
-      "exp": 428,
+      "exp": 432,
       "limit": 499,
       "registered": false,
       "name": "KAF",
@@ -3559,7 +3559,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1736773317896
+      "activation": 1736793991415
     },
     "62895340116798@s.whatsapp.net": {
       "exp": 86,
@@ -48891,7 +48891,7 @@
       "activation": 1736788962481
     },
     "6281230655372@s.whatsapp.net": {
-      "exp": 17,
+      "exp": 25,
       "limit": 499,
       "registered": false,
       "name": "ny",
@@ -48910,7 +48910,28 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1736792862859
+      "activation": 1736794030379
+    },
+    "6282132991572@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 499,
+      "registered": false,
+      "name": "cuyy",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1736792990961
     }
   },
   "chats": {
@@ -54786,7 +54807,8 @@
         "6285693185591@s.whatsapp.net": 1506,
         "628567218393@s.whatsapp.net": 2,
         "6281252067374@s.whatsapp.net": 1,
-        "6285771463587@s.whatsapp.net": 90
+        "6285771463587@s.whatsapp.net": 90,
+        "6282132991572@s.whatsapp.net": 1
       },
       "totalChat": 0,
       "detekporn": true
@@ -60607,7 +60629,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736791089537,
+      "backupDB": 1736792990738,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
