@@ -1121,8 +1121,8 @@
       "lastdaily": 1735812370759
     },
     "6283191371141@s.whatsapp.net": {
-      "exp": 11665,
-      "limit": 104,
+      "exp": 11716,
+      "limit": 64,
       "registered": false,
       "name": "Vyn",
       "age": -1,
@@ -1144,7 +1144,8 @@
       "lastdaily": 1736472609409,
       "lastwork": 1730875837906,
       "lastrob": 1735778404705,
-      "delay": 1735714023009
+      "delay": 1735714023009,
+      "activation": 1736728620647
     },
     "6285817976362@s.whatsapp.net": {
       "exp": 719,
@@ -1439,8 +1440,8 @@
       "lastwork": 1730627739066
     },
     "6282213576013@s.whatsapp.net": {
-      "exp": 7169,
-      "limit": 149,
+      "exp": 7188,
+      "limit": 124,
       "registered": false,
       "name": "Zinuha",
       "age": -1,
@@ -1460,7 +1461,7 @@
       "lastBanned": 0,
       "lastcommand": 1733719486575,
       "lastdaily": 1735904241584,
-      "activation": 1736726382607
+      "activation": 1736726908887
     },
     "6283822760236@s.whatsapp.net": {
       "exp": 143,
@@ -11816,7 +11817,7 @@
       "lastcommand": 1736536075109,
       "lastdaily": 1736693118026,
       "lastwork": 1731937245474,
-      "activation": 1736726382800
+      "activation": 1736728618816
     },
     "248348212785312_1@s.whatsapp.net": {
       "exp": 4,
@@ -98142,7 +98143,8 @@
       "antiSpaml": true,
       "antiFoto": false,
       "antiVideo": false,
-      "antiAudio": false
+      "antiAudio": false,
+      "detekporn": true
     },
     "6289643500499@s.whatsapp.net": {
       "isBanned": false,
@@ -106532,16 +106534,16 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 986,
-      "success": 920,
-      "last": 1736726382607,
-      "lastSuccess": 1736726382607
+      "total": 987,
+      "success": 921,
+      "last": 1736726908887,
+      "lastSuccess": 1736726908887
     },
     "downloader-tiktok.js": {
-      "total": 2374,
-      "success": 2206,
-      "last": 1736696659267,
-      "lastSuccess": 1736696659267
+      "total": 2376,
+      "success": 2208,
+      "last": 1736728618617,
+      "lastSuccess": 1736728618617
     },
     "owner-sf.js": {
       "total": 1214,
@@ -109133,7 +109135,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736725066003,
+      "backupDB": 1736726878526,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
