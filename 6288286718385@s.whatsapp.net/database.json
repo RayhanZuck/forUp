@@ -163,7 +163,7 @@
       "lastcommand": 1735076311886
     },
     "120363183420865643@g.us": {
-      "exp": 6676,
+      "exp": 6682,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -182,7 +182,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1736781481475
+      "activation": 1736811697192
     },
     "120363240711248334@g.us": {
       "exp": 5124,
@@ -1060,7 +1060,7 @@
       "lastdaily": 1736654831265
     },
     "120363280765137622@g.us": {
-      "exp": 8188,
+      "exp": 8197,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1079,7 +1079,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1736781481837
+      "activation": 1736811697206
     },
     "6283119901412@s.whatsapp.net": {
       "exp": 16285,
@@ -11845,7 +11845,7 @@
       "lastcommand": 1736536075109,
       "lastdaily": 1736693118026,
       "lastwork": 1731937245474,
-      "activation": 1736808621393
+      "activation": 1736812128383
     },
     "248348212785312_1@s.whatsapp.net": {
       "exp": 4,
@@ -32329,7 +32329,7 @@
       "lastBanned": 0
     },
     "6285169789423@s.whatsapp.net": {
-      "exp": 19,
+      "exp": 29,
       "limit": 499,
       "registered": false,
       "name": "Bayar Tuuu Hutang",
@@ -32347,7 +32347,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "lastBanned": 0
+      "lastBanned": 0,
+      "activation": 1736810495170
     },
     "6285165431454@s.whatsapp.net": {
       "exp": 10,
@@ -97728,7 +97729,7 @@
       "activation": 1736761999724
     },
     "6288226561349@s.whatsapp.net": {
-      "exp": 382,
+      "exp": 442,
       "limit": 464,
       "registered": false,
       "name": "Raslv•😴",
@@ -97746,9 +97747,9 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1736806801668,
+      "activation": 1736810562987,
       "lastBanned": 0,
-      "lastcommand": 1736806789816
+      "lastcommand": 1736810546831
     },
     "88116002070644_1@s.whatsapp.net": {
       "exp": 7,
@@ -97998,7 +97999,7 @@
       "activation": 1736806348963
     },
     "179860966273082_1@s.whatsapp.net": {
-      "exp": 0,
+      "exp": 8,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -98013,8 +98014,32 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
-      "premiumTime": 0
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1736810495176
+    },
+    "6285724274759@s.whatsapp.net": {
+      "exp": 149,
+      "limit": 499,
+      "registered": true,
+      "name": "ifta",
+      "age": 17,
+      "regTime": 1736812126843,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastcommand": 1736812042424,
+      "activation": 1736812141223,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -98345,9 +98370,10 @@
         "6287719003775@s.whatsapp.net": 41,
         "6287854198003@s.whatsapp.net": 27,
         "6281211588406@s.whatsapp.net": 15,
-        "628814543650@s.whatsapp.net": 437,
-        "6288226561349@s.whatsapp.net": 332,
-        "6287714695147@s.whatsapp.net": 11
+        "628814543650@s.whatsapp.net": 476,
+        "6288226561349@s.whatsapp.net": 418,
+        "6287714695147@s.whatsapp.net": 11,
+        "6285724274759@s.whatsapp.net": 48
       },
       "totalChat": 0,
       "acc": false,
@@ -107631,10 +107657,10 @@
       "lastSuccess": 1736747469920
     },
     "_rayhan-menu.js": {
-      "total": 720,
-      "success": 680,
-      "last": 1736806801668,
-      "lastSuccess": 1736806476023
+      "total": 722,
+      "success": 682,
+      "last": 1736812057212,
+      "lastSuccess": 1736812057212
     },
     "downloader-ytvideo2.js": {
       "total": 4,
@@ -108771,10 +108797,10 @@
       "lastSuccess": 1735634557928
     },
     "vn-salam.js": {
-      "total": 61,
-      "success": 61,
-      "last": 1736774345522,
-      "lastSuccess": 1736774345522
+      "total": 62,
+      "success": 62,
+      "last": 1736811767427,
+      "lastSuccess": 1736811767427
     },
     "dl-snapsave.js": {
       "total": 3,
@@ -109401,10 +109427,10 @@
       "lastSuccess": 1734771201863
     },
     "group-intro.js": {
-      "total": 9,
-      "success": 9,
-      "last": 1736762012200,
-      "lastSuccess": 1736762012200
+      "total": 10,
+      "success": 10,
+      "last": 1736811768415,
+      "lastSuccess": 1736811768415
     },
     "ai-sanaai.js": {
       "total": 2,
@@ -109713,10 +109739,10 @@
       "lastSuccess": 1736808328097
     },
     "user-balance.js": {
-      "total": 181,
-      "success": 181,
-      "last": 1736808621388,
-      "lastSuccess": 1736808621388
+      "total": 182,
+      "success": 182,
+      "last": 1736810531203,
+      "lastSuccess": 1736810531203
     },
     "user-shop.js": {
       "total": 94,
@@ -109827,10 +109853,10 @@
       "lastSuccess": 1736752870092
     },
     "user-daftar.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1736670725306,
-      "lastSuccess": 1736670725306
+      "total": 6,
+      "success": 6,
+      "last": 1736812128379,
+      "lastSuccess": 1736812128379
     },
     "havefun-taksi.js": {
       "total": 33,
@@ -109956,7 +109982,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736807206132,
+      "backupDB": 1736810494915,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
