@@ -163,7 +163,7 @@
       "lastcommand": 1735076311886
     },
     "120363183420865643@g.us": {
-      "exp": 6719,
+      "exp": 6735,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -182,10 +182,10 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1736827156943
+      "activation": 1736830972501
     },
     "120363240711248334@g.us": {
-      "exp": 5139,
+      "exp": 5154,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -204,7 +204,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1736828112156
+      "activation": 1736830654289
     },
     "62882003784627@s.whatsapp.net": {
       "exp": 12,
@@ -1060,7 +1060,7 @@
       "lastdaily": 1736654831265
     },
     "120363280765137622@g.us": {
-      "exp": 8245,
+      "exp": 8270,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1079,7 +1079,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1736828111427
+      "activation": 1736830974627
     },
     "6283119901412@s.whatsapp.net": {
       "exp": 16285,
@@ -1129,8 +1129,8 @@
       "activation": 1736818888374
     },
     "6283191371141@s.whatsapp.net": {
-      "exp": 13950,
-      "limit": 34,
+      "exp": 14006,
+      "limit": 9,
       "registered": false,
       "name": "Vyn",
       "age": -1,
@@ -1153,7 +1153,7 @@
       "lastwork": 1730875837906,
       "lastrob": 1735778404705,
       "delay": 1735714023009,
-      "activation": 1736819933610
+      "activation": 1736829250629
     },
     "6285817976362@s.whatsapp.net": {
       "exp": 4941,
@@ -11845,7 +11845,7 @@
       "lastcommand": 1736536075109,
       "lastdaily": 1736693118026,
       "lastwork": 1731937245474,
-      "activation": 1736828455163
+      "activation": 1736830974620
     },
     "248348212785312_1@s.whatsapp.net": {
       "exp": 4,
@@ -30802,8 +30802,8 @@
       "premiumTime": 0
     },
     "6282138378629@s.whatsapp.net": {
-      "exp": 9223,
-      "limit": 1279,
+      "exp": 9271,
+      "limit": 1269,
       "registered": false,
       "name": "Tiyarr",
       "age": -1,
@@ -30825,7 +30825,7 @@
       "lastcommand": 1736337161123,
       "lastrob": 1736823313206,
       "lastdaily": 1736517450297,
-      "activation": 1736823347025
+      "activation": 1736829457568
     },
     "196993439809747_1@s.whatsapp.net": {
       "exp": 6,
@@ -90221,8 +90221,8 @@
       "premiumTime": 0
     },
     "6285191480121@s.whatsapp.net": {
-      "exp": 347,
-      "limit": 214,
+      "exp": 389,
+      "limit": 189,
       "registered": false,
       "name": "edvivi",
       "age": -1,
@@ -90240,7 +90240,8 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1736650014448
+      "lastcommand": 1736650014448,
+      "activation": 1736830647416
     },
     "6283812355654@s.whatsapp.net": {
       "exp": 2,
@@ -98170,6 +98171,70 @@
       "premiumTime": 0,
       "activation": 1736828185841,
       "lastBanned": 0
+    },
+    "156573569679544_1@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1736829901973
+    },
+    "6285148377655@s.whatsapp.net": {
+      "exp": 11,
+      "limit": 499,
+      "registered": false,
+      "name": "Mimin",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1736830981708,
+      "lastBanned": 0
+    },
+    "6285165018700@s.whatsapp.net": {
+      "exp": 15,
+      "limit": 499,
+      "registered": false,
+      "name": "Fintech",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0,
+      "activation": 1736831018369
     }
   },
   "chats": {
@@ -98305,7 +98370,7 @@
       "antiLinkOther": true,
       "total": {
         "6283842836842@s.whatsapp.net": 1934,
-        "6289621609393@s.whatsapp.net": 1632,
+        "6289621609393@s.whatsapp.net": 1644,
         "6287810709618@s.whatsapp.net": 1032,
         "6285150845191@s.whatsapp.net": 138,
         "6288225432435@s.whatsapp.net": 5584,
@@ -98313,10 +98378,10 @@
         "6287761263814@s.whatsapp.net": 765,
         "62882007880538@s.whatsapp.net": 220,
         "6287731548171@s.whatsapp.net": 123,
-        "6285766064200@s.whatsapp.net": 4552,
+        "6285766064200@s.whatsapp.net": 4564,
         "6285394495227@s.whatsapp.net": 2497,
-        "6285720973051@s.whatsapp.net": 18076,
-        "6283822760236@s.whatsapp.net": 2023,
+        "6285720973051@s.whatsapp.net": 18100,
+        "6283822760236@s.whatsapp.net": 2095,
         "628388996801@s.whatsapp.net": 179,
         "6287862112981@s.whatsapp.net": 303,
         "6282143175110@s.whatsapp.net": 1396,
@@ -98410,7 +98475,7 @@
         "6285877044241@s.whatsapp.net": 256,
         "6285148389426@s.whatsapp.net": 11,
         "6285135799476@s.whatsapp.net": 176,
-        "6285191480121@s.whatsapp.net": 284,
+        "6285191480121@s.whatsapp.net": 291,
         "6283801649687@s.whatsapp.net": 65,
         "919686822441@s.whatsapp.net": 147,
         "6285694647631@s.whatsapp.net": 4109,
@@ -98436,7 +98501,7 @@
         "6285608287205@s.whatsapp.net": 6,
         "628385801643@s.whatsapp.net": 178,
         "6285954157503@s.whatsapp.net": 146,
-        "6282138378629@s.whatsapp.net": 12108,
+        "6282138378629@s.whatsapp.net": 12141,
         "923293086921@s.whatsapp.net": 86,
         "6285775803094@s.whatsapp.net": 634,
         "6289519629264@s.whatsapp.net": 22,
@@ -98455,7 +98520,7 @@
         "6285182043813@s.whatsapp.net": 22,
         "6282311928294@s.whatsapp.net": 68,
         "6287845351838@s.whatsapp.net": 221,
-        "918148082946@s.whatsapp.net": 44,
+        "918148082946@s.whatsapp.net": 68,
         "6283823294464@s.whatsapp.net": 101,
         "6285883694834@s.whatsapp.net": 21,
         "6285894170337@s.whatsapp.net": 38,
@@ -98488,7 +98553,7 @@
         "6282229156445@s.whatsapp.net": 655,
         "6283183668305@s.whatsapp.net": 31,
         "6288980231187@s.whatsapp.net": 119,
-        "6285281879844@s.whatsapp.net": 71,
+        "6285281879844@s.whatsapp.net": 83,
         "6289514527772@s.whatsapp.net": 12,
         "6283863114840@s.whatsapp.net": 115,
         "6282170977218@s.whatsapp.net": 7,
@@ -98505,8 +98570,8 @@
         "6287714695147@s.whatsapp.net": 11,
         "6285724274759@s.whatsapp.net": 300,
         "62882006331555@s.whatsapp.net": 32,
-        "6287870743464@s.whatsapp.net": 36,
-        "6285148371132@s.whatsapp.net": 26
+        "6287870743464@s.whatsapp.net": 48,
+        "6285148371132@s.whatsapp.net": 38
       },
       "totalChat": 0,
       "acc": false,
@@ -98581,7 +98646,7 @@
         "628388144574@s.whatsapp.net": 78,
         "628818691228@s.whatsapp.net": 9904,
         "62881026445984@s.whatsapp.net": 2647,
-        "628812611040@s.whatsapp.net": 10978,
+        "628812611040@s.whatsapp.net": 11014,
         "6285775650917@s.whatsapp.net": 13,
         "6285366436812@s.whatsapp.net": 48,
         "6289520113982@s.whatsapp.net": 46,
@@ -98633,7 +98698,7 @@
         "6283820509957@s.whatsapp.net": 5,
         "6285748842221@s.whatsapp.net": 11,
         "6288983017604@s.whatsapp.net": 217,
-        "6288980231187@s.whatsapp.net": 549,
+        "6288980231187@s.whatsapp.net": 577,
         "6281958351619@s.whatsapp.net": 915,
         "6283169226415@s.whatsapp.net": 830,
         "6281254887631@s.whatsapp.net": 131,
@@ -98697,7 +98762,7 @@
         "6288971815805@s.whatsapp.net": 233,
         "60177392284@s.whatsapp.net": 227,
         "6281252067374@s.whatsapp.net": 27,
-        "6285281879844@s.whatsapp.net": 47,
+        "6285281879844@s.whatsapp.net": 51,
         "6287742683957@s.whatsapp.net": 34,
         "6283863114840@s.whatsapp.net": 10,
         "6283872905399@s.whatsapp.net": 15,
@@ -107536,15 +107601,15 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 992,
-      "success": 926,
-      "last": 1736817476426,
-      "lastSuccess": 1736817476426
+      "total": 993,
+      "success": 927,
+      "last": 1736829250629,
+      "lastSuccess": 1736829250629
     },
     "downloader-tiktok.js": {
-      "total": 2407,
+      "total": 2408,
       "success": 2237,
-      "last": 1736827115253,
+      "last": 1736829244668,
       "lastSuccess": 1736827115253
     },
     "owner-sf.js": {
@@ -107572,10 +107637,10 @@
       "lastSuccess": 1736821166159
     },
     "sticker-toimg.js": {
-      "total": 110,
-      "success": 99,
-      "last": 1736692752987,
-      "lastSuccess": 1736692752987
+      "total": 112,
+      "success": 100,
+      "last": 1736829457568,
+      "lastSuccess": 1736829457568
     },
     "game-kerja.js": {
       "total": 1024,
@@ -107686,10 +107751,10 @@
       "lastSuccess": 1735826605203
     },
     "ai-remini.js": {
-      "total": 1206,
-      "success": 1140,
-      "last": 1736813633736,
-      "lastSuccess": 1736789022184
+      "total": 1207,
+      "success": 1141,
+      "last": 1736830647416,
+      "lastSuccess": 1736830647416
     },
     "game-tebakbendera.js": {
       "total": 461,
@@ -110137,7 +110202,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736827012201,
+      "backupDB": 1736829244353,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
