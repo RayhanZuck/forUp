@@ -11867,7 +11867,7 @@
       "lastcommand": 1736536075109,
       "lastdaily": 1736693118026,
       "lastwork": 1731937245474,
-      "activation": 1736958965587
+      "activation": 1736959599659
     },
     "248348212785312_1@s.whatsapp.net": {
       "exp": 4,
@@ -99566,8 +99566,8 @@
       "activation": 1736941095170
     },
     "62882007885693@s.whatsapp.net": {
-      "exp": 265,
-      "limit": 404,
+      "exp": 283,
+      "limit": 394,
       "registered": false,
       "name": "Dikzz_knjt",
       "age": -1,
@@ -99584,7 +99584,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1736958820581,
+      "activation": 1736959599449,
       "lastBanned": 0
     },
     "266752466378920_1@s.whatsapp.net": {
@@ -99917,6 +99917,26 @@
       "premiumTime": 0,
       "activation": 1736958119944,
       "lastBanned": 0
+    },
+    "195391484088368_1@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1736959342116
     }
   },
   "chats": {
@@ -109447,6 +109467,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "62882007885693@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -110057,10 +110098,10 @@
       "lastSuccess": 1736868189709
     },
     "sticker-quotely.js": {
-      "total": 645,
-      "success": 645,
-      "last": 1736958922876,
-      "lastSuccess": 1736958922876
+      "total": 646,
+      "success": 646,
+      "last": 1736959599449,
+      "lastSuccess": 1736959599449
     },
     "group-delete.js": {
       "total": 46,
@@ -112064,7 +112105,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736957191556,
+      "backupDB": 1736959341672,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
