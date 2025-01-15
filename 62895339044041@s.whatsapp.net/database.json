@@ -52178,6 +52178,26 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1736970525815
+    },
+    "23674312753306_1@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1736972969954
     }
   },
   "chats": {
@@ -64391,7 +64411,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736969683051,
+      "backupDB": 1736972969746,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
