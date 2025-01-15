@@ -298,7 +298,7 @@
       "lastBanned": 0,
       "lastcommand": 1736947060426,
       "limitprem": 10000,
-      "activation": 1736962365672
+      "activation": 1736970256927
     },
     "62882017032144@s.whatsapp.net": {
       "exp": 110,
@@ -2804,7 +2804,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 11931,
+      "exp": 11938,
       "limit": 499,
       "registered": false,
       "name": "Rayhan🍟",
@@ -2824,7 +2824,7 @@
       "premiumTime": 0,
       "lastcommand": 1736954663366,
       "lastBanned": 0,
-      "activation": 1736958448729
+      "activation": 1736970291798
     },
     "6281293052762@s.whatsapp.net": {
       "exp": 2,
@@ -52017,7 +52017,7 @@
       "activation": 1736954566020
     },
     "10235276181703_1@s.whatsapp.net": {
-      "exp": 0,
+      "exp": 2,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -52032,8 +52032,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
-      "premiumTime": 0
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1736969683294
     },
     "187540367745089_1@s.whatsapp.net": {
       "exp": 10,
@@ -52157,6 +52158,26 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1736964314053
+    },
+    "269797514330252_1@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1736970525815
     }
   },
   "chats": {
@@ -64370,7 +64391,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736967760288,
+      "backupDB": 1736969683051,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
