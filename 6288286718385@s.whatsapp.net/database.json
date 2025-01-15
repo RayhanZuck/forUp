@@ -11867,7 +11867,7 @@
       "lastcommand": 1736536075109,
       "lastdaily": 1736693118026,
       "lastwork": 1731937245474,
-      "activation": 1736964317813
+      "activation": 1736968338868
     },
     "248348212785312_1@s.whatsapp.net": {
       "exp": 4,
@@ -99021,8 +99021,8 @@
       "activation": 1736877289180
     },
     "62881024295546@s.whatsapp.net": {
-      "exp": 171,
-      "limit": 449,
+      "exp": 257,
+      "limit": 399,
       "registered": false,
       "name": "Gorgeus😌",
       "age": -1,
@@ -99039,9 +99039,9 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1736896644060,
+      "activation": 1736966765004,
       "lastBanned": 0,
-      "lastcommand": 1736896625258
+      "lastcommand": 1736965936058
     },
     "204011064016934_1@s.whatsapp.net": {
       "exp": 7,
@@ -109514,10 +109514,10 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 1018,
-      "success": 947,
-      "last": 1736944920308,
-      "lastSuccess": 1736944920308
+      "total": 1019,
+      "success": 948,
+      "last": 1736966037862,
+      "lastSuccess": 1736966037862
     },
     "downloader-tiktok.js": {
       "total": 2476,
@@ -109784,10 +109784,10 @@
       "lastSuccess": 1736944167888
     },
     "downloader-ytmp3.js": {
-      "total": 214,
-      "success": 185,
-      "last": 1736913486652,
-      "lastSuccess": 1736913038855
+      "total": 215,
+      "success": 186,
+      "last": 1736966765004,
+      "lastSuccess": 1736966765004
     },
     "_rayhan-menu.js": {
       "total": 740,
@@ -110156,10 +110156,10 @@
       "lastSuccess": 1736773998734
     },
     "_rayhan-allmenu.js": {
-      "total": 290,
-      "success": 282,
-      "last": 1736908407170,
-      "lastSuccess": 1736908407170
+      "total": 291,
+      "success": 283,
+      "last": 1736965945830,
+      "lastSuccess": 1736965945830
     },
     "ai-ailogo.js": {
       "total": 21,
@@ -110204,9 +110204,9 @@
       "lastSuccess": 1733233830291
     },
     "downloader-facebook.js": {
-      "total": 56,
+      "total": 57,
       "success": 35,
-      "last": 1736963934788,
+      "last": 1736965963282,
       "lastSuccess": 1736963934788
     },
     "tool-bgcolor.js": {
@@ -112127,7 +112127,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736963642396,
+      "backupDB": 1736965935688,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
