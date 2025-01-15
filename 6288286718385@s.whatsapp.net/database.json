@@ -2218,8 +2218,8 @@
       "activation": 1736825942762
     },
     "6288983017604@s.whatsapp.net": {
-      "exp": 350,
-      "limit": 504,
+      "exp": 484,
+      "limit": 324,
       "registered": false,
       "name": "Rodan Ay",
       "age": -1,
@@ -2241,7 +2241,7 @@
       "lastwork": 1736582059486,
       "lastrob": 1732876806300,
       "lastcommand": 1735962395262,
-      "activation": 1736871116412
+      "activation": 1736901093545
     },
     "6282122917158@s.whatsapp.net": {
       "exp": 477,
@@ -4225,8 +4225,8 @@
       "lastBanned": 0
     },
     "62895369675992@s.whatsapp.net": {
-      "exp": 26660,
-      "limit": 199,
+      "exp": 26687,
+      "limit": 179,
       "registered": false,
       "name": "Dhooozxy",
       "age": -1,
@@ -4246,7 +4246,7 @@
       "lastBanned": 0,
       "lastcommand": 1736698160205,
       "lastdaily": 1734311428833,
-      "activation": 1736896586164
+      "activation": 1736902499653
     },
     "118472612786193_1@s.whatsapp.net": {
       "exp": 8,
@@ -11858,7 +11858,7 @@
       "lastcommand": 1736536075109,
       "lastdaily": 1736693118026,
       "lastwork": 1731937245474,
-      "activation": 1736897392228
+      "activation": 1736902499784
     },
     "248348212785312_1@s.whatsapp.net": {
       "exp": 4,
@@ -98838,8 +98838,8 @@
       "lastBanned": 0
     },
     "62882008294647@s.whatsapp.net": {
-      "exp": 44,
-      "limit": 499,
+      "exp": 116,
+      "limit": 459,
       "registered": false,
       "name": "makhluk ajaib.",
       "age": -1,
@@ -98856,7 +98856,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1736871054501,
+      "activation": 1736902452137,
       "lastBanned": 0,
       "lastcommand": 1736870950984
     },
@@ -108588,10 +108588,10 @@
       "lastSuccess": 1736859051375
     },
     "downloader-tiktok.js": {
-      "total": 2440,
-      "success": 2268,
-      "last": 1736896586164,
-      "lastSuccess": 1736896586164
+      "total": 2443,
+      "success": 2271,
+      "last": 1736902499653,
+      "lastSuccess": 1736902499653
     },
     "owner-sf.js": {
       "total": 1231,
@@ -109068,10 +109068,10 @@
       "lastSuccess": 1736856821712
     },
     "ai-toanime.js": {
-      "total": 121,
-      "success": 116,
-      "last": 1736871116412,
-      "lastSuccess": 1736871116412
+      "total": 127,
+      "success": 122,
+      "last": 1736901093545,
+      "lastSuccess": 1736901093545
     },
     "group-tagadmin.js": {
       "total": 3,
@@ -109254,9 +109254,9 @@
       "lastSuccess": 1735989666545
     },
     "downloader-all.js": {
-      "total": 64,
+      "total": 65,
       "success": 41,
-      "last": 1736856603187,
+      "last": 1736901731332,
       "lastSuccess": 1736856603187
     },
     "sticker-tovideo.js": {
@@ -111195,7 +111195,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736897253612,
+      "backupDB": 1736900719727,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
