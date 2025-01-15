@@ -3880,7 +3880,7 @@
       "activation": 1736893177382
     },
     "62895391855539@s.whatsapp.net": {
-      "exp": 1410,
+      "exp": 1418,
       "limit": 499,
       "registered": false,
       "name": "meii + 52M",
@@ -3899,7 +3899,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1736951261822
+      "activation": 1736965396457
     },
     "120363373915885188@g.us": {
       "exp": 16,
@@ -11114,7 +11114,7 @@
       "activation": 1736841874855
     },
     "6288905972144@s.whatsapp.net": {
-      "exp": 1067,
+      "exp": 1077,
       "limit": 499,
       "registered": false,
       "name": "Rasya",
@@ -11133,7 +11133,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1736959347912
+      "activation": 1736965464556
     },
     "6285606291907@s.whatsapp.net": {
       "exp": 1,
@@ -52137,6 +52137,26 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1736959439636
+    },
+    "232057636667436_1@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1736964314053
     }
   },
   "chats": {
@@ -64350,7 +64370,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736962130534,
+      "backupDB": 1736964313804,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
