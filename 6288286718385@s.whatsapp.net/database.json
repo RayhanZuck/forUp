@@ -11858,7 +11858,7 @@
       "lastcommand": 1736536075109,
       "lastdaily": 1736693118026,
       "lastwork": 1731937245474,
-      "activation": 1736897211713
+      "activation": 1736897392228
     },
     "248348212785312_1@s.whatsapp.net": {
       "exp": 4,
@@ -24606,7 +24606,7 @@
       "premiumTime": 0
     },
     "6281364434575@s.whatsapp.net": {
-      "exp": 24480,
+      "exp": 23480,
       "limit": 986,
       "registered": false,
       "name": "EllAngler",
@@ -59014,7 +59014,7 @@
       "premiumTime": 0
     },
     "6288971815805@s.whatsapp.net": {
-      "exp": 5597,
+      "exp": 6638,
       "limit": 580,
       "registered": false,
       "name": "obscurité",
@@ -59034,9 +59034,9 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastwork": 1736896320184,
-      "activation": 1736897157084,
+      "activation": 1736897379017,
       "lastdaily": 1736752917838,
-      "lastcommand": 1736897018700
+      "lastcommand": "2025-01-14T23:29:45.476Z"
     },
     "125722400174155_1@s.whatsapp.net": {
       "exp": 8,
@@ -99531,7 +99531,7 @@
         "628388144574@s.whatsapp.net": 78,
         "628818691228@s.whatsapp.net": 9943,
         "62881026445984@s.whatsapp.net": 2758,
-        "628812611040@s.whatsapp.net": 13193,
+        "628812611040@s.whatsapp.net": 13195,
         "6285775650917@s.whatsapp.net": 13,
         "6285366436812@s.whatsapp.net": 69,
         "6289520113982@s.whatsapp.net": 46,
@@ -99644,7 +99644,7 @@
         "6289530044085@s.whatsapp.net": 27,
         "923273164574@s.whatsapp.net": 60,
         "6283163782377@s.whatsapp.net": 13,
-        "6288971815805@s.whatsapp.net": 439,
+        "6288971815805@s.whatsapp.net": 470,
         "60177392284@s.whatsapp.net": 227,
         "6281252067374@s.whatsapp.net": 27,
         "6285281879844@s.whatsapp.net": 92,
@@ -111084,10 +111084,10 @@
       "lastSuccess": 1736662516856
     },
     "havefun-fight.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1736405237975,
-      "lastSuccess": 1736405237975
+      "total": 4,
+      "success": 4,
+      "last": 1736897379017,
+      "lastSuccess": 1736897379017
     },
     "havefun-mulung.js": {
       "total": 2,
@@ -111195,7 +111195,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1736895409031,
+      "backupDB": 1736897253612,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
