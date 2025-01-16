@@ -298,7 +298,7 @@
       "lastBanned": 0,
       "lastcommand": 1737038596547,
       "limitprem": 10000,
-      "activation": 1737047649545
+      "activation": 1737052536652
     },
     "62882017032144@s.whatsapp.net": {
       "exp": 110,
@@ -2166,7 +2166,7 @@
       "activation": 1737015732713
     },
     "6287770442352@s.whatsapp.net": {
-      "exp": 2459,
+      "exp": 2461,
       "limit": 499,
       "registered": false,
       "name": "Vika Rf D1",
@@ -2186,7 +2186,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1736351121038,
-      "activation": 1737051052464
+      "activation": 1737054170230
     },
     "6285894170337@s.whatsapp.net": {
       "exp": 719,
@@ -2491,7 +2491,7 @@
       "lastBanned": 0
     },
     "6285716162035@s.whatsapp.net": {
-      "exp": 4599,
+      "exp": 4608,
       "limit": 499,
       "registered": false,
       "name": "Rizqy Al Munawar",
@@ -2511,7 +2511,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1736753836499,
-      "activation": 1737047130240
+      "activation": 1737052537989
     },
     "62895329826296@s.whatsapp.net": {
       "exp": 2,
@@ -53555,6 +53555,26 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0
+    },
+    "49959630065781_1@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1737053973917
     }
   },
   "chats": {
@@ -54795,12 +54815,12 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285716162035@s.whatsapp.net": 19970,
+        "6285716162035@s.whatsapp.net": 19972,
         "628812519561@s.whatsapp.net": 1344,
         "6285777321877@s.whatsapp.net": 2050,
         "6285692802035@s.whatsapp.net": 4582,
         "6288976183791@s.whatsapp.net": 10335,
-        "628811965298@s.whatsapp.net": 2081,
+        "628811965298@s.whatsapp.net": 2082,
         "6285819480851@s.whatsapp.net": 3244,
         "6281400475228@s.whatsapp.net": 245,
         "6285894568605@s.whatsapp.net": 128,
@@ -54811,7 +54831,7 @@
         "6285774666098@s.whatsapp.net": 186,
         "62895326613865@s.whatsapp.net": 62,
         "6281400716824@s.whatsapp.net": 101,
-        "6282210753960@s.whatsapp.net": 1894,
+        "6282210753960@s.whatsapp.net": 1896,
         "6285881335957@s.whatsapp.net": 594,
         "6285813146221@s.whatsapp.net": 146,
         "6283150270153@s.whatsapp.net": 1253,
@@ -66153,7 +66173,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1737050666966,
+      "backupDB": 1737052537649,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
