@@ -206,7 +206,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1737062105969,
+      "activation": 1737064153370,
       "lastBanned": 0
     },
     "6287819353338@s.whatsapp.net": {
@@ -918,7 +918,7 @@
       "activation": 1736989637179
     },
     "6283183028746@s.whatsapp.net": {
-      "exp": 99,
+      "exp": 100,
       "limit": 499,
       "registered": false,
       "name": "𝐿𝑖𝑐𝑖𝑎𝑎𝑓𝑎𝑛𝑦",
@@ -937,7 +937,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1737062925056
+      "activation": 1737063839668
     },
     "6283843766746@s.whatsapp.net": {
       "exp": 398,
@@ -13688,19 +13688,19 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6287870743464@s.whatsapp.net": 43,
-        "6288239264935@s.whatsapp.net": 81,
-        "6283183028746@s.whatsapp.net": 270,
-        "6285281879844@s.whatsapp.net": 40,
-        "628567407966@s.whatsapp.net": 51,
-        "6285641912863@s.whatsapp.net": 99,
-        "6281228344290@s.whatsapp.net": 29,
-        "6281387937464@s.whatsapp.net": 28,
-        "6281573733229@s.whatsapp.net": 15,
-        "6288905575718@s.whatsapp.net": 6,
-        "6281229705472@s.whatsapp.net": 4,
-        "6283852218725@s.whatsapp.net": 3,
-        "6289675773136@s.whatsapp.net": 1
+        "6287870743464@s.whatsapp.net": 44,
+        "6288239264935@s.whatsapp.net": 83,
+        "6283183028746@s.whatsapp.net": 280,
+        "6285281879844@s.whatsapp.net": 41,
+        "628567407966@s.whatsapp.net": 53,
+        "6285641912863@s.whatsapp.net": 102,
+        "6281228344290@s.whatsapp.net": 30,
+        "6281387937464@s.whatsapp.net": 29,
+        "6281573733229@s.whatsapp.net": 16,
+        "6288905575718@s.whatsapp.net": 7,
+        "6281229705472@s.whatsapp.net": 5,
+        "6283852218725@s.whatsapp.net": 4,
+        "6289675773136@s.whatsapp.net": 2
       },
       "totalChat": 0
     },
@@ -14465,7 +14465,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1737061775372,
+      "backupDB": 1737063839360,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
