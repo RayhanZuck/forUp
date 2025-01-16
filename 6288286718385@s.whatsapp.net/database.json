@@ -3327,8 +3327,8 @@
       "activation": 1736924308992
     },
     "6283897914923@s.whatsapp.net": {
-      "exp": 12732,
-      "limit": 69,
+      "exp": 12785,
+      "limit": 29,
       "registered": false,
       "name": "Izyy_izumi",
       "age": -1,
@@ -3348,7 +3348,7 @@
       "lastBanned": 0,
       "lastcommand": 1736416008796,
       "lastdaily": 1734149277220,
-      "activation": 1736944498306
+      "activation": 1737069281323
     },
     "6285856214288@s.whatsapp.net": {
       "exp": 2282,
@@ -11851,7 +11851,7 @@
       "lastdaily": 1733495894416
     },
     "6288286718385@s.whatsapp.net": {
-      "exp": 3662,
+      "exp": 3682,
       "limit": 1038,
       "registered": false,
       "name": "efata.",
@@ -11873,7 +11873,7 @@
       "lastcommand": 1737055316182,
       "lastdaily": 1736693118026,
       "lastwork": 1731937245474,
-      "activation": 1737067499654
+      "activation": 1737070504654
     },
     "248348212785312_1@s.whatsapp.net": {
       "exp": 4,
@@ -103762,7 +103762,8 @@
       "game": true,
       "teks": true,
       "autolevelup": true,
-      "expired": 0
+      "expired": 0,
+      "detekporn": true
     },
     "6282223286962@s.whatsapp.net": {
       "isBanned": false,
@@ -111109,10 +111110,10 @@
       "lastSuccess": 1736580831038
     },
     "tools-lyrics.js": {
-      "total": 178,
-      "success": 177,
-      "last": 1736826807705,
-      "lastSuccess": 1736826807705
+      "total": 180,
+      "success": 179,
+      "last": 1737069281323,
+      "lastSuccess": 1737069281323
     },
     "downloader-spotify.js": {
       "total": 283,
@@ -113224,7 +113225,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1737066009920,
+      "backupDB": 1737069249309,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
