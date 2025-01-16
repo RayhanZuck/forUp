@@ -11851,7 +11851,7 @@
       "lastdaily": 1733495894416
     },
     "6288286718385@s.whatsapp.net": {
-      "exp": 3520,
+      "exp": 3539,
       "limit": 1038,
       "registered": false,
       "name": "efata.",
@@ -11873,7 +11873,7 @@
       "lastcommand": 1737055316182,
       "lastdaily": 1736693118026,
       "lastwork": 1731937245474,
-      "activation": 1737055332642
+      "activation": 1737058493159
     },
     "248348212785312_1@s.whatsapp.net": {
       "exp": 4,
@@ -100863,6 +100863,26 @@
       "premiumTime": 0,
       "activation": 1737055147851,
       "lastBanned": 0
+    },
+    "39874979725447_1@s.whatsapp.net": {
+      "exp": 7,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1737057728488
     }
   },
   "chats": {
@@ -113139,7 +113159,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1737053972480,
+      "backupDB": 1737057384457,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
