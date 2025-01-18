@@ -38027,7 +38027,7 @@
       "lastBanned": 0
     },
     "6283167104760@s.whatsapp.net": {
-      "exp": 6,
+      "exp": 12,
       "limit": 499,
       "registered": false,
       "name": "Andrean!!",
@@ -38045,7 +38045,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "lastBanned": 0
+      "lastBanned": 0,
+      "activation": 1737173944531
     },
     "6287781120455@s.whatsapp.net": {
       "exp": 17,
@@ -102240,8 +102241,8 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285766064200@s.whatsapp.net": 208,
-        "6287844407377@s.whatsapp.net": 48
+        "6285766064200@s.whatsapp.net": 209,
+        "6287844407377@s.whatsapp.net": 50
       },
       "totalChat": 0,
       "acc": false,
@@ -113851,7 +113852,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1737171716311,
+      "backupDB": 1737173944098,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
