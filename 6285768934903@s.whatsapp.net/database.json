@@ -185,7 +185,7 @@
       "activation": 1737159395308
     },
     "120363240711248334@g.us": {
-      "exp": 5515,
+      "exp": 5524,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -204,7 +204,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1737158758987
+      "activation": 1737162701931
     },
     "62882003784627@s.whatsapp.net": {
       "exp": 12,
@@ -1066,7 +1066,7 @@
       "activation": 1736937894514
     },
     "120363280765137622@g.us": {
-      "exp": 8633,
+      "exp": 8645,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1085,7 +1085,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1737089589732
+      "activation": 1737162701986
     },
     "6283119901412@s.whatsapp.net": {
       "exp": 16320,
@@ -98254,7 +98254,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1737159395360,
+      "activation": 1737162704471,
       "lastBanned": 0
     },
     "6285259317963@s.whatsapp.net": {
@@ -101283,6 +101283,69 @@
       "premiumTime": 0,
       "activation": 1737159018079,
       "lastBanned": 0
+    },
+    "601129266738@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 499,
+      "registered": false,
+      "name": "+60 11-2926 6738",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1737161707652
+    },
+    "6288246320648@s.whatsapp.net": {
+      "exp": 7,
+      "limit": 499,
+      "registered": false,
+      "name": "~zuri_ X.5 丁禹兮•`",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1737162799538
+    },
+    "6288706354581@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 887-0635-4581",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1737163161026
     }
   },
   "chats": {
@@ -101683,7 +101746,7 @@
         "6282179477450@s.whatsapp.net": 81,
         "6288225432435@s.whatsapp.net": 397,
         "6281258193521@s.whatsapp.net": 30,
-        "6285766064200@s.whatsapp.net": 2247,
+        "6285766064200@s.whatsapp.net": 2261,
         "6282143175110@s.whatsapp.net": 1041,
         "6289660958090@s.whatsapp.net": 809,
         "6285822798934@s.whatsapp.net": 250,
@@ -101865,7 +101928,7 @@
         "6283878637171@s.whatsapp.net": 48,
         "6285713064125@s.whatsapp.net": 62,
         "6285856214288@s.whatsapp.net": 93,
-        "6283863707968@s.whatsapp.net": 468,
+        "6283863707968@s.whatsapp.net": 476,
         "62882005413888@s.whatsapp.net": 11
       },
       "totalChat": 0,
@@ -102060,8 +102123,8 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285766064200@s.whatsapp.net": 197,
-        "6287844407377@s.whatsapp.net": 26
+        "6285766064200@s.whatsapp.net": 201,
+        "6287844407377@s.whatsapp.net": 34
       },
       "totalChat": 0,
       "acc": false,
@@ -113669,7 +113732,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1737159016929,
+      "backupDB": 1737161707381,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
