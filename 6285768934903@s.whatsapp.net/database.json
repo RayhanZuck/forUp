@@ -89,7 +89,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 7731,
+      "exp": 7774,
       "limit": 0,
       "registered": false,
       "name": "Rayhan?",
@@ -116,7 +116,7 @@
       "lastrob": 1734752367160,
       "resetSent": true,
       "delay": 1735728719020,
-      "activation": 1737181013530
+      "activation": 1737183711931
     },
     "6289512651656@s.whatsapp.net": {
       "exp": 7,
@@ -163,7 +163,7 @@
       "lastcommand": 1735076311886
     },
     "120363183420865643@g.us": {
-      "exp": 7085,
+      "exp": 7095,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -182,7 +182,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1737181564369
+      "activation": 1737183102358
     },
     "120363240711248334@g.us": {
       "exp": 5551,
@@ -1066,7 +1066,7 @@
       "activation": 1736937894514
     },
     "120363280765137622@g.us": {
-      "exp": 8678,
+      "exp": 8682,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1085,7 +1085,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1737181564576
+      "activation": 1737183102399
     },
     "6283119901412@s.whatsapp.net": {
       "exp": 16320,
@@ -1485,8 +1485,8 @@
       "activation": 1736726908887
     },
     "6283822760236@s.whatsapp.net": {
-      "exp": 507,
-      "limit": 2601,
+      "exp": 530,
+      "limit": 2576,
       "registered": false,
       "name": "ᥫ᭡𔔁𔘓﹏𝙵𝙰𝙽𝙸﹏𔘓𔔁ᥫ",
       "age": -1,
@@ -1508,7 +1508,7 @@
       "lastcommand": 1737087161811,
       "lastwork": 1736675567855,
       "lastrob": 1734943533343,
-      "activation": 1737087808121
+      "activation": 1737184884053
     },
     "6288210170915@s.whatsapp.net": {
       "exp": 3196,
@@ -98260,7 +98260,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1737181564849,
+      "activation": 1737184884073,
       "lastBanned": 0
     },
     "6285259317963@s.whatsapp.net": {
@@ -101526,6 +101526,28 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1737182131593
+    },
+    "6282170806931@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 821-7080-6931",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0,
+      "activation": 1737183186731
     }
   },
   "chats": {
@@ -101669,7 +101691,7 @@
         "6287761263814@s.whatsapp.net": 830,
         "62882007880538@s.whatsapp.net": 220,
         "6287731548171@s.whatsapp.net": 123,
-        "6285766064200@s.whatsapp.net": 5089,
+        "6285766064200@s.whatsapp.net": 5097,
         "6285394495227@s.whatsapp.net": 2502,
         "6285720973051@s.whatsapp.net": 18461,
         "6283822760236@s.whatsapp.net": 2691,
@@ -101885,7 +101907,7 @@
         "6283197630692@s.whatsapp.net": 38,
         "6285811149291@s.whatsapp.net": 177,
         "6287863788900@s.whatsapp.net": 905,
-        "6287751753538@s.whatsapp.net": 22
+        "6287751753538@s.whatsapp.net": 30
       },
       "totalChat": 0,
       "acc": false,
@@ -111293,10 +111315,10 @@
       "lastSuccess": 1737180197138
     },
     "downloader-play.js": {
-      "total": 2655,
-      "success": 2486,
-      "last": 1737178271652,
-      "lastSuccess": 1737178271652
+      "total": 2656,
+      "success": 2487,
+      "last": 1737184884053,
+      "lastSuccess": 1737184884053
     },
     "downloader-ytvideo.js": {
       "total": 147,
@@ -111455,10 +111477,10 @@
       "lastSuccess": 1737157851063
     },
     "enable.js": {
-      "total": 124,
-      "success": 59,
-      "last": 1737158002208,
-      "lastSuccess": 1737158002208
+      "total": 126,
+      "success": 61,
+      "last": 1737183711931,
+      "lastSuccess": 1737183711931
     },
     "owner-addsewa.js": {
       "total": 7,
@@ -113927,7 +113949,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1737180376261,
+      "backupDB": 1737183101599,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
