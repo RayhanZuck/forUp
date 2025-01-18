@@ -98278,7 +98278,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1737219644538,
+      "activation": 1737222308804,
       "lastBanned": 0
     },
     "6285259317963@s.whatsapp.net": {
@@ -99086,8 +99086,8 @@
       "activation": 1736877289180
     },
     "62881024295546@s.whatsapp.net": {
-      "exp": 348,
-      "limit": 399,
+      "exp": 480,
+      "limit": 319,
       "registered": false,
       "name": "Gorgeus😌",
       "age": -1,
@@ -99104,7 +99104,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1737201774288,
+      "activation": 1737222309048,
       "lastBanned": 0,
       "lastcommand": 1737201767476
     },
@@ -112127,9 +112127,9 @@
       "lastSuccess": 1735989666545
     },
     "downloader-all.js": {
-      "total": 71,
+      "total": 72,
       "success": 41,
-      "last": 1737212208972,
+      "last": 1737222229877,
       "lastSuccess": 1736856603187
     },
     "sticker-tovideo.js": {
@@ -112145,10 +112145,10 @@
       "lastSuccess": 1733233830291
     },
     "downloader-facebook.js": {
-      "total": 57,
-      "success": 35,
-      "last": 1736965963282,
-      "lastSuccess": 1736963934788
+      "total": 61,
+      "success": 39,
+      "last": 1737222047061,
+      "lastSuccess": 1737222047061
     },
     "tool-bgcolor.js": {
       "total": 7,
@@ -113897,10 +113897,10 @@
       "lastSuccess": 1737178846185
     },
     "main-creator.js": {
-      "total": 6,
-      "success": 6,
-      "last": 1736869900562,
-      "lastSuccess": 1736869900562
+      "total": 7,
+      "success": 7,
+      "last": 1737222309048,
+      "lastSuccess": 1737222309048
     },
     "audio-vnzeta.js": {
       "total": 2,
@@ -114057,6 +114057,12 @@
       "success": 2,
       "last": 1737177943921,
       "lastSuccess": 1737177943921
+    },
+    "downloader-terabox.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1737222196178,
+      "lastSuccess": 1737222196178
     }
   },
   "msgs": {},
@@ -114107,7 +114113,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1737218646012,
+      "backupDB": 1737220901602,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
