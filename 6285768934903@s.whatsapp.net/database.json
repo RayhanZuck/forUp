@@ -89,7 +89,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 8328,
+      "exp": 8378,
       "limit": 0,
       "registered": false,
       "name": "Rayhan?",
@@ -116,7 +116,7 @@
       "lastrob": 1734752367160,
       "resetSent": true,
       "delay": 1735728719020,
-      "activation": 1737212062769
+      "activation": 1737243034210
     },
     "6289512651656@s.whatsapp.net": {
       "exp": 7,
@@ -5551,8 +5551,8 @@
       "premiumTime": 0
     },
     "919863871445@s.whatsapp.net": {
-      "exp": 81654,
-      "limit": 634,
+      "exp": 85762,
+      "limit": 884,
       "registered": false,
       "name": "Asahi.",
       "age": -1,
@@ -5565,13 +5565,13 @@
       "role": "Beginner",
       "BannedReason": "",
       "WarnReason": "",
-      "lastweekly": 1736577509272,
+      "lastweekly": 1737242145035,
       "lastmonthly": 1732977482524,
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastdaily": 1736842305221,
-      "activation": 1737022537962
+      "lastdaily": 1737242138671,
+      "activation": 1737243207402
     },
     "54396297711823_1@s.whatsapp.net": {
       "exp": 4,
@@ -51175,7 +51175,7 @@
       "lastBanned": 0
     },
     "62895321416887@s.whatsapp.net": {
-      "exp": 10,
+      "exp": 20,
       "limit": 499,
       "registered": false,
       "name": "ikky soft softex",
@@ -51191,9 +51191,10 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "lastBanned": 0
+      "lastBanned": 0,
+      "activation": 1737241607606
     },
     "6285184520290@s.whatsapp.net": {
       "exp": 16,
@@ -98278,7 +98279,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1737237711762,
+      "activation": 1737243207418,
       "lastBanned": 0
     },
     "6285259317963@s.whatsapp.net": {
@@ -111506,10 +111507,10 @@
       "lastSuccess": 1737085057294
     },
     "sticker-sticker.js": {
-      "total": 1146,
-      "success": 998,
-      "last": 1737210890265,
-      "lastSuccess": 1737208646203
+      "total": 1147,
+      "success": 999,
+      "last": 1737242164073,
+      "lastSuccess": 1737242164073
     },
     "sticker-toimg.js": {
       "total": 114,
@@ -111626,10 +111627,10 @@
       "lastSuccess": 1735826605203
     },
     "ai-remini.js": {
-      "total": 1241,
-      "success": 1173,
-      "last": 1737210898750,
-      "lastSuccess": 1737210898750
+      "total": 1243,
+      "success": 1175,
+      "last": 1737243207402,
+      "lastSuccess": 1737243207402
     },
     "game-tebakbendera.js": {
       "total": 463,
@@ -113822,10 +113823,10 @@
       "lastSuccess": 1735980428380
     },
     "havefun-claim.js": {
-      "total": 438,
-      "success": 287,
-      "last": 1737235878889,
-      "lastSuccess": 1737210028836
+      "total": 440,
+      "success": 289,
+      "last": 1737242145035,
+      "lastSuccess": 1737242145035
     },
     "user-limit.js": {
       "total": 96,
@@ -113990,10 +113991,10 @@
       "lastSuccess": 1736435611229
     },
     "dlup.js": {
-      "total": 47,
-      "success": 42,
-      "last": 1737209687702,
-      "lastSuccess": 1737209687702
+      "total": 49,
+      "success": 44,
+      "last": 1737243034210,
+      "lastSuccess": 1737243034210
     },
     "group-ceksewa.js": {
       "total": 2,
@@ -114134,7 +114135,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1737235878536,
+      "backupDB": 1737241607376,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
