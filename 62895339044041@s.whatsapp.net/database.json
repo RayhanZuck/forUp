@@ -298,7 +298,7 @@
       "lastBanned": 0,
       "lastcommand": 1737295068318,
       "limitprem": 10000,
-      "activation": 1737317510299,
+      "activation": 1737321366916,
       "warn": 2
     },
     "62882017032144@s.whatsapp.net": {
@@ -2292,7 +2292,7 @@
       "activation": 1737296327673
     },
     "6285716205495@s.whatsapp.net": {
-      "exp": 397,
+      "exp": 404,
       "limit": 499,
       "registered": false,
       "name": "Mputtt",
@@ -2311,7 +2311,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1737299302344
+      "activation": 1737321271896
     },
     "6285157861663@s.whatsapp.net": {
       "exp": 1767,
@@ -4029,7 +4029,7 @@
       "lastcommand": 1737105396208
     },
     "6281285597338@s.whatsapp.net": {
-      "exp": 6424,
+      "exp": 6444,
       "limit": 499,
       "registered": false,
       "name": "Dragon_cc2039511",
@@ -4049,7 +4049,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1736571544783,
-      "activation": 1737301246564
+      "activation": 1737322974284
     },
     "6285692655108@s.whatsapp.net": {
       "exp": 2043,
@@ -8698,7 +8698,7 @@
       "activation": 1737042959727
     },
     "6281400520452@s.whatsapp.net": {
-      "exp": 1925,
+      "exp": 1927,
       "limit": 499,
       "registered": false,
       "name": "Mas Fadil",
@@ -8717,7 +8717,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1737313635880
+      "activation": 1737321268513
     },
     "6283857563054@s.whatsapp.net": {
       "exp": 437,
@@ -65326,6 +65326,27 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1737317511506
+    },
+    "6282162725406@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 821-6272-5406",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1737321365476
     }
   },
   "chats": {
@@ -66074,7 +66095,7 @@
         "6282329546871@s.whatsapp.net": 350,
         "6281288813850@s.whatsapp.net": 13,
         "6285975197905@s.whatsapp.net": 52,
-        "6281400520452@s.whatsapp.net": 2482,
+        "6281400520452@s.whatsapp.net": 2484,
         "628561228984@s.whatsapp.net": 1100,
         "6289515073637@s.whatsapp.net": 1109,
         "6281358442194@s.whatsapp.net": 1312,
@@ -79345,7 +79366,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1737317511303,
+      "backupDB": 1737321267051,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
