@@ -89,7 +89,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 8378,
+      "exp": 8772,
       "limit": 0,
       "registered": false,
       "name": "Rayhan?",
@@ -116,7 +116,7 @@
       "lastrob": 1734752367160,
       "resetSent": true,
       "delay": 1735728719020,
-      "activation": 1737243034210
+      "activation": 1737244774344
     },
     "6289512651656@s.whatsapp.net": {
       "exp": 7,
@@ -98279,7 +98279,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1737243207418,
+      "activation": 1737244774559,
       "lastBanned": 0
     },
     "6285259317963@s.whatsapp.net": {
@@ -111669,10 +111669,10 @@
       "lastSuccess": 1733746613154
     },
     "internet-fetch.js": {
-      "total": 239,
-      "success": 215,
-      "last": 1737188799532,
-      "lastSuccess": 1737188799532
+      "total": 241,
+      "success": 217,
+      "last": 1737244745754,
+      "lastSuccess": 1737244745754
     },
     "info-payment.js": {
       "total": 53,
@@ -111741,10 +111741,10 @@
       "lastSuccess": 1737025261801
     },
     "owner-exec.js": {
-      "total": 490,
-      "success": 490,
-      "last": 1737157401925,
-      "lastSuccess": 1737157401925
+      "total": 492,
+      "success": 492,
+      "last": 1737244481497,
+      "lastSuccess": 1737244481497
     },
     "downloader-ytmp3.js": {
       "total": 228,
@@ -112695,9 +112695,9 @@
       "lastSuccess": 1736571567621
     },
     "tool-cekresolution.js": {
-      "total": 8,
+      "total": 9,
       "success": 3,
-      "last": 1731254257469,
+      "last": 1737244774344,
       "lastSuccess": 1731254257469
     },
     "tool-run.js": {
@@ -113781,10 +113781,10 @@
       "lastSuccess": 1735605563000
     },
     "tools-catbox.js": {
-      "total": 25,
-      "success": 12,
-      "last": 1735566574176,
-      "lastSuccess": 1735566574176
+      "total": 29,
+      "success": 16,
+      "last": 1737244755417,
+      "lastSuccess": 1737244755417
     },
     "tools-uptogh.js": {
       "total": 3,
@@ -113991,10 +113991,10 @@
       "lastSuccess": 1736435611229
     },
     "dlup.js": {
-      "total": 49,
-      "success": 44,
-      "last": 1737243034210,
-      "lastSuccess": 1737243034210
+      "total": 57,
+      "success": 52,
+      "last": 1737244688092,
+      "lastSuccess": 1737244688092
     },
     "group-ceksewa.js": {
       "total": 2,
@@ -114135,7 +114135,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1737241607376,
+      "backupDB": 1737243823006,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
