@@ -50145,7 +50145,7 @@
       "activation": 1737041459348
     },
     "6281275631788@s.whatsapp.net": {
-      "exp": 5,
+      "exp": 15,
       "limit": 499,
       "registered": false,
       "name": "Bang Manurung",
@@ -50162,7 +50162,9 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": true,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0,
+      "activation": 1737317509953
     },
     "6283191405601@s.whatsapp.net": {
       "exp": 10,
@@ -114530,7 +114532,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1737307222314,
+      "backupDB": 1737317509582,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
