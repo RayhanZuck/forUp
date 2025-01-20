@@ -91588,8 +91588,8 @@
       "activation": 1737040126825
     },
     "6285668809908@s.whatsapp.net": {
-      "exp": 459,
-      "limit": 369,
+      "exp": 484,
+      "limit": 349,
       "registered": false,
       "name": "cyn",
       "age": -1,
@@ -91608,7 +91608,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1736219676022,
-      "activation": 1737280332923
+      "activation": 1737336265216
     },
     "6283857440966@s.whatsapp.net": {
       "exp": 64,
@@ -98309,7 +98309,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1737335151026,
+      "activation": 1737336265705,
       "lastBanned": 0
     },
     "6285259317963@s.whatsapp.net": {
@@ -111960,10 +111960,10 @@
       "lastSuccess": 1737297983795
     },
     "downloader-tiktok.js": {
-      "total": 2575,
-      "success": 2397,
-      "last": 1737327905710,
-      "lastSuccess": 1737327905710
+      "total": 2576,
+      "success": 2398,
+      "last": 1737336265216,
+      "lastSuccess": 1737336265216
     },
     "owner-sf.js": {
       "total": 1261,
@@ -114624,7 +114624,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1737334166207,
+      "backupDB": 1737336258442,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
