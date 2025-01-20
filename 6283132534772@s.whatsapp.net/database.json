@@ -32688,7 +32688,7 @@
       "activation": 1737348616786
     },
     "6285809105779@s.whatsapp.net": {
-      "exp": 6,
+      "exp": 10,
       "limit": 499,
       "registered": false,
       "name": "PetaniRPG",
@@ -32706,7 +32706,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1737373406264,
+      "activation": 1737400372669,
       "lastBanned": 0
     },
     "6281255983695@s.whatsapp.net": {
@@ -37123,7 +37123,7 @@
         "6281549020977@s.whatsapp.net": 67,
         "62856964114696@s.whatsapp.net": 141,
         "6282173356345@s.whatsapp.net": 65,
-        "628983602080@s.whatsapp.net": 479,
+        "628983602080@s.whatsapp.net": 480,
         "6285768289549@s.whatsapp.net": 84,
         "628977425218@s.whatsapp.net": 58,
         "6281362692268@s.whatsapp.net": 94,
@@ -37136,8 +37136,8 @@
         "6283829386332@s.whatsapp.net": 103,
         "628990840917@s.whatsapp.net": 181,
         "6282113460491@s.whatsapp.net": 38,
-        "6287847107229@s.whatsapp.net": 1295,
-        "6285134817030@s.whatsapp.net": 167,
+        "6287847107229@s.whatsapp.net": 1317,
+        "6285134817030@s.whatsapp.net": 168,
         "6283143565732@s.whatsapp.net": 60,
         "628156127579@s.whatsapp.net": 99,
         "6281217445584@s.whatsapp.net": 26,
@@ -37148,16 +37148,16 @@
         "6282245950862@s.whatsapp.net": 44,
         "6282114153755@s.whatsapp.net": 42,
         "6282249891920@s.whatsapp.net": 85,
-        "6283866985785@s.whatsapp.net": 90,
+        "6283866985785@s.whatsapp.net": 92,
         "6283824981882@s.whatsapp.net": 43,
         "6285795051117@s.whatsapp.net": 31,
-        "6285809105779@s.whatsapp.net": 52,
+        "6285809105779@s.whatsapp.net": 54,
         "6287795530631@s.whatsapp.net": 53,
-        "6281227866474@s.whatsapp.net": 36,
+        "6281227866474@s.whatsapp.net": 37,
         "6281260278882@s.whatsapp.net": 16,
         "6287749549798@s.whatsapp.net": 15,
-        "6285282917356@s.whatsapp.net": 44,
-        "6287717842466@s.whatsapp.net": 18
+        "6285282917356@s.whatsapp.net": 46,
+        "6287717842466@s.whatsapp.net": 19
       },
       "totalChat": 0
     },
@@ -38946,7 +38946,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1737396142663,
+      "backupDB": 1737400372071,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
