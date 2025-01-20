@@ -98330,7 +98330,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1737393836352,
+      "activation": 1737395893039,
       "lastBanned": 0
     },
     "6285259317963@s.whatsapp.net": {
@@ -102383,8 +102383,8 @@
       "lastcommand": 1737372630491
     },
     "6287842322204@s.whatsapp.net": {
-      "exp": 23604,
-      "limit": 692,
+      "exp": 23723,
+      "limit": 667,
       "registered": false,
       "name": "pungg",
       "age": -1,
@@ -102401,10 +102401,10 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1737381230394,
+      "activation": 1737395893023,
       "lastBanned": 0,
       "lastwork": 1737378643857,
-      "lastcommand": 1737380980906
+      "lastcommand": 1737395622894
     },
     "6282110156018@s.whatsapp.net": {
       "exp": 0,
@@ -102490,6 +102490,27 @@
       "premiumTime": 0,
       "activation": 1737393848817,
       "lastBanned": 0
+    },
+    "6285270927280@s.whatsapp.net": {
+      "exp": 7,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 852-7092-7280",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1737396021719
     }
   },
   "chats": {
@@ -112474,10 +112495,10 @@
       "lastSuccess": 1735826605203
     },
     "ai-remini.js": {
-      "total": 1275,
-      "success": 1205,
-      "last": 1737380698464,
-      "lastSuccess": 1737380698464
+      "total": 1276,
+      "success": 1206,
+      "last": 1737395893023,
+      "lastSuccess": 1737395893023
     },
     "game-tebakbendera.js": {
       "total": 475,
@@ -112600,10 +112621,10 @@
       "lastSuccess": 1737376508359
     },
     "_rayhan-menu.js": {
-      "total": 783,
-      "success": 742,
-      "last": 1737380993524,
-      "lastSuccess": 1737380993524
+      "total": 784,
+      "success": 743,
+      "last": 1737395539012,
+      "lastSuccess": 1737395539012
     },
     "downloader-ytvideo2.js": {
       "total": 4,
@@ -112966,10 +112987,10 @@
       "lastSuccess": 1736773998734
     },
     "_rayhan-allmenu.js": {
-      "total": 305,
-      "success": 297,
-      "last": 1737384256637,
-      "lastSuccess": 1737384256637
+      "total": 308,
+      "success": 300,
+      "last": 1737395634944,
+      "lastSuccess": 1737395634944
     },
     "ai-ailogo.js": {
       "total": 21,
@@ -115012,7 +115033,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1737393665220,
+      "backupDB": 1737395524016,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
