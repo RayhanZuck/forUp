@@ -5563,8 +5563,8 @@
       "premiumTime": 0
     },
     "919863871445@s.whatsapp.net": {
-      "exp": 87871,
-      "limit": 924,
+      "exp": 87917,
+      "limit": 884,
       "registered": false,
       "name": "Asahi.",
       "age": -1,
@@ -5583,7 +5583,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastdaily": 1737477022671,
-      "activation": 1737477074996
+      "activation": 1737480356126
     },
     "54396297711823_1@s.whatsapp.net": {
       "exp": 4,
@@ -97270,7 +97270,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastdaily": 1737210028836,
-      "activation": 1737388161864,
+      "activation": 1737489830265,
       "lastcommand": 1737212139342
     },
     "62882002645163@s.whatsapp.net": {
@@ -98353,7 +98353,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1737477049816,
+      "activation": 1737487808838,
       "lastBanned": 0
     },
     "6285259317963@s.whatsapp.net": {
@@ -113007,10 +113007,10 @@
       "lastSuccess": 1737435406310
     },
     "downloader-tiktok.js": {
-      "total": 2614,
-      "success": 2435,
-      "last": 1737477049049,
-      "lastSuccess": 1737477049049
+      "total": 2616,
+      "success": 2437,
+      "last": 1737480296784,
+      "lastSuccess": 1737480296784
     },
     "owner-sf.js": {
       "total": 1269,
@@ -115701,7 +115701,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1737477022215,
+      "backupDB": 1737479725140,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
