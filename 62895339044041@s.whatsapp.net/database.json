@@ -298,7 +298,7 @@
       "lastBanned": 0,
       "lastcommand": 1737462999331,
       "limitprem": 10000,
-      "activation": 1737483758379,
+      "activation": 1737490927934,
       "warn": 6
     },
     "62882017032144@s.whatsapp.net": {
@@ -4041,7 +4041,7 @@
       "lastcommand": 1737105396208
     },
     "6281285597338@s.whatsapp.net": {
-      "exp": 6633,
+      "exp": 6643,
       "limit": 499,
       "registered": false,
       "name": "Dragon_cc2039511",
@@ -4061,7 +4061,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1736571544783,
-      "activation": 1737452805707
+      "activation": 1737491191551
     },
     "6285692655108@s.whatsapp.net": {
       "exp": 2044,
@@ -50451,7 +50451,7 @@
       "activation": 1736865850601
     },
     "62882000059006@s.whatsapp.net": {
-      "exp": 412,
+      "exp": 457,
       "limit": 299,
       "registered": false,
       "name": "Van",
@@ -50470,7 +50470,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1737388236497
+      "activation": 1737489645731
     },
     "6283846829169@s.whatsapp.net": {
       "exp": 116,
@@ -68975,7 +68975,7 @@
       "lastBanned": 0
     },
     "60183249535@s.whatsapp.net": {
-      "exp": 12,
+      "exp": 20,
       "limit": 499,
       "registered": false,
       "name": "TIRZ PANDA🐼🐼",
@@ -68993,7 +68993,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1737476296123,
+      "activation": 1737490926491,
       "lastBanned": 0
     },
     "224476901937303_1@s.whatsapp.net": {
@@ -69652,14 +69652,14 @@
         "6285784705654@s.whatsapp.net": 1828,
         "6283811712415@s.whatsapp.net": 241,
         "6288226518192@s.whatsapp.net": 280,
-        "6289677684623@s.whatsapp.net": 258,
+        "6289677684623@s.whatsapp.net": 260,
         "6285857191775@s.whatsapp.net": 10,
         "628817691749@s.whatsapp.net": 140,
         "6285819585136@s.whatsapp.net": 155,
         "6288975924996@s.whatsapp.net": 66,
-        "60183249535@s.whatsapp.net": 46,
+        "60183249535@s.whatsapp.net": 52,
         "628812308643@s.whatsapp.net": 92,
-        "6281945950501@s.whatsapp.net": 1073,
+        "6281945950501@s.whatsapp.net": 1089,
         "6285697742447@s.whatsapp.net": 120,
         "6287736900075@s.whatsapp.net": 564,
         "6283865032907@s.whatsapp.net": 3517,
@@ -69673,7 +69673,7 @@
         "6281318914487@s.whatsapp.net": 1986,
         "6283142060225@s.whatsapp.net": 321,
         "6281257202884@s.whatsapp.net": 286,
-        "6282249985703@s.whatsapp.net": 456,
+        "6282249985703@s.whatsapp.net": 460,
         "6282242496301@s.whatsapp.net": 125,
         "6285189709483@s.whatsapp.net": 29,
         "6289510265750@s.whatsapp.net": 74,
@@ -82787,10 +82787,10 @@
       "lastSuccess": 1737398673968
     },
     "downloader-all.js": {
-      "total": 10,
-      "success": 4,
-      "last": 1737031036919,
-      "lastSuccess": 1737031036919
+      "total": 11,
+      "success": 5,
+      "last": 1737489645731,
+      "lastSuccess": 1737489645731
     },
     "downloader-tiktok.js": {
       "total": 189,
@@ -83742,7 +83742,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1737487543217,
+      "backupDB": 1737489622211,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
