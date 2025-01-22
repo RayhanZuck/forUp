@@ -12562,8 +12562,8 @@
       "lastcommand": 1731472269564
     },
     "6281958351619@s.whatsapp.net": {
-      "exp": 18142,
-      "limit": 50,
+      "exp": 18164,
+      "limit": 30,
       "registered": false,
       "name": "kaAll",
       "age": -1,
@@ -12585,7 +12585,7 @@
       "lastdaily": 1736687584665,
       "lastwork": 1734788333153,
       "lastrob": 1734788194552,
-      "activation": 1737530807596
+      "activation": 1737581649561
     },
     "6289506041099@s.whatsapp.net": {
       "exp": 13,
@@ -98372,7 +98372,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1737581259744,
+      "activation": 1737581650090,
       "lastBanned": 0
     },
     "6285259317963@s.whatsapp.net": {
@@ -113666,10 +113666,10 @@
       "lastSuccess": 1737552085774
     },
     "downloader-tiktok.js": {
-      "total": 2641,
-      "success": 2461,
-      "last": 1737558824160,
-      "lastSuccess": 1737558821561
+      "total": 2642,
+      "success": 2462,
+      "last": 1737581649561,
+      "lastSuccess": 1737581649561
     },
     "owner-sf.js": {
       "total": 1275,
@@ -116366,7 +116366,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1737578506853,
+      "backupDB": 1737581643623,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
