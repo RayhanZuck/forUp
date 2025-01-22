@@ -27439,8 +27439,8 @@
       "premiumTime": 0
     },
     "62881011977798@s.whatsapp.net": {
-      "exp": 4606,
-      "limit": 163,
+      "exp": 4649,
+      "limit": 113,
       "registered": false,
       "name": ".",
       "age": -1,
@@ -27460,7 +27460,7 @@
       "lastBanned": 0,
       "lastdaily": 1732721031371,
       "lastcommand": 1734109495031,
-      "activation": 1737535735064
+      "activation": 1737573788100
     },
     "80354727702546_1@s.whatsapp.net": {
       "exp": 1,
@@ -97654,7 +97654,7 @@
       "activation": 1736736833674
     },
     "6285945503757@s.whatsapp.net": {
-      "exp": 56544,
+      "exp": 60100,
       "limit": 1048,
       "registered": false,
       "name": "Istrii Sah Ultramen 🧑‍🦲🤫🧏‍♀️😾😏",
@@ -97672,7 +97672,7 @@
       "lastmonthly": 1737542697486,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1737552423472,
+      "activation": 1737573471836,
       "lastBanned": 0,
       "lastdaily": 1737542682387,
       "lastcommand": 1737552414050,
@@ -98370,7 +98370,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1737572375976,
+      "activation": 1737573788108,
       "lastBanned": 0
     },
     "6285259317963@s.whatsapp.net": {
@@ -103849,7 +103849,7 @@
         "6287862112981@s.whatsapp.net": 303,
         "6282143175110@s.whatsapp.net": 1467,
         "6285961457520@s.whatsapp.net": 270,
-        "62882006212609@s.whatsapp.net": 4161,
+        "62882006212609@s.whatsapp.net": 4179,
         "628999684800@s.whatsapp.net": 19,
         "6282140063419@s.whatsapp.net": 2991,
         "6283169226415@s.whatsapp.net": 2056,
@@ -103951,7 +103951,7 @@
         "6283857440966@s.whatsapp.net": 41,
         "6289530044085@s.whatsapp.net": 321,
         "6285148370237@s.whatsapp.net": 67,
-        "6285274602963@s.whatsapp.net": 334,
+        "6285274602963@s.whatsapp.net": 337,
         "6289513634160@s.whatsapp.net": 52,
         "628567218393@s.whatsapp.net": 19,
         "923273164574@s.whatsapp.net": 28,
@@ -103995,7 +103995,7 @@
         "6285742048825@s.whatsapp.net": 15,
         "6283171246054@s.whatsapp.net": 26,
         "6281514418024@s.whatsapp.net": 15,
-        "6281947888865@s.whatsapp.net": 155,
+        "6281947888865@s.whatsapp.net": 164,
         "6283862676159@s.whatsapp.net": 798,
         "628895945238@s.whatsapp.net": 220,
         "628561462905@s.whatsapp.net": 1211,
@@ -104063,7 +104063,7 @@
         "62881024295546@s.whatsapp.net": 21,
         "6289615791122@s.whatsapp.net": 28,
         "6289502754002@s.whatsapp.net": 1017,
-        "6285945503757@s.whatsapp.net": 2319,
+        "6285945503757@s.whatsapp.net": 2330,
         "6285122427850@s.whatsapp.net": 27,
         "6282254738788@s.whatsapp.net": 68,
         "6285775650917@s.whatsapp.net": 18,
@@ -104088,8 +104088,8 @@
         "6282122917158@s.whatsapp.net": 13,
         "62895701185544@s.whatsapp.net": 125,
         "6289503732563@s.whatsapp.net": 45,
-        "243851042961@s.whatsapp.net": 11,
-        "6282282199378@s.whatsapp.net": 20
+        "243851042961@s.whatsapp.net": 14,
+        "6282282199378@s.whatsapp.net": 26
       },
       "totalChat": 0,
       "acc": false,
@@ -113808,16 +113808,16 @@
       "lastSuccess": 1735826605203
     },
     "ai-remini.js": {
-      "total": 1303,
-      "success": 1232,
-      "last": 1737556770773,
-      "lastSuccess": 1737556770773
+      "total": 1305,
+      "success": 1234,
+      "last": 1737573788100,
+      "lastSuccess": 1737573788100
     },
     "game-tebakbendera.js": {
-      "total": 486,
-      "success": 467,
-      "last": 1737552278223,
-      "lastSuccess": 1737552278223
+      "total": 487,
+      "success": 468,
+      "last": 1737573433566,
+      "lastSuccess": 1737573433566
     },
     "tag-joingc.js": {
       "total": 8,
@@ -114942,10 +114942,10 @@
       "lastSuccess": 1734369502679
     },
     "game-asahotak.js": {
-      "total": 367,
-      "success": 367,
-      "last": 1737551750729,
-      "lastSuccess": 1737551750729
+      "total": 368,
+      "success": 368,
+      "last": 1737573380826,
+      "lastSuccess": 1737573380826
     },
     "game-asahotak_hint.js": {
       "total": 31,
@@ -116364,7 +116364,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1737570633534,
+      "backupDB": 1737573378076,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
