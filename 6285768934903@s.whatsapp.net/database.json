@@ -4901,8 +4901,8 @@
       "premiumTime": 0
     },
     "6285274602963@s.whatsapp.net": {
-      "exp": 4055,
-      "limit": 847,
+      "exp": 4079,
+      "limit": 827,
       "registered": false,
       "name": "KyzaArctheva",
       "age": -1,
@@ -4923,7 +4923,7 @@
       "lastdaily": 1736311094852,
       "lastcommand": 1736311135327,
       "lastwork": 1736311200679,
-      "activation": 1737525090994
+      "activation": 1737559955201
     },
     "62895330270209@s.whatsapp.net": {
       "exp": 10,
@@ -98369,7 +98369,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1737558940543,
+      "activation": 1737561720296,
       "lastBanned": 0
     },
     "6285259317963@s.whatsapp.net": {
@@ -100766,7 +100766,7 @@
       "activation": 1737024309284
     },
     "6282282199378@s.whatsapp.net": {
-      "exp": 7,
+      "exp": 33,
       "limit": 499,
       "registered": false,
       "name": "Wahyu",
@@ -100782,10 +100782,11 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1737029748117
+      "activation": 1737561718394,
+      "lastcommand": 1737561717244
     },
     "56496603816136_1@s.whatsapp.net": {
       "exp": 2,
@@ -103653,6 +103654,27 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1737558610556
+    },
+    "6282324249051@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 823-2424-9051",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1737561009890
     }
   },
   "chats": {
@@ -113765,10 +113787,10 @@
       "lastSuccess": 1736551337521
     },
     "_cek.js": {
-      "total": 1135,
-      "success": 1131,
-      "last": 1737557442441,
-      "lastSuccess": 1737557442441
+      "total": 1136,
+      "success": 1132,
+      "last": 1737561718394,
+      "lastSuccess": 1737561718394
     },
     "enable.js": {
       "total": 130,
@@ -114281,10 +114303,10 @@
       "lastSuccess": 1733233830291
     },
     "downloader-facebook.js": {
-      "total": 62,
-      "success": 40,
-      "last": 1737223573615,
-      "lastSuccess": 1737223573615
+      "total": 63,
+      "success": 41,
+      "last": 1737559955201,
+      "lastSuccess": 1737559955201
     },
     "tool-bgcolor.js": {
       "total": 7,
@@ -116297,7 +116319,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1737557341468,
+      "backupDB": 1737559950234,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
