@@ -1072,7 +1072,7 @@
       "activation": 1737216348260
     },
     "120363280765137622@g.us": {
-      "exp": 9090,
+      "exp": 9100,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1091,7 +1091,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1737572297594
+      "activation": 1737587223230
     },
     "6283119901412@s.whatsapp.net": {
       "exp": 16320,
@@ -1142,8 +1142,8 @@
       "activation": 1737419991916
     },
     "6283191371141@s.whatsapp.net": {
-      "exp": 11798,
-      "limit": 84,
+      "exp": 11844,
+      "limit": 44,
       "registered": false,
       "name": "Vyn",
       "age": -1,
@@ -1166,7 +1166,7 @@
       "lastwork": 1730875837906,
       "lastrob": 1735778404705,
       "delay": 1735714023009,
-      "activation": 1737546927358
+      "activation": 1737588656506
     },
     "6285817976362@s.whatsapp.net": {
       "exp": 7003,
@@ -98372,7 +98372,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1737584330805,
+      "activation": 1737588657009,
       "lastBanned": 0
     },
     "6285259317963@s.whatsapp.net": {
@@ -103700,6 +103700,27 @@
       "premiumTime": 0,
       "activation": 1737572382133,
       "lastBanned": 0
+    },
+    "628567846318@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 856-7846-318",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1737587297530
     }
   },
   "chats": {
@@ -113666,10 +113687,10 @@
       "lastSuccess": 1737552085774
     },
     "downloader-tiktok.js": {
-      "total": 2642,
-      "success": 2462,
-      "last": 1737581649561,
-      "lastSuccess": 1737581649561
+      "total": 2644,
+      "success": 2464,
+      "last": 1737588656506,
+      "lastSuccess": 1737588656506
     },
     "owner-sf.js": {
       "total": 1275,
@@ -116366,7 +116387,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1737583856284,
+      "backupDB": 1737587222991,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
