@@ -298,7 +298,7 @@
       "lastBanned": 0,
       "lastcommand": 1737558415328,
       "limitprem": 10000,
-      "activation": 1737570944458,
+      "activation": 1737572388590,
       "warn": 6
     },
     "62882017032144@s.whatsapp.net": {
@@ -495,7 +495,7 @@
       "activation": 1737166407750
     },
     "6283849916793@s.whatsapp.net": {
-      "exp": 16240,
+      "exp": 16266,
       "limit": 489,
       "registered": false,
       "name": "Riffat Ralifans",
@@ -515,7 +515,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1737442261935,
-      "activation": 1737571487843
+      "activation": 1737572581419
     },
     "6289673853208@s.whatsapp.net": {
       "exp": 4,
@@ -1911,7 +1911,7 @@
       "premiumTime": 0
     },
     "6282329546871@s.whatsapp.net": {
-      "exp": 10024,
+      "exp": 10028,
       "limit": 394,
       "registered": false,
       "name": "Bimzz • (+13M)",
@@ -1931,7 +1931,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1736529743869,
-      "activation": 1737571519873
+      "activation": 1737571558234
     },
     "6285230090100@s.whatsapp.net": {
       "exp": 98,
@@ -2279,7 +2279,7 @@
       "activation": 1737551142232
     },
     "120363280765137622@g.us": {
-      "exp": 1484,
+      "exp": 1489,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -2298,7 +2298,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1737557407365
+      "activation": 1737572297945
     },
     "6285716205495@s.whatsapp.net": {
       "exp": 513,
@@ -49788,7 +49788,7 @@
       "activation": 1736832732431
     },
     "120363356468992489@g.us": {
-      "exp": 332,
+      "exp": 342,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -49806,7 +49806,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1737557644557,
+      "activation": 1737572388202,
       "lastBanned": 0
     },
     "62895338603018@s.whatsapp.net": {
@@ -80018,10 +80018,10 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6283849916793@s.whatsapp.net": 49781,
-        "6288973305595@s.whatsapp.net": 8260,
+        "6283849916793@s.whatsapp.net": 49826,
+        "6288973305595@s.whatsapp.net": 8284,
         "6285771461262@s.whatsapp.net": 28699,
-        "6282329546871@s.whatsapp.net": 24416,
+        "6282329546871@s.whatsapp.net": 24458,
         "6285778538747@s.whatsapp.net": 54638,
         "6281317394066@s.whatsapp.net": 1486,
         "6288292107108@s.whatsapp.net": 6918,
@@ -85375,7 +85375,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1737569748977,
+      "backupDB": 1737571557990,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
