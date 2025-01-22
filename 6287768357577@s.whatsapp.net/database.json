@@ -339,7 +339,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1740145784964,
-      "activation": 1737565348440,
+      "activation": 1737569667739,
       "lastBanned": 0,
       "limitprem": 10000
     },
@@ -1523,7 +1523,7 @@
       "lastBanned": 0
     },
     "62895385060081@s.whatsapp.net": {
-      "exp": 6,
+      "exp": 31,
       "limit": 499,
       "registered": false,
       "name": "Rendi 凸( •̀_•́ )凸",
@@ -1541,7 +1541,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1737555172463
+      "activation": 1737567939449,
+      "lastBanned": 0
     },
     "6281287287884@s.whatsapp.net": {
       "exp": 149,
@@ -3013,7 +3014,7 @@
       "activation": 1737566930494
     },
     "6289699108624@s.whatsapp.net": {
-      "exp": 17,
+      "exp": 34,
       "limit": 499,
       "registered": false,
       "name": "Satria",
@@ -3031,7 +3032,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1737567588462,
+      "activation": 1737568217818,
       "lastBanned": 0
     }
   },
@@ -3281,16 +3282,16 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6282334843360@s.whatsapp.net": 34,
-        "6285641845890@s.whatsapp.net": 124,
-        "6289677684623@s.whatsapp.net": 32,
-        "62895385060081@s.whatsapp.net": 29,
-        "62895411656449@s.whatsapp.net": 120,
-        "6285232788017@s.whatsapp.net": 149,
-        "6288989293681@s.whatsapp.net": 107,
-        "6288973305595@s.whatsapp.net": 6,
-        "6285213166042@s.whatsapp.net": 5,
-        "6285649301243@s.whatsapp.net": 4
+        "6282334843360@s.whatsapp.net": 37,
+        "6285641845890@s.whatsapp.net": 136,
+        "6289677684623@s.whatsapp.net": 35,
+        "62895385060081@s.whatsapp.net": 43,
+        "62895411656449@s.whatsapp.net": 144,
+        "6285232788017@s.whatsapp.net": 182,
+        "6288989293681@s.whatsapp.net": 122,
+        "6288973305595@s.whatsapp.net": 9,
+        "6285213166042@s.whatsapp.net": 8,
+        "6285649301243@s.whatsapp.net": 7
       },
       "totalChat": 0
     },
@@ -4123,7 +4124,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1737566117157,
+      "backupDB": 1737567931715,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
