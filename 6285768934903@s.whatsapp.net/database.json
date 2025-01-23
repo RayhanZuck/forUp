@@ -98590,7 +98590,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1737659655579,
+      "activation": 1737661007025,
       "lastBanned": 0
     },
     "6285259317963@s.whatsapp.net": {
@@ -99399,8 +99399,8 @@
       "activation": 1736877289180
     },
     "62881024295546@s.whatsapp.net": {
-      "exp": 772,
-      "limit": 264,
+      "exp": 849,
+      "limit": 244,
       "registered": false,
       "name": "Gorgeus😌",
       "age": -1,
@@ -99417,9 +99417,9 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1737659344262,
+      "activation": 1737661005887,
       "lastBanned": 0,
-      "lastcommand": 1737656690890
+      "lastcommand": 1737660713560
     },
     "204011064016934_1@s.whatsapp.net": {
       "exp": 7,
@@ -102650,7 +102650,7 @@
       "lastcommand": 1737372630491
     },
     "6287842322204@s.whatsapp.net": {
-      "exp": 275656,
+      "exp": 275730,
       "limit": 2330,
       "registered": false,
       "name": "pungg",
@@ -102660,15 +102660,15 @@
       "afk": -1,
       "afkReason": "",
       "banned": false,
-      "level": 15,
-      "role": "Private Grade 3 ⚌³",
+      "level": 24,
+      "role": "Corporal Grade 2 ☰²",
       "BannedReason": "",
       "WarnReason": "",
       "lastweekly": 1737601466504,
       "lastmonthly": 1737534813277,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1737659654979,
+      "activation": 1737659768430,
       "lastBanned": 0,
       "lastwork": 1737659590492,
       "lastcommand": 1737659650551,
@@ -105594,7 +105594,7 @@
         "6287890456123@s.whatsapp.net": 81,
         "6283816389250@s.whatsapp.net": 32,
         "62895347362208@s.whatsapp.net": 1348,
-        "6287842322204@s.whatsapp.net": 15056,
+        "6287842322204@s.whatsapp.net": 15143,
         "6281231565398@s.whatsapp.net": 10,
         "6289508886963@s.whatsapp.net": 15,
         "27676410237@s.whatsapp.net": 9,
@@ -115959,10 +115959,10 @@
       "lastSuccess": 1737632225328
     },
     "_rayhan-allmenu.js": {
-      "total": 318,
-      "success": 310,
-      "last": 1737656722820,
-      "lastSuccess": 1737656722820
+      "total": 319,
+      "success": 311,
+      "last": 1737660720321,
+      "lastSuccess": 1737660720321
     },
     "ai-ailogo.js": {
       "total": 21,
@@ -117051,10 +117051,10 @@
       "lastSuccess": 1734584967448
     },
     "rpg-role.js": {
-      "total": 19,
-      "success": 19,
-      "last": 1737610177639,
-      "lastSuccess": 1737610177639
+      "total": 20,
+      "success": 20,
+      "last": 1737659717525,
+      "lastSuccess": 1737659717525
     },
     "group-setwelcome.js": {
       "total": 2,
@@ -117675,10 +117675,10 @@
       "lastSuccess": 1737641538388
     },
     "user-balance.js": {
-      "total": 309,
-      "success": 309,
-      "last": 1737659631933,
-      "lastSuccess": 1737659631933
+      "total": 310,
+      "success": 310,
+      "last": 1737659768430,
+      "lastSuccess": 1737659768430
     },
     "user-shop.js": {
       "total": 195,
@@ -117747,10 +117747,10 @@
       "lastSuccess": 1736189305147
     },
     "user-level.js": {
-      "total": 206,
-      "success": 206,
-      "last": 1737639093141,
-      "lastSuccess": 1737639093141
+      "total": 207,
+      "success": 207,
+      "last": 1737659691900,
+      "lastSuccess": 1737659691900
     },
     "user-mentransfer.js": {
       "total": 61,
@@ -117879,10 +117879,10 @@
       "lastSuccess": 1736700241401
     },
     "uptodoods.js": {
-      "total": 14,
-      "success": 11,
-      "last": 1737606542102,
-      "lastSuccess": 1737606542102
+      "total": 16,
+      "success": 13,
+      "last": 1737661005887,
+      "lastSuccess": 1737661005887
     },
     "dooddl.js": {
       "total": 3,
@@ -118059,7 +118059,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1737657854667,
+      "backupDB": 1737659690328,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
