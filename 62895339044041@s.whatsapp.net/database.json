@@ -298,7 +298,7 @@
       "lastBanned": 0,
       "lastcommand": 1737646829244,
       "limitprem": 10000,
-      "activation": 1737664263632,
+      "activation": 1737665911856,
       "warn": 6
     },
     "62882017032144@s.whatsapp.net": {
@@ -53316,7 +53316,7 @@
       "lastBanned": 0
     },
     "6285325504642@s.whatsapp.net": {
-      "exp": 6294,
+      "exp": 6469,
       "limit": 19,
       "registered": false,
       "name": "dewindaa",
@@ -53336,7 +53336,7 @@
       "premiumTime": 0,
       "lastcommand": 1737121059396,
       "lastBanned": 0,
-      "activation": 1737618477573,
+      "activation": 1737665632542,
       "lastdaily": 1737551237681,
       "lastwork": 1737551646054
     },
@@ -85484,10 +85484,10 @@
       "lastSuccess": 1737489645731
     },
     "downloader-tiktok.js": {
-      "total": 224,
-      "success": 181,
-      "last": 1737648357767,
-      "lastSuccess": 1737648357767
+      "total": 231,
+      "success": 188,
+      "last": 1737665632542,
+      "lastSuccess": 1737665632542
     },
     "enable.js": {
       "total": 39,
@@ -86487,7 +86487,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1737663674070,
+      "backupDB": 1737665488623,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
