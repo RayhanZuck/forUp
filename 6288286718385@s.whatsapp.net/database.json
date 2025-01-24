@@ -4018,7 +4018,7 @@
       "activation": 1736908438387
     },
     "62895426716671@s.whatsapp.net": {
-      "exp": 4934,
+      "exp": 4938,
       "limit": 154,
       "registered": false,
       "name": "REGAN BIMANTARA",
@@ -4039,7 +4039,7 @@
       "lastBanned": 0,
       "lastcommand": 1736566426882,
       "lastdaily": 1736582771978,
-      "activation": 1737731054858
+      "activation": 1737755166188
     },
     "6281336763815@s.whatsapp.net": {
       "exp": 48,
@@ -5645,7 +5645,7 @@
       "premiumTime": 0
     },
     "6288980231187@s.whatsapp.net": {
-      "exp": 385,
+      "exp": 392,
       "limit": 205,
       "registered": false,
       "name": "اجياا",
@@ -5665,7 +5665,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastdaily": 1737635322186,
-      "activation": 1737731756943,
+      "activation": 1737756828640,
       "lastwork": 1737635854247,
       "lastcommand": 1737635829716
     },
@@ -11930,7 +11930,7 @@
       "activation": 1737731025390
     },
     "6288286718385@s.whatsapp.net": {
-      "exp": 205,
+      "exp": 214,
       "limit": 449,
       "registered": false,
       "name": "efata.",
@@ -11952,7 +11952,7 @@
       "lastcommand": 1737055316182,
       "lastdaily": 1736693118026,
       "lastwork": 1731937245474,
-      "activation": 1737752307233
+      "activation": 1737755305656
     },
     "248348212785312_1@s.whatsapp.net": {
       "exp": 4,
@@ -106025,7 +106025,7 @@
         "6287761263814@s.whatsapp.net": 900,
         "62882007880538@s.whatsapp.net": 304,
         "6287731548171@s.whatsapp.net": 213,
-        "6285766064200@s.whatsapp.net": 13930,
+        "6285766064200@s.whatsapp.net": 13947,
         "6285394495227@s.whatsapp.net": 2698,
         "6285720973051@s.whatsapp.net": 23913,
         "6283822760236@s.whatsapp.net": 3012,
@@ -107584,7 +107584,8 @@
       "game": true,
       "teks": true,
       "autolevelup": true,
-      "expired": 0
+      "expired": 0,
+      "detekporn": true
     },
     "6281336763815@s.whatsapp.net": {
       "isBanned": false,
@@ -118800,7 +118801,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1737752307052,
+      "backupDB": 1737755165713,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
