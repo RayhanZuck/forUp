@@ -90,7 +90,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 191708,
+      "exp": 191734,
       "limit": 0,
       "registered": false,
       "name": "Rayhan?",
@@ -117,7 +117,7 @@
       "lastrob": 1734752367160,
       "resetSent": true,
       "delay": 1735728719020,
-      "activation": 1737732092674
+      "activation": 1737733310902
     },
     "6289512651656@s.whatsapp.net": {
       "exp": 7,
@@ -164,7 +164,7 @@
       "lastcommand": 1735076311886
     },
     "120363183420865643@g.us": {
-      "exp": 7522,
+      "exp": 7532,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -183,7 +183,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1737721571242
+      "activation": 1737735082648
     },
     "120363240711248334@g.us": {
       "exp": 5942,
@@ -8184,7 +8184,7 @@
       "activation": 1737602230533
     },
     "628818691228@s.whatsapp.net": {
-      "exp": 3437,
+      "exp": 3491,
       "limit": 4608,
       "registered": false,
       "name": "+62 881-8691-228",
@@ -8205,10 +8205,10 @@
       "lastBanned": 0,
       "lastwork": 1737720825536,
       "lastdaily": 1737686328713,
-      "lastcommand": 1737641718628,
+      "lastcommand": 1737734531884,
       "lastrob": 1737638692368,
       "warn": 4,
-      "activation": 1737731022588
+      "activation": 1737734571093
     },
     "6283165153281@s.whatsapp.net": {
       "exp": 9,
@@ -11929,7 +11929,7 @@
       "activation": 1737731025390
     },
     "6288286718385@s.whatsapp.net": {
-      "exp": 0,
+      "exp": 13,
       "limit": 499,
       "registered": false,
       "name": "efata.",
@@ -11945,13 +11945,13 @@
       "WarnReason": "",
       "lastweekly": 1736529661496,
       "lastmonthly": 1736529665383,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1737055316182,
       "lastdaily": 1736693118026,
       "lastwork": 1731937245474,
-      "activation": 1737732092677
+      "activation": 1737735082413
     },
     "248348212785312_1@s.whatsapp.net": {
       "exp": 4,
@@ -105898,7 +105898,7 @@
         "6287761263814@s.whatsapp.net": 900,
         "62882007880538@s.whatsapp.net": 304,
         "6287731548171@s.whatsapp.net": 213,
-        "6285766064200@s.whatsapp.net": 13418,
+        "6285766064200@s.whatsapp.net": 13442,
         "6285394495227@s.whatsapp.net": 2698,
         "6285720973051@s.whatsapp.net": 23913,
         "6283822760236@s.whatsapp.net": 3012,
@@ -106231,7 +106231,7 @@
         "6287713931944@s.whatsapp.net": 155,
         "6285161408046@s.whatsapp.net": 184,
         "628388144574@s.whatsapp.net": 78,
-        "628818691228@s.whatsapp.net": 21845,
+        "628818691228@s.whatsapp.net": 21850,
         "62881026445984@s.whatsapp.net": 3200,
         "628812611040@s.whatsapp.net": 15531,
         "6285775650917@s.whatsapp.net": 63,
@@ -111444,7 +111444,10 @@
       "game": true,
       "teks": true,
       "autolevelup": true,
-      "expired": 0
+      "expired": 0,
+      "detekporn": true,
+      "total": {},
+      "totalChat": 0
     },
     "916009227041@s.whatsapp.net": {
       "isBanned": false,
@@ -115960,10 +115963,10 @@
       "lastSuccess": 1737702960412
     },
     "sticker-sticker.js": {
-      "total": 1188,
-      "success": 1034,
-      "last": 1737721431833,
-      "lastSuccess": 1737721431833
+      "total": 1189,
+      "success": 1035,
+      "last": 1737734549030,
+      "lastSuccess": 1737734549030
     },
     "sticker-toimg.js": {
       "total": 123,
@@ -116104,10 +116107,10 @@
       "lastSuccess": 1737618658854
     },
     "_cek.js": {
-      "total": 1151,
-      "success": 1147,
-      "last": 1737714600987,
-      "lastSuccess": 1737714600987
+      "total": 1152,
+      "success": 1148,
+      "last": 1737734534626,
+      "lastSuccess": 1737734534626
     },
     "enable.js": {
       "total": 131,
@@ -118612,10 +118615,10 @@
       "lastSuccess": 1737601641346
     },
     "info-listlagujkt48.js": {
-      "total": 6,
-      "success": 6,
-      "last": 1737646593558,
-      "lastSuccess": 1737646593558
+      "total": 7,
+      "success": 7,
+      "last": 1737733310902,
+      "lastSuccess": 1737733310902
     },
     "tools-upsw.js": {
       "total": 7,
@@ -118663,7 +118666,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1737731016336,
+      "backupDB": 1737733310161,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
