@@ -165,7 +165,7 @@
       "lastcommand": 1735076311886
     },
     "120363183420865643@g.us": {
-      "exp": 7543,
+      "exp": 7550,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -184,7 +184,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1737735645158
+      "activation": 1737747538079
     },
     "120363240711248334@g.us": {
       "exp": 5961,
@@ -1076,7 +1076,7 @@
       "activation": 1737731081395
     },
     "120363280765137622@g.us": {
-      "exp": 9296,
+      "exp": 9305,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1095,7 +1095,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1737736779284
+      "activation": 1737747538033
     },
     "6283119901412@s.whatsapp.net": {
       "exp": 16338,
@@ -11930,7 +11930,7 @@
       "activation": 1737731025390
     },
     "6288286718385@s.whatsapp.net": {
-      "exp": 169,
+      "exp": 188,
       "limit": 449,
       "registered": false,
       "name": "efata.",
@@ -11946,13 +11946,13 @@
       "WarnReason": "",
       "lastweekly": 1736529661496,
       "lastmonthly": 1736529665383,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1737055316182,
       "lastdaily": 1736693118026,
       "lastwork": 1731937245474,
-      "activation": 1737746568876
+      "activation": 1737749304420
     },
     "248348212785312_1@s.whatsapp.net": {
       "exp": 4,
@@ -105861,6 +105861,27 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1737746570014
+    },
+    "6281234800859@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "name": "yaudah iya",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1737747684222
     }
   },
   "chats": {
@@ -106004,7 +106025,7 @@
         "6287761263814@s.whatsapp.net": 900,
         "62882007880538@s.whatsapp.net": 304,
         "6287731548171@s.whatsapp.net": 213,
-        "6285766064200@s.whatsapp.net": 13896,
+        "6285766064200@s.whatsapp.net": 13930,
         "6285394495227@s.whatsapp.net": 2698,
         "6285720973051@s.whatsapp.net": 23913,
         "6283822760236@s.whatsapp.net": 3012,
@@ -118779,7 +118800,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1737745218008,
+      "backupDB": 1737747537602,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
