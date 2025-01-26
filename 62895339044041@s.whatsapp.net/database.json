@@ -1911,7 +1911,7 @@
       "premiumTime": 0
     },
     "6282329546871@s.whatsapp.net": {
-      "exp": 10604,
+      "exp": 10621,
       "limit": 394,
       "registered": false,
       "name": "Bimzz • (+13M)",
@@ -1931,7 +1931,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1736529743869,
-      "activation": 1737911549930
+      "activation": 1737914959283
     },
     "6285230090100@s.whatsapp.net": {
       "exp": 143,
@@ -2279,7 +2279,7 @@
       "activation": 1737673396115
     },
     "120363280765137622@g.us": {
-      "exp": 1943,
+      "exp": 1948,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -2298,7 +2298,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1737912700212
+      "activation": 1737913761230
     },
     "6285716205495@s.whatsapp.net": {
       "exp": 600,
@@ -7003,7 +7003,7 @@
       "activation": 1737900376383
     },
     "6287735305190@s.whatsapp.net": {
-      "exp": 2799,
+      "exp": 2800,
       "limit": 499,
       "registered": false,
       "name": "Zaki Wagyy",
@@ -7022,7 +7022,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1737910174778
+      "activation": 1737914105179
     },
     "6285811077442@s.whatsapp.net": {
       "exp": 574,
@@ -8021,7 +8021,7 @@
       "lastBanned": 0
     },
     "6283836331241@s.whatsapp.net": {
-      "exp": 1278,
+      "exp": 1286,
       "limit": 499,
       "registered": false,
       "name": "𝓐𝓷𝓪𝓷𝓭𝓪",
@@ -8040,7 +8040,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1737903288250
+      "activation": 1737913809616
     },
     "6287768357577@s.whatsapp.net": {
       "exp": 2708,
@@ -9896,7 +9896,7 @@
       "premiumTime": 0
     },
     "6288975924996@s.whatsapp.net": {
-      "exp": 1586,
+      "exp": 1614,
       "limit": 499,
       "registered": false,
       "name": "🌟oka & Afif 🌟",
@@ -9915,7 +9915,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1737913024031,
+      "activation": 1737915296748,
       "lastcommand": 1737450494022
     },
     "6287746992108@s.whatsapp.net": {
@@ -13447,7 +13447,7 @@
       "activation": 1737904328503
     },
     "62895338278811@s.whatsapp.net": {
-      "exp": 156,
+      "exp": 169,
       "limit": 499,
       "registered": false,
       "name": "rfkahrdiynsh",
@@ -13466,7 +13466,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1737903954554
+      "activation": 1737913950503
     },
     "6282113295189@s.whatsapp.net": {
       "exp": 67,
@@ -70269,7 +70269,7 @@
       "activation": 1737558610906
     },
     "6281513711285@s.whatsapp.net": {
-      "exp": 686,
+      "exp": 695,
       "limit": 499,
       "registered": false,
       "name": "faiz",
@@ -70287,7 +70287,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1737910220265,
+      "activation": 1737914527738,
       "lastBanned": 0
     },
     "154761127055574_1@s.whatsapp.net": {
@@ -73581,6 +73581,26 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1737911052744
+    },
+    "179495843704960_1@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1737913962334
     }
   },
   "chats": {
@@ -89252,7 +89272,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1737911818366,
+      "backupDB": 1737913760999,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
