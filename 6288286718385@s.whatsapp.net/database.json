@@ -4476,8 +4476,8 @@
       "lastcommand": 1734327131648
     },
     "628978121351@s.whatsapp.net": {
-      "exp": 629,
-      "limit": 64,
+      "exp": 716,
+      "limit": 14,
       "registered": false,
       "name": "KatZu",
       "age": -1,
@@ -4495,8 +4495,8 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1737787509461,
-      "activation": 1737794842242
+      "lastcommand": 1737916906618,
+      "activation": 1737917197529
     },
     "6285176983144@s.whatsapp.net": {
       "exp": 7610,
@@ -11959,7 +11959,7 @@
       "lastcommand": 1737805947058,
       "lastdaily": 1736693118026,
       "lastwork": 1731937245474,
-      "activation": 1737913965756
+      "activation": 1737917197605
     },
     "248348212785312_1@s.whatsapp.net": {
       "exp": 4,
@@ -117771,10 +117771,10 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 1098,
-      "success": 1020,
-      "last": 1737802852512,
-      "lastSuccess": 1737794749798
+      "total": 1101,
+      "success": 1023,
+      "last": 1737917197529,
+      "lastSuccess": 1737917197529
     },
     "downloader-tiktok.js": {
       "total": 2726,
@@ -120483,10 +120483,10 @@
       "lastSuccess": 1737735489248
     },
     "_main-menu.js": {
-      "total": 17,
-      "success": 16,
-      "last": 1737907941364,
-      "lastSuccess": 1737907941364
+      "total": 18,
+      "success": 17,
+      "last": 1737916914551,
+      "lastSuccess": 1737916914551
     },
     "havefun-taugaksih.js": {
       "total": 2,
@@ -120540,7 +120540,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1737912672429,
+      "backupDB": 1737916906475,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
