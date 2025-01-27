@@ -11940,7 +11940,7 @@
       "activation": 1737731025390
     },
     "6288286718385@s.whatsapp.net": {
-      "exp": 2499,
+      "exp": 2506,
       "limit": 424,
       "registered": false,
       "name": "efata.",
@@ -11956,13 +11956,13 @@
       "WarnReason": "",
       "lastweekly": 1736529661496,
       "lastmonthly": 1736529665383,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1737983443699,
       "lastdaily": 1736693118026,
       "lastwork": 1731937245474,
-      "activation": 1738018824652
+      "activation": 1738019739772
     },
     "248348212785312_1@s.whatsapp.net": {
       "exp": 4,
@@ -122091,7 +122091,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738017393920,
+      "backupDB": 1738019739528,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
