@@ -11940,7 +11940,7 @@
       "activation": 1737731025390
     },
     "6288286718385@s.whatsapp.net": {
-      "exp": 2405,
+      "exp": 2413,
       "limit": 424,
       "registered": false,
       "name": "efata.",
@@ -11962,7 +11962,7 @@
       "lastcommand": 1737983443699,
       "lastdaily": 1736693118026,
       "lastwork": 1731937245474,
-      "activation": 1737993420680
+      "activation": 1737996591692
     },
     "248348212785312_1@s.whatsapp.net": {
       "exp": 4,
@@ -35475,8 +35475,8 @@
       "lastBanned": 0
     },
     "6281514418024@s.whatsapp.net": {
-      "exp": 104,
-      "limit": 419,
+      "exp": 124,
+      "limit": 399,
       "registered": false,
       "name": "vinz",
       "age": -1,
@@ -35494,7 +35494,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1737795170525
+      "activation": 1737996591219
     },
     "274994122780766_1@s.whatsapp.net": {
       "exp": 3,
@@ -95237,8 +95237,8 @@
       "activation": 1737894867624
     },
     "6283862676159@s.whatsapp.net": {
-      "exp": 6855,
-      "limit": 614,
+      "exp": 6897,
+      "limit": 564,
       "registered": false,
       "name": "?",
       "age": -1,
@@ -95257,7 +95257,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastdaily": 1736427915050,
-      "activation": 1737894866051
+      "activation": 1737995675398
     },
     "6285757574671@s.whatsapp.net": {
       "exp": 76,
@@ -119189,10 +119189,10 @@
       "lastSuccess": 1737981679514
     },
     "downloader-tiktok.js": {
-      "total": 2743,
-      "success": 2560,
-      "last": 1737984009522,
-      "lastSuccess": 1737984009522
+      "total": 2744,
+      "success": 2561,
+      "last": 1737996591219,
+      "lastSuccess": 1737996591219
     },
     "owner-sf.js": {
       "total": 1377,
@@ -119201,10 +119201,10 @@
       "lastSuccess": 1737984202462
     },
     "downloader-play.js": {
-      "total": 2837,
-      "success": 2642,
-      "last": 1737992789207,
-      "lastSuccess": 1737992552181
+      "total": 2839,
+      "success": 2644,
+      "last": 1737995675398,
+      "lastSuccess": 1737995675398
     },
     "downloader-ytvideo.js": {
       "total": 148,
@@ -121964,7 +121964,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1737992050196,
+      "backupDB": 1737995356476,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
