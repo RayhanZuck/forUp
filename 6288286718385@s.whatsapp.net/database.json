@@ -4482,8 +4482,8 @@
       "lastcommand": 1734327131648
     },
     "628978121351@s.whatsapp.net": {
-      "exp": 7041,
-      "limit": 434,
+      "exp": 7307,
+      "limit": 209,
       "registered": false,
       "name": "KatZu",
       "age": -1,
@@ -4502,7 +4502,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1737916906618,
-      "activation": 1737947400769,
+      "activation": 1738091933939,
       "lastdaily": 1737947316879
     },
     "6285176983144@s.whatsapp.net": {
@@ -11944,7 +11944,7 @@
       "activation": 1737731025390
     },
     "6288286718385@s.whatsapp.net": {
-      "exp": 3498,
+      "exp": 3542,
       "limit": 424,
       "registered": false,
       "name": "efata.",
@@ -11966,7 +11966,7 @@
       "lastcommand": 1738062317169,
       "lastdaily": 1736693118026,
       "lastwork": 1731937245474,
-      "activation": 1738089467603
+      "activation": 1738091934335
     },
     "248348212785312_1@s.whatsapp.net": {
       "exp": 4,
@@ -109778,6 +109778,26 @@
       "activation": 1738089477494,
       "lastBanned": 0,
       "lastcommand": 1738089456614
+    },
+    "39273684308170_1@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1738090844222
     }
   },
   "chats": {
@@ -120255,10 +120275,10 @@
   },
   "stats": {
     "downloader-instagram.js": {
-      "total": 1154,
-      "success": 1076,
-      "last": 1738086606607,
-      "lastSuccess": 1738086606607
+      "total": 1164,
+      "success": 1086,
+      "last": 1738091933939,
+      "lastSuccess": 1738091933939
     },
     "downloader-tiktok.js": {
       "total": 2773,
@@ -120405,10 +120425,10 @@
       "lastSuccess": 1735826605203
     },
     "ai-remini.js": {
-      "total": 1368,
-      "success": 1291,
-      "last": 1738085970543,
-      "lastSuccess": 1738085970543
+      "total": 1369,
+      "success": 1292,
+      "last": 1738091528240,
+      "lastSuccess": 1738091528240
     },
     "game-tebakbendera.js": {
       "total": 687,
@@ -123060,7 +123080,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738087781845,
+      "backupDB": 1738090782097,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
