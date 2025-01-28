@@ -11944,7 +11944,7 @@
       "activation": 1737731025390
     },
     "6288286718385@s.whatsapp.net": {
-      "exp": 3878,
+      "exp": 3932,
       "limit": 424,
       "registered": false,
       "name": "efata.",
@@ -11966,7 +11966,7 @@
       "lastcommand": 1738062317169,
       "lastdaily": 1736693118026,
       "lastwork": 1731937245474,
-      "activation": 1738103410522
+      "activation": 1738106667297
     },
     "248348212785312_1@s.whatsapp.net": {
       "exp": 4,
@@ -34689,7 +34689,7 @@
       "premiumTime": 0
     },
     "6283852851985@s.whatsapp.net": {
-      "exp": 3201,
+      "exp": 3208,
       "limit": 202,
       "registered": false,
       "name": "LutPieN⁸⁶",
@@ -34709,7 +34709,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1736271954149,
-      "activation": 1738040999950
+      "activation": 1738106732291
     },
     "32538756157625_1@s.whatsapp.net": {
       "exp": 8,
@@ -96241,8 +96241,8 @@
       "activation": 1737731035135
     },
     "6285811776086@s.whatsapp.net": {
-      "exp": 185985,
-      "limit": 496,
+      "exp": 186006,
+      "limit": 476,
       "registered": false,
       "name": "zaidan Desu",
       "age": -1,
@@ -96260,7 +96260,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1738085391073,
+      "activation": 1738106667287,
       "lastdaily": 1737990595959,
       "lastcommand": 1738062153596,
       "lastwork": 1738085391073,
@@ -108685,7 +108685,7 @@
       "activation": 1737985915964
     },
     "6283866792556@s.whatsapp.net": {
-      "exp": 206,
+      "exp": 242,
       "limit": 499,
       "registered": false,
       "name": "Renz store",
@@ -108703,7 +108703,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1737988928711,
+      "activation": 1738106414152,
       "lastBanned": 0,
       "lastcommand": 1737986331660
     },
@@ -115135,7 +115135,8 @@
       "game": true,
       "teks": true,
       "autolevelup": true,
-      "expired": 0
+      "expired": 0,
+      "detekporn": true
     },
     "6282328062718@s.whatsapp.net": {
       "isBanned": false,
@@ -120965,10 +120966,10 @@
       "lastSuccess": 1733233830291
     },
     "downloader-facebook.js": {
-      "total": 65,
-      "success": 43,
-      "last": 1737987295773,
-      "lastSuccess": 1737987295773
+      "total": 66,
+      "success": 44,
+      "last": 1738106667287,
+      "lastSuccess": 1738106667287
     },
     "tool-bgcolor.js": {
       "total": 7,
@@ -123080,7 +123081,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738102845251,
+      "backupDB": 1738105329090,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
