@@ -91,7 +91,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 228716,
+      "exp": 229084,
       "limit": 1,
       "registered": false,
       "name": "Rayhan?",
@@ -118,7 +118,7 @@
       "lastrob": 1738051316049,
       "resetSent": false,
       "delay": 1735728719020,
-      "activation": 1738122196874
+      "activation": 1738124172668
     },
     "6289512651656@s.whatsapp.net": {
       "exp": 7,
@@ -165,7 +165,7 @@
       "lastcommand": 1735076311886
     },
     "120363183420865643@g.us": {
-      "exp": 7931,
+      "exp": 7939,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -184,7 +184,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1738117758013
+      "activation": 1738124438403
     },
     "120363240711248334@g.us": {
       "exp": 6372,
@@ -1076,7 +1076,7 @@
       "activation": 1737894858211
     },
     "120363280765137622@g.us": {
-      "exp": 9894,
+      "exp": 9898,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1095,7 +1095,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1738117760067
+      "activation": 1738124439759
     },
     "6283119901412@s.whatsapp.net": {
       "exp": 16342,
@@ -11946,7 +11946,7 @@
       "activation": 1737731025390
     },
     "6288286718385@s.whatsapp.net": {
-      "exp": 4657,
+      "exp": 4670,
       "limit": 424,
       "registered": false,
       "name": "efata.",
@@ -11968,7 +11968,7 @@
       "lastcommand": 1738062317169,
       "lastdaily": 1736693118026,
       "lastwork": 1731937245474,
-      "activation": 1738122197131
+      "activation": 1738124506145
     },
     "248348212785312_1@s.whatsapp.net": {
       "exp": 4,
@@ -101528,7 +101528,7 @@
       "lastBanned": 0
     },
     "6283896895063@s.whatsapp.net": {
-      "exp": 4,
+      "exp": 13,
       "limit": 499,
       "registered": false,
       "name": "°♪",
@@ -101546,7 +101546,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1737602118600,
+      "activation": 1738123303323,
       "lastBanned": 0
     },
     "6282254738788@s.whatsapp.net": {
@@ -109970,6 +109970,27 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1738119653353
+    },
+    "6283151727387@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "name": "Fachri Blackberry",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1738124467137
     }
   },
   "chats": {
@@ -110113,7 +110134,7 @@
         "6287761263814@s.whatsapp.net": 1001,
         "62882007880538@s.whatsapp.net": 330,
         "6287731548171@s.whatsapp.net": 1551,
-        "6285766064200@s.whatsapp.net": 15966,
+        "6285766064200@s.whatsapp.net": 15987,
         "6285394495227@s.whatsapp.net": 2943,
         "6285720973051@s.whatsapp.net": 31164,
         "6283822760236@s.whatsapp.net": 3012,
@@ -120486,10 +120507,10 @@
       "lastSuccess": 1738120602499
     },
     "owner-sf.js": {
-      "total": 1429,
-      "success": 1304,
-      "last": 1738122196874,
-      "lastSuccess": 1738122196874
+      "total": 1435,
+      "success": 1310,
+      "last": 1738124172668,
+      "lastSuccess": 1738124172668
     },
     "downloader-play.js": {
       "total": 2873,
@@ -120666,10 +120687,10 @@
       "lastSuccess": 1733746613154
     },
     "internet-fetch.js": {
-      "total": 289,
-      "success": 263,
-      "last": 1738057345025,
-      "lastSuccess": 1738057345025
+      "total": 290,
+      "success": 264,
+      "last": 1738122909387,
+      "lastSuccess": 1738122909387
     },
     "info-payment.js": {
       "total": 53,
@@ -120726,9 +120747,9 @@
       "lastSuccess": 1738057330239
     },
     "owner-df.js": {
-      "total": 95,
+      "total": 96,
       "success": 93,
-      "last": 1738121115672,
+      "last": 1738122548990,
       "lastSuccess": 1737624596665
     },
     "downloader-play2.js": {
@@ -123258,10 +123279,10 @@
       "lastSuccess": 1738118172691
     },
     "owner-dp.js": {
-      "total": 5,
-      "success": 5,
-      "last": 1738121123892,
-      "lastSuccess": 1738121123892
+      "total": 8,
+      "success": 8,
+      "last": 1738122569889,
+      "lastSuccess": 1738122569889
     },
     "heroml.js": {
       "total": 2,
@@ -123274,6 +123295,18 @@
       "success": 5,
       "last": 1738121848978,
       "lastSuccess": 1738121848978
+    },
+    "game-tebakml_ans.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1738123343191,
+      "lastSuccess": 1738123343191
+    },
+    "game-tebakml.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1738123761375,
+      "lastSuccess": 1738123761375
     }
   },
   "msgs": {},
@@ -123303,7 +123336,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738120587607,
+      "backupDB": 1738122548719,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
