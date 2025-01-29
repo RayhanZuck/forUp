@@ -99813,10 +99813,10 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastcommand": 1736912667540,
-      "activation": 1738169534487,
+      "activation": 1738170456894,
       "lastBanned": 0
     },
     "6287776054488@s.whatsapp.net": {
@@ -103541,8 +103541,8 @@
       "lastwork": 1737512891783
     },
     "60149860815@s.whatsapp.net": {
-      "exp": 39736,
-      "limit": 292,
+      "exp": 39762,
+      "limit": 272,
       "registered": false,
       "name": "kenzz",
       "age": -1,
@@ -103559,7 +103559,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738168973975,
+      "activation": 1738170456294,
       "lastBanned": 0,
       "lastcommand": 1738066044155,
       "lastwork": 1738133382165
@@ -121057,10 +121057,10 @@
       "lastSuccess": 1738161211122
     },
     "downloader-tiktok.js": {
-      "total": 2807,
-      "success": 2616,
-      "last": 1738168973975,
-      "lastSuccess": 1738168973975
+      "total": 2808,
+      "success": 2617,
+      "last": 1738170456294,
+      "lastSuccess": 1738170456294
     },
     "owner-sf.js": {
       "total": 1460,
@@ -123929,7 +123929,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738167897787,
+      "backupDB": 1738170444857,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
