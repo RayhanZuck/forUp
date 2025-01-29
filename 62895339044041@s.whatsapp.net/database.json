@@ -298,7 +298,7 @@
       "lastBanned": 0,
       "lastcommand": 1738134290096,
       "limitprem": 10000,
-      "activation": 1738175893768,
+      "activation": 1738181231171,
       "warn": 6
     },
     "62882017032144@s.whatsapp.net": {
@@ -18712,7 +18712,7 @@
       "lastcommand": 1737525603342
     },
     "6285882488937@s.whatsapp.net": {
-      "exp": 8412,
+      "exp": 8427,
       "limit": 499,
       "registered": false,
       "name": "𝓔𝓻𝓲 𝓟𝓾𝓽𝓻𝓲 𝓢𝔂𝓪𝓯𝓲𝓽𝓻𝓲",
@@ -18731,7 +18731,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1738174630153
+      "activation": 1738177384051
     },
     "6283843079592@s.whatsapp.net": {
       "exp": 143,
@@ -23981,7 +23981,7 @@
       "premiumTime": 0
     },
     "6285966432564@s.whatsapp.net": {
-      "exp": 1065,
+      "exp": 1067,
       "limit": 499,
       "registered": false,
       "name": "➫AZRFSolo☣︎",
@@ -24000,7 +24000,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1738095146472,
+      "activation": 1738176404525,
       "lastcommand": 1737581589691
     },
     "6285233583136@s.whatsapp.net": {
@@ -77981,6 +77981,26 @@
       "premiumTime": 0,
       "activation": 1738171169469,
       "lastBanned": 0
+    },
+    "124026290700417_1@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1738177372542
     }
   },
   "chats": {
@@ -94387,7 +94407,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738172894207,
+      "backupDB": 1738176404257,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
