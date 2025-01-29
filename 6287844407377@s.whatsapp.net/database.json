@@ -99797,7 +99797,7 @@
       "lastBanned": 0
     },
     "6287844407377@s.whatsapp.net": {
-      "exp": 592,
+      "exp": 603,
       "limit": 499,
       "registered": false,
       "name": "why",
@@ -99813,10 +99813,10 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastcommand": 1736912667540,
-      "activation": 1738167334232,
+      "activation": 1738169534487,
       "lastBanned": 0
     },
     "6287776054488@s.whatsapp.net": {
@@ -103541,8 +103541,8 @@
       "lastwork": 1737512891783
     },
     "60149860815@s.whatsapp.net": {
-      "exp": 39717,
-      "limit": 312,
+      "exp": 39736,
+      "limit": 292,
       "registered": false,
       "name": "kenzz",
       "age": -1,
@@ -103559,7 +103559,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738161122767,
+      "activation": 1738168973975,
       "lastBanned": 0,
       "lastcommand": 1738066044155,
       "lastwork": 1738133382165
@@ -109850,7 +109850,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1738166741404,
+      "activation": 1738169534714,
       "lastBanned": 0
     },
     "6289526890843@s.whatsapp.net": {
@@ -121057,10 +121057,10 @@
       "lastSuccess": 1738161211122
     },
     "downloader-tiktok.js": {
-      "total": 2806,
-      "success": 2615,
-      "last": 1738167098514,
-      "lastSuccess": 1738167098514
+      "total": 2807,
+      "success": 2616,
+      "last": 1738168973975,
+      "lastSuccess": 1738168973975
     },
     "owner-sf.js": {
       "total": 1460,
@@ -123929,7 +123929,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738165617881,
+      "backupDB": 1738167897787,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
