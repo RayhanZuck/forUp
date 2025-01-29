@@ -99797,7 +99797,7 @@
       "lastBanned": 0
     },
     "6287844407377@s.whatsapp.net": {
-      "exp": 620,
+      "exp": 621,
       "limit": 499,
       "registered": false,
       "name": "why",
@@ -99813,10 +99813,10 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastcommand": 1736912667540,
-      "activation": 1738176470558,
+      "activation": 1738178534232,
       "lastBanned": 0
     },
     "6287776054488@s.whatsapp.net": {
@@ -109850,7 +109850,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1738175535820,
+      "activation": 1738178534515,
       "lastBanned": 0
     },
     "6289526890843@s.whatsapp.net": {
@@ -110473,7 +110473,7 @@
       "activation": 1738166408760
     },
     "6287739174163@s.whatsapp.net": {
-      "exp": 0,
+      "exp": 9,
       "limit": 499,
       "registered": false,
       "name": "+62 877-3917-4163",
@@ -110489,8 +110489,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
-      "premiumTime": 0
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1738177374702
     }
   },
   "chats": {
@@ -123951,7 +123952,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738174542595,
+      "backupDB": 1738177374617,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
