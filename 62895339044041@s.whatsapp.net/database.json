@@ -298,7 +298,7 @@
       "lastBanned": 0,
       "lastcommand": 1738245475756,
       "limitprem": 10000,
-      "activation": 1738262811617,
+      "activation": 1738264221268,
       "warn": 6
     },
     "62882017032144@s.whatsapp.net": {
@@ -2369,7 +2369,7 @@
       "lastBanned": 0
     },
     "6283163024931@s.whatsapp.net": {
-      "exp": 3219,
+      "exp": 3245,
       "limit": 499,
       "registered": false,
       "name": "Panggil Saja Ilham",
@@ -2388,7 +2388,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1738253569650
+      "activation": 1738265171650
     },
     "6285888032760@s.whatsapp.net": {
       "exp": 214,
@@ -18721,7 +18721,7 @@
       "lastcommand": 1737525603342
     },
     "6285882488937@s.whatsapp.net": {
-      "exp": 9072,
+      "exp": 9078,
       "limit": 499,
       "registered": false,
       "name": "𝓔𝓻𝓲 𝓟𝓾𝓽𝓻𝓲 𝓢𝔂𝓪𝓯𝓲𝓽𝓻𝓲",
@@ -18740,7 +18740,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1738262651803
+      "activation": 1738263831482
     },
     "6283843079592@s.whatsapp.net": {
       "exp": 143,
@@ -79593,7 +79593,7 @@
       "lastBanned": 0
     },
     "120363217314902613@newsletter": {
-      "exp": 0,
+      "exp": 20,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -79610,7 +79610,8 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "lastBanned": 0
+      "lastBanned": 0,
+      "activation": 1738264221061
     },
     "120363341255449244@newsletter": {
       "exp": 0,
@@ -79633,7 +79634,7 @@
       "lastBanned": 0
     },
     "120363235506071747@newsletter": {
-      "exp": 0,
+      "exp": 7,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -79650,7 +79651,8 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "lastBanned": 0
+      "lastBanned": 0,
+      "activation": 1738264221071
     },
     "120363359698117499@newsletter": {
       "exp": 0,
@@ -79712,7 +79714,7 @@
       "lastBanned": 0
     },
     "120363232802353075@newsletter": {
-      "exp": 0,
+      "exp": 9,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -79727,9 +79729,10 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "lastBanned": 0
+      "lastBanned": 0,
+      "activation": 1738264221033
     },
     "120363348818196073@newsletter": {
       "exp": 0,
@@ -79751,7 +79754,7 @@
       "premiumTime": 0
     },
     "120363225204422945@newsletter": {
-      "exp": 0,
+      "exp": 10,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -79766,9 +79769,10 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "lastBanned": 0
+      "lastBanned": 0,
+      "activation": 1738264221045
     },
     "275913581310052@lid": {
       "exp": 9,
@@ -79873,7 +79877,7 @@
       "activation": 1738253163878
     },
     "120363280733022332@newsletter": {
-      "exp": 0,
+      "exp": 12,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -79888,9 +79892,10 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "lastBanned": 0
+      "lastBanned": 0,
+      "activation": 1738264221065
     },
     "162933912899641@lid": {
       "exp": 18,
@@ -79937,7 +79942,7 @@
       "activation": 1738256715996
     },
     "120363319606500208@newsletter": {
-      "exp": 0,
+      "exp": 2,
       "limit": 499,
       "registered": false,
       "age": -1,
@@ -79952,8 +79957,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
-      "premiumTime": 0
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1738264221054
     },
     "220555563245799@lid": {
       "exp": 19,
@@ -97082,7 +97088,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738261873890,
+      "backupDB": 1738263831086,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
