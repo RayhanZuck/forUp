@@ -277,7 +277,7 @@
       "activation": 1738333852650
     },
     "62895339044041@s.whatsapp.net": {
-      "exp": 4414,
+      "exp": 4416,
       "limit": 499,
       "registered": false,
       "name": "1337XYRZ",
@@ -298,7 +298,7 @@
       "lastBanned": 0,
       "lastcommand": 1738342711214,
       "limitprem": 10000,
-      "activation": 1738351110985,
+      "activation": 1738353989360,
       "warn": 6
     },
     "62882017032144@s.whatsapp.net": {
@@ -2281,7 +2281,7 @@
       "activation": 1738135887959
     },
     "120363280765137622@g.us": {
-      "exp": 2769,
+      "exp": 2777,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -2300,7 +2300,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1738344085878
+      "activation": 1738353034739
     },
     "6285716205495@s.whatsapp.net": {
       "exp": 739,
@@ -3583,7 +3583,7 @@
       "activation": 1737697372402
     },
     "6281299925108@s.whatsapp.net": {
-      "exp": 1246,
+      "exp": 1257,
       "limit": 499,
       "registered": false,
       "name": "KAF",
@@ -3602,7 +3602,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1738343353390
+      "activation": 1738354511321
     },
     "62895340116798@s.whatsapp.net": {
       "exp": 398,
@@ -4530,7 +4530,7 @@
       "lastcommand": 1735704807280
     },
     "6285693534852@s.whatsapp.net": {
-      "exp": 9182,
+      "exp": 9183,
       "limit": 444,
       "registered": false,
       "name": "amimirrr.",
@@ -4550,7 +4550,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1738307504198,
-      "activation": 1738352479522
+      "activation": 1738353982884
     },
     "6285709677118@s.whatsapp.net": {
       "exp": 6,
@@ -18728,7 +18728,7 @@
       "lastcommand": 1737525603342
     },
     "6285882488937@s.whatsapp.net": {
-      "exp": 9622,
+      "exp": 9678,
       "limit": 499,
       "registered": false,
       "name": "𝓔𝓻𝓲 𝓟𝓾𝓽𝓻𝓲 𝓢𝔂𝓪𝓯𝓲𝓽𝓻𝓲",
@@ -18747,7 +18747,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1738352710952
+      "activation": 1738353813818
     },
     "6283843079592@s.whatsapp.net": {
       "exp": 143,
@@ -82746,6 +82746,46 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1738347067125
+    },
+    "58575233769641@lid": {
+      "exp": 5,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1738353246451
+    },
+    "259291973972060@lid": {
+      "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1738353724058
     }
   },
   "chats": {
@@ -100423,7 +100463,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738351104167,
+      "backupDB": 1738352912332,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
