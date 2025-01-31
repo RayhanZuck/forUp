@@ -91,7 +91,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 298220,
+      "exp": 298282,
       "limit": 501,
       "registered": false,
       "name": "Rayhan?",
@@ -118,7 +118,7 @@
       "lastrob": 1738051316049,
       "resetSent": false,
       "delay": 1735728719020,
-      "activation": 1738330976179
+      "activation": 1738332111567
     },
     "6289512651656@s.whatsapp.net": {
       "exp": 7,
@@ -165,7 +165,7 @@
       "lastcommand": 1735076311886
     },
     "120363183420865643@g.us": {
-      "exp": 8271,
+      "exp": 8278,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -184,7 +184,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1738322217138
+      "activation": 1738332170302
     },
     "120363240711248334@g.us": {
       "exp": 6590,
@@ -1076,7 +1076,7 @@
       "activation": 1738328732705
     },
     "120363280765137622@g.us": {
-      "exp": 10317,
+      "exp": 10326,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1095,7 +1095,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1738321858461
+      "activation": 1738332171967
     },
     "6283119901412@s.whatsapp.net": {
       "exp": 16378,
@@ -4046,12 +4046,12 @@
       "WarnReason": "",
       "lastweekly": 1736583137440,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1736566426882,
       "lastdaily": 1736582771978,
-      "activation": 1737793281276
+      "activation": 1738332104646
     },
     "6281336763815@s.whatsapp.net": {
       "exp": 48,
@@ -99837,7 +99837,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastcommand": 1736912667540,
-      "activation": 1738331286929,
+      "activation": 1738332281846,
       "lastBanned": 0
     },
     "6287776054488@s.whatsapp.net": {
@@ -111491,8 +111491,8 @@
       "lastBanned": 0
     },
     "6282391969890@s.whatsapp.net": {
-      "exp": 230,
-      "limit": 449,
+      "exp": 249,
+      "limit": 444,
       "registered": false,
       "name": "rapaa",
       "age": -1,
@@ -111510,11 +111510,11 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1738325952230
+      "activation": 1738331658404
     },
     "6285836065035@s.whatsapp.net": {
-      "exp": 303,
-      "limit": 439,
+      "exp": 357,
+      "limit": 429,
       "registered": false,
       "name": "Reyzz",
       "age": -1,
@@ -111531,7 +111531,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738330506579,
+      "activation": 1738331794029,
       "lastBanned": 0
     },
     "6285649045053@s.whatsapp.net": {
@@ -111952,7 +111952,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1738321065193,
+      "activation": 1738331890766,
       "lastBanned": 0
     },
     "260808030347354@lid": {
@@ -112138,7 +112138,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1738323488317,
+      "activation": 1738332358784,
       "lastBanned": 0
     },
     "156126893101206@lid": {
@@ -112434,8 +112434,110 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1738331494195,
+      "activation": 1738332579134,
       "lastBanned": 0
+    },
+    "255379040694335@lid": {
+      "exp": 4,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1738331526195
+    },
+    "6285788492449@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 499,
+      "registered": false,
+      "name": "Ranzzz",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1738332281632,
+      "lastBanned": 0
+    },
+    "279036089618607@lid": {
+      "exp": 8,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1738332299628
+    },
+    "125962951909382@lid": {
+      "exp": 7,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1738332730283
+    },
+    "58802716016744@lid": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1738333307242
     }
   },
   "chats": {
@@ -112801,7 +112903,7 @@
         "62881024295546@s.whatsapp.net": 230,
         "6289615791122@s.whatsapp.net": 274,
         "6289502754002@s.whatsapp.net": 1031,
-        "6285945503757@s.whatsapp.net": 8111,
+        "6285945503757@s.whatsapp.net": 8255,
         "6285122427850@s.whatsapp.net": 27,
         "6282254738788@s.whatsapp.net": 104,
         "6285775650917@s.whatsapp.net": 18,
@@ -112900,8 +113002,8 @@
         "6282377801410@s.whatsapp.net": 22,
         "6285210267559@s.whatsapp.net": 30,
         "6287870992681@s.whatsapp.net": 99,
-        "6282391969890@s.whatsapp.net": 240,
-        "6285836065035@s.whatsapp.net": 298,
+        "6282391969890@s.whatsapp.net": 246,
+        "6285836065035@s.whatsapp.net": 313,
         "923366584816@s.whatsapp.net": 117,
         "6283857999257@s.whatsapp.net": 17,
         "6281943244137@s.whatsapp.net": 46,
@@ -124077,10 +124179,10 @@
       "lastSuccess": 1738249159178
     },
     "owner-exec.js": {
-      "total": 636,
-      "success": 636,
-      "last": 1738330976179,
-      "lastSuccess": 1738330976179
+      "total": 638,
+      "success": 638,
+      "last": 1738332111567,
+      "lastSuccess": 1738332111567
     },
     "downloader-ytmp3.js": {
       "total": 275,
@@ -124737,10 +124839,10 @@
       "lastSuccess": 1738318544672
     },
     "sticker-all.js": {
-      "total": 1731,
-      "success": 1676,
-      "last": 1738330966372,
-      "lastSuccess": 1738330966372
+      "total": 1734,
+      "success": 1679,
+      "last": 1738331794029,
+      "lastSuccess": 1738331794029
     },
     "game-nebang.js": {
       "total": 172,
@@ -124779,10 +124881,10 @@
       "lastSuccess": 1730805308720
     },
     "info-grouplist.js": {
-      "total": 18,
-      "success": 17,
-      "last": 1738330882060,
-      "lastSuccess": 1738330882060
+      "total": 19,
+      "success": 18,
+      "last": 1738332085270,
+      "lastSuccess": 1738332085270
     },
     "group-cekid.js": {
       "total": 16,
@@ -126715,7 +126817,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738329609916,
+      "backupDB": 1738331526017,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
