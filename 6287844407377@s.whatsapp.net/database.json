@@ -25576,8 +25576,8 @@
       "premiumTime": 0
     },
     "6289699656185@s.whatsapp.net": {
-      "exp": 408,
-      "limit": 199,
+      "exp": 474,
+      "limit": 149,
       "registered": false,
       "name": "nujum",
       "age": -1,
@@ -25595,8 +25595,8 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1737678572187,
-      "activation": 1737894858680
+      "lastcommand": 1738361584926,
+      "activation": 1738361696521
     },
     "6282325120131@s.whatsapp.net": {
       "exp": 17,
@@ -99838,7 +99838,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastcommand": 1736912667540,
-      "activation": 1738359046175,
+      "activation": 1738361696553,
       "lastBanned": 0
     },
     "6287776054488@s.whatsapp.net": {
@@ -112953,6 +112953,48 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1738359779063
+    },
+    "6289530622738@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "name": "̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥ˠ̥̥̥̥̥̥̥̥̥̥̈̈̈̈̈̈̈̈",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1738362095181,
+      "lastBanned": 0
+    },
+    "224395347923172@lid": {
+      "exp": 5,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1738362094189
     }
   },
   "chats": {
@@ -124350,6 +124392,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6289530622738@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -124504,10 +124567,10 @@
       "lastSuccess": 1735826605203
     },
     "ai-remini.js": {
-      "total": 1416,
-      "success": 1334,
-      "last": 1738309444335,
-      "lastSuccess": 1738309444335
+      "total": 1418,
+      "success": 1336,
+      "last": 1738361696521,
+      "lastSuccess": 1738361696521
     },
     "game-tebakbendera.js": {
       "total": 712,
@@ -127066,10 +127129,10 @@
       "lastSuccess": 1737735489248
     },
     "_main-menu.js": {
-      "total": 80,
-      "success": 76,
-      "last": 1738337393724,
-      "lastSuccess": 1738337393724
+      "total": 81,
+      "success": 77,
+      "last": 1738361602318,
+      "lastSuccess": 1738361602318
     },
     "havefun-taugaksih.js": {
       "total": 2,
@@ -127256,7 +127319,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738359048242,
+      "backupDB": 1738361584384,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
