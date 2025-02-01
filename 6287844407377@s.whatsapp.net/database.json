@@ -91,7 +91,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 298293,
+      "exp": 298308,
       "limit": 501,
       "registered": false,
       "name": "Rayhan?",
@@ -118,7 +118,7 @@
       "lastrob": 1738051316049,
       "resetSent": false,
       "delay": 1735728719020,
-      "activation": 1738365176976
+      "activation": 1738370332837
     },
     "6289512651656@s.whatsapp.net": {
       "exp": 7,
@@ -90547,8 +90547,8 @@
       "lastBanned": 0
     },
     "6281280820166@s.whatsapp.net": {
-      "exp": 11619,
-      "limit": 917,
+      "exp": 11667,
+      "limit": 897,
       "registered": false,
       "name": "Auliaa✓",
       "age": -1,
@@ -90563,12 +90563,12 @@
       "WarnReason": "",
       "lastweekly": 1735894242549,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "lastcommand": 1738240135318,
+      "lastcommand": 1738369631272,
       "lastBanned": 0,
       "lastdaily": 1737351099105,
-      "activation": 1738309357523
+      "activation": 1738369648895
     },
     "6282141348146@s.whatsapp.net": {
       "exp": 8,
@@ -99819,7 +99819,7 @@
       "lastBanned": 0
     },
     "6287844407377@s.whatsapp.net": {
-      "exp": 162,
+      "exp": 184,
       "limit": 499,
       "registered": false,
       "name": "why",
@@ -99835,10 +99835,10 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastcommand": 1736912667540,
-      "activation": 1738363594967,
+      "activation": 1738371043074,
       "lastBanned": 0
     },
     "6287776054488@s.whatsapp.net": {
@@ -112974,7 +112974,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1738362095181,
+      "activation": 1738369695774,
       "lastBanned": 0
     },
     "224395347923172@lid": {
@@ -124612,10 +124612,10 @@
       "lastSuccess": 1738334494636
     },
     "downloader-tiktok.js": {
-      "total": 2860,
-      "success": 2668,
-      "last": 1738331230592,
-      "lastSuccess": 1738331230592
+      "total": 2861,
+      "success": 2669,
+      "last": 1738369539162,
+      "lastSuccess": 1738369539162
     },
     "owner-sf.js": {
       "total": 1532,
@@ -127318,10 +127318,10 @@
       "lastSuccess": 1737735489248
     },
     "_main-menu.js": {
-      "total": 81,
-      "success": 77,
-      "last": 1738361602318,
-      "lastSuccess": 1738361602318
+      "total": 82,
+      "success": 78,
+      "last": 1738369648895,
+      "lastSuccess": 1738369648895
     },
     "havefun-taugaksih.js": {
       "total": 2,
@@ -127508,7 +127508,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738367318762,
+      "backupDB": 1738369533098,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
