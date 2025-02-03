@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738594400220,
+      "activation": 1738597845155,
       "lastcommand": 1738593571860,
       "limitprem": 10000
     },
@@ -364,7 +364,7 @@
       "activation": 1738594402881
     },
     "6289515823841@s.whatsapp.net": {
-      "exp": 11,
+      "exp": 77,
       "limit": 499,
       "registered": false,
       "name": "Ardyan Store",
@@ -382,8 +382,30 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738594869243,
+      "activation": 1738595604755,
       "lastBanned": 0
+    },
+    "6288246246949@s.whatsapp.net": {
+      "exp": 35,
+      "limit": 474,
+      "registered": false,
+      "name": "𝙒𝙞𝙡𝙙𝙖𝙣",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0,
+      "activation": 1738596845574
     }
   },
   "chats": {
@@ -633,7 +655,8 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285790379156@s.whatsapp.net": 4
+        "6285790379156@s.whatsapp.net": 8,
+        "6288246246949@s.whatsapp.net": 3
       },
       "totalChat": 0
     }
@@ -694,10 +717,10 @@
       "lastSuccess": 1738593594942
     },
     "ai-remini.js": {
-      "total": 3,
-      "success": 1,
-      "last": 1738593665102,
-      "lastSuccess": 1738593665102
+      "total": 4,
+      "success": 2,
+      "last": 1738596821562,
+      "lastSuccess": 1738596821562
     },
     "user-balance.js": {
       "total": 2,
@@ -712,10 +735,10 @@
       "lastSuccess": 1738594275286
     },
     "group-delete.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1738594353391,
-      "lastSuccess": 1738594353391
+      "total": 3,
+      "success": 3,
+      "last": 1738596845574,
+      "lastSuccess": 1738596845574
     }
   },
   "msgs": {},
@@ -743,7 +766,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738593571016,
+      "backupDB": 1738595594371,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
