@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 169,
+      "exp": 288,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738621080497,
+      "activation": 1738623996121,
       "lastcommand": 1738620921876,
       "limitprem": 10000
     },
@@ -470,6 +470,70 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1738621080492
+    },
+    "6282224463723@s.whatsapp.net": {
+      "exp": 70,
+      "limit": 499,
+      "registered": false,
+      "name": "JB AMENG STORE OWN LUSY CHA [ REGION JATENG ]",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1738622316437,
+      "lastBanned": 0
+    },
+    "6289658855234@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "name": "@Nadiaaa",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1738622232170
+    },
+    "120363285098723475@g.us": {
+      "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "name": {},
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1738623964357
     }
   },
   "chats": {
@@ -719,8 +783,10 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285790379156@s.whatsapp.net": 8,
-        "6288246246949@s.whatsapp.net": 3
+        "6285790379156@s.whatsapp.net": 22,
+        "6288246246949@s.whatsapp.net": 17,
+        "6285952824311@s.whatsapp.net": 7,
+        "6281394956570@s.whatsapp.net": 7
       },
       "totalChat": 0
     },
@@ -750,6 +816,27 @@
       "totalChat": 0
     },
     "6289514402063@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
+    },
+    "6289658855234@s.whatsapp.net": {
       "isBanned": false,
       "welcome": true,
       "detect": true,
@@ -833,10 +920,10 @@
       "lastSuccess": 1738621080492
     },
     "user-balance.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1738593677605,
-      "lastSuccess": 1738593677605
+      "total": 3,
+      "success": 3,
+      "last": 1738622409120,
+      "lastSuccess": 1738622409120
     },
     "downloader-tiktok.js": {
       "total": 4,
@@ -851,10 +938,22 @@
       "lastSuccess": 1738596845574
     },
     "group-ceksewa.js": {
+      "total": 3,
+      "success": 2,
+      "last": 1738622477868,
+      "lastSuccess": 1738620371110
+    },
+    "downloader-play.js": {
       "total": 2,
       "success": 2,
-      "last": 1738620371110,
-      "lastSuccess": 1738620371110
+      "last": 1738622320133,
+      "lastSuccess": 1738622320133
+    },
+    "group-totag.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1738622503433,
+      "lastSuccess": 1738622503433
     }
   },
   "msgs": {},
@@ -882,7 +981,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738620347523,
+      "backupDB": 1738622219917,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
