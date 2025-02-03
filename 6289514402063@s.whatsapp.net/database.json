@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 86,
+      "exp": 169,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,8 +207,8 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738615858034,
-      "lastcommand": 1738593571860,
+      "activation": 1738621080497,
+      "lastcommand": 1738620921876,
       "limitprem": 10000
     },
     "6285766064200@s.whatsapp.net": {
@@ -449,6 +449,27 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "activation": 1738604767684
+    },
+    "6281394956570@s.whatsapp.net": {
+      "exp": 19,
+      "limit": 474,
+      "registered": false,
+      "name": "Claura",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1738621080492
     }
   },
   "chats": {
@@ -727,6 +748,27 @@
         "6289688149851@s.whatsapp.net": 2
       },
       "totalChat": 0
+    },
+    "6289514402063@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -779,16 +821,16 @@
       "lastSuccess": 1738593877912
     },
     "_main-menu.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1738593594942,
-      "lastSuccess": 1738593594942
+      "total": 4,
+      "success": 4,
+      "last": 1738620966017,
+      "lastSuccess": 1738620966017
     },
     "ai-remini.js": {
-      "total": 4,
-      "success": 2,
-      "last": 1738596821562,
-      "lastSuccess": 1738596821562
+      "total": 5,
+      "success": 3,
+      "last": 1738621080492,
+      "lastSuccess": 1738621080492
     },
     "user-balance.js": {
       "total": 2,
@@ -797,16 +839,22 @@
       "lastSuccess": 1738593677605
     },
     "downloader-tiktok.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1738600682452,
-      "lastSuccess": 1738600682452
+      "total": 4,
+      "success": 4,
+      "last": 1738620363549,
+      "lastSuccess": 1738620363549
     },
     "group-delete.js": {
       "total": 3,
       "success": 3,
       "last": 1738596845574,
       "lastSuccess": 1738596845574
+    },
+    "group-ceksewa.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1738620371110,
+      "lastSuccess": 1738620371110
     }
   },
   "msgs": {},
@@ -834,7 +882,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738603728833,
+      "backupDB": 1738620347523,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
