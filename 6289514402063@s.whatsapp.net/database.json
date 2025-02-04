@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 3609,
+      "exp": 3641,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738709777694,
+      "activation": 1738711821333,
       "lastcommand": 1738667491175,
       "limitprem": 10000
     },
@@ -344,7 +344,7 @@
       "lastBanned": 0
     },
     "6282128611759@s.whatsapp.net": {
-      "exp": 143,
+      "exp": 151,
       "limit": 499,
       "registered": false,
       "name": "LANGZZ SKIBIDI",
@@ -360,9 +360,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1738685976688,
+      "activation": 1738710428735,
       "lastBanned": 0
     },
     "6289515823841@s.whatsapp.net": {
@@ -2091,10 +2091,10 @@
       "lastSuccess": 1738651765515
     },
     "downloader-tiktok.js": {
-      "total": 29,
-      "success": 26,
-      "last": 1738707467130,
-      "lastSuccess": 1738707467130
+      "total": 30,
+      "success": 27,
+      "last": 1738711820682,
+      "lastSuccess": 1738711820682
     },
     "group-delete.js": {
       "total": 11,
@@ -2254,7 +2254,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738708588269,
+      "backupDB": 1738710428378,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
