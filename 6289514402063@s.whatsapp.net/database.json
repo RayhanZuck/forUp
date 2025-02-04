@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 1917,
+      "exp": 1945,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,8 +207,8 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738648219888,
-      "lastcommand": 1738640582140,
+      "activation": 1738650455366,
+      "lastcommand": 1738649714893,
       "limitprem": 10000
     },
     "6285766064200@s.whatsapp.net": {
@@ -366,7 +366,7 @@
       "lastBanned": 0
     },
     "6289515823841@s.whatsapp.net": {
-      "exp": 120,
+      "exp": 122,
       "limit": 499,
       "registered": false,
       "name": "Ardyan Store",
@@ -384,7 +384,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738645193585,
+      "activation": 1738648813151,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -1530,10 +1530,10 @@
       "lastSuccess": 1738593877912
     },
     "_main-menu.js": {
-      "total": 23,
-      "success": 23,
-      "last": 1738642346834,
-      "lastSuccess": 1738642346834
+      "total": 24,
+      "success": 24,
+      "last": 1738649726115,
+      "lastSuccess": 1738649726115
     },
     "ai-remini.js": {
       "total": 18,
@@ -1663,7 +1663,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738646901870,
+      "backupDB": 1738648812577,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
