@@ -207,12 +207,12 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738625662361,
+      "activation": 1738627332402,
       "lastcommand": 1738625604116,
       "limitprem": 10000
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 60,
+      "exp": 80,
       "limit": 499,
       "registered": false,
       "name": "Rayhan🍟",
@@ -228,13 +228,14 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1738593882962,
-      "lastBanned": 0
+      "activation": 1738627332398,
+      "lastBanned": 0,
+      "lastcommand": 1738627319900
     },
     "6285723372013@s.whatsapp.net": {
-      "exp": 51,
+      "exp": 54,
       "limit": 499,
       "registered": false,
       "name": "FREYAMYWIFE🤍",
@@ -252,7 +253,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738624952876,
+      "activation": 1738627910219,
       "lastBanned": 0
     },
     "6281263255789@s.whatsapp.net": {
@@ -624,7 +625,7 @@
       "activation": 1738625229150
     },
     "6281945393763@s.whatsapp.net": {
-      "exp": 10,
+      "exp": 19,
       "limit": 499,
       "registered": false,
       "name": "𝟯𝗧 ┃ 𝙁𝙞𝙠𝙠𝙎𝙝𝙖𝙖",
@@ -642,7 +643,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738625702283
+      "activation": 1738628823536,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -866,9 +868,9 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285723372013@s.whatsapp.net": 149,
-        "6282278426952@s.whatsapp.net": 26,
-        "6281945393763@s.whatsapp.net": 1
+        "6285723372013@s.whatsapp.net": 169,
+        "6282278426952@s.whatsapp.net": 28,
+        "6281945393763@s.whatsapp.net": 4
       },
       "totalChat": 0
     },
@@ -1104,10 +1106,10 @@
       "lastSuccess": 1738593877912
     },
     "_main-menu.js": {
-      "total": 9,
-      "success": 9,
-      "last": 1738625662356,
-      "lastSuccess": 1738625662356
+      "total": 10,
+      "success": 10,
+      "last": 1738627332398,
+      "lastSuccess": 1738627332398
     },
     "ai-remini.js": {
       "total": 5,
@@ -1195,7 +1197,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738624055974,
+      "backupDB": 1738627319365,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
