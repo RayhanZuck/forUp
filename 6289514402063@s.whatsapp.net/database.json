@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 1887,
+      "exp": 1917,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738646726642,
+      "activation": 1738648219888,
       "lastcommand": 1738640582140,
       "limitprem": 10000
     },
@@ -344,7 +344,7 @@
       "lastBanned": 0
     },
     "6282128611759@s.whatsapp.net": {
-      "exp": 22,
+      "exp": 28,
       "limit": 499,
       "registered": false,
       "name": "LANGZZ SKIBIDI",
@@ -362,7 +362,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738642916042,
+      "activation": 1738647274851,
       "lastBanned": 0
     },
     "6289515823841@s.whatsapp.net": {
@@ -649,7 +649,7 @@
       "lastBanned": 0
     },
     "62882019154458@s.whatsapp.net": {
-      "exp": 177,
+      "exp": 182,
       "limit": 499,
       "registered": false,
       "name": "aku suka pisang 🍌",
@@ -668,7 +668,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1738640191226,
+      "activation": 1738647915866,
       "lastcommand": 1738640060744
     },
     "6289604405225@s.whatsapp.net": {
@@ -1548,10 +1548,10 @@
       "lastSuccess": 1738640252805
     },
     "downloader-tiktok.js": {
-      "total": 9,
-      "success": 7,
-      "last": 1738640160565,
-      "lastSuccess": 1738640142663
+      "total": 10,
+      "success": 8,
+      "last": 1738646930143,
+      "lastSuccess": 1738646930143
     },
     "group-delete.js": {
       "total": 4,
@@ -1663,7 +1663,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738645077915,
+      "backupDB": 1738646901870,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
