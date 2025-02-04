@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 3601,
+      "exp": 3609,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738707543917,
+      "activation": 1738709777694,
       "lastcommand": 1738667491175,
       "limitprem": 10000
     },
@@ -360,7 +360,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "activation": 1738685976688,
       "lastBanned": 0
@@ -476,7 +476,7 @@
       "lastcommand": 1738640716466
     },
     "6282224463723@s.whatsapp.net": {
-      "exp": 111,
+      "exp": 153,
       "limit": 499,
       "registered": false,
       "name": "JB AMENG STORE OWN LUSY CHA [ REGION JATENG ]",
@@ -494,11 +494,11 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738675020113,
+      "activation": 1738708638540,
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 191,
+      "exp": 198,
       "limit": 499,
       "registered": false,
       "name": "@Nadiaaa",
@@ -516,7 +516,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738706834857,
+      "activation": 1738709145923,
       "lastBanned": 0,
       "lastcommand": 1738667595080
     },
@@ -718,7 +718,7 @@
       "lastBanned": 0
     },
     "6281224160567@s.whatsapp.net": {
-      "exp": 30,
+      "exp": 31,
       "limit": 499,
       "registered": false,
       "name": "Titin Supriatin",
@@ -736,7 +736,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738671121306,
+      "activation": 1738710213090,
       "lastBanned": 0
     },
     "6283896295573@s.whatsapp.net": {
@@ -1822,7 +1822,7 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6281224160567@s.whatsapp.net": 6
+        "6281224160567@s.whatsapp.net": 10
       },
       "totalChat": 0
     },
@@ -2254,7 +2254,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738706255487,
+      "backupDB": 1738708588269,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
