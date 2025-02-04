@@ -474,7 +474,7 @@
       "lastBanned": 0
     },
     "6282224463723@s.whatsapp.net": {
-      "exp": 70,
+      "exp": 87,
       "limit": 499,
       "registered": false,
       "name": "JB AMENG STORE OWN LUSY CHA [ REGION JATENG ]",
@@ -492,7 +492,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738622316437,
+      "activation": 1738634533173,
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
@@ -647,7 +647,7 @@
       "lastBanned": 0
     },
     "62882019154458@s.whatsapp.net": {
-      "exp": 30,
+      "exp": 37,
       "limit": 499,
       "registered": false,
       "name": "aku suka pisang 🍌",
@@ -666,7 +666,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1738632624811
+      "activation": 1738635890570
     },
     "6289604405225@s.whatsapp.net": {
       "exp": 5,
@@ -710,6 +710,49 @@
       "premiumTime": 0,
       "activation": 1738633685757,
       "lastBanned": 0
+    },
+    "6281224160567@s.whatsapp.net": {
+      "exp": 11,
+      "limit": 499,
+      "registered": false,
+      "name": "Titin Supriatin",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1738634338884,
+      "lastBanned": 0
+    },
+    "6283896295573@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 499,
+      "registered": false,
+      "name": "Agung",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1738635008128
     }
   },
   "chats": {
@@ -1119,6 +1162,73 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "120363298313567129@g.us": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0,
+      "total": {
+        "6281224160567@s.whatsapp.net": 3
+      },
+      "totalChat": 0
+    },
+    "6283896295573@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
+    },
+    "62882019154458@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -1268,7 +1378,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738632195487,
+      "backupDB": 1738634102442,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
