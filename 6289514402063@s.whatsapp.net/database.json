@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 641,
+      "exp": 761,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738627332402,
+      "activation": 1738631949506,
       "lastcommand": 1738625604116,
       "limitprem": 10000
     },
@@ -1112,10 +1112,10 @@
       "lastSuccess": 1738627332398
     },
     "ai-remini.js": {
-      "total": 5,
-      "success": 3,
-      "last": 1738621080492,
-      "lastSuccess": 1738621080492
+      "total": 10,
+      "success": 8,
+      "last": 1738629674838,
+      "lastSuccess": 1738629674838
     },
     "user-balance.js": {
       "total": 3,
@@ -1197,7 +1197,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738627319365,
+      "backupDB": 1738629419719,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
