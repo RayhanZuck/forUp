@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738644705931,
+      "activation": 1738646726642,
       "lastcommand": 1738640582140,
       "limitprem": 10000
     },
@@ -235,8 +235,8 @@
       "lastcommand": 1738627319900
     },
     "6285723372013@s.whatsapp.net": {
-      "exp": 439,
-      "limit": 459,
+      "exp": 459,
+      "limit": 454,
       "registered": false,
       "name": "FREYAMYWIFE🤍",
       "age": -1,
@@ -253,7 +253,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738641978456,
+      "activation": 1738645082988,
       "lastBanned": 0
     },
     "6281263255789@s.whatsapp.net": {
@@ -366,7 +366,7 @@
       "lastBanned": 0
     },
     "6289515823841@s.whatsapp.net": {
-      "exp": 117,
+      "exp": 120,
       "limit": 499,
       "registered": false,
       "name": "Ardyan Store",
@@ -384,7 +384,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738643342161,
+      "activation": 1738645193585,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -801,7 +801,7 @@
       "lastBanned": 0
     },
     "6285693602998@s.whatsapp.net": {
-      "exp": 303,
+      "exp": 358,
       "limit": 474,
       "registered": false,
       "name": "Hanzz",
@@ -819,7 +819,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738642013742,
+      "activation": 1738646805792,
       "lastBanned": 0
     },
     "6287870207130@s.whatsapp.net": {
@@ -845,7 +845,7 @@
       "lastBanned": 0
     },
     "6285819057026@s.whatsapp.net": {
-      "exp": 7,
+      "exp": 15,
       "limit": 499,
       "registered": false,
       "name": "nama",
@@ -863,7 +863,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738643982859,
+      "activation": 1738646347479,
       "lastBanned": 0
     },
     "6283131998936@s.whatsapp.net": {
@@ -1132,12 +1132,12 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285723372013@s.whatsapp.net": 1744,
+        "6285723372013@s.whatsapp.net": 1798,
         "6282278426952@s.whatsapp.net": 53,
         "6281945393763@s.whatsapp.net": 54,
         "6287761301460@s.whatsapp.net": 480,
-        "6285693602998@s.whatsapp.net": 1379,
-        "6283865469782@s.whatsapp.net": 1
+        "6285693602998@s.whatsapp.net": 1446,
+        "6283865469782@s.whatsapp.net": 7
       },
       "totalChat": 0
     },
@@ -1192,9 +1192,9 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6289688149851@s.whatsapp.net": 11,
-        "6287870207130@s.whatsapp.net": 8,
-        "6285819057026@s.whatsapp.net": 3
+        "6289688149851@s.whatsapp.net": 13,
+        "6287870207130@s.whatsapp.net": 10,
+        "6285819057026@s.whatsapp.net": 6
       },
       "totalChat": 0
     },
@@ -1500,10 +1500,10 @@
       "lastSuccess": 1716040986605
     },
     "sticker-sticker.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1738624969610,
-      "lastSuccess": 1738624969610
+      "total": 5,
+      "success": 5,
+      "last": 1738646694680,
+      "lastSuccess": 1738646694680
     },
     "owner-getdb.js": {
       "total": 2,
@@ -1578,10 +1578,10 @@
       "lastSuccess": 1738622503433
     },
     "sticker-all.js": {
-      "total": 11,
-      "success": 11,
-      "last": 1738644705047,
-      "lastSuccess": 1738644705047
+      "total": 12,
+      "success": 12,
+      "last": 1738645082988,
+      "lastSuccess": 1738645082988
     },
     "user-limit.js": {
       "total": 4,
@@ -1663,7 +1663,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738642915595,
+      "backupDB": 1738645077915,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
