@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738679880758,
+      "activation": 1738681532489,
       "lastcommand": 1738667491175,
       "limitprem": 10000
     },
@@ -257,7 +257,7 @@
       "lastBanned": 0
     },
     "6281263255789@s.whatsapp.net": {
-      "exp": 302,
+      "exp": 309,
       "limit": 499,
       "registered": false,
       "name": "HATXX STORE",
@@ -275,7 +275,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738680012009,
+      "activation": 1738682110895,
       "lastBanned": 0
     },
     "6282278426952@s.whatsapp.net": {
@@ -543,7 +543,7 @@
       "lastBanned": 0
     },
     "6285956201348@s.whatsapp.net": {
-      "exp": 4394,
+      "exp": 4776,
       "limit": 499,
       "registered": false,
       "name": "Arbakti Fun V5",
@@ -562,7 +562,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1738679880811
+      "activation": 1738681528555
     },
     "6285953875418@s.whatsapp.net": {
       "exp": 8,
@@ -958,7 +958,7 @@
       "lastBanned": 0
     },
     "62882001117867@s.whatsapp.net": {
-      "exp": 39,
+      "exp": 47,
       "limit": 499,
       "registered": false,
       "name": "Mita_Animation",
@@ -976,7 +976,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738676466389,
+      "activation": 1738681090185,
       "lastBanned": 0
     },
     "6289531717404@s.whatsapp.net": {
@@ -1220,8 +1220,8 @@
       "lastBanned": 0
     },
     "6281256310196@s.whatsapp.net": {
-      "exp": 77,
-      "limit": 484,
+      "exp": 103,
+      "limit": 479,
       "registered": false,
       "name": "?",
       "age": -1,
@@ -1239,7 +1239,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1738678495930
+      "activation": 1738680404055
     },
     "62895325629523@s.whatsapp.net": {
       "exp": 25,
@@ -1282,6 +1282,28 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1738675148715
+    },
+    "6285856011884@s.whatsapp.net": {
+      "exp": 22,
+      "limit": 479,
+      "registered": false,
+      "name": "kikko suka togasur",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0,
+      "activation": 1738681535254
     }
   },
   "chats": {
@@ -1537,22 +1559,23 @@
       "expired": 0,
       "total": {
         "6285790379156@s.whatsapp.net": 302,
-        "6288246246949@s.whatsapp.net": 642,
+        "6288246246949@s.whatsapp.net": 694,
         "6285952824311@s.whatsapp.net": 147,
         "6281394956570@s.whatsapp.net": 768,
-        "6285956201348@s.whatsapp.net": 3502,
+        "6285956201348@s.whatsapp.net": 3830,
         "6285704902885@s.whatsapp.net": 95,
         "6281553476702@s.whatsapp.net": 263,
         "62882003885815@s.whatsapp.net": 45,
         "6289531370298@s.whatsapp.net": 188,
         "6281901668360@s.whatsapp.net": 177,
-        "6282128611759@s.whatsapp.net": 615,
+        "6282128611759@s.whatsapp.net": 719,
         "6287761301460@s.whatsapp.net": 491,
-        "6283897506416@s.whatsapp.net": 220,
-        "6281215712318@s.whatsapp.net": 114,
-        "6281256310196@s.whatsapp.net": 262,
-        "62895325629523@s.whatsapp.net": 59,
-        "6285378447987@s.whatsapp.net": 45
+        "6283897506416@s.whatsapp.net": 324,
+        "6281215712318@s.whatsapp.net": 140,
+        "6281256310196@s.whatsapp.net": 392,
+        "62895325629523@s.whatsapp.net": 85,
+        "6285378447987@s.whatsapp.net": 71,
+        "6285856011884@s.whatsapp.net": 10
       },
       "totalChat": 0
     },
@@ -2001,10 +2024,10 @@
       "lastSuccess": 1738651765515
     },
     "downloader-tiktok.js": {
-      "total": 22,
-      "success": 19,
-      "last": 1738679837676,
-      "lastSuccess": 1738679837676
+      "total": 23,
+      "success": 20,
+      "last": 1738681532070,
+      "lastSuccess": 1738681532070
     },
     "group-delete.js": {
       "total": 8,
@@ -2031,10 +2054,10 @@
       "lastSuccess": 1738622503433
     },
     "sticker-all.js": {
-      "total": 15,
-      "success": 15,
-      "last": 1738678495930,
-      "lastSuccess": 1738678495930
+      "total": 16,
+      "success": 16,
+      "last": 1738680404055,
+      "lastSuccess": 1738680404055
     },
     "user-limit.js": {
       "total": 4,
@@ -2152,7 +2175,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738678493671,
+      "backupDB": 1738680402223,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
