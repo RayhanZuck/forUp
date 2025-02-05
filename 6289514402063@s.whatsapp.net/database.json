@@ -344,7 +344,7 @@
       "lastBanned": 0
     },
     "6282128611759@s.whatsapp.net": {
-      "exp": 151,
+      "exp": 163,
       "limit": 499,
       "registered": false,
       "name": "LANGZZ SKIBIDI",
@@ -360,9 +360,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1738710428735,
+      "activation": 1738732060417,
       "lastBanned": 0
     },
     "6289515823841@s.whatsapp.net": {
@@ -718,7 +718,7 @@
       "lastBanned": 0
     },
     "6281224160567@s.whatsapp.net": {
-      "exp": 41,
+      "exp": 43,
       "limit": 499,
       "registered": false,
       "name": "Titin Supriatin",
@@ -736,7 +736,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738729070069,
+      "activation": 1738732605952,
       "lastBanned": 0
     },
     "6283896295573@s.whatsapp.net": {
@@ -960,7 +960,7 @@
       "lastBanned": 0
     },
     "62882001117867@s.whatsapp.net": {
-      "exp": 58,
+      "exp": 69,
       "limit": 499,
       "registered": false,
       "name": "Mita_Animation",
@@ -978,7 +978,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738706256066,
+      "activation": 1738733027462,
       "lastBanned": 0
     },
     "6289531717404@s.whatsapp.net": {
@@ -2300,7 +2300,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738729069846,
+      "backupDB": 1738732059377,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
