@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738720595397,
+      "activation": 1738723029784,
       "lastcommand": 1738667491175,
       "limitprem": 10000
     },
@@ -366,7 +366,7 @@
       "lastBanned": 0
     },
     "6289515823841@s.whatsapp.net": {
-      "exp": 269,
+      "exp": 271,
       "limit": 499,
       "registered": false,
       "name": "Ardyan Store",
@@ -384,7 +384,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738720823385,
+      "activation": 1738721315767,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -476,7 +476,7 @@
       "lastcommand": 1738640716466
     },
     "6282224463723@s.whatsapp.net": {
-      "exp": 171,
+      "exp": 172,
       "limit": 499,
       "registered": false,
       "name": "JB AMENG STORE OWN LUSY CHA [ REGION JATENG ]",
@@ -494,7 +494,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738716359116,
+      "activation": 1738721478146,
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
@@ -543,7 +543,7 @@
       "lastBanned": 0
     },
     "6285956201348@s.whatsapp.net": {
-      "exp": 5913,
+      "exp": 6024,
       "limit": 499,
       "registered": false,
       "name": "Arbakti Fun V5",
@@ -562,7 +562,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1738707368187
+      "activation": 1738723027723
     },
     "6285953875418@s.whatsapp.net": {
       "exp": 8,
@@ -1092,8 +1092,8 @@
       "lastBanned": 0
     },
     "6283897506416@s.whatsapp.net": {
-      "exp": 174,
-      "limit": 439,
+      "exp": 209,
+      "limit": 419,
       "registered": false,
       "name": "Oraa Gendeng",
       "age": -1,
@@ -1110,7 +1110,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738712491831,
+      "activation": 1738723033179,
       "lastBanned": 0
     },
     "6288905021627@s.whatsapp.net": {
@@ -1648,24 +1648,24 @@
         "6285790379156@s.whatsapp.net": 302,
         "6288246246949@s.whatsapp.net": 726,
         "6285952824311@s.whatsapp.net": 147,
-        "6281394956570@s.whatsapp.net": 792,
-        "6285956201348@s.whatsapp.net": 4847,
+        "6281394956570@s.whatsapp.net": 799,
+        "6285956201348@s.whatsapp.net": 4966,
         "6285704902885@s.whatsapp.net": 95,
-        "6281553476702@s.whatsapp.net": 321,
+        "6281553476702@s.whatsapp.net": 328,
         "62882003885815@s.whatsapp.net": 45,
         "6289531370298@s.whatsapp.net": 188,
         "6281901668360@s.whatsapp.net": 177,
         "6282128611759@s.whatsapp.net": 783,
-        "6287761301460@s.whatsapp.net": 702,
-        "6283897506416@s.whatsapp.net": 388,
+        "6287761301460@s.whatsapp.net": 737,
+        "6283897506416@s.whatsapp.net": 397,
         "6281215712318@s.whatsapp.net": 156,
         "6281256310196@s.whatsapp.net": 472,
-        "62895325629523@s.whatsapp.net": 133,
+        "62895325629523@s.whatsapp.net": 140,
         "6285378447987@s.whatsapp.net": 87,
-        "6285856011884@s.whatsapp.net": 160,
-        "6282280107952@s.whatsapp.net": 76,
-        "6283175509153@s.whatsapp.net": 68,
-        "6285759383210@s.whatsapp.net": 59
+        "6285856011884@s.whatsapp.net": 174,
+        "6282280107952@s.whatsapp.net": 83,
+        "6283175509153@s.whatsapp.net": 75,
+        "6285759383210@s.whatsapp.net": 66
       },
       "totalChat": 0
     },
@@ -2135,16 +2135,16 @@
       "lastSuccess": 1738651765515
     },
     "downloader-tiktok.js": {
-      "total": 31,
-      "success": 28,
-      "last": 1738720595127,
-      "lastSuccess": 1738720595127
+      "total": 32,
+      "success": 29,
+      "last": 1738723012998,
+      "lastSuccess": 1738723012998
     },
     "group-delete.js": {
-      "total": 11,
-      "success": 11,
-      "last": 1738705560561,
-      "lastSuccess": 1738705560561
+      "total": 12,
+      "success": 12,
+      "last": 1738723027291,
+      "lastSuccess": 1738723027291
     },
     "group-ceksewa.js": {
       "total": 3,
@@ -2298,7 +2298,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738719311897,
+      "backupDB": 1738721315175,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
