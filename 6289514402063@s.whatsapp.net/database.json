@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738771943005,
+      "activation": 1738788685657,
       "lastcommand": 1738667491175,
       "limitprem": 10000
     },
@@ -257,7 +257,7 @@
       "lastBanned": 0
     },
     "6281263255789@s.whatsapp.net": {
-      "exp": 687,
+      "exp": 697,
       "limit": 499,
       "registered": false,
       "name": "HATXX STORE",
@@ -275,7 +275,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738772077927,
+      "activation": 1738774300689,
       "lastBanned": 0
     },
     "6282278426952@s.whatsapp.net": {
@@ -2527,7 +2527,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738771220316,
+      "backupDB": 1738773572515,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
