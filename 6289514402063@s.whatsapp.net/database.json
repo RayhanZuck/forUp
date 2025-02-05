@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738725575256,
+      "activation": 1738728576951,
       "lastcommand": 1738667491175,
       "limitprem": 10000
     },
@@ -257,7 +257,7 @@
       "lastBanned": 0
     },
     "6281263255789@s.whatsapp.net": {
-      "exp": 434,
+      "exp": 444,
       "limit": 499,
       "registered": false,
       "name": "HATXX STORE",
@@ -275,7 +275,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738687282714,
+      "activation": 1738727795365,
       "lastBanned": 0
     },
     "6282278426952@s.whatsapp.net": {
@@ -366,7 +366,7 @@
       "lastBanned": 0
     },
     "6289515823841@s.whatsapp.net": {
-      "exp": 281,
+      "exp": 286,
       "limit": 499,
       "registered": false,
       "name": "Ardyan Store",
@@ -384,7 +384,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738723623025,
+      "activation": 1738728392312,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -718,7 +718,7 @@
       "lastBanned": 0
     },
     "6281224160567@s.whatsapp.net": {
-      "exp": 31,
+      "exp": 33,
       "limit": 499,
       "registered": false,
       "name": "Titin Supriatin",
@@ -736,11 +736,11 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738710213090,
+      "activation": 1738728899586,
       "lastBanned": 0
     },
     "6283896295573@s.whatsapp.net": {
-      "exp": 3,
+      "exp": 74,
       "limit": 499,
       "registered": false,
       "name": "Agung",
@@ -758,7 +758,9 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738635008128
+      "activation": 1738727369668,
+      "lastBanned": 0,
+      "lastcommand": 1738727337516
     },
     "6283139312937@s.whatsapp.net": {
       "exp": 1,
@@ -1845,7 +1847,7 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6281224160567@s.whatsapp.net": 10
+        "6281224160567@s.whatsapp.net": 15
       },
       "totalChat": 0
     },
@@ -2117,10 +2119,10 @@
       "lastSuccess": 1738654255760
     },
     "_main-menu.js": {
-      "total": 29,
-      "success": 29,
-      "last": 1738720398136,
-      "lastSuccess": 1738720398136
+      "total": 30,
+      "success": 30,
+      "last": 1738727356194,
+      "lastSuccess": 1738727356194
     },
     "ai-remini.js": {
       "total": 39,
@@ -2219,10 +2221,10 @@
       "lastSuccess": 1738641203638
     },
     "_cek.js": {
-      "total": 5,
-      "success": 5,
-      "last": 1738720374350,
-      "lastSuccess": 1738720374350
+      "total": 6,
+      "success": 6,
+      "last": 1738727207230,
+      "lastSuccess": 1738727207230
     },
     "info-donasi.js": {
       "total": 2,
@@ -2298,7 +2300,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738723622277,
+      "backupDB": 1738727206292,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
