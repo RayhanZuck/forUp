@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738723029784,
+      "activation": 1738725575256,
       "lastcommand": 1738667491175,
       "limitprem": 10000
     },
@@ -366,7 +366,7 @@
       "lastBanned": 0
     },
     "6289515823841@s.whatsapp.net": {
-      "exp": 271,
+      "exp": 281,
       "limit": 499,
       "registered": false,
       "name": "Ardyan Store",
@@ -384,7 +384,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738721315767,
+      "activation": 1738723623025,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -674,7 +674,7 @@
       "lastcommand": 1738640060744
     },
     "6289604405225@s.whatsapp.net": {
-      "exp": 41,
+      "exp": 44,
       "limit": 499,
       "registered": false,
       "name": "RIS4YOUSTR",
@@ -692,7 +692,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738719312514,
+      "activation": 1738724126738,
       "lastBanned": 0
     },
     "6287761301460@s.whatsapp.net": {
@@ -2298,7 +2298,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738721315175,
+      "backupDB": 1738723622277,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
