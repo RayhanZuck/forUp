@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738718782432,
+      "activation": 1738720595397,
       "lastcommand": 1738667491175,
       "limitprem": 10000
     },
@@ -366,7 +366,7 @@
       "lastBanned": 0
     },
     "6289515823841@s.whatsapp.net": {
-      "exp": 264,
+      "exp": 269,
       "limit": 499,
       "registered": false,
       "name": "Ardyan Store",
@@ -384,7 +384,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738717690501,
+      "activation": 1738720823385,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -674,7 +674,7 @@
       "lastcommand": 1738640060744
     },
     "6289604405225@s.whatsapp.net": {
-      "exp": 31,
+      "exp": 41,
       "limit": 499,
       "registered": false,
       "name": "RIS4YOUSTR",
@@ -692,12 +692,12 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738671664697,
+      "activation": 1738719312514,
       "lastBanned": 0
     },
     "6287761301460@s.whatsapp.net": {
-      "exp": 805,
-      "limit": 119,
+      "exp": 829,
+      "limit": 94,
       "registered": false,
       "name": "Afiq™",
       "age": -1,
@@ -714,7 +714,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738705570958,
+      "activation": 1738720545049,
       "lastBanned": 0
     },
     "6281224160567@s.whatsapp.net": {
@@ -1368,6 +1368,29 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1738691980141
+    },
+    "6283180230402@s.whatsapp.net": {
+      "exp": 62,
+      "limit": 479,
+      "registered": false,
+      "name": "_par",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastcommand": 1738720373389,
+      "activation": 1738720595127,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -2021,6 +2044,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6283180230402@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -2073,16 +2117,16 @@
       "lastSuccess": 1738654255760
     },
     "_main-menu.js": {
-      "total": 28,
-      "success": 28,
-      "last": 1738667609107,
-      "lastSuccess": 1738667609107
+      "total": 29,
+      "success": 29,
+      "last": 1738720398136,
+      "lastSuccess": 1738720398136
     },
     "ai-remini.js": {
-      "total": 38,
-      "success": 34,
-      "last": 1738707385014,
-      "lastSuccess": 1738705547958
+      "total": 39,
+      "success": 35,
+      "last": 1738720545049,
+      "lastSuccess": 1738720545049
     },
     "user-balance.js": {
       "total": 6,
@@ -2091,10 +2135,10 @@
       "lastSuccess": 1738651765515
     },
     "downloader-tiktok.js": {
-      "total": 30,
-      "success": 27,
-      "last": 1738711820682,
-      "lastSuccess": 1738711820682
+      "total": 31,
+      "success": 28,
+      "last": 1738720595127,
+      "lastSuccess": 1738720595127
     },
     "group-delete.js": {
       "total": 11,
@@ -2175,10 +2219,10 @@
       "lastSuccess": 1738641203638
     },
     "_cek.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1738661242035,
-      "lastSuccess": 1738661242035
+      "total": 5,
+      "success": 5,
+      "last": 1738720374350,
+      "lastSuccess": 1738720374350
     },
     "info-donasi.js": {
       "total": 2,
@@ -2254,7 +2298,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738717480192,
+      "backupDB": 1738719311897,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
