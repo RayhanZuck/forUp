@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 3705,
+      "exp": 3723,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738750794928,
+      "activation": 1738753932541,
       "lastcommand": 1738667491175,
       "limitprem": 10000
     },
@@ -257,7 +257,7 @@
       "lastBanned": 0
     },
     "6281263255789@s.whatsapp.net": {
-      "exp": 553,
+      "exp": 572,
       "limit": 499,
       "registered": false,
       "name": "HATXX STORE",
@@ -275,7 +275,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738752171030,
+      "activation": 1738753136806,
       "lastBanned": 0
     },
     "6282278426952@s.whatsapp.net": {
@@ -651,7 +651,7 @@
       "lastBanned": 0
     },
     "62882019154458@s.whatsapp.net": {
-      "exp": 470,
+      "exp": 476,
       "limit": 499,
       "registered": false,
       "name": "aku suka pisang 🍌",
@@ -670,11 +670,11 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1738752295798,
+      "activation": 1738752365874,
       "lastcommand": 1738640060744
     },
     "6289604405225@s.whatsapp.net": {
-      "exp": 78,
+      "exp": 95,
       "limit": 499,
       "registered": false,
       "name": "RIS4YOUSTR",
@@ -692,7 +692,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738745507326,
+      "activation": 1738754022578,
       "lastBanned": 0
     },
     "6287761301460@s.whatsapp.net": {
@@ -1095,7 +1095,7 @@
       "lastBanned": 0
     },
     "6283897506416@s.whatsapp.net": {
-      "exp": 218,
+      "exp": 225,
       "limit": 419,
       "registered": false,
       "name": "Oraa Gendeng",
@@ -1113,7 +1113,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738734321024,
+      "activation": 1738753022566,
       "lastBanned": 0
     },
     "6288905021627@s.whatsapp.net": {
@@ -2337,10 +2337,10 @@
       "lastSuccess": 1738651765515
     },
     "downloader-tiktok.js": {
-      "total": 35,
-      "success": 32,
-      "last": 1738750792659,
-      "lastSuccess": 1738750792659
+      "total": 36,
+      "success": 33,
+      "last": 1738752648266,
+      "lastSuccess": 1738752648266
     },
     "group-delete.js": {
       "total": 12,
@@ -2506,7 +2506,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738750504636,
+      "backupDB": 1738752365552,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
