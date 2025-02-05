@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 3852,
+      "exp": 3914,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,8 +207,8 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738794689913,
-      "lastcommand": 1738667491175,
+      "activation": 1738797691638,
+      "lastcommand": 1738796748371,
       "limitprem": 10000
     },
     "6285766064200@s.whatsapp.net": {
@@ -257,7 +257,7 @@
       "lastBanned": 0
     },
     "6281263255789@s.whatsapp.net": {
-      "exp": 697,
+      "exp": 702,
       "limit": 499,
       "registered": false,
       "name": "HATXX STORE",
@@ -275,7 +275,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738774300689,
+      "activation": 1738797239316,
       "lastBanned": 0
     },
     "6282278426952@s.whatsapp.net": {
@@ -498,7 +498,7 @@
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 281,
+      "exp": 297,
       "limit": 499,
       "registered": false,
       "name": "@Nadiaaa",
@@ -516,7 +516,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738762310569,
+      "activation": 1738796989182,
       "lastBanned": 0,
       "lastcommand": 1738667595080
     },
@@ -651,7 +651,7 @@
       "lastBanned": 0
     },
     "62882019154458@s.whatsapp.net": {
-      "exp": 555,
+      "exp": 578,
       "limit": 499,
       "registered": false,
       "name": "aku suka pisang 🍌",
@@ -670,7 +670,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1738794117984,
+      "activation": 1738795963638,
       "lastcommand": 1738640060744
     },
     "6289604405225@s.whatsapp.net": {
@@ -740,7 +740,7 @@
       "lastBanned": 0
     },
     "6283896295573@s.whatsapp.net": {
-      "exp": 74,
+      "exp": 78,
       "limit": 499,
       "registered": false,
       "name": "Agung",
@@ -758,7 +758,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738727369668,
+      "activation": 1738797445632,
       "lastBanned": 0,
       "lastcommand": 1738727337516
     },
@@ -2361,10 +2361,10 @@
       "lastSuccess": 1738754328660
     },
     "_main-menu.js": {
-      "total": 30,
-      "success": 30,
-      "last": 1738727356194,
-      "lastSuccess": 1738727356194
+      "total": 31,
+      "success": 31,
+      "last": 1738796762393,
+      "lastSuccess": 1738796762393
     },
     "ai-remini.js": {
       "total": 39,
@@ -2379,10 +2379,10 @@
       "lastSuccess": 1738651765515
     },
     "downloader-tiktok.js": {
-      "total": 36,
-      "success": 33,
-      "last": 1738752648266,
-      "lastSuccess": 1738752648266
+      "total": 37,
+      "success": 34,
+      "last": 1738796770517,
+      "lastSuccess": 1738796770517
     },
     "group-delete.js": {
       "total": 12,
@@ -2548,7 +2548,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738793716871,
+      "backupDB": 1738795951201,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
