@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738728576951,
+      "activation": 1738731578730,
       "lastcommand": 1738667491175,
       "limitprem": 10000
     },
@@ -360,13 +360,13 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "activation": 1738710428735,
       "lastBanned": 0
     },
     "6289515823841@s.whatsapp.net": {
-      "exp": 286,
+      "exp": 296,
       "limit": 499,
       "registered": false,
       "name": "Ardyan Store",
@@ -384,7 +384,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738728392312,
+      "activation": 1738730696019,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -718,7 +718,7 @@
       "lastBanned": 0
     },
     "6281224160567@s.whatsapp.net": {
-      "exp": 33,
+      "exp": 41,
       "limit": 499,
       "registered": false,
       "name": "Titin Supriatin",
@@ -736,7 +736,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738728899586,
+      "activation": 1738729070069,
       "lastBanned": 0
     },
     "6283896295573@s.whatsapp.net": {
@@ -1847,7 +1847,7 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6281224160567@s.whatsapp.net": 15
+        "6281224160567@s.whatsapp.net": 21
       },
       "totalChat": 0
     },
@@ -2300,7 +2300,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738727206292,
+      "backupDB": 1738729069846,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
