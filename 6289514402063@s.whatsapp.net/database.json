@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 3723,
+      "exp": 3735,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,12 +207,12 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738753932541,
+      "activation": 1738755396885,
       "lastcommand": 1738667491175,
       "limitprem": 10000
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 517,
+      "exp": 539,
       "limit": 499,
       "registered": false,
       "name": "Rayhan🍟",
@@ -230,7 +230,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738738436327,
+      "activation": 1738754328660,
       "lastBanned": 0,
       "lastcommand": 1738627319900
     },
@@ -344,7 +344,7 @@
       "lastBanned": 0
     },
     "6282128611759@s.whatsapp.net": {
-      "exp": 209,
+      "exp": 213,
       "limit": 499,
       "registered": false,
       "name": "LANGZZ SKIBIDI",
@@ -362,7 +362,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738747566377,
+      "activation": 1738754929792,
       "lastBanned": 0
     },
     "6289515823841@s.whatsapp.net": {
@@ -498,7 +498,7 @@
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 220,
+      "exp": 237,
       "limit": 499,
       "registered": false,
       "name": "@Nadiaaa",
@@ -516,7 +516,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738752077453,
+      "activation": 1738755673661,
       "lastBanned": 0,
       "lastcommand": 1738667595080
     },
@@ -2313,10 +2313,10 @@
       "lastSuccess": 1716041075591
     },
     "owner-exec.js": {
-      "total": 6,
-      "success": 6,
-      "last": 1738654255760,
-      "lastSuccess": 1738654255760
+      "total": 7,
+      "success": 7,
+      "last": 1738754328660,
+      "lastSuccess": 1738754328660
     },
     "_main-menu.js": {
       "total": 30,
@@ -2506,7 +2506,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738752365552,
+      "backupDB": 1738754327436,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
