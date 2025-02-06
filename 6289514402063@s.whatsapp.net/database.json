@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738848206730,
+      "activation": 1738854121498,
       "lastcommand": 1738843020180,
       "limitprem": 10000
     },
@@ -257,7 +257,7 @@
       "lastBanned": 0
     },
     "6281263255789@s.whatsapp.net": {
-      "exp": 762,
+      "exp": 770,
       "limit": 499,
       "registered": false,
       "name": "HATXX STORE",
@@ -275,7 +275,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738846476272,
+      "activation": 1738852031320,
       "lastBanned": 0
     },
     "6282278426952@s.whatsapp.net": {
@@ -852,7 +852,7 @@
       "lastBanned": 0
     },
     "6285819057026@s.whatsapp.net": {
-      "exp": 27,
+      "exp": 32,
       "limit": 499,
       "registered": false,
       "name": "nama",
@@ -870,7 +870,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738846238581,
+      "activation": 1738851079487,
       "lastBanned": 0
     },
     "6283131998936@s.whatsapp.net": {
@@ -1958,11 +1958,11 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6289688149851@s.whatsapp.net": 37,
-        "6287870207130@s.whatsapp.net": 37,
-        "6285819057026@s.whatsapp.net": 50,
-        "6289531717404@s.whatsapp.net": 46,
-        "6283175256317@s.whatsapp.net": 20
+        "6289688149851@s.whatsapp.net": 39,
+        "6287870207130@s.whatsapp.net": 40,
+        "6285819057026@s.whatsapp.net": 57,
+        "6289531717404@s.whatsapp.net": 51,
+        "6283175256317@s.whatsapp.net": 22
       },
       "totalChat": 0
     },
@@ -2594,7 +2594,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738848482652,
+      "backupDB": 1738851078955,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
