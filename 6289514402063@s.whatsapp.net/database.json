@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 3915,
+      "exp": 3958,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738830192036,
+      "activation": 1738831055129,
       "lastcommand": 1738796748371,
       "limitprem": 10000
     },
@@ -498,7 +498,7 @@
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 297,
+      "exp": 298,
       "limit": 499,
       "registered": false,
       "name": "@Nadiaaa",
@@ -516,7 +516,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738796989182,
+      "activation": 1738831226858,
       "lastBanned": 0,
       "lastcommand": 1738667595080
     },
@@ -1524,7 +1524,7 @@
       "lastBanned": 0
     },
     "6285864875612@s.whatsapp.net": {
-      "exp": 13,
+      "exp": 19,
       "limit": 499,
       "registered": false,
       "name": "~caaaa",
@@ -1542,7 +1542,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738742779491,
+      "activation": 1738831827424,
       "lastBanned": 0
     },
     "6289630443842@s.whatsapp.net": {
@@ -2367,10 +2367,10 @@
       "lastSuccess": 1738796762393
     },
     "ai-remini.js": {
-      "total": 41,
-      "success": 37,
-      "last": 1738827205476,
-      "lastSuccess": 1738827205476
+      "total": 42,
+      "success": 38,
+      "last": 1738831055124,
+      "lastSuccess": 1738831055124
     },
     "user-balance.js": {
       "total": 6,
@@ -2379,10 +2379,10 @@
       "lastSuccess": 1738651765515
     },
     "downloader-tiktok.js": {
-      "total": 38,
-      "success": 35,
-      "last": 1738827349219,
-      "lastSuccess": 1738827349219
+      "total": 39,
+      "success": 36,
+      "last": 1738831015896,
+      "lastSuccess": 1738831015896
     },
     "group-delete.js": {
       "total": 12,
@@ -2548,7 +2548,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738828833976,
+      "backupDB": 1738830985997,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
