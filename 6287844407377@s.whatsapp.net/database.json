@@ -3783,8 +3783,8 @@
       "activation": 1737640368213
     },
     "6285603654413@s.whatsapp.net": {
-      "exp": 14595,
-      "limit": 1499,
+      "exp": 14709,
+      "limit": 1399,
       "registered": false,
       "name": "K",
       "age": -1,
@@ -3803,7 +3803,7 @@
       "premiumTime": 0,
       "lastdaily": 1732772807692,
       "lastBanned": 0,
-      "activation": 1738755108934
+      "activation": 1738806611215
     },
     "628568658957@s.whatsapp.net": {
       "exp": 18,
@@ -34053,7 +34053,7 @@
       "lastBanned": 0
     },
     "6289637192199@s.whatsapp.net": {
-      "exp": 1420,
+      "exp": 1430,
       "limit": 1131,
       "registered": false,
       "name": "T",
@@ -34073,7 +34073,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1738750818825,
-      "activation": 1738800708407,
+      "activation": 1738807336947,
       "lastdaily": 1738728824434,
       "lastwork": 1737805961571,
       "lastrob": 1737807393014
@@ -48552,8 +48552,8 @@
       "lastBanned": 0
     },
     "6285945960981@s.whatsapp.net": {
-      "exp": 306,
-      "limit": 454,
+      "exp": 327,
+      "limit": 449,
       "registered": false,
       "name": ".",
       "age": -1,
@@ -48572,7 +48572,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1736596655909,
-      "activation": 1737894872583
+      "activation": 1738807602200
     },
     "6281251745464@s.whatsapp.net": {
       "exp": 6,
@@ -99826,7 +99826,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastcommand": 1736912667540,
-      "activation": 1738800708412,
+      "activation": 1738807605034,
       "lastBanned": 0
     },
     "6287776054488@s.whatsapp.net": {
@@ -101395,8 +101395,8 @@
       "activation": 1737057728488
     },
     "6283863707968@s.whatsapp.net": {
-      "exp": 6153,
-      "limit": 209,
+      "exp": 6172,
+      "limit": 184,
       "registered": false,
       "name": "Asepp'kenalpot🗣️💥🔥💯💯",
       "age": -1,
@@ -101413,7 +101413,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738737266259,
+      "activation": 1738807315180,
       "lastBanned": 0
     },
     "6283187435704@s.whatsapp.net": {
@@ -119091,7 +119091,7 @@
         "6287862112981@s.whatsapp.net": 303,
         "6282143175110@s.whatsapp.net": 1570,
         "6285961457520@s.whatsapp.net": 270,
-        "62882006212609@s.whatsapp.net": 4499,
+        "62882006212609@s.whatsapp.net": 4509,
         "628999684800@s.whatsapp.net": 79,
         "6282140063419@s.whatsapp.net": 2991,
         "6283169226415@s.whatsapp.net": 2313,
@@ -119134,7 +119134,7 @@
         "6282295272552@s.whatsapp.net": 1388,
         "6288213051620@s.whatsapp.net": 38,
         "6285842562537@s.whatsapp.net": 8936,
-        "6285945960981@s.whatsapp.net": 291,
+        "6285945960981@s.whatsapp.net": 292,
         "6282213576013@s.whatsapp.net": 134,
         "6282258614162@s.whatsapp.net": 148,
         "6285960625531@s.whatsapp.net": 46,
@@ -119250,7 +119250,7 @@
         "6285368894254@s.whatsapp.net": 156,
         "6285715011992@s.whatsapp.net": 171,
         "6281364434575@s.whatsapp.net": 233,
-        "6289637192199@s.whatsapp.net": 988,
+        "6289637192199@s.whatsapp.net": 992,
         "6285194918844@s.whatsapp.net": 134,
         "6285724862795@s.whatsapp.net": 110,
         "6281220652661@s.whatsapp.net": 16,
@@ -129824,10 +129824,10 @@
       "lastSuccess": 1738743013318
     },
     "downloader-play.js": {
-      "total": 2891,
-      "success": 2693,
-      "last": 1738755108934,
-      "lastSuccess": 1738755108934
+      "total": 2894,
+      "success": 2696,
+      "last": 1738807315180,
+      "lastSuccess": 1738807315180
     },
     "downloader-ytvideo.js": {
       "total": 148,
@@ -130322,10 +130322,10 @@
       "lastSuccess": 1738729040666
     },
     "downloader-spotify.js": {
-      "total": 315,
-      "success": 248,
-      "last": 1738755086414,
-      "lastSuccess": 1738754830250
+      "total": 318,
+      "success": 250,
+      "last": 1738806262060,
+      "lastSuccess": 1738806262060
     },
     "games-tictactoe.js": {
       "total": 107,
@@ -130730,10 +130730,10 @@
       "lastSuccess": 1738729049802
     },
     "sticker-all.js": {
-      "total": 1561,
-      "success": 1505,
-      "last": 1738758616021,
-      "lastSuccess": 1738758616021
+      "total": 1562,
+      "success": 1506,
+      "last": 1738807602200,
+      "lastSuccess": 1738807602200
     },
     "game-nebang.js": {
       "total": 172,
@@ -132712,7 +132712,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738800702705,
+      "backupDB": 1738806196510,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
