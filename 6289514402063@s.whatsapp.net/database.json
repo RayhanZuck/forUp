@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 4351,
+      "exp": 4461,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,8 +207,8 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738878518263,
-      "lastcommand": 1738843020180,
+      "activation": 1738881519981,
+      "lastcommand": 1738879931408,
       "limitprem": 10000
     },
     "6285766064200@s.whatsapp.net": {
@@ -235,8 +235,8 @@
       "lastcommand": 1738627319900
     },
     "6285723372013@s.whatsapp.net": {
-      "exp": 492,
-      "limit": 454,
+      "exp": 519,
+      "limit": 449,
       "registered": false,
       "name": "FREYAMYWIFE🤍",
       "age": -1,
@@ -253,7 +253,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738663921237,
+      "activation": 1738880707164,
       "lastBanned": 0
     },
     "6281263255789@s.whatsapp.net": {
@@ -344,7 +344,7 @@
       "lastBanned": 0
     },
     "6282128611759@s.whatsapp.net": {
-      "exp": 247,
+      "exp": 255,
       "limit": 499,
       "registered": false,
       "name": "LANGZZ SKIBIDI",
@@ -362,7 +362,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738873024072,
+      "activation": 1738879223362,
       "lastBanned": 0
     },
     "6289515823841@s.whatsapp.net": {
@@ -498,7 +498,7 @@
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 417,
+      "exp": 433,
       "limit": 499,
       "registered": false,
       "name": "@Nadiaaa",
@@ -516,7 +516,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738848483139,
+      "activation": 1738880973184,
       "lastBanned": 0,
       "lastcommand": 1738667595080
     },
@@ -962,7 +962,7 @@
       "lastBanned": 0
     },
     "62882001117867@s.whatsapp.net": {
-      "exp": 143,
+      "exp": 144,
       "limit": 499,
       "registered": false,
       "name": "Mita_Animation",
@@ -980,7 +980,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738798502118,
+      "activation": 1738880946443,
       "lastBanned": 0
     },
     "6289531717404@s.whatsapp.net": {
@@ -1876,14 +1876,14 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285723372013@s.whatsapp.net": 1958,
+        "6285723372013@s.whatsapp.net": 1963,
         "6282278426952@s.whatsapp.net": 53,
         "6281945393763@s.whatsapp.net": 54,
-        "6287761301460@s.whatsapp.net": 605,
-        "6285693602998@s.whatsapp.net": 1816,
+        "6287761301460@s.whatsapp.net": 610,
+        "6285693602998@s.whatsapp.net": 1826,
         "6283865469782@s.whatsapp.net": 23,
-        "6282171897051@s.whatsapp.net": 46,
-        "6285161111396@s.whatsapp.net": 1
+        "6282171897051@s.whatsapp.net": 48,
+        "6285161111396@s.whatsapp.net": 2
       },
       "totalChat": 0
     },
@@ -2407,10 +2407,10 @@
       "lastSuccess": 1738754328660
     },
     "_main-menu.js": {
-      "total": 33,
-      "success": 32,
-      "last": 1738845676429,
-      "lastSuccess": 1738845676429
+      "total": 34,
+      "success": 33,
+      "last": 1738879943892,
+      "lastSuccess": 1738879943892
     },
     "ai-remini.js": {
       "total": 42,
@@ -2425,10 +2425,10 @@
       "lastSuccess": 1738651765515
     },
     "downloader-tiktok.js": {
-      "total": 42,
-      "success": 39,
-      "last": 1738845973441,
-      "lastSuccess": 1738845973441
+      "total": 44,
+      "success": 41,
+      "last": 1738880587683,
+      "lastSuccess": 1738880587683
     },
     "group-delete.js": {
       "total": 12,
@@ -2455,10 +2455,10 @@
       "lastSuccess": 1738622503433
     },
     "sticker-all.js": {
-      "total": 23,
-      "success": 23,
-      "last": 1738856193198,
-      "lastSuccess": 1738856193198
+      "total": 24,
+      "success": 24,
+      "last": 1738880707164,
+      "lastSuccess": 1738880707164
     },
     "user-limit.js": {
       "total": 4,
@@ -2600,7 +2600,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738872658888,
+      "backupDB": 1738879222661,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
