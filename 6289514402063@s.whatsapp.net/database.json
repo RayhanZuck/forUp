@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738824089111,
+      "activation": 1738827349408,
       "lastcommand": 1738796748371,
       "limitprem": 10000
     },
@@ -366,7 +366,7 @@
       "lastBanned": 0
     },
     "6289515823841@s.whatsapp.net": {
-      "exp": 484,
+      "exp": 497,
       "limit": 499,
       "registered": false,
       "name": "Ardyan Store",
@@ -384,7 +384,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738823534354,
+      "activation": 1738828324396,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -696,8 +696,8 @@
       "lastBanned": 0
     },
     "6287761301460@s.whatsapp.net": {
-      "exp": 829,
-      "limit": 94,
+      "exp": 894,
+      "limit": 24,
       "registered": false,
       "name": "Afiq™",
       "age": -1,
@@ -714,7 +714,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738720545049,
+      "activation": 1738827349219,
       "lastBanned": 0
     },
     "6281224160567@s.whatsapp.net": {
@@ -2367,10 +2367,10 @@
       "lastSuccess": 1738796762393
     },
     "ai-remini.js": {
-      "total": 39,
-      "success": 35,
-      "last": 1738720545049,
-      "lastSuccess": 1738720545049
+      "total": 41,
+      "success": 37,
+      "last": 1738827205476,
+      "lastSuccess": 1738827205476
     },
     "user-balance.js": {
       "total": 6,
@@ -2379,10 +2379,10 @@
       "lastSuccess": 1738651765515
     },
     "downloader-tiktok.js": {
-      "total": 37,
-      "success": 34,
-      "last": 1738796770517,
-      "lastSuccess": 1738796770517
+      "total": 38,
+      "success": 35,
+      "last": 1738827349219,
+      "lastSuccess": 1738827349219
     },
     "group-delete.js": {
       "total": 12,
@@ -2548,7 +2548,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738823533722,
+      "backupDB": 1738826873565,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
