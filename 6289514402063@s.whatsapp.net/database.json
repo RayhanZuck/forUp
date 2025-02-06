@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738854121498,
+      "activation": 1738854540187,
       "lastcommand": 1738843020180,
       "limitprem": 10000
     },
@@ -257,7 +257,7 @@
       "lastBanned": 0
     },
     "6281263255789@s.whatsapp.net": {
-      "exp": 770,
+      "exp": 784,
       "limit": 499,
       "registered": false,
       "name": "HATXX STORE",
@@ -275,7 +275,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738852031320,
+      "activation": 1738854539815,
       "lastBanned": 0
     },
     "6282278426952@s.whatsapp.net": {
@@ -300,7 +300,7 @@
       "activation": 1738594062332
     },
     "6283196722292@s.whatsapp.net": {
-      "exp": 171,
+      "exp": 178,
       "limit": 499,
       "registered": false,
       "name": "BOBOB STORE",
@@ -318,7 +318,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738842067391,
+      "activation": 1738854261728,
       "lastBanned": 0
     },
     "6285790379156@s.whatsapp.net": {
@@ -366,7 +366,7 @@
       "lastBanned": 0
     },
     "6289515823841@s.whatsapp.net": {
-      "exp": 520,
+      "exp": 532,
       "limit": 499,
       "registered": false,
       "name": "Ardyan Store",
@@ -384,7 +384,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738847530436,
+      "activation": 1738855179216,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -2479,10 +2479,10 @@
       "lastSuccess": 1738742204637
     },
     "group-hidetag.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1738639900250,
-      "lastSuccess": 1738639900250
+      "total": 4,
+      "success": 4,
+      "last": 1738854539815,
+      "lastSuccess": 1738854539815
     },
     "group-add.js": {
       "total": 2,
@@ -2594,7 +2594,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738851078955,
+      "backupDB": 1738854216565,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
