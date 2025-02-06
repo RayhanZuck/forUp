@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738831055129,
+      "activation": 1738833094740,
       "lastcommand": 1738796748371,
       "limitprem": 10000
     },
@@ -366,7 +366,7 @@
       "lastBanned": 0
     },
     "6289515823841@s.whatsapp.net": {
-      "exp": 501,
+      "exp": 511,
       "limit": 499,
       "registered": false,
       "name": "Ardyan Store",
@@ -384,7 +384,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738828834477,
+      "activation": 1738833339504,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -1608,6 +1608,28 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1738790268454
+    },
+    "6287783024314@s.whatsapp.net": {
+      "exp": 18,
+      "limit": 499,
+      "registered": false,
+      "name": "Rifki",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1738834493676,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -2548,7 +2570,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738830985997,
+      "backupDB": 1738832928934,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
