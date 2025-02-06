@@ -207,12 +207,12 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738854540187,
+      "activation": 1738867932371,
       "lastcommand": 1738843020180,
       "limitprem": 10000
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 539,
+      "exp": 612,
       "limit": 499,
       "registered": false,
       "name": "Rayhan🍟",
@@ -230,7 +230,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738754328660,
+      "activation": 1738856248063,
       "lastBanned": 0,
       "lastcommand": 1738627319900
     },
@@ -763,8 +763,8 @@
       "lastcommand": 1738727337516
     },
     "6283139312937@s.whatsapp.net": {
-      "exp": 123,
-      "limit": 479,
+      "exp": 150,
+      "limit": 474,
       "registered": false,
       "name": "Ramz",
       "age": -1,
@@ -781,7 +781,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738845920478,
+      "activation": 1738856193198,
       "lastBanned": 0,
       "lastcommand": 1738845662215
     },
@@ -830,7 +830,7 @@
       "lastBanned": 0
     },
     "6287870207130@s.whatsapp.net": {
-      "exp": 10,
+      "exp": 15,
       "limit": 499,
       "registered": false,
       "name": "Rupz Store",
@@ -848,7 +848,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738802910243,
+      "activation": 1738856021077,
       "lastBanned": 0
     },
     "6285819057026@s.whatsapp.net": {
@@ -1958,11 +1958,11 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6289688149851@s.whatsapp.net": 39,
-        "6287870207130@s.whatsapp.net": 40,
-        "6285819057026@s.whatsapp.net": 57,
-        "6289531717404@s.whatsapp.net": 51,
-        "6283175256317@s.whatsapp.net": 22
+        "6289688149851@s.whatsapp.net": 41,
+        "6287870207130@s.whatsapp.net": 44,
+        "6285819057026@s.whatsapp.net": 64,
+        "6289531717404@s.whatsapp.net": 56,
+        "6283175256317@s.whatsapp.net": 24
       },
       "totalChat": 0
     },
@@ -2455,10 +2455,10 @@
       "lastSuccess": 1738622503433
     },
     "sticker-all.js": {
-      "total": 22,
-      "success": 22,
-      "last": 1738740777061,
-      "lastSuccess": 1738740777061
+      "total": 23,
+      "success": 23,
+      "last": 1738856193198,
+      "lastSuccess": 1738856193198
     },
     "user-limit.js": {
       "total": 4,
@@ -2533,10 +2533,10 @@
       "lastSuccess": 1738667842601
     },
     "owner-sf.js": {
-      "total": 5,
-      "success": 5,
-      "last": 1738673911582,
-      "lastSuccess": 1738673911582
+      "total": 7,
+      "success": 6,
+      "last": 1738856244051,
+      "lastSuccess": 1738856244051
     },
     "downloader-pinterest.js": {
       "total": 2,
@@ -2567,6 +2567,12 @@
       "success": 0,
       "last": 1738744469909,
       "lastSuccess": 0
+    },
+    "info-statserver.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1738856248063,
+      "lastSuccess": 1738856248063
     }
   },
   "msgs": {},
@@ -2594,7 +2600,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738854216565,
+      "backupDB": 1738856020435,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
