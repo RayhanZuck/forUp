@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738806699204,
+      "activation": 1738809700463,
       "lastcommand": 1738796748371,
       "limitprem": 10000
     },
@@ -366,7 +366,7 @@
       "lastBanned": 0
     },
     "6289515823841@s.whatsapp.net": {
-      "exp": 455,
+      "exp": 460,
       "limit": 499,
       "registered": false,
       "name": "Ardyan Store",
@@ -384,7 +384,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738806277740,
+      "activation": 1738808704197,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -476,7 +476,7 @@
       "lastcommand": 1738640716466
     },
     "6282224463723@s.whatsapp.net": {
-      "exp": 302,
+      "exp": 312,
       "limit": 499,
       "registered": false,
       "name": "JB AMENG STORE OWN LUSY CHA [ REGION JATENG ]",
@@ -494,7 +494,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738805618160,
+      "activation": 1738809283554,
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
@@ -718,7 +718,7 @@
       "lastBanned": 0
     },
     "6281224160567@s.whatsapp.net": {
-      "exp": 67,
+      "exp": 92,
       "limit": 499,
       "registered": false,
       "name": "Titin Supriatin",
@@ -736,7 +736,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738802594608,
+      "activation": 1738808130809,
       "lastBanned": 0
     },
     "6283896295573@s.whatsapp.net": {
@@ -2068,7 +2068,7 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6281224160567@s.whatsapp.net": 38
+        "6281224160567@s.whatsapp.net": 68
       },
       "totalChat": 0
     },
@@ -2548,7 +2548,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738804874157,
+      "backupDB": 1738808129031,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
