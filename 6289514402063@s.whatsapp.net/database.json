@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738797691638,
+      "activation": 1738800693975,
       "lastcommand": 1738796748371,
       "limitprem": 10000
     },
@@ -961,7 +961,7 @@
       "lastBanned": 0
     },
     "62882001117867@s.whatsapp.net": {
-      "exp": 101,
+      "exp": 143,
       "limit": 499,
       "registered": false,
       "name": "Mita_Animation",
@@ -979,7 +979,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738746172789,
+      "activation": 1738798502118,
       "lastBanned": 0
     },
     "6289531717404@s.whatsapp.net": {
@@ -2548,7 +2548,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738795951201,
+      "backupDB": 1738798471822,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
