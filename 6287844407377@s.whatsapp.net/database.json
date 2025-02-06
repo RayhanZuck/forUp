@@ -544,8 +544,8 @@
       "activation": 1738064217154
     },
     "6283801649687@s.whatsapp.net": {
-      "exp": 8923,
-      "limit": 664,
+      "exp": 8943,
+      "limit": 639,
       "registered": true,
       "name": "nikko",
       "age": 18,
@@ -565,7 +565,7 @@
       "lastBanned": 0,
       "lastcommand": 1735987175610,
       "lastdaily": 1736867191886,
-      "activation": 1737894891153
+      "activation": 1738857775854
     },
     "6285960191220@s.whatsapp.net": {
       "exp": 215,
@@ -99830,7 +99830,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastcommand": 1736912667540,
-      "activation": 1738856845131,
+      "activation": 1738859047124,
       "lastBanned": 0
     },
     "6287776054488@s.whatsapp.net": {
@@ -130480,10 +130480,10 @@
       "lastSuccess": 1738743013318
     },
     "downloader-play.js": {
-      "total": 2922,
-      "success": 2724,
-      "last": 1738856152768,
-      "lastSuccess": 1738856152768
+      "total": 2923,
+      "success": 2725,
+      "last": 1738857775854,
+      "lastSuccess": 1738857775854
     },
     "downloader-ytvideo.js": {
       "total": 148,
@@ -133368,7 +133368,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738855199682,
+      "backupDB": 1738857764004,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
