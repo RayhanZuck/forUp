@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 4007,
+      "exp": 4108,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,8 +207,8 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738842300471,
-      "lastcommand": 1738796748371,
+      "activation": 1738843563742,
+      "lastcommand": 1738843020180,
       "limitprem": 10000
     },
     "6285766064200@s.whatsapp.net": {
@@ -476,7 +476,7 @@
       "lastcommand": 1738640716466
     },
     "6282224463723@s.whatsapp.net": {
-      "exp": 461,
+      "exp": 472,
       "limit": 499,
       "registered": false,
       "name": "JB AMENG STORE OWN LUSY CHA [ REGION JATENG ]",
@@ -494,11 +494,11 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738839093837,
+      "activation": 1738844026712,
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 313,
+      "exp": 359,
       "limit": 499,
       "registered": false,
       "name": "@Nadiaaa",
@@ -516,7 +516,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738841764259,
+      "activation": 1738843799940,
       "lastBanned": 0,
       "lastcommand": 1738667595080
     },
@@ -651,7 +651,7 @@
       "lastBanned": 0
     },
     "62882019154458@s.whatsapp.net": {
-      "exp": 599,
+      "exp": 602,
       "limit": 499,
       "registered": false,
       "name": "aku suka pisang 🍌",
@@ -670,7 +670,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1738824361234,
+      "activation": 1738842602930,
       "lastcommand": 1738640060744
     },
     "6289604405225@s.whatsapp.net": {
@@ -1028,7 +1028,7 @@
       "lastBanned": 0
     },
     "6285727547315@s.whatsapp.net": {
-      "exp": 284,
+      "exp": 349,
       "limit": 499,
       "registered": false,
       "name": "𓆝 𓆟 𓆞 𓆝 𓆟",
@@ -1046,9 +1046,9 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738842299304,
+      "activation": 1738844057606,
       "lastBanned": 0,
-      "lastcommand": 1738842297148
+      "lastcommand": 1738843042450
     },
     "6281287088026@s.whatsapp.net": {
       "exp": 46,
@@ -2384,9 +2384,9 @@
       "lastSuccess": 1738754328660
     },
     "_main-menu.js": {
-      "total": 31,
+      "total": 32,
       "success": 31,
-      "last": 1738796762393,
+      "last": 1738843025786,
       "lastSuccess": 1738796762393
     },
     "ai-remini.js": {
@@ -2486,10 +2486,10 @@
       "lastSuccess": 1738641203638
     },
     "_cek.js": {
-      "total": 7,
-      "success": 7,
-      "last": 1738842298525,
-      "lastSuccess": 1738842298525
+      "total": 8,
+      "success": 8,
+      "last": 1738843043507,
+      "lastSuccess": 1738843043507
     },
     "info-donasi.js": {
       "total": 2,
@@ -2571,7 +2571,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738840562105,
+      "backupDB": 1738842388141,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
