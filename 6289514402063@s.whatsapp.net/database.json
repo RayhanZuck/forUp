@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 4291,
+      "exp": 4351,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738845973908,
+      "activation": 1738848206730,
       "lastcommand": 1738843020180,
       "limitprem": 10000
     },
@@ -257,7 +257,7 @@
       "lastBanned": 0
     },
     "6281263255789@s.whatsapp.net": {
-      "exp": 761,
+      "exp": 762,
       "limit": 499,
       "registered": false,
       "name": "HATXX STORE",
@@ -275,7 +275,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738846191467,
+      "activation": 1738846476272,
       "lastBanned": 0
     },
     "6282278426952@s.whatsapp.net": {
@@ -366,7 +366,7 @@
       "lastBanned": 0
     },
     "6289515823841@s.whatsapp.net": {
-      "exp": 511,
+      "exp": 520,
       "limit": 499,
       "registered": false,
       "name": "Ardyan Store",
@@ -384,7 +384,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738833339504,
+      "activation": 1738847530436,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -476,7 +476,7 @@
       "lastcommand": 1738640716466
     },
     "6282224463723@s.whatsapp.net": {
-      "exp": 478,
+      "exp": 490,
       "limit": 499,
       "registered": false,
       "name": "JB AMENG STORE OWN LUSY CHA [ REGION JATENG ]",
@@ -494,11 +494,11 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738846220604,
+      "activation": 1738846814198,
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 390,
+      "exp": 415,
       "limit": 499,
       "registered": false,
       "name": "@Nadiaaa",
@@ -516,7 +516,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738845918475,
+      "activation": 1738848132837,
       "lastBanned": 0,
       "lastcommand": 1738667595080
     },
@@ -1007,7 +1007,7 @@
       "lastcommand": 1738661237034
     },
     "6281283840372@s.whatsapp.net": {
-      "exp": 194,
+      "exp": 198,
       "limit": 499,
       "registered": false,
       "name": "itshiwife",
@@ -1025,7 +1025,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738845341957,
+      "activation": 1738846502300,
       "lastBanned": 0
     },
     "6285727547315@s.whatsapp.net": {
@@ -1632,6 +1632,27 @@
       "premiumTime": 0,
       "activation": 1738834493676,
       "lastBanned": 0
+    },
+    "6287892817324@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 499,
+      "registered": false,
+      "name": "saila",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1738846757687
     }
   },
   "chats": {
@@ -2092,7 +2113,8 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6281224160567@s.whatsapp.net": 84
+        "6281224160567@s.whatsapp.net": 100,
+        "6287892817324@s.whatsapp.net": 1
       },
       "totalChat": 0
     },
@@ -2572,7 +2594,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738844559240,
+      "backupDB": 1738846462495,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
