@@ -99826,7 +99826,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastcommand": 1736912667540,
-      "activation": 1738814169777,
+      "activation": 1738815969269,
       "lastBanned": 0
     },
     "6287776054488@s.whatsapp.net": {
@@ -108139,8 +108139,8 @@
       "lastBanned": 0
     },
     "6285797226703@s.whatsapp.net": {
-      "exp": 8,
-      "limit": 499,
+      "exp": 30,
+      "limit": 474,
       "registered": false,
       "name": "li",
       "age": -1,
@@ -108157,7 +108157,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1737966504608
+      "activation": 1738815969263,
+      "lastBanned": 0
     },
     "189932580679929_1@s.whatsapp.net": {
       "exp": 5,
@@ -130023,10 +130024,10 @@
       "lastSuccess": 1735826605203
     },
     "ai-remini.js": {
-      "total": 1394,
-      "success": 1310,
-      "last": 1738811157742,
-      "lastSuccess": 1738810238226
+      "total": 1395,
+      "success": 1311,
+      "last": 1738815969263,
+      "lastSuccess": 1738815969263
     },
     "game-tebakbendera.js": {
       "total": 704,
@@ -132779,7 +132780,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738813504333,
+      "backupDB": 1738815965395,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
