@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738872515118,
+      "activation": 1738878518263,
       "lastcommand": 1738843020180,
       "limitprem": 10000
     },
@@ -344,7 +344,7 @@
       "lastBanned": 0
     },
     "6282128611759@s.whatsapp.net": {
-      "exp": 229,
+      "exp": 247,
       "limit": 499,
       "registered": false,
       "name": "LANGZZ SKIBIDI",
@@ -362,7 +362,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738771220929,
+      "activation": 1738873024072,
       "lastBanned": 0
     },
     "6289515823841@s.whatsapp.net": {
@@ -2600,7 +2600,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738869363459,
+      "backupDB": 1738872658888,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
