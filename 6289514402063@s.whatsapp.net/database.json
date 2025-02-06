@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 4461,
+      "exp": 4535,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738881519981,
+      "activation": 1738883141098,
       "lastcommand": 1738879931408,
       "limitprem": 10000
     },
@@ -476,7 +476,7 @@
       "lastcommand": 1738640716466
     },
     "6282224463723@s.whatsapp.net": {
-      "exp": 490,
+      "exp": 512,
       "limit": 499,
       "registered": false,
       "name": "JB AMENG STORE OWN LUSY CHA [ REGION JATENG ]",
@@ -494,7 +494,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738846814198,
+      "activation": 1738883006544,
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
@@ -651,7 +651,7 @@
       "lastBanned": 0
     },
     "62882019154458@s.whatsapp.net": {
-      "exp": 602,
+      "exp": 618,
       "limit": 499,
       "registered": false,
       "name": "aku suka pisang 🍌",
@@ -670,7 +670,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1738842602930,
+      "activation": 1738882739407,
       "lastcommand": 1738640060744
     },
     "6289604405225@s.whatsapp.net": {
@@ -1029,7 +1029,7 @@
       "lastBanned": 0
     },
     "6285727547315@s.whatsapp.net": {
-      "exp": 376,
+      "exp": 421,
       "limit": 499,
       "registered": false,
       "name": "𓆝 𓆟 𓆞 𓆝 𓆟",
@@ -1047,7 +1047,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738849706621,
+      "activation": 1738883107530,
       "lastBanned": 0,
       "lastcommand": 1738843042450
     },
@@ -1097,7 +1097,7 @@
       "lastBanned": 0
     },
     "6283897506416@s.whatsapp.net": {
-      "exp": 269,
+      "exp": 281,
       "limit": 419,
       "registered": false,
       "name": "Oraa Gendeng",
@@ -1115,7 +1115,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738771943770,
+      "activation": 1738882980569,
       "lastBanned": 0
     },
     "6288905021627@s.whatsapp.net": {
@@ -1612,7 +1612,7 @@
       "activation": 1738790268454
     },
     "6287783024314@s.whatsapp.net": {
-      "exp": 18,
+      "exp": 26,
       "limit": 499,
       "registered": false,
       "name": "Rifki",
@@ -1630,7 +1630,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738834493676,
+      "activation": 1738881707631,
       "lastBanned": 0
     },
     "6287892817324@s.whatsapp.net": {
@@ -2425,10 +2425,10 @@
       "lastSuccess": 1738651765515
     },
     "downloader-tiktok.js": {
-      "total": 44,
-      "success": 41,
-      "last": 1738880587683,
-      "lastSuccess": 1738880587683
+      "total": 45,
+      "success": 42,
+      "last": 1738883068491,
+      "lastSuccess": 1738883068491
     },
     "group-delete.js": {
       "total": 12,
@@ -2573,6 +2573,12 @@
       "success": 2,
       "last": 1738856248063,
       "lastSuccess": 1738856248063
+    },
+    "av-bot.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1738881582759,
+      "lastSuccess": 1738881582759
     }
   },
   "msgs": {},
@@ -2600,7 +2606,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738879222661,
+      "backupDB": 1738881578225,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
