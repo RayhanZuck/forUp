@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738904667599,
+      "activation": 1738906434870,
       "lastcommand": 1738879931408,
       "limitprem": 10000
     },
@@ -344,7 +344,7 @@
       "lastBanned": 0
     },
     "6282128611759@s.whatsapp.net": {
-      "exp": 267,
+      "exp": 279,
       "limit": 499,
       "registered": false,
       "name": "LANGZZ SKIBIDI",
@@ -362,7 +362,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738899418589,
+      "activation": 1738907677178,
       "lastBanned": 0
     },
     "6289515823841@s.whatsapp.net": {
@@ -696,7 +696,7 @@
       "lastBanned": 0
     },
     "6287761301460@s.whatsapp.net": {
-      "exp": 894,
+      "exp": 895,
       "limit": 24,
       "registered": false,
       "name": "Afiq™",
@@ -714,7 +714,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738827349219,
+      "activation": 1738906116380,
       "lastBanned": 0
     },
     "6281224160567@s.whatsapp.net": {
@@ -1876,14 +1876,14 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285723372013@s.whatsapp.net": 1963,
+        "6285723372013@s.whatsapp.net": 1968,
         "6282278426952@s.whatsapp.net": 53,
         "6281945393763@s.whatsapp.net": 54,
-        "6287761301460@s.whatsapp.net": 610,
-        "6285693602998@s.whatsapp.net": 1826,
+        "6287761301460@s.whatsapp.net": 616,
+        "6285693602998@s.whatsapp.net": 1836,
         "6283865469782@s.whatsapp.net": 23,
-        "6282171897051@s.whatsapp.net": 48,
-        "6285161111396@s.whatsapp.net": 2
+        "6282171897051@s.whatsapp.net": 50,
+        "6285161111396@s.whatsapp.net": 3
       },
       "totalChat": 0
     },
@@ -2618,7 +2618,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738904042698,
+      "backupDB": 1738906115903,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
