@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738897309723,
+      "activation": 1738903432636,
       "lastcommand": 1738879931408,
       "limitprem": 10000
     },
@@ -344,7 +344,7 @@
       "lastBanned": 0
     },
     "6282128611759@s.whatsapp.net": {
-      "exp": 258,
+      "exp": 267,
       "limit": 499,
       "registered": false,
       "name": "LANGZZ SKIBIDI",
@@ -362,11 +362,11 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738897628852,
+      "activation": 1738899418589,
       "lastBanned": 0
     },
     "6289515823841@s.whatsapp.net": {
-      "exp": 538,
+      "exp": 550,
       "limit": 499,
       "registered": false,
       "name": "Ardyan Store",
@@ -384,7 +384,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738893261266,
+      "activation": 1738899392402,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -2606,7 +2606,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738896441693,
+      "backupDB": 1738899210015,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
