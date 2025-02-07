@@ -165,7 +165,7 @@
       "lastcommand": 1735076311886
     },
     "120363183420865643@g.us": {
-      "exp": 8073,
+      "exp": 8077,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -184,7 +184,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1738954031103
+      "activation": 1738959349493
     },
     "120363240711248334@g.us": {
       "exp": 6475,
@@ -1078,7 +1078,7 @@
       "lastwork": 1738929132138
     },
     "120363280765137622@g.us": {
-      "exp": 10041,
+      "exp": 10051,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1097,7 +1097,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1738954007287
+      "activation": 1738959350889
     },
     "6283119901412@s.whatsapp.net": {
       "exp": 16359,
@@ -47827,7 +47827,7 @@
       "lastBanned": 0
     },
     "6283121930598@s.whatsapp.net": {
-      "exp": 148,
+      "exp": 171,
       "limit": 459,
       "registered": false,
       "name": "Tendo Pain",
@@ -47843,11 +47843,11 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastcommand": 1734030163182,
-      "activation": 1737894857377
+      "lastcommand": 1738958764357,
+      "activation": 1738958769492
     },
     "69170985201726_1@s.whatsapp.net": {
       "exp": 5,
@@ -99843,7 +99843,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastcommand": 1736912667540,
-      "activation": 1738956430162,
+      "activation": 1738959681706,
       "lastBanned": 0
     },
     "6287776054488@s.whatsapp.net": {
@@ -120346,6 +120346,70 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1738940875614
+    },
+    "60184037321@s.whatsapp.net": {
+      "exp": 114,
+      "limit": 499,
+      "registered": false,
+      "name": "🌹RUBY ROSE 🌹",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1738959680917,
+      "lastBanned": 0,
+      "lastcommand": 1738959623516
+    },
+    "115479406452947_1@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1738959403725
+    },
+    "60107725141@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 499,
+      "registered": false,
+      "name": "🎀~",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1738959479085
     }
   },
   "chats": {
@@ -120500,7 +120564,7 @@
         "62882006212609@s.whatsapp.net": 4763,
         "628999684800@s.whatsapp.net": 79,
         "6282140063419@s.whatsapp.net": 3020,
-        "6283169226415@s.whatsapp.net": 2323,
+        "6283169226415@s.whatsapp.net": 2343,
         "6285947468832@s.whatsapp.net": 167,
         "6285786829931@s.whatsapp.net": 139,
         "628568162468@s.whatsapp.net": 6527,
@@ -120605,7 +120669,7 @@
         "923273164574@s.whatsapp.net": 28,
         "6288287133705@s.whatsapp.net": 655,
         "6283163782377@s.whatsapp.net": 162,
-        "6285817976362@s.whatsapp.net": 11589,
+        "6285817976362@s.whatsapp.net": 11605,
         "6283894972269@s.whatsapp.net": 113,
         "6285830623201@s.whatsapp.net": 88,
         "6285691376963@s.whatsapp.net": 169,
@@ -120810,7 +120874,9 @@
         "62895333581615@s.whatsapp.net": 13,
         "6285946570546@s.whatsapp.net": 26,
         "62882000858793@s.whatsapp.net": 27,
-        "6282267684512@s.whatsapp.net": 2
+        "6282267684512@s.whatsapp.net": 6,
+        "6283121930598@s.whatsapp.net": 4,
+        "60184037321@s.whatsapp.net": 1
       },
       "totalChat": 0,
       "acc": false,
@@ -131270,9 +131336,9 @@
       "lastSuccess": 1738930688774
     },
     "downloader-tiktok.js": {
-      "total": 2832,
+      "total": 2833,
       "success": 2642,
-      "last": 1738949439146,
+      "last": 1738959680917,
       "lastSuccess": 1738949439146
     },
     "owner-sf.js": {
@@ -131438,10 +131504,10 @@
       "lastSuccess": 1738115034531
     },
     "_cek.js": {
-      "total": 1214,
-      "success": 1210,
-      "last": 1738936914230,
-      "lastSuccess": 1738936914230
+      "total": 1215,
+      "success": 1211,
+      "last": 1738958769492,
+      "lastSuccess": 1738958769492
     },
     "enable.js": {
       "total": 157,
@@ -132368,9 +132434,9 @@
       "lastSuccess": 1737793235545
     },
     "downloader-yt2.js": {
-      "total": 540,
+      "total": 541,
       "success": 347,
-      "last": 1738918504828,
+      "last": 1738959651737,
       "lastSuccess": 1738918504828
     },
     "internet-playlist.js": {
@@ -133976,10 +134042,10 @@
       "lastSuccess": 1737735489248
     },
     "_main-menu.js": {
-      "total": 91,
-      "success": 88,
-      "last": 1738936746438,
-      "lastSuccess": 1738936746438
+      "total": 94,
+      "success": 91,
+      "last": 1738959633833,
+      "lastSuccess": 1738959633833
     },
     "havefun-taugaksih.js": {
       "total": 2,
@@ -134176,7 +134242,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738953470847,
+      "backupDB": 1738958764356,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
