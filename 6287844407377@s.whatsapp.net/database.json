@@ -1272,8 +1272,8 @@
       "activation": 1737769495580
     },
     "6283169226415@s.whatsapp.net": {
-      "exp": 34832,
-      "limit": 65,
+      "exp": 26162,
+      "limit": 0,
       "registered": false,
       "name": "I Just Need Time🎐",
       "age": -1,
@@ -1293,7 +1293,7 @@
       "lastBanned": 0,
       "lastdaily": 1737960074926,
       "lastcommand": 1737207840208,
-      "activation": 1737966403194
+      "activation": 1738949439146
     },
     "76841595445253_1@s.whatsapp.net": {
       "exp": 7,
@@ -99843,7 +99843,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastcommand": 1736912667540,
-      "activation": 1738947430634,
+      "activation": 1738950429713,
       "lastBanned": 0
     },
     "6287776054488@s.whatsapp.net": {
@@ -131269,10 +131269,10 @@
       "lastSuccess": 1738930688774
     },
     "downloader-tiktok.js": {
-      "total": 2830,
-      "success": 2640,
-      "last": 1738931455736,
-      "lastSuccess": 1738931455736
+      "total": 2832,
+      "success": 2642,
+      "last": 1738949439146,
+      "lastSuccess": 1738949439146
     },
     "owner-sf.js": {
       "total": 1455,
@@ -131281,10 +131281,10 @@
       "lastSuccess": 1738934757727
     },
     "downloader-play.js": {
-      "total": 2940,
-      "success": 2740,
-      "last": 1738943647379,
-      "lastSuccess": 1738943647379
+      "total": 2942,
+      "success": 2742,
+      "last": 1738948606693,
+      "lastSuccess": 1738948606693
     },
     "downloader-ytvideo.js": {
       "total": 148,
@@ -134175,7 +134175,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738943353390,
+      "backupDB": 1738948470426,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
