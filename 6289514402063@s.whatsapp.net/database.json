@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738948461062,
+      "activation": 1738951463237,
       "lastcommand": 1738879931408,
       "limitprem": 10000
     },
@@ -1120,7 +1120,7 @@
       "lastBanned": 0
     },
     "6288905021627@s.whatsapp.net": {
-      "exp": 7,
+      "exp": 32,
       "limit": 499,
       "registered": false,
       "name": "~ライスカ~",
@@ -1138,7 +1138,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738663125879
+      "activation": 1738951058214,
+      "lastBanned": 0
     },
     "6289531370298@s.whatsapp.net": {
       "exp": 25,
@@ -2692,7 +2693,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738948050706,
+      "backupDB": 1738949926554,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
