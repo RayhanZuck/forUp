@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738966472828,
+      "activation": 1738969835575,
       "lastcommand": 1738879931408,
       "limitprem": 10000
     },
@@ -498,7 +498,7 @@
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 546,
+      "exp": 556,
       "limit": 499,
       "registered": false,
       "name": "@Nadiaaa",
@@ -516,7 +516,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738934147737,
+      "activation": 1738967868928,
       "lastBanned": 0,
       "lastcommand": 1738667595080
     },
@@ -1720,6 +1720,48 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1738933028076
+    },
+    "62882010161373@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 499,
+      "registered": false,
+      "name": "𝗗𝗜𝗟𝟰𝗬𝗢𝗨 𝗝𝗔𝗧𝗜𝗠",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1738966660880,
+      "lastBanned": 0
+    },
+    "6289656411266@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "name": "Fadlan",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0
     }
   },
   "chats": {
@@ -2027,11 +2069,12 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6289688149851@s.whatsapp.net": 53,
-        "6287870207130@s.whatsapp.net": 83,
-        "6285819057026@s.whatsapp.net": 106,
-        "6289531717404@s.whatsapp.net": 86,
-        "6283175256317@s.whatsapp.net": 36
+        "6289688149851@s.whatsapp.net": 57,
+        "6287870207130@s.whatsapp.net": 99,
+        "6285819057026@s.whatsapp.net": 120,
+        "6289531717404@s.whatsapp.net": 96,
+        "6283175256317@s.whatsapp.net": 40,
+        "62882010161373@s.whatsapp.net": 1
       },
       "totalChat": 0
     },
@@ -2693,7 +2736,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738953798442,
+      "backupDB": 1738966626734,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
