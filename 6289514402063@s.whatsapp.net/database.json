@@ -207,12 +207,12 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738903432636,
+      "activation": 1738904667599,
       "lastcommand": 1738879931408,
       "limitprem": 10000
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 612,
+      "exp": 753,
       "limit": 499,
       "registered": false,
       "name": "Rayhan🍟",
@@ -230,7 +230,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738856248063,
+      "activation": 1738904667358,
       "lastBanned": 0,
       "lastcommand": 1738627319900
     },
@@ -366,7 +366,7 @@
       "lastBanned": 0
     },
     "6289515823841@s.whatsapp.net": {
-      "exp": 550,
+      "exp": 551,
       "limit": 499,
       "registered": false,
       "name": "Ardyan Store",
@@ -384,7 +384,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738899392402,
+      "activation": 1738905020168,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -674,7 +674,7 @@
       "lastcommand": 1738640060744
     },
     "6289604405225@s.whatsapp.net": {
-      "exp": 122,
+      "exp": 130,
       "limit": 499,
       "registered": false,
       "name": "RIS4YOUSTR",
@@ -692,7 +692,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738842011297,
+      "activation": 1738904636409,
       "lastBanned": 0
     },
     "6287761301460@s.whatsapp.net": {
@@ -962,7 +962,7 @@
       "lastBanned": 0
     },
     "62882001117867@s.whatsapp.net": {
-      "exp": 144,
+      "exp": 153,
       "limit": 499,
       "registered": false,
       "name": "Mita_Animation",
@@ -980,7 +980,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738880946443,
+      "activation": 1738904235285,
       "lastBanned": 0
     },
     "6289531717404@s.whatsapp.net": {
@@ -2401,10 +2401,10 @@
       "lastSuccess": 1716041075591
     },
     "owner-exec.js": {
-      "total": 7,
-      "success": 7,
-      "last": 1738754328660,
-      "lastSuccess": 1738754328660
+      "total": 8,
+      "success": 8,
+      "last": 1738904043336,
+      "lastSuccess": 1738904043336
     },
     "_main-menu.js": {
       "total": 34,
@@ -2533,10 +2533,10 @@
       "lastSuccess": 1738667842601
     },
     "owner-sf.js": {
-      "total": 7,
-      "success": 6,
-      "last": 1738856244051,
-      "lastSuccess": 1738856244051
+      "total": 9,
+      "success": 8,
+      "last": 1738904653534,
+      "lastSuccess": 1738904653534
     },
     "downloader-pinterest.js": {
       "total": 2,
@@ -2579,6 +2579,18 @@
       "success": 2,
       "last": 1738881582759,
       "lastSuccess": 1738881582759
+    },
+    "mfz.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1738904667358,
+      "lastSuccess": 1738904667358
+    },
+    "internet-fetch.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1738904580675,
+      "lastSuccess": 1738904580675
     }
   },
   "msgs": {},
@@ -2606,7 +2618,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738899210015,
+      "backupDB": 1738904042698,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
