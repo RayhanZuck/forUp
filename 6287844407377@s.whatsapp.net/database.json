@@ -1175,8 +1175,8 @@
       "activation": 1738915556309
     },
     "6285817976362@s.whatsapp.net": {
-      "exp": 7122,
-      "limit": 3043,
+      "exp": 67302,
+      "limit": 3518,
       "registered": false,
       "name": "sleepyhead",
       "age": -1,
@@ -1189,16 +1189,16 @@
       "role": "Beginner",
       "BannedReason": "",
       "WarnReason": "",
-      "lastweekly": 1736782534757,
-      "lastmonthly": 1736182554959,
+      "lastweekly": 1738943353955,
+      "lastmonthly": 1738943353955,
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "lastdaily": 1737193093157,
+      "lastdaily": 1738943353955,
       "lastcommand": 1736782527143,
       "lastrob": 1736338554790,
       "lastwork": 1736338630095,
-      "activation": 1738832058681
+      "activation": 1738943647379
     },
     "6289643500499@s.whatsapp.net": {
       "exp": 154,
@@ -99843,7 +99843,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastcommand": 1736912667540,
-      "activation": 1738941430547,
+      "activation": 1738947430634,
       "lastBanned": 0
     },
     "6287776054488@s.whatsapp.net": {
@@ -120488,7 +120488,7 @@
         "6281957133061@s.whatsapp.net": 10197,
         "6287761263814@s.whatsapp.net": 1056,
         "62882007880538@s.whatsapp.net": 330,
-        "6287731548171@s.whatsapp.net": 1653,
+        "6287731548171@s.whatsapp.net": 1668,
         "6285766064200@s.whatsapp.net": 16470,
         "6285394495227@s.whatsapp.net": 3004,
         "6285720973051@s.whatsapp.net": 33391,
@@ -120598,14 +120598,14 @@
         "6285668809908@s.whatsapp.net": 523,
         "6283857440966@s.whatsapp.net": 41,
         "6289530044085@s.whatsapp.net": 537,
-        "6285148370237@s.whatsapp.net": 276,
+        "6285148370237@s.whatsapp.net": 279,
         "6285274602963@s.whatsapp.net": 791,
         "6289513634160@s.whatsapp.net": 52,
         "628567218393@s.whatsapp.net": 19,
         "923273164574@s.whatsapp.net": 28,
         "6288287133705@s.whatsapp.net": 655,
         "6283163782377@s.whatsapp.net": 162,
-        "6285817976362@s.whatsapp.net": 11559,
+        "6285817976362@s.whatsapp.net": 11571,
         "6283894972269@s.whatsapp.net": 113,
         "6285830623201@s.whatsapp.net": 88,
         "6285691376963@s.whatsapp.net": 169,
@@ -120677,7 +120677,7 @@
         "6287854198003@s.whatsapp.net": 27,
         "6281211588406@s.whatsapp.net": 40,
         "628814543650@s.whatsapp.net": 2099,
-        "6288226561349@s.whatsapp.net": 1411,
+        "6288226561349@s.whatsapp.net": 1420,
         "6287714695147@s.whatsapp.net": 11,
         "6285724274759@s.whatsapp.net": 1004,
         "62882006331555@s.whatsapp.net": 32,
@@ -120802,14 +120802,14 @@
         "6287854242265@s.whatsapp.net": 25,
         "6285820027794@s.whatsapp.net": 23,
         "6285359627837@s.whatsapp.net": 77,
-        "6289502947770@s.whatsapp.net": 485,
+        "6289502947770@s.whatsapp.net": 491,
         "6289612701547@s.whatsapp.net": 24,
         "6285836065035@s.whatsapp.net": 183,
-        "6285759138816@s.whatsapp.net": 67,
-        "6288218390644@s.whatsapp.net": 56,
-        "62895333581615@s.whatsapp.net": 8,
-        "6285946570546@s.whatsapp.net": 16,
-        "62882000858793@s.whatsapp.net": 12
+        "6285759138816@s.whatsapp.net": 70,
+        "6288218390644@s.whatsapp.net": 77,
+        "62895333581615@s.whatsapp.net": 11,
+        "6285946570546@s.whatsapp.net": 22,
+        "62882000858793@s.whatsapp.net": 21
       },
       "totalChat": 0,
       "acc": false,
@@ -131281,10 +131281,10 @@
       "lastSuccess": 1738934757727
     },
     "downloader-play.js": {
-      "total": 2935,
-      "success": 2735,
-      "last": 1738928349732,
-      "lastSuccess": 1738928349732
+      "total": 2940,
+      "success": 2740,
+      "last": 1738943647379,
+      "lastSuccess": 1738943647379
     },
     "downloader-ytvideo.js": {
       "total": 148,
@@ -133609,10 +133609,10 @@
       "lastSuccess": 1738808213075
     },
     "havefun-claim.js": {
-      "total": 896,
-      "success": 623,
-      "last": 1738936509239,
-      "lastSuccess": 1738936509239
+      "total": 899,
+      "success": 626,
+      "last": 1738943360168,
+      "lastSuccess": 1738943360168
     },
     "user-limit.js": {
       "total": 196,
@@ -134175,7 +134175,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738940643864,
+      "backupDB": 1738943353390,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
