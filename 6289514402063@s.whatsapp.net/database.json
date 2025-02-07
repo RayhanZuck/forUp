@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 4683,
+      "exp": 4777,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738926673008,
+      "activation": 1738928697135,
       "lastcommand": 1738879931408,
       "limitprem": 10000
     },
@@ -498,7 +498,7 @@
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 470,
+      "exp": 479,
       "limit": 499,
       "registered": false,
       "name": "@Nadiaaa",
@@ -516,7 +516,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738926971713,
+      "activation": 1738928136111,
       "lastBanned": 0,
       "lastcommand": 1738667595080
     },
@@ -696,7 +696,7 @@
       "lastBanned": 0
     },
     "6287761301460@s.whatsapp.net": {
-      "exp": 945,
+      "exp": 953,
       "limit": 19,
       "registered": false,
       "name": "Afiq™",
@@ -714,7 +714,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738926672566,
+      "activation": 1738927375814,
       "lastBanned": 0
     },
     "6281224160567@s.whatsapp.net": {
@@ -830,7 +830,7 @@
       "lastBanned": 0
     },
     "6287870207130@s.whatsapp.net": {
-      "exp": 28,
+      "exp": 35,
       "limit": 499,
       "registered": false,
       "name": "Rupz Store",
@@ -848,7 +848,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738897962315,
+      "activation": 1738927942529,
       "lastBanned": 0
     },
     "6285819057026@s.whatsapp.net": {
@@ -962,7 +962,7 @@
       "lastBanned": 0
     },
     "62882001117867@s.whatsapp.net": {
-      "exp": 153,
+      "exp": 154,
       "limit": 499,
       "registered": false,
       "name": "Mita_Animation",
@@ -980,7 +980,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738904235285,
+      "activation": 1738927989227,
       "lastBanned": 0
     },
     "6289531717404@s.whatsapp.net": {
@@ -1571,7 +1571,7 @@
       "lastBanned": 0
     },
     "62895347108800@s.whatsapp.net": {
-      "exp": 8,
+      "exp": 25,
       "limit": 499,
       "registered": false,
       "name": ".",
@@ -1589,7 +1589,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738760617996
+      "activation": 1738927175790,
+      "lastBanned": 0
     },
     "6287822469071@s.whatsapp.net": {
       "exp": 10,
@@ -1981,11 +1982,11 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6289688149851@s.whatsapp.net": 47,
-        "6287870207130@s.whatsapp.net": 61,
-        "6285819057026@s.whatsapp.net": 85,
-        "6289531717404@s.whatsapp.net": 71,
-        "6283175256317@s.whatsapp.net": 30
+        "6289688149851@s.whatsapp.net": 49,
+        "6287870207130@s.whatsapp.net": 68,
+        "6285819057026@s.whatsapp.net": 92,
+        "6289531717404@s.whatsapp.net": 76,
+        "6283175256317@s.whatsapp.net": 32
       },
       "totalChat": 0
     },
@@ -2484,10 +2485,10 @@
       "lastSuccess": 1738925385518
     },
     "user-limit.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1738640904238,
-      "lastSuccess": 1738640904238
+      "total": 5,
+      "success": 5,
+      "last": 1738927220938,
+      "lastSuccess": 1738927220938
     },
     "vn-anjay.js": {
       "total": 3,
@@ -2614,6 +2615,12 @@
       "success": 2,
       "last": 1738904580675,
       "lastSuccess": 1738904580675
+    },
+    "main-creator.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1738928681369,
+      "lastSuccess": 1738928681369
     }
   },
   "msgs": {},
@@ -2641,7 +2648,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738925379737,
+      "backupDB": 1738927191448,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
