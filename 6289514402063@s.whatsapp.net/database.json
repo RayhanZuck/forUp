@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738936455933,
+      "activation": 1738939456727,
       "lastcommand": 1738879931408,
       "limitprem": 10000
     },
@@ -366,7 +366,7 @@
       "lastBanned": 0
     },
     "6289515823841@s.whatsapp.net": {
-      "exp": 592,
+      "exp": 598,
       "limit": 499,
       "registered": false,
       "name": "Ardyan Store",
@@ -384,7 +384,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738934680569,
+      "activation": 1738938789457,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -808,8 +808,8 @@
       "lastBanned": 0
     },
     "6285693602998@s.whatsapp.net": {
-      "exp": 472,
-      "limit": 464,
+      "exp": 493,
+      "limit": 459,
       "registered": false,
       "name": "Hanzz",
       "age": -1,
@@ -826,7 +826,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738910702676,
+      "activation": 1738938038101,
       "lastBanned": 0
     },
     "6287870207130@s.whatsapp.net": {
@@ -1942,16 +1942,16 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285723372013@s.whatsapp.net": 2042,
+        "6285723372013@s.whatsapp.net": 2050,
         "6282278426952@s.whatsapp.net": 53,
         "6281945393763@s.whatsapp.net": 54,
-        "6287761301460@s.whatsapp.net": 686,
-        "6285693602998@s.whatsapp.net": 1975,
-        "6283865469782@s.whatsapp.net": 25,
-        "6282171897051@s.whatsapp.net": 72,
-        "6285161111396@s.whatsapp.net": 14,
-        "6283897506416@s.whatsapp.net": 6,
-        "6285852438294@s.whatsapp.net": 1
+        "6287761301460@s.whatsapp.net": 693,
+        "6285693602998@s.whatsapp.net": 1989,
+        "6283865469782@s.whatsapp.net": 26,
+        "6282171897051@s.whatsapp.net": 74,
+        "6285161111396@s.whatsapp.net": 15,
+        "6283897506416@s.whatsapp.net": 7,
+        "6285852438294@s.whatsapp.net": 2
       },
       "totalChat": 0
     },
@@ -2523,10 +2523,10 @@
       "lastSuccess": 1738622503433
     },
     "sticker-all.js": {
-      "total": 32,
-      "success": 32,
-      "last": 1738933028076,
-      "lastSuccess": 1738933028076
+      "total": 33,
+      "success": 33,
+      "last": 1738938038101,
+      "lastSuccess": 1738938038101
     },
     "user-limit.js": {
       "total": 5,
@@ -2692,7 +2692,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738933445404,
+      "backupDB": 1738938032777,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
