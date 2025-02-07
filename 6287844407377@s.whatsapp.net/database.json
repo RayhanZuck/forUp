@@ -165,7 +165,7 @@
       "lastcommand": 1735076311886
     },
     "120363183420865643@g.us": {
-      "exp": 8048,
+      "exp": 8050,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -184,7 +184,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1738910925259
+      "activation": 1738917475845
     },
     "120363240711248334@g.us": {
       "exp": 6460,
@@ -10439,8 +10439,8 @@
       "activation": 1738758658671
     },
     "628388144574@s.whatsapp.net": {
-      "exp": -56,
-      "limit": 189,
+      "exp": -35,
+      "limit": 159,
       "registered": false,
       "name": ".",
       "age": -1,
@@ -10458,7 +10458,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1738024186034
+      "activation": 1738918504828
     },
     "6283862600533@s.whatsapp.net": {
       "exp": 1,
@@ -18975,7 +18975,7 @@
       "lastBanned": 0
     },
     "6287890456123@s.whatsapp.net": {
-      "exp": 9528,
+      "exp": 9535,
       "limit": 260,
       "registered": false,
       "name": "🇹🇭ราดิตยา อันดิกา",
@@ -18995,7 +18995,7 @@
       "premiumTime": 0,
       "lastcommand": 1735109504369,
       "lastBanned": 0,
-      "activation": 1738911220308
+      "activation": 1738917497507
     },
     "214036020994049_1@s.whatsapp.net": {
       "exp": 5,
@@ -99839,7 +99839,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastcommand": 1736912667540,
-      "activation": 1738916490119,
+      "activation": 1738918505668,
       "lastBanned": 0
     },
     "6287776054488@s.whatsapp.net": {
@@ -120122,7 +120122,7 @@
         "6285150845191@s.whatsapp.net": 182,
         "6288225432435@s.whatsapp.net": 6059,
         "6281957133061@s.whatsapp.net": 10197,
-        "6287761263814@s.whatsapp.net": 1041,
+        "6287761263814@s.whatsapp.net": 1043,
         "62882007880538@s.whatsapp.net": 330,
         "6287731548171@s.whatsapp.net": 1551,
         "6285766064200@s.whatsapp.net": 16455,
@@ -120184,7 +120184,7 @@
         "6282245573241@s.whatsapp.net": 937,
         "6281398178926@s.whatsapp.net": 37,
         "6285931400906@s.whatsapp.net": 657,
-        "62882022063723@s.whatsapp.net": 47591,
+        "62882022063723@s.whatsapp.net": 47593,
         "6288294411864@s.whatsapp.net": 1592,
         "6287838073395@s.whatsapp.net": 20,
         "6282350521338@s.whatsapp.net": 86,
@@ -120269,7 +120269,7 @@
         "6287845351838@s.whatsapp.net": 221,
         "918148082946@s.whatsapp.net": 112,
         "6283823294464@s.whatsapp.net": 101,
-        "6285883694834@s.whatsapp.net": 273,
+        "6285883694834@s.whatsapp.net": 275,
         "6285894170337@s.whatsapp.net": 38,
         "6283107284728@s.whatsapp.net": 1825,
         "6287742683957@s.whatsapp.net": 102,
@@ -120286,7 +120286,7 @@
         "6282276081846@s.whatsapp.net": 18,
         "6289527971070@s.whatsapp.net": 63,
         "6285960191220@s.whatsapp.net": 190,
-        "6283824012756@s.whatsapp.net": 345,
+        "6283824012756@s.whatsapp.net": 351,
         "6281378526793@s.whatsapp.net": 111,
         "6285811776086@s.whatsapp.net": 11501,
         "6285368894254@s.whatsapp.net": 156,
@@ -120312,7 +120312,7 @@
         "6287719003775@s.whatsapp.net": 41,
         "6287854198003@s.whatsapp.net": 27,
         "6281211588406@s.whatsapp.net": 40,
-        "628814543650@s.whatsapp.net": 2037,
+        "628814543650@s.whatsapp.net": 2041,
         "6288226561349@s.whatsapp.net": 1367,
         "6287714695147@s.whatsapp.net": 11,
         "6285724274759@s.whatsapp.net": 1004,
@@ -120440,7 +120440,7 @@
         "6285359627837@s.whatsapp.net": 77,
         "6289502947770@s.whatsapp.net": 334,
         "6289612701547@s.whatsapp.net": 24,
-        "6285836065035@s.whatsapp.net": 93
+        "6285836065035@s.whatsapp.net": 105
       },
       "totalChat": 0,
       "acc": false,
@@ -131992,10 +131992,10 @@
       "lastSuccess": 1737793235545
     },
     "downloader-yt2.js": {
-      "total": 539,
-      "success": 346,
-      "last": 1738838415562,
-      "lastSuccess": 1738838415562
+      "total": 540,
+      "success": 347,
+      "last": 1738918504828,
+      "lastSuccess": 1738918504828
     },
     "internet-playlist.js": {
       "total": 21,
@@ -133794,7 +133794,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738915555605,
+      "backupDB": 1738917475738,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
