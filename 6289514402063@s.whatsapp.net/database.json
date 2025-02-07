@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738909438414,
+      "activation": 1738912439480,
       "lastcommand": 1738879931408,
       "limitprem": 10000
     },
@@ -235,8 +235,8 @@
       "lastcommand": 1738627319900
     },
     "6285723372013@s.whatsapp.net": {
-      "exp": 519,
-      "limit": 449,
+      "exp": 546,
+      "limit": 444,
       "registered": false,
       "name": "FREYAMYWIFE🤍",
       "age": -1,
@@ -253,7 +253,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738880707164,
+      "activation": 1738910709652,
       "lastBanned": 0
     },
     "6281263255789@s.whatsapp.net": {
@@ -300,7 +300,7 @@
       "activation": 1738594062332
     },
     "6283196722292@s.whatsapp.net": {
-      "exp": 178,
+      "exp": 197,
       "limit": 499,
       "registered": false,
       "name": "BOBOB STORE",
@@ -318,7 +318,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738854261728,
+      "activation": 1738912044692,
       "lastBanned": 0
     },
     "6285790379156@s.whatsapp.net": {
@@ -808,8 +808,8 @@
       "lastBanned": 0
     },
     "6285693602998@s.whatsapp.net": {
-      "exp": 421,
-      "limit": 474,
+      "exp": 472,
+      "limit": 464,
       "registered": false,
       "name": "Hanzz",
       "age": -1,
@@ -826,7 +826,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738656552133,
+      "activation": 1738910702676,
       "lastBanned": 0
     },
     "6287870207130@s.whatsapp.net": {
@@ -1097,8 +1097,8 @@
       "lastBanned": 0
     },
     "6283897506416@s.whatsapp.net": {
-      "exp": 281,
-      "limit": 419,
+      "exp": 307,
+      "limit": 414,
       "registered": false,
       "name": "Oraa Gendeng",
       "age": -1,
@@ -1115,7 +1115,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738882980569,
+      "activation": 1738911563699,
       "lastBanned": 0
     },
     "6288905021627@s.whatsapp.net": {
@@ -1653,6 +1653,27 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1738846757687
+    },
+    "6282162552503@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 821-6255-2503",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1738911996409
     }
   },
   "chats": {
@@ -1876,14 +1897,15 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285723372013@s.whatsapp.net": 1968,
+        "6285723372013@s.whatsapp.net": 2004,
         "6282278426952@s.whatsapp.net": 53,
         "6281945393763@s.whatsapp.net": 54,
-        "6287761301460@s.whatsapp.net": 616,
-        "6285693602998@s.whatsapp.net": 1836,
+        "6287761301460@s.whatsapp.net": 652,
+        "6285693602998@s.whatsapp.net": 1910,
         "6283865469782@s.whatsapp.net": 23,
-        "6282171897051@s.whatsapp.net": 50,
-        "6285161111396@s.whatsapp.net": 3
+        "6282171897051@s.whatsapp.net": 62,
+        "6285161111396@s.whatsapp.net": 9,
+        "6283897506416@s.whatsapp.net": 1
       },
       "totalChat": 0
     },
@@ -1958,11 +1980,11 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6289688149851@s.whatsapp.net": 45,
-        "6287870207130@s.whatsapp.net": 55,
-        "6285819057026@s.whatsapp.net": 78,
-        "6289531717404@s.whatsapp.net": 66,
-        "6283175256317@s.whatsapp.net": 28
+        "6289688149851@s.whatsapp.net": 47,
+        "6287870207130@s.whatsapp.net": 61,
+        "6285819057026@s.whatsapp.net": 85,
+        "6289531717404@s.whatsapp.net": 71,
+        "6283175256317@s.whatsapp.net": 30
       },
       "totalChat": 0
     },
@@ -2455,10 +2477,10 @@
       "lastSuccess": 1738622503433
     },
     "sticker-all.js": {
-      "total": 24,
-      "success": 24,
-      "last": 1738880707164,
-      "lastSuccess": 1738880707164
+      "total": 28,
+      "success": 28,
+      "last": 1738911563699,
+      "lastSuccess": 1738911563699
     },
     "user-limit.js": {
       "total": 4,
@@ -2618,7 +2640,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738907940493,
+      "backupDB": 1738910620335,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
