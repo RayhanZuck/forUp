@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 4900,
+      "exp": 5108,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738972836885,
+      "activation": 1738974179940,
       "lastcommand": 1738879931408,
       "limitprem": 10000
     },
@@ -453,8 +453,8 @@
       "activation": 1738642128065
     },
     "6281394956570@s.whatsapp.net": {
-      "exp": 108,
-      "limit": 474,
+      "exp": 203,
+      "limit": 424,
       "registered": false,
       "name": "Claura",
       "age": -1,
@@ -471,9 +471,9 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738707336650,
+      "activation": 1738974181037,
       "lastBanned": 0,
-      "lastcommand": 1738640716466
+      "lastcommand": 1738973962377
     },
     "6282224463723@s.whatsapp.net": {
       "exp": 566,
@@ -696,7 +696,7 @@
       "lastBanned": 0
     },
     "6287761301460@s.whatsapp.net": {
-      "exp": 962,
+      "exp": 972,
       "limit": 19,
       "registered": false,
       "name": "Afiq™",
@@ -714,7 +714,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738935143896,
+      "activation": 1738974386598,
       "lastBanned": 0
     },
     "6281224160567@s.whatsapp.net": {
@@ -2468,6 +2468,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6281394956570@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -2520,16 +2541,16 @@
       "lastSuccess": 1738904043336
     },
     "_main-menu.js": {
-      "total": 34,
-      "success": 33,
-      "last": 1738879943892,
-      "lastSuccess": 1738879943892
+      "total": 35,
+      "success": 34,
+      "last": 1738973974674,
+      "lastSuccess": 1738973974674
     },
     "ai-remini.js": {
-      "total": 42,
-      "success": 38,
-      "last": 1738831055124,
-      "lastSuccess": 1738831055124
+      "total": 47,
+      "success": 43,
+      "last": 1738974179934,
+      "lastSuccess": 1738974179934
     },
     "user-balance.js": {
       "total": 6,
@@ -2556,10 +2577,10 @@
       "lastSuccess": 1738620371110
     },
     "downloader-play.js": {
-      "total": 9,
-      "success": 8,
-      "last": 1738738436327,
-      "lastSuccess": 1738667249180
+      "total": 10,
+      "success": 9,
+      "last": 1738973656066,
+      "lastSuccess": 1738973656066
     },
     "group-totag.js": {
       "total": 2,
@@ -2616,10 +2637,10 @@
       "lastSuccess": 1738640860189
     },
     "audio-effect.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1738641203638,
-      "lastSuccess": 1738641203638
+      "total": 4,
+      "success": 4,
+      "last": 1738973670807,
+      "lastSuccess": 1738973670807
     },
     "_cek.js": {
       "total": 8,
@@ -2658,10 +2679,10 @@
       "lastSuccess": 1738672041437
     },
     "ai-remini2.js": {
-      "total": 8,
-      "success": 3,
-      "last": 1738706841071,
-      "lastSuccess": 1738706841071
+      "total": 9,
+      "success": 4,
+      "last": 1738973677310,
+      "lastSuccess": 1738973677310
     },
     "owner-exec2.js": {
       "total": 2,
@@ -2737,7 +2758,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738970756959,
+      "backupDB": 1738973504791,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
