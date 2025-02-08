@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738995671284,
+      "activation": 1738996848875,
       "lastcommand": 1738879931408,
       "limitprem": 10000
     },
@@ -476,7 +476,7 @@
       "lastcommand": 1738973962377
     },
     "6282224463723@s.whatsapp.net": {
-      "exp": 645,
+      "exp": 656,
       "limit": 499,
       "registered": false,
       "name": "JB AMENG STORE OWN LUSY CHA [ REGION JATENG ]",
@@ -494,7 +494,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738994360168,
+      "activation": 1738997252167,
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
@@ -1098,7 +1098,7 @@
       "lastBanned": 0
     },
     "6283897506416@s.whatsapp.net": {
-      "exp": 307,
+      "exp": 308,
       "limit": 414,
       "registered": false,
       "name": "Oraa Gendeng",
@@ -1116,11 +1116,11 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738911563699,
+      "activation": 1738997685691,
       "lastBanned": 0
     },
     "6288905021627@s.whatsapp.net": {
-      "exp": 79,
+      "exp": 87,
       "limit": 499,
       "registered": false,
       "name": "~ライスカ~",
@@ -1138,7 +1138,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738991161938,
+      "activation": 1738996434405,
       "lastBanned": 0
     },
     "6289531370298@s.whatsapp.net": {
@@ -1848,6 +1848,27 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1738995255824
+    },
+    "6282322426608@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "name": "ROKY JOKI ELITE NEW [ 6608]",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1738996671004
     }
   },
   "chats": {
@@ -2576,6 +2597,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6282322426608@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -2857,7 +2899,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738994359140,
+      "backupDB": 1738996433898,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
