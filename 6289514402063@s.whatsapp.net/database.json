@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739042896734,
+      "activation": 1739051902272,
       "lastcommand": 1739019492322,
       "limitprem": 10000
     },
@@ -1744,7 +1744,7 @@
       "lastBanned": 0
     },
     "6289656411266@s.whatsapp.net": {
-      "exp": 8,
+      "exp": 17,
       "limit": 499,
       "registered": false,
       "name": "Fadlan",
@@ -1762,7 +1762,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738970757718
+      "activation": 1739043628152,
+      "lastBanned": 0
     },
     "6287865543825@s.whatsapp.net": {
       "exp": 47,
@@ -2973,7 +2974,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739036229560,
+      "backupDB": 1739043627146,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
