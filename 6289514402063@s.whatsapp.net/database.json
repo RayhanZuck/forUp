@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739030890747,
+      "activation": 1739033892545,
       "lastcommand": 1739019492322,
       "limitprem": 10000
     },
@@ -366,7 +366,7 @@
       "lastBanned": 0
     },
     "6289515823841@s.whatsapp.net": {
-      "exp": 676,
+      "exp": 680,
       "limit": 499,
       "registered": false,
       "name": "Ardyan Store",
@@ -384,7 +384,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739011017105,
+      "activation": 1739033885223,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -2973,7 +2973,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739029778302,
+      "backupDB": 1739033884604,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
