@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 6487,
+      "exp": 6533,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739051902272,
+      "activation": 1739054904489,
       "lastcommand": 1739019492322,
       "limitprem": 10000
     },
@@ -1120,7 +1120,7 @@
       "lastBanned": 0
     },
     "6288905021627@s.whatsapp.net": {
-      "exp": 192,
+      "exp": 200,
       "limit": 499,
       "registered": false,
       "name": "~ライスカ~",
@@ -1138,7 +1138,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739030692932,
+      "activation": 1739054661176,
       "lastBanned": 0
     },
     "6289531370298@s.whatsapp.net": {
@@ -2727,10 +2727,10 @@
       "lastSuccess": 1738988813725
     },
     "user-balance.js": {
-      "total": 6,
-      "success": 6,
-      "last": 1738651765515,
-      "lastSuccess": 1738651765515
+      "total": 7,
+      "success": 7,
+      "last": 1739053251863,
+      "lastSuccess": 1739053251863
     },
     "downloader-tiktok.js": {
       "total": 50,
@@ -2943,10 +2943,10 @@
       "lastSuccess": 1739017411369
     },
     "owner-listprem.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1739017754019,
-      "lastSuccess": 1739017754019
+      "total": 3,
+      "success": 3,
+      "last": 1739053293584,
+      "lastSuccess": 1739053293584
     }
   },
   "msgs": {},
@@ -2974,7 +2974,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739043627146,
+      "backupDB": 1739053250820,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
