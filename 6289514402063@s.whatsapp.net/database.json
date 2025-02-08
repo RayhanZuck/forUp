@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 5643,
+      "exp": 5959,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,12 +207,12 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1739007959173,
-      "lastcommand": 1738879931408,
+      "activation": 1739009988035,
+      "lastcommand": 1739009278128,
       "limitprem": 10000
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 1126,
+      "exp": 1142,
       "limit": 499,
       "registered": false,
       "name": "Rayhan🍟",
@@ -230,7 +230,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739006212266,
+      "activation": 1739009219763,
       "lastBanned": 0,
       "lastcommand": 1738627319900
     },
@@ -476,7 +476,7 @@
       "lastcommand": 1738973962377
     },
     "6282224463723@s.whatsapp.net": {
-      "exp": 670,
+      "exp": 671,
       "limit": 499,
       "registered": false,
       "name": "JB AMENG STORE OWN LUSY CHA [ REGION JATENG ]",
@@ -494,11 +494,11 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739006544591,
+      "activation": 1739009426100,
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 637,
+      "exp": 683,
       "limit": 499,
       "registered": false,
       "name": "@Nadiaaa",
@@ -516,7 +516,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739006132854,
+      "activation": 1739008351784,
       "lastBanned": 0,
       "lastcommand": 1738667595080
     },
@@ -2717,10 +2717,10 @@
       "lastSuccess": 1738989760243
     },
     "group-delete.js": {
-      "total": 12,
-      "success": 12,
-      "last": 1738723027291,
-      "lastSuccess": 1738723027291
+      "total": 14,
+      "success": 14,
+      "last": 1739009423724,
+      "lastSuccess": 1739009423724
     },
     "group-ceksewa.js": {
       "total": 3,
@@ -2777,10 +2777,10 @@
       "lastSuccess": 1738640330569
     },
     "main-payment.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1738983628941,
-      "lastSuccess": 1738983628941
+      "total": 5,
+      "success": 5,
+      "last": 1739008498618,
+      "lastSuccess": 1739008498618
     },
     "tool-removebg.js": {
       "total": 4,
@@ -2795,10 +2795,10 @@
       "lastSuccess": 1738973670807
     },
     "_cek.js": {
-      "total": 8,
-      "success": 8,
-      "last": 1738843043507,
-      "lastSuccess": 1738843043507
+      "total": 14,
+      "success": 14,
+      "last": 1739009280245,
+      "lastSuccess": 1739009280245
     },
     "info-donasi.js": {
       "total": 2,
@@ -2922,7 +2922,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739006211010,
+      "backupDB": 1739008253743,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
