@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 5959,
+      "exp": 5968,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1739009988035,
+      "activation": 1739011858617,
       "lastcommand": 1739009278128,
       "limitprem": 10000
     },
@@ -257,7 +257,7 @@
       "lastBanned": 0
     },
     "6281263255789@s.whatsapp.net": {
-      "exp": 1060,
+      "exp": 1070,
       "limit": 499,
       "registered": false,
       "name": "HATXX STORE",
@@ -275,7 +275,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739006290034,
+      "activation": 1739011256556,
       "lastBanned": 0
     },
     "6282278426952@s.whatsapp.net": {
@@ -366,7 +366,7 @@
       "lastBanned": 0
     },
     "6289515823841@s.whatsapp.net": {
-      "exp": 666,
+      "exp": 676,
       "limit": 499,
       "registered": false,
       "name": "Ardyan Store",
@@ -384,7 +384,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739003772585,
+      "activation": 1739011017105,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -651,7 +651,7 @@
       "lastBanned": 0
     },
     "62882019154458@s.whatsapp.net": {
-      "exp": 647,
+      "exp": 653,
       "limit": 499,
       "registered": false,
       "name": "aku suka pisang 🍌",
@@ -670,11 +670,11 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1739004394021,
+      "activation": 1739010459647,
       "lastcommand": 1738640060744
     },
     "6289604405225@s.whatsapp.net": {
-      "exp": 236,
+      "exp": 240,
       "limit": 499,
       "registered": false,
       "name": "RIS4YOUSTR",
@@ -692,7 +692,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739002548512,
+      "activation": 1739011535605,
       "lastBanned": 0
     },
     "6287761301460@s.whatsapp.net": {
@@ -852,7 +852,7 @@
       "lastBanned": 0
     },
     "6285819057026@s.whatsapp.net": {
-      "exp": 32,
+      "exp": 39,
       "limit": 499,
       "registered": false,
       "name": "nama",
@@ -870,7 +870,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738851079487,
+      "activation": 1739010700139,
       "lastBanned": 0
     },
     "6283131998936@s.whatsapp.net": {
@@ -1891,6 +1891,27 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "activation": 1739005011987
+    },
+    "6283186820444@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 831-8682-0444",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1739010309911
     }
   },
   "chats": {
@@ -2199,13 +2220,13 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6289688149851@s.whatsapp.net": 69,
-        "6287870207130@s.whatsapp.net": 159,
-        "6285819057026@s.whatsapp.net": 162,
-        "6289531717404@s.whatsapp.net": 126,
-        "6283175256317@s.whatsapp.net": 52,
-        "62882010161373@s.whatsapp.net": 7,
-        "6285890161893@s.whatsapp.net": 5
+        "6289688149851@s.whatsapp.net": 73,
+        "6287870207130@s.whatsapp.net": 183,
+        "6285819057026@s.whatsapp.net": 177,
+        "6289531717404@s.whatsapp.net": 136,
+        "6283175256317@s.whatsapp.net": 56,
+        "62882010161373@s.whatsapp.net": 9,
+        "6285890161893@s.whatsapp.net": 7
       },
       "totalChat": 0
     },
@@ -2922,7 +2943,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739008253743,
+      "backupDB": 1739010309407,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
