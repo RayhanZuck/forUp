@@ -207,12 +207,12 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738979155322,
+      "activation": 1738979218367,
       "lastcommand": 1738879931408,
       "limitprem": 10000
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 822,
+      "exp": 880,
       "limit": 499,
       "registered": false,
       "name": "Rayhan🍟",
@@ -230,7 +230,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738979155129,
+      "activation": 1738979228875,
       "lastBanned": 0,
       "lastcommand": 1738627319900
     },
@@ -651,7 +651,7 @@
       "lastBanned": 0
     },
     "62882019154458@s.whatsapp.net": {
-      "exp": 630,
+      "exp": 637,
       "limit": 499,
       "registered": false,
       "name": "aku suka pisang 🍌",
@@ -670,7 +670,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1738933490261,
+      "activation": 1738979729631,
       "lastcommand": 1738640060744
     },
     "6289604405225@s.whatsapp.net": {
@@ -963,7 +963,7 @@
       "lastBanned": 0
     },
     "62882001117867@s.whatsapp.net": {
-      "exp": 164,
+      "exp": 172,
       "limit": 499,
       "registered": false,
       "name": "Mita_Animation",
@@ -981,7 +981,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738977409996,
+      "activation": 1738980377624,
       "lastBanned": 0
     },
     "6289531717404@s.whatsapp.net": {
@@ -1120,7 +1120,7 @@
       "lastBanned": 0
     },
     "6288905021627@s.whatsapp.net": {
-      "exp": 32,
+      "exp": 39,
       "limit": 499,
       "registered": false,
       "name": "~ライスカ~",
@@ -1138,7 +1138,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738951058214,
+      "activation": 1738979651566,
       "lastBanned": 0
     },
     "6289531370298@s.whatsapp.net": {
@@ -2690,16 +2690,16 @@
       "lastSuccess": 1738933954247
     },
     "owner-sf.js": {
-      "total": 10,
-      "success": 9,
-      "last": 1738979139626,
-      "lastSuccess": 1738979139626
+      "total": 11,
+      "success": 10,
+      "last": 1738979213139,
+      "lastSuccess": 1738979213139
     },
     "downloader-pinterest.js": {
-      "total": 4,
-      "success": 2,
-      "last": 1738979155129,
-      "lastSuccess": 1738672041437
+      "total": 5,
+      "success": 3,
+      "last": 1738979218364,
+      "lastSuccess": 1738979218364
     },
     "ai-remini2.js": {
       "total": 9,
@@ -2787,7 +2787,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738977408429,
+      "backupDB": 1738979212922,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
