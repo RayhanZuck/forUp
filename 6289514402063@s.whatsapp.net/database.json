@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738974179940,
+      "activation": 1738975837494,
       "lastcommand": 1738879931408,
       "limitprem": 10000
     },
@@ -476,7 +476,7 @@
       "lastcommand": 1738973962377
     },
     "6282224463723@s.whatsapp.net": {
-      "exp": 566,
+      "exp": 598,
       "limit": 499,
       "registered": false,
       "name": "JB AMENG STORE OWN LUSY CHA [ REGION JATENG ]",
@@ -494,7 +494,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738930803257,
+      "activation": 1738977058296,
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
@@ -1763,6 +1763,28 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1738970757718
+    },
+    "6287865543825@s.whatsapp.net": {
+      "exp": 47,
+      "limit": 489,
+      "registered": false,
+      "name": "ㅤ ㅤ",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1738975619119,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -1986,16 +2008,17 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285723372013@s.whatsapp.net": 2050,
+        "6285723372013@s.whatsapp.net": 2066,
         "6282278426952@s.whatsapp.net": 53,
         "6281945393763@s.whatsapp.net": 54,
-        "6287761301460@s.whatsapp.net": 693,
-        "6285693602998@s.whatsapp.net": 1989,
-        "6283865469782@s.whatsapp.net": 26,
-        "6282171897051@s.whatsapp.net": 74,
-        "6285161111396@s.whatsapp.net": 15,
-        "6283897506416@s.whatsapp.net": 7,
-        "6285852438294@s.whatsapp.net": 2
+        "6287761301460@s.whatsapp.net": 707,
+        "6285693602998@s.whatsapp.net": 2017,
+        "6283865469782@s.whatsapp.net": 28,
+        "6282171897051@s.whatsapp.net": 78,
+        "6285161111396@s.whatsapp.net": 17,
+        "6283897506416@s.whatsapp.net": 9,
+        "6285852438294@s.whatsapp.net": 4,
+        "6287865543825@s.whatsapp.net": 3
       },
       "totalChat": 0
     },
@@ -2731,6 +2754,12 @@
       "success": 2,
       "last": 1738928681369,
       "lastSuccess": 1738928681369
+    },
+    "sticker-bratgif.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1738975619119,
+      "lastSuccess": 1738975619119
     }
   },
   "msgs": {},
@@ -2758,7 +2787,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738973504791,
+      "backupDB": 1738975537335,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
