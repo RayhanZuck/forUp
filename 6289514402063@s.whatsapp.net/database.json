@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 5403,
+      "exp": 5546,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,12 +207,12 @@
       "premium": false,
       "premiumTime": 1741185877911,
       "lastBanned": 0,
-      "activation": 1738987844265,
+      "activation": 1738989975783,
       "lastcommand": 1738879931408,
       "limitprem": 10000
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 1036,
+      "exp": 1090,
       "limit": 499,
       "registered": false,
       "name": "Rayhan🍟",
@@ -230,7 +230,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738983938877,
+      "activation": 1738990032207,
       "lastBanned": 0,
       "lastcommand": 1738627319900
     },
@@ -344,7 +344,7 @@
       "lastBanned": 0
     },
     "6282128611759@s.whatsapp.net": {
-      "exp": 296,
+      "exp": 301,
       "limit": 499,
       "registered": false,
       "name": "LANGZZ SKIBIDI",
@@ -362,7 +362,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738987729703,
+      "activation": 1738989314634,
       "lastBanned": 0
     },
     "6289515823841@s.whatsapp.net": {
@@ -498,7 +498,7 @@
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 576,
+      "exp": 577,
       "limit": 499,
       "registered": false,
       "name": "@Nadiaaa",
@@ -516,7 +516,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738987207050,
+      "activation": 1738988872588,
       "lastBanned": 0,
       "lastcommand": 1738667595080
     },
@@ -674,7 +674,7 @@
       "lastcommand": 1738640060744
     },
     "6289604405225@s.whatsapp.net": {
-      "exp": 176,
+      "exp": 185,
       "limit": 499,
       "registered": false,
       "name": "RIS4YOUSTR",
@@ -692,7 +692,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738988200194,
+      "activation": 1738989473815,
       "lastBanned": 0
     },
     "6287761301460@s.whatsapp.net": {
@@ -830,7 +830,7 @@
       "lastBanned": 0
     },
     "6287870207130@s.whatsapp.net": {
-      "exp": 36,
+      "exp": 46,
       "limit": 499,
       "registered": false,
       "name": "Rupz Store",
@@ -848,7 +848,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738944041474,
+      "activation": 1738989466370,
       "lastBanned": 0
     },
     "6285819057026@s.whatsapp.net": {
@@ -1785,6 +1785,27 @@
       "premiumTime": 0,
       "activation": 1738975619119,
       "lastBanned": 0
+    },
+    "6287708952418@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 499,
+      "registered": false,
+      "name": "saidd",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1738988544928
     }
   },
   "chats": {
@@ -2093,12 +2114,12 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6289688149851@s.whatsapp.net": 57,
-        "6287870207130@s.whatsapp.net": 99,
-        "6285819057026@s.whatsapp.net": 120,
-        "6289531717404@s.whatsapp.net": 96,
-        "6283175256317@s.whatsapp.net": 40,
-        "62882010161373@s.whatsapp.net": 1
+        "6289688149851@s.whatsapp.net": 59,
+        "6287870207130@s.whatsapp.net": 108,
+        "6285819057026@s.whatsapp.net": 127,
+        "6289531717404@s.whatsapp.net": 101,
+        "6283175256317@s.whatsapp.net": 42,
+        "62882010161373@s.whatsapp.net": 2
       },
       "totalChat": 0
     },
@@ -2570,10 +2591,10 @@
       "lastSuccess": 1738973974674
     },
     "ai-remini.js": {
-      "total": 51,
-      "success": 47,
-      "last": 1738983746596,
-      "lastSuccess": 1738983746596
+      "total": 53,
+      "success": 49,
+      "last": 1738988813725,
+      "lastSuccess": 1738988813725
     },
     "user-balance.js": {
       "total": 6,
@@ -2582,10 +2603,10 @@
       "lastSuccess": 1738651765515
     },
     "downloader-tiktok.js": {
-      "total": 49,
-      "success": 46,
-      "last": 1738977486645,
-      "lastSuccess": 1738977486645
+      "total": 50,
+      "success": 47,
+      "last": 1738989760243,
+      "lastSuccess": 1738989760243
     },
     "group-delete.js": {
       "total": 12,
@@ -2793,7 +2814,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1738986403392,
+      "backupDB": 1738988544476,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
