@@ -6748,7 +6748,7 @@
       "lastdaily": 1733559392481,
       "lastrob": 1733559228574,
       "lastwork": 1733477605725,
-      "activation": 1739126011454
+      "activation": 1739127794691
     },
     "6281288736435@s.whatsapp.net": {
       "exp": 11,
@@ -156119,6 +156119,27 @@
       "premiumTime": 0,
       "activation": 1739126042349,
       "lastBanned": 0
+    },
+    "923465996366@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 499,
+      "registered": false,
+      "name": "+92 346 5996366",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1739126991543
     }
   },
   "chats": {
@@ -169750,6 +169771,29 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "120363322987654782@g.us": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0,
+      "total": {},
+      "totalChat": 0
     }
   },
   "stats": {
@@ -172744,7 +172788,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739124985967,
+      "backupDB": 1739126991240,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
