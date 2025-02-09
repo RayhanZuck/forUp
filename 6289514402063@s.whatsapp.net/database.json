@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 7216,
+      "exp": 7250,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739138952600,
+      "activation": 1739142313684,
       "lastcommand": 1739095665450,
       "limitprem": 10000
     },
@@ -498,7 +498,7 @@
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 941,
+      "exp": 949,
       "limit": 499,
       "registered": false,
       "name": "@Nadiaaa",
@@ -516,7 +516,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739105589968,
+      "activation": 1739141072685,
       "lastBanned": 0,
       "lastcommand": 1738667595080
     },
@@ -1120,7 +1120,7 @@
       "lastBanned": 0
     },
     "6288905021627@s.whatsapp.net": {
-      "exp": 327,
+      "exp": 342,
       "limit": 499,
       "registered": false,
       "name": "~ライスカ~",
@@ -1138,7 +1138,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739119273787,
+      "activation": 1739141810950,
       "lastBanned": 0
     },
     "6289531370298@s.whatsapp.net": {
@@ -2806,10 +2806,10 @@
       "lastSuccess": 1739017272491
     },
     "ai-remini.js": {
-      "total": 56,
-      "success": 52,
-      "last": 1739084614144,
-      "lastSuccess": 1739084614144
+      "total": 57,
+      "success": 53,
+      "last": 1739140806496,
+      "lastSuccess": 1739140806496
     },
     "user-balance.js": {
       "total": 7,
@@ -3065,7 +3065,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739138323496,
+      "backupDB": 1739140799018,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
