@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 6582,
+      "exp": 6642,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,12 +207,12 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739066183594,
+      "activation": 1739068238290,
       "lastcommand": 1739062211780,
       "limitprem": 10000
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 1306,
+      "exp": 1328,
       "limit": 499,
       "registered": false,
       "name": "Rayhan🍟",
@@ -230,7 +230,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739018429182,
+      "activation": 1739068238287,
       "lastBanned": 0,
       "lastcommand": 1739017701378
     },
@@ -300,7 +300,7 @@
       "activation": 1738594062332
     },
     "6283196722292@s.whatsapp.net": {
-      "exp": 308,
+      "exp": 317,
       "limit": 499,
       "registered": false,
       "name": "BOBOB STORE",
@@ -318,7 +318,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739062712945,
+      "activation": 1739067748310,
       "lastBanned": 0
     },
     "6285790379156@s.whatsapp.net": {
@@ -498,7 +498,7 @@
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 772,
+      "exp": 778,
       "limit": 499,
       "registered": false,
       "name": "@Nadiaaa",
@@ -516,7 +516,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739064623033,
+      "activation": 1739067504317,
       "lastBanned": 0,
       "lastcommand": 1738667595080
     },
@@ -2712,10 +2712,10 @@
       "lastSuccess": 1738646694680
     },
     "owner-getdb.js": {
-      "total": 2,
-      "success": 0,
-      "last": 1716040997739,
-      "lastSuccess": 0
+      "total": 3,
+      "success": 1,
+      "last": 1739068238287,
+      "lastSuccess": 1739068238287
     },
     "owner-addlimit.js": {
       "total": 2,
@@ -2856,10 +2856,10 @@
       "lastSuccess": 1738656408093
     },
     "downloader-instagram.js": {
-      "total": 8,
-      "success": 5,
-      "last": 1739021370992,
-      "lastSuccess": 1739021370992
+      "total": 10,
+      "success": 7,
+      "last": 1739067229382,
+      "lastSuccess": 1739067229382
     },
     "owner-sf.js": {
       "total": 12,
@@ -2995,7 +2995,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739064420228,
+      "backupDB": 1739066492415,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
