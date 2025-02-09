@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 7030,
+      "exp": 7093,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,12 +207,12 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739094191869,
-      "lastcommand": 1739088286961,
+      "activation": 1739096926496,
+      "lastcommand": 1739095665450,
       "limitprem": 10000
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 1353,
+      "exp": 1399,
       "limit": 499,
       "registered": false,
       "name": "Rayhan🍟",
@@ -230,7 +230,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739070309852,
+      "activation": 1739096210414,
       "lastBanned": 0,
       "lastcommand": 1739017701378
     },
@@ -257,7 +257,7 @@
       "lastBanned": 0
     },
     "6281263255789@s.whatsapp.net": {
-      "exp": 1152,
+      "exp": 1161,
       "limit": 499,
       "registered": false,
       "name": "HATXX STORE",
@@ -275,7 +275,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739080753637,
+      "activation": 1739096893885,
       "lastBanned": 0
     },
     "6282278426952@s.whatsapp.net": {
@@ -498,7 +498,7 @@
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 907,
+      "exp": 914,
       "limit": 499,
       "registered": false,
       "name": "@Nadiaaa",
@@ -516,7 +516,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739088526713,
+      "activation": 1739097030972,
       "lastBanned": 0,
       "lastcommand": 1738667595080
     },
@@ -2684,6 +2684,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6287724063980@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -2754,10 +2775,10 @@
       "lastSuccess": 1739053251863
     },
     "downloader-tiktok.js": {
-      "total": 52,
-      "success": 49,
-      "last": 1739075344841,
-      "lastSuccess": 1739075344841
+      "total": 53,
+      "success": 50,
+      "last": 1739096850173,
+      "lastSuccess": 1739096850173
     },
     "group-delete.js": {
       "total": 14,
@@ -2838,10 +2859,10 @@
       "lastSuccess": 1738973670807
     },
     "_cek.js": {
-      "total": 17,
-      "success": 17,
-      "last": 1739088287959,
-      "lastSuccess": 1739088287959
+      "total": 18,
+      "success": 18,
+      "last": 1739095667055,
+      "lastSuccess": 1739095667055
     },
     "info-donasi.js": {
       "total": 2,
@@ -2862,10 +2883,10 @@
       "lastSuccess": 1739067229382
     },
     "owner-sf.js": {
-      "total": 12,
-      "success": 11,
-      "last": 1739006212266,
-      "lastSuccess": 1739006212266
+      "total": 13,
+      "success": 12,
+      "last": 1739096201547,
+      "lastSuccess": 1739096201547
     },
     "downloader-pinterest.js": {
       "total": 5,
@@ -2968,6 +2989,12 @@
       "success": 3,
       "last": 1739053293584,
       "lastSuccess": 1739053293584
+    },
+    "tools-lyrics.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1739096210414,
+      "lastSuccess": 1739096210414
     }
   },
   "msgs": {},
@@ -2995,7 +3022,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739092780309,
+      "backupDB": 1739095401720,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
