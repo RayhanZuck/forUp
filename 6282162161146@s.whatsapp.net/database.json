@@ -6748,7 +6748,7 @@
       "lastdaily": 1733559392481,
       "lastrob": 1733559228574,
       "lastwork": 1733477605725,
-      "activation": 1739132480654
+      "activation": 1739134255972
     },
     "6281288736435@s.whatsapp.net": {
       "exp": 11,
@@ -12930,8 +12930,8 @@
       "lastwork": 1731670263135
     },
     "6283857571704@s.whatsapp.net": {
-      "exp": 215,
-      "limit": 299,
+      "exp": 239,
+      "limit": 279,
       "registered": false,
       "name": "alamsyah",
       "age": -1,
@@ -12949,7 +12949,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1737370112024
+      "activation": 1739133346455
     },
     "23622840229976_1@s.whatsapp.net": {
       "exp": 1,
@@ -148324,7 +148324,7 @@
       "activation": 1739095180145
     },
     "62895420181280@s.whatsapp.net": {
-      "exp": 354,
+      "exp": 438,
       "limit": 499,
       "registered": false,
       "name": "ANYA",
@@ -148342,7 +148342,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739115079846,
+      "activation": 1739134253777,
       "lastBanned": 0
     },
     "6283877455445@s.whatsapp.net": {
@@ -156309,6 +156309,29 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1739132436076
+    },
+    "6283854824914@s.whatsapp.net": {
+      "exp": 187,
+      "limit": 499,
+      "registered": false,
+      "name": "Vii💐",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": 1739134255476,
+      "afkReason": "mau tidurrr",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastcommand": 1739134214335,
+      "activation": 1739134255477,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -169426,14 +169449,15 @@
       "expired": 0,
       "total": {
         "6287844519751@s.whatsapp.net": 26,
-        "62895420181280@s.whatsapp.net": 877,
+        "62895420181280@s.whatsapp.net": 1128,
         "62882007702826@s.whatsapp.net": 25,
         "6285770415607@s.whatsapp.net": 24,
         "6282332714893@s.whatsapp.net": 22,
         "6285342903815@s.whatsapp.net": 20,
         "62882008091916@s.whatsapp.net": 734,
-        "628811972790@s.whatsapp.net": 44,
-        "6282259089973@s.whatsapp.net": 7
+        "628811972790@s.whatsapp.net": 129,
+        "6282259089973@s.whatsapp.net": 41,
+        "6283854824914@s.whatsapp.net": 114
       },
       "totalChat": 0
     },
@@ -169975,10 +169999,10 @@
       "lastSuccess": 1739111285057
     },
     "downloader-tiktok.js": {
-      "total": 2874,
-      "success": 2681,
-      "last": 1739130788962,
-      "lastSuccess": 1739113889840
+      "total": 2875,
+      "success": 2682,
+      "last": 1739133346455,
+      "lastSuccess": 1739133346455
     },
     "owner-sf.js": {
       "total": 1458,
@@ -170431,9 +170455,9 @@
       "lastSuccess": 1737686480147
     },
     "games-tebakkata.js": {
-      "total": 2879,
+      "total": 2881,
       "success": 2773,
-      "last": 1739103890770,
+      "last": 1739134028141,
       "lastSuccess": 1739103890770
     },
     "game-susunkata.js": {
@@ -170473,10 +170497,10 @@
       "lastSuccess": 1739125647256
     },
     "group-listonline.js": {
-      "total": 186,
-      "success": 164,
-      "last": 1737968001669,
-      "lastSuccess": 1737968001669
+      "total": 188,
+      "success": 166,
+      "last": 1739134214336,
+      "lastSuccess": 1739134214336
     },
     "tools-lyrics.js": {
       "total": 202,
@@ -170761,9 +170785,9 @@
       "lastSuccess": 1738843059860
     },
     "games-tebakkata_hint.js": {
-      "total": 586,
+      "total": 588,
       "success": 559,
-      "last": 1739011003605,
+      "last": 1739134045744,
       "lastSuccess": 1739011003605
     },
     "fun-cek.js": {
@@ -172363,10 +172387,10 @@
       "lastSuccess": 1739109901547
     },
     "user-afk_.js": {
-      "total": 50,
-      "success": 50,
-      "last": 1739112659384,
-      "lastSuccess": 1739112659384
+      "total": 51,
+      "success": 51,
+      "last": 1739134255477,
+      "lastSuccess": 1739134255477
     },
     "group-getbio.js": {
       "total": 2,
@@ -172959,7 +172983,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739131379641,
+      "backupDB": 1739133332536,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
