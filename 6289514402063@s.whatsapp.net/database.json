@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 6536,
+      "exp": 6571,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,8 +207,8 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739060906479,
-      "lastcommand": 1739019492322,
+      "activation": 1739063908125,
+      "lastcommand": 1739062211780,
       "limitprem": 10000
     },
     "6285766064200@s.whatsapp.net": {
@@ -300,7 +300,7 @@
       "activation": 1738594062332
     },
     "6283196722292@s.whatsapp.net": {
-      "exp": 293,
+      "exp": 308,
       "limit": 499,
       "registered": false,
       "name": "BOBOB STORE",
@@ -318,7 +318,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739026917830,
+      "activation": 1739062712945,
       "lastBanned": 0
     },
     "6285790379156@s.whatsapp.net": {
@@ -498,7 +498,7 @@
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 740,
+      "exp": 764,
       "limit": 499,
       "registered": false,
       "name": "@Nadiaaa",
@@ -516,7 +516,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739058869596,
+      "activation": 1739062788995,
       "lastBanned": 0,
       "lastcommand": 1738667595080
     },
@@ -1913,6 +1913,27 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1739010309911
+    },
+    "6285754497961@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 857-5449-7961",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1739062576947
     }
   },
   "chats": {
@@ -2221,13 +2242,13 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6289688149851@s.whatsapp.net": 75,
-        "6287870207130@s.whatsapp.net": 196,
-        "6285819057026@s.whatsapp.net": 185,
-        "6289531717404@s.whatsapp.net": 141,
-        "6283175256317@s.whatsapp.net": 58,
-        "62882010161373@s.whatsapp.net": 10,
-        "6285890161893@s.whatsapp.net": 8
+        "6289688149851@s.whatsapp.net": 77,
+        "6287870207130@s.whatsapp.net": 209,
+        "6285819057026@s.whatsapp.net": 193,
+        "6289531717404@s.whatsapp.net": 146,
+        "6283175256317@s.whatsapp.net": 60,
+        "62882010161373@s.whatsapp.net": 11,
+        "6285890161893@s.whatsapp.net": 9
       },
       "totalChat": 0
     },
@@ -2817,10 +2838,10 @@
       "lastSuccess": 1738973670807
     },
     "_cek.js": {
-      "total": 15,
-      "success": 15,
-      "last": 1739017702140,
-      "lastSuccess": 1739017702140
+      "total": 16,
+      "success": 16,
+      "last": 1739062212705,
+      "lastSuccess": 1739062212705
     },
     "info-donasi.js": {
       "total": 2,
@@ -2925,10 +2946,10 @@
       "lastSuccess": 1739017337203
     },
     "user-leader.js": {
-      "total": 5,
-      "success": 5,
-      "last": 1739018074862,
-      "lastSuccess": 1739018074862
+      "total": 6,
+      "success": 6,
+      "last": 1739061417167,
+      "lastSuccess": 1739061417167
     },
     "random-anime.js": {
       "total": 2,
@@ -2974,7 +2995,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739059424339,
+      "backupDB": 1739061340698,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
