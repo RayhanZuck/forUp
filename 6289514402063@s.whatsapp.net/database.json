@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 6821,
+      "exp": 6853,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739081918076,
+      "activation": 1739084919053,
       "lastcommand": 1739062211780,
       "limitprem": 10000
     },
@@ -498,7 +498,7 @@
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 828,
+      "exp": 835,
       "limit": 499,
       "registered": false,
       "name": "@Nadiaaa",
@@ -516,7 +516,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739081946495,
+      "activation": 1739084608636,
       "lastBanned": 0,
       "lastcommand": 1738667595080
     },
@@ -830,7 +830,7 @@
       "lastBanned": 0
     },
     "6287870207130@s.whatsapp.net": {
-      "exp": 64,
+      "exp": 95,
       "limit": 499,
       "registered": false,
       "name": "Rupz Store",
@@ -848,7 +848,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739082612355,
+      "activation": 1739086385484,
       "lastBanned": 0
     },
     "6285819057026@s.whatsapp.net": {
@@ -2242,13 +2242,13 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6289688149851@s.whatsapp.net": 79,
-        "6287870207130@s.whatsapp.net": 223,
-        "6285819057026@s.whatsapp.net": 201,
-        "6289531717404@s.whatsapp.net": 151,
-        "6283175256317@s.whatsapp.net": 62,
-        "62882010161373@s.whatsapp.net": 12,
-        "6285890161893@s.whatsapp.net": 10
+        "6289688149851@s.whatsapp.net": 93,
+        "6287870207130@s.whatsapp.net": 324,
+        "6285819057026@s.whatsapp.net": 257,
+        "6289531717404@s.whatsapp.net": 186,
+        "6283175256317@s.whatsapp.net": 76,
+        "62882010161373@s.whatsapp.net": 19,
+        "6285890161893@s.whatsapp.net": 17
       },
       "totalChat": 0
     },
@@ -2742,10 +2742,10 @@
       "lastSuccess": 1739017272491
     },
     "ai-remini.js": {
-      "total": 55,
-      "success": 51,
-      "last": 1739075397048,
-      "lastSuccess": 1739075397048
+      "total": 56,
+      "success": 52,
+      "last": 1739084614144,
+      "lastSuccess": 1739084614144
     },
     "user-balance.js": {
       "total": 7,
@@ -2995,7 +2995,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739080969302,
+      "backupDB": 1739084586050,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
