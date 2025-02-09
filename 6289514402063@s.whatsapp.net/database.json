@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 6642,
+      "exp": 6652,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,12 +207,12 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739068238290,
+      "activation": 1739070310354,
       "lastcommand": 1739062211780,
       "limitprem": 10000
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 1328,
+      "exp": 1353,
       "limit": 499,
       "registered": false,
       "name": "Rayhan🍟",
@@ -230,7 +230,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739068238287,
+      "activation": 1739070309852,
       "lastBanned": 0,
       "lastcommand": 1739017701378
     },
@@ -366,7 +366,7 @@
       "lastBanned": 0
     },
     "6289515823841@s.whatsapp.net": {
-      "exp": 688,
+      "exp": 703,
       "limit": 499,
       "registered": false,
       "name": "Ardyan Store",
@@ -384,7 +384,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739036230044,
+      "activation": 1739069699640,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -498,7 +498,7 @@
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 778,
+      "exp": 781,
       "limit": 499,
       "registered": false,
       "name": "@Nadiaaa",
@@ -516,7 +516,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739067504317,
+      "activation": 1739069158531,
       "lastBanned": 0,
       "lastcommand": 1738667595080
     },
@@ -2730,10 +2730,10 @@
       "lastSuccess": 1716041075591
     },
     "owner-exec.js": {
-      "total": 11,
-      "success": 11,
-      "last": 1739017649178,
-      "lastSuccess": 1739017649178
+      "total": 12,
+      "success": 12,
+      "last": 1739070309852,
+      "lastSuccess": 1739070309852
     },
     "_main-menu.js": {
       "total": 36,
@@ -2995,7 +2995,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739066492415,
+      "backupDB": 1739069052085,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
