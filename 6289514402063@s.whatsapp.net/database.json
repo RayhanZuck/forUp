@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739090923258,
+      "activation": 1739094191869,
       "lastcommand": 1739088286961,
       "limitprem": 10000
     },
@@ -300,7 +300,7 @@
       "activation": 1738594062332
     },
     "6283196722292@s.whatsapp.net": {
-      "exp": 348,
+      "exp": 352,
       "limit": 499,
       "registered": false,
       "name": "BOBOB STORE",
@@ -318,7 +318,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739091905263,
+      "activation": 1739092780981,
       "lastBanned": 0
     },
     "6285790379156@s.whatsapp.net": {
@@ -763,8 +763,8 @@
       "lastcommand": 1738727337516
     },
     "6283139312937@s.whatsapp.net": {
-      "exp": 150,
-      "limit": 474,
+      "exp": 171,
+      "limit": 469,
       "registered": false,
       "name": "Ramz",
       "age": -1,
@@ -781,7 +781,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738856193198,
+      "activation": 1739094190746,
       "lastBanned": 0,
       "lastcommand": 1738845662215
     },
@@ -1120,7 +1120,7 @@
       "lastBanned": 0
     },
     "6288905021627@s.whatsapp.net": {
-      "exp": 225,
+      "exp": 230,
       "limit": 499,
       "registered": false,
       "name": "~ライスカ~",
@@ -1138,7 +1138,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739091415295,
+      "activation": 1739093269321,
       "lastBanned": 0
     },
     "6289531370298@s.whatsapp.net": {
@@ -2784,10 +2784,10 @@
       "lastSuccess": 1739012594480
     },
     "sticker-all.js": {
-      "total": 33,
-      "success": 33,
-      "last": 1738938038101,
-      "lastSuccess": 1738938038101
+      "total": 34,
+      "success": 34,
+      "last": 1739094190746,
+      "lastSuccess": 1739094190746
     },
     "user-limit.js": {
       "total": 6,
@@ -2995,7 +2995,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739090629454,
+      "backupDB": 1739092780309,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
