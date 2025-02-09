@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 6724,
+      "exp": 6787,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739075340100,
+      "activation": 1739075914093,
       "lastcommand": 1739062211780,
       "limitprem": 10000
     },
@@ -257,7 +257,7 @@
       "lastBanned": 0
     },
     "6281263255789@s.whatsapp.net": {
-      "exp": 1122,
+      "exp": 1134,
       "limit": 499,
       "registered": false,
       "name": "HATXX STORE",
@@ -275,7 +275,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739075119090,
+      "activation": 1739076916160,
       "lastBanned": 0
     },
     "6282278426952@s.whatsapp.net": {
@@ -366,7 +366,7 @@
       "lastBanned": 0
     },
     "6289515823841@s.whatsapp.net": {
-      "exp": 703,
+      "exp": 719,
       "limit": 499,
       "registered": false,
       "name": "Ardyan Store",
@@ -384,7 +384,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739069699640,
+      "activation": 1739075828152,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -476,7 +476,7 @@
       "lastcommand": 1738973962377
     },
     "6282224463723@s.whatsapp.net": {
-      "exp": 788,
+      "exp": 805,
       "limit": 499,
       "registered": false,
       "name": "JB AMENG STORE OWN LUSY CHA [ REGION JATENG ]",
@@ -494,11 +494,11 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739072300810,
+      "activation": 1739076215458,
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 788,
+      "exp": 794,
       "limit": 499,
       "registered": false,
       "name": "@Nadiaaa",
@@ -516,7 +516,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739073504613,
+      "activation": 1739077165703,
       "lastBanned": 0,
       "lastcommand": 1738667595080
     },
@@ -718,7 +718,7 @@
       "lastBanned": 0
     },
     "6281224160567@s.whatsapp.net": {
-      "exp": 130,
+      "exp": 139,
       "limit": 499,
       "registered": false,
       "name": "Titin Supriatin",
@@ -736,11 +736,11 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739025544001,
+      "activation": 1739075788415,
       "lastBanned": 0
     },
     "6283896295573@s.whatsapp.net": {
-      "exp": 78,
+      "exp": 80,
       "limit": 499,
       "registered": false,
       "name": "Agung",
@@ -758,7 +758,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738797445632,
+      "activation": 1739075488924,
       "lastBanned": 0,
       "lastcommand": 1738727337516
     },
@@ -1120,7 +1120,7 @@
       "lastBanned": 0
     },
     "6288905021627@s.whatsapp.net": {
-      "exp": 211,
+      "exp": 217,
       "limit": 499,
       "registered": false,
       "name": "~ライスカ~",
@@ -1138,7 +1138,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739055221779,
+      "activation": 1739076203816,
       "lastBanned": 0
     },
     "6289531370298@s.whatsapp.net": {
@@ -2742,10 +2742,10 @@
       "lastSuccess": 1739017272491
     },
     "ai-remini.js": {
-      "total": 53,
-      "success": 49,
-      "last": 1738988813725,
-      "lastSuccess": 1738988813725
+      "total": 55,
+      "success": 51,
+      "last": 1739075397048,
+      "lastSuccess": 1739075397048
     },
     "user-balance.js": {
       "total": 7,
@@ -2754,10 +2754,10 @@
       "lastSuccess": 1739053251863
     },
     "downloader-tiktok.js": {
-      "total": 51,
-      "success": 48,
-      "last": 1739074500495,
-      "lastSuccess": 1739074500495
+      "total": 52,
+      "success": 49,
+      "last": 1739075344841,
+      "lastSuccess": 1739075344841
     },
     "group-delete.js": {
       "total": 14,
@@ -2995,7 +2995,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739073504161,
+      "backupDB": 1739075370140,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
