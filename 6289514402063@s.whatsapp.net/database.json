@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739123944137,
+      "activation": 1739129946957,
       "lastcommand": 1739095665450,
       "limitprem": 10000
     },
@@ -257,7 +257,7 @@
       "lastBanned": 0
     },
     "6281263255789@s.whatsapp.net": {
-      "exp": 1285,
+      "exp": 1291,
       "limit": 499,
       "registered": false,
       "name": "HATXX STORE",
@@ -275,7 +275,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739119562162,
+      "activation": 1739125983657,
       "lastBanned": 0
     },
     "6282278426952@s.whatsapp.net": {
@@ -1722,7 +1722,7 @@
       "activation": 1738933028076
     },
     "62882010161373@s.whatsapp.net": {
-      "exp": 17,
+      "exp": 22,
       "limit": 499,
       "registered": false,
       "name": "𝗗𝗜𝗟𝟰𝗬𝗢𝗨 𝗝𝗔𝗧𝗜𝗠",
@@ -1740,7 +1740,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739122798913,
+      "activation": 1739125687755,
       "lastBanned": 0
     },
     "6289656411266@s.whatsapp.net": {
@@ -2264,13 +2264,13 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6289688149851@s.whatsapp.net": 113,
-        "6287870207130@s.whatsapp.net": 475,
-        "6285819057026@s.whatsapp.net": 346,
-        "6289531717404@s.whatsapp.net": 236,
-        "6283175256317@s.whatsapp.net": 96,
-        "62882010161373@s.whatsapp.net": 31,
-        "6285890161893@s.whatsapp.net": 27
+        "6289688149851@s.whatsapp.net": 115,
+        "6287870207130@s.whatsapp.net": 491,
+        "6285819057026@s.whatsapp.net": 355,
+        "6289531717404@s.whatsapp.net": 241,
+        "6283175256317@s.whatsapp.net": 98,
+        "62882010161373@s.whatsapp.net": 34,
+        "6285890161893@s.whatsapp.net": 28
       },
       "totalChat": 0
     },
@@ -3065,7 +3065,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739122798442,
+      "backupDB": 1739125687013,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
