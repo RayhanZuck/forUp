@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739165968947,
+      "activation": 1739168970957,
       "lastcommand": 1739095665450,
       "limitprem": 10000
     },
@@ -718,7 +718,7 @@
       "lastBanned": 0
     },
     "6281224160567@s.whatsapp.net": {
-      "exp": 184,
+      "exp": 187,
       "limit": 499,
       "registered": false,
       "name": "Titin Supriatin",
@@ -736,7 +736,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739165713869,
+      "activation": 1739169023877,
       "lastBanned": 0
     },
     "6283896295573@s.whatsapp.net": {
@@ -830,7 +830,7 @@
       "lastBanned": 0
     },
     "6287870207130@s.whatsapp.net": {
-      "exp": 165,
+      "exp": 191,
       "limit": 499,
       "registered": false,
       "name": "Rupz Store",
@@ -848,7 +848,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739165099873,
+      "activation": 1739167987942,
       "lastBanned": 0
     },
     "6285819057026@s.whatsapp.net": {
@@ -2265,11 +2265,11 @@
       "expired": 0,
       "total": {
         "6289688149851@s.whatsapp.net": 119,
-        "6287870207130@s.whatsapp.net": 531,
-        "6285819057026@s.whatsapp.net": 375,
+        "6287870207130@s.whatsapp.net": 561,
+        "6285819057026@s.whatsapp.net": 385,
         "6289531717404@s.whatsapp.net": 251,
         "6283175256317@s.whatsapp.net": 102,
-        "62882010161373@s.whatsapp.net": 44,
+        "62882010161373@s.whatsapp.net": 59,
         "6285890161893@s.whatsapp.net": 30
       },
       "totalChat": 0
@@ -2421,9 +2421,9 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6281224160567@s.whatsapp.net": 255,
-        "6287892817324@s.whatsapp.net": 9,
-        "6283897949969@s.whatsapp.net": 5
+        "6281224160567@s.whatsapp.net": 278,
+        "6287892817324@s.whatsapp.net": 10,
+        "6283897949969@s.whatsapp.net": 6
       },
       "totalChat": 0
     },
@@ -3065,7 +3065,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739165099123,
+      "backupDB": 1739167917247,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
