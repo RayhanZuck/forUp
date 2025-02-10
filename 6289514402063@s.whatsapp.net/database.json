@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739144955411,
+      "activation": 1739147958577,
       "lastcommand": 1739095665450,
       "limitprem": 10000
     },
@@ -830,7 +830,7 @@
       "lastBanned": 0
     },
     "6287870207130@s.whatsapp.net": {
-      "exp": 153,
+      "exp": 155,
       "limit": 499,
       "registered": false,
       "name": "Rupz Store",
@@ -848,7 +848,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739123461143,
+      "activation": 1739145258160,
       "lastBanned": 0
     },
     "6285819057026@s.whatsapp.net": {
@@ -2264,13 +2264,13 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6289688149851@s.whatsapp.net": 115,
-        "6287870207130@s.whatsapp.net": 491,
-        "6285819057026@s.whatsapp.net": 355,
-        "6289531717404@s.whatsapp.net": 241,
-        "6283175256317@s.whatsapp.net": 98,
-        "62882010161373@s.whatsapp.net": 34,
-        "6285890161893@s.whatsapp.net": 28
+        "6289688149851@s.whatsapp.net": 117,
+        "6287870207130@s.whatsapp.net": 508,
+        "6285819057026@s.whatsapp.net": 364,
+        "6289531717404@s.whatsapp.net": 246,
+        "6283175256317@s.whatsapp.net": 100,
+        "62882010161373@s.whatsapp.net": 37,
+        "6285890161893@s.whatsapp.net": 29
       },
       "totalChat": 0
     },
@@ -3065,7 +3065,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739142620556,
+      "backupDB": 1739145257646,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
