@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739196152807,
+      "activation": 1739200824343,
       "lastcommand": 1739194409233,
       "limitprem": 10000
     },
@@ -366,7 +366,7 @@
       "lastBanned": 0
     },
     "6289515823841@s.whatsapp.net": {
-      "exp": 834,
+      "exp": 844,
       "limit": 499,
       "registered": false,
       "name": "Ardyan Store",
@@ -384,7 +384,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739194238310,
+      "activation": 1739198821383,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -941,8 +941,8 @@
       "lastBanned": 0
     },
     "62882003885815@s.whatsapp.net": {
-      "exp": 206,
-      "limit": 404,
+      "exp": 226,
+      "limit": 384,
       "registered": false,
       "name": "saturn",
       "age": -1,
@@ -959,12 +959,12 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739196152289,
+      "activation": 1739198955278,
       "lastBanned": 0,
       "lastcommand": 1739196152289
     },
     "62882001117867@s.whatsapp.net": {
-      "exp": 231,
+      "exp": 239,
       "limit": 499,
       "registered": false,
       "name": "Mita_Animation",
@@ -982,7 +982,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739184067498,
+      "activation": 1739198316078,
       "lastBanned": 0
     },
     "6289531717404@s.whatsapp.net": {
@@ -1121,7 +1121,7 @@
       "lastBanned": 0
     },
     "6288905021627@s.whatsapp.net": {
-      "exp": 392,
+      "exp": 421,
       "limit": 499,
       "registered": false,
       "name": "~ライスカ~",
@@ -1139,7 +1139,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739196375192,
+      "activation": 1739198267175,
       "lastBanned": 0
     },
     "6289531370298@s.whatsapp.net": {
@@ -1546,7 +1546,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "activation": 1739005694506,
       "lastBanned": 0
@@ -2000,6 +2000,28 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1739181573890
+    },
+    "6281297687482@s.whatsapp.net": {
+      "exp": 17,
+      "limit": 499,
+      "registered": false,
+      "name": "not your type;)",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0,
+      "activation": 1739197702629
     }
   },
   "chats": {
@@ -2834,6 +2856,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6281297687482@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -2904,10 +2947,10 @@
       "lastSuccess": 1739053251863
     },
     "downloader-tiktok.js": {
-      "total": 57,
-      "success": 54,
-      "last": 1739181330251,
-      "lastSuccess": 1739181330251
+      "total": 58,
+      "success": 55,
+      "last": 1739198955278,
+      "lastSuccess": 1739198955278
     },
     "group-delete.js": {
       "total": 14,
@@ -3157,7 +3200,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739195736060,
+      "backupDB": 1739197702170,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
