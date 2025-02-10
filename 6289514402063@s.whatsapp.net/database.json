@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 7858,
+      "exp": 7915,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,8 +207,8 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739188911903,
-      "lastcommand": 1739174867115,
+      "activation": 1739190089432,
+      "lastcommand": 1739190029098,
       "limitprem": 10000
     },
     "6285766064200@s.whatsapp.net": {
@@ -257,7 +257,7 @@
       "lastBanned": 0
     },
     "6281263255789@s.whatsapp.net": {
-      "exp": 1452,
+      "exp": 1487,
       "limit": 499,
       "registered": false,
       "name": "HATXX STORE",
@@ -275,7 +275,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739186463445,
+      "activation": 1739190721398,
       "lastBanned": 0
     },
     "6282278426952@s.whatsapp.net": {
@@ -674,7 +674,7 @@
       "lastcommand": 1738640060744
     },
     "6289604405225@s.whatsapp.net": {
-      "exp": 432,
+      "exp": 435,
       "limit": 499,
       "registered": false,
       "name": "RIS4YOUSTR",
@@ -692,7 +692,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739187548117,
+      "activation": 1739189796185,
       "lastBanned": 0
     },
     "6287761301460@s.whatsapp.net": {
@@ -718,7 +718,7 @@
       "lastBanned": 0
     },
     "6281224160567@s.whatsapp.net": {
-      "exp": 192,
+      "exp": 210,
       "limit": 499,
       "registered": false,
       "name": "Titin Supriatin",
@@ -736,7 +736,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739170259634,
+      "activation": 1739190270131,
       "lastBanned": 0
     },
     "6283896295573@s.whatsapp.net": {
@@ -3096,10 +3096,10 @@
       "lastSuccess": 1739017337203
     },
     "user-leader.js": {
-      "total": 7,
-      "success": 7,
-      "last": 1739142622517,
-      "lastSuccess": 1739142622517
+      "total": 8,
+      "success": 8,
+      "last": 1739190089427,
+      "lastSuccess": 1739190089427
     },
     "random-anime.js": {
       "total": 2,
@@ -3126,10 +3126,10 @@
       "lastSuccess": 1739106487999
     },
     "fun-allcek.js": {
-      "total": 3,
-      "success": 1,
-      "last": 1739188911728,
-      "lastSuccess": 1739188911728
+      "total": 5,
+      "success": 3,
+      "last": 1739190039033,
+      "lastSuccess": 1739190039033
     }
   },
   "msgs": {},
@@ -3157,7 +3157,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739187322972,
+      "backupDB": 1739189314021,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
