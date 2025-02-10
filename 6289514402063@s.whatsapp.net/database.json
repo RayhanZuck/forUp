@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 7803,
+      "exp": 7858,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739186983531,
+      "activation": 1739188911903,
       "lastcommand": 1739174867115,
       "limitprem": 10000
     },
@@ -344,7 +344,7 @@
       "lastBanned": 0
     },
     "6282128611759@s.whatsapp.net": {
-      "exp": 394,
+      "exp": 396,
       "limit": 499,
       "registered": false,
       "name": "LANGZZ SKIBIDI",
@@ -362,7 +362,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739186111036,
+      "activation": 1739188049047,
       "lastBanned": 0
     },
     "6289515823841@s.whatsapp.net": {
@@ -674,7 +674,7 @@
       "lastcommand": 1738640060744
     },
     "6289604405225@s.whatsapp.net": {
-      "exp": 427,
+      "exp": 432,
       "limit": 499,
       "registered": false,
       "name": "RIS4YOUSTR",
@@ -692,7 +692,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739186740767,
+      "activation": 1739187548117,
       "lastBanned": 0
     },
     "6287761301460@s.whatsapp.net": {
@@ -941,8 +941,8 @@
       "lastBanned": 0
     },
     "62882003885815@s.whatsapp.net": {
-      "exp": 53,
-      "limit": 454,
+      "exp": 117,
+      "limit": 429,
       "registered": false,
       "name": "saturn",
       "age": -1,
@@ -959,8 +959,9 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1738670067969,
-      "lastBanned": 0
+      "activation": 1739188911728,
+      "lastBanned": 0,
+      "lastcommand": 1739188911728
     },
     "62882001117867@s.whatsapp.net": {
       "exp": 231,
@@ -1120,7 +1121,7 @@
       "lastBanned": 0
     },
     "6288905021627@s.whatsapp.net": {
-      "exp": 352,
+      "exp": 374,
       "limit": 499,
       "registered": false,
       "name": "~ライスカ~",
@@ -1138,7 +1139,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739186458953,
+      "activation": 1739188694028,
       "lastBanned": 0
     },
     "6289531370298@s.whatsapp.net": {
@@ -2812,6 +2813,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6288905021627@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -2870,10 +2892,10 @@
       "lastSuccess": 1739017272491
     },
     "ai-remini.js": {
-      "total": 62,
-      "success": 57,
-      "last": 1739181471896,
-      "lastSuccess": 1739181471896
+      "total": 63,
+      "success": 58,
+      "last": 1739188835208,
+      "lastSuccess": 1739188835208
     },
     "user-balance.js": {
       "total": 7,
@@ -2984,10 +3006,10 @@
       "lastSuccess": 1738656408093
     },
     "downloader-instagram.js": {
-      "total": 11,
-      "success": 7,
-      "last": 1739074420652,
-      "lastSuccess": 1739067229382
+      "total": 12,
+      "success": 8,
+      "last": 1739188470875,
+      "lastSuccess": 1739188470875
     },
     "owner-sf.js": {
       "total": 13,
@@ -3102,6 +3124,12 @@
       "success": 3,
       "last": 1739106487999,
       "lastSuccess": 1739106487999
+    },
+    "fun-allcek.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1739188911728,
+      "lastSuccess": 1739188911728
     }
   },
   "msgs": {},
@@ -3129,7 +3157,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739185328389,
+      "backupDB": 1739187322972,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
