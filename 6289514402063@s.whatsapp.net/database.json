@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 8062,
+      "exp": 8126,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,8 +207,8 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739221004413,
-      "lastcommand": 1739194409233,
+      "activation": 1739226523690,
+      "lastcommand": 1739226506781,
       "limitprem": 10000
     },
     "6285766064200@s.whatsapp.net": {
@@ -964,7 +964,7 @@
       "lastcommand": 1739196152289
     },
     "62882001117867@s.whatsapp.net": {
-      "exp": 239,
+      "exp": 256,
       "limit": 499,
       "registered": false,
       "name": "Mita_Animation",
@@ -982,7 +982,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739198316078,
+      "activation": 1739227258218,
       "lastBanned": 0
     },
     "6289531717404@s.whatsapp.net": {
@@ -2950,10 +2950,10 @@
       "lastSuccess": 1739070309852
     },
     "_main-menu.js": {
-      "total": 37,
-      "success": 36,
-      "last": 1739194425097,
-      "lastSuccess": 1739194425097
+      "total": 38,
+      "success": 37,
+      "last": 1739226523681,
+      "lastSuccess": 1739226523681
     },
     "ai-remini.js": {
       "total": 64,
@@ -3221,7 +3221,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739221008835,
+      "backupDB": 1739225967492,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
