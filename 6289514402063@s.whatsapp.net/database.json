@@ -1959,7 +1959,7 @@
       "activation": 1739100590453
     },
     "62895329822114@s.whatsapp.net": {
-      "exp": 168,
+      "exp": 177,
       "limit": 499,
       "registered": false,
       "name": "*＊✿❀ 𝑛𝑛𝑎 ❀✿＊*",
@@ -1977,7 +1977,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739196022397,
+      "activation": 1739238920120,
       "lastBanned": 0
     },
     "6285717594152@s.whatsapp.net": {
@@ -2045,7 +2045,7 @@
       "activation": 1739221009813
     },
     "6282125103182@s.whatsapp.net": {
-      "exp": 0,
+      "exp": 1,
       "limit": 499,
       "registered": false,
       "name": "bilaww",
@@ -2061,8 +2061,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
-      "premiumTime": 0
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1739237204920
     }
   },
   "chats": {
@@ -3274,7 +3275,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739234923153,
+      "backupDB": 1739237204376,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
