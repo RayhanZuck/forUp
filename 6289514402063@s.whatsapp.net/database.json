@@ -207,12 +207,12 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739286398033,
+      "activation": 1739291355505,
       "lastcommand": 1739278363380,
       "limitprem": 10000
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 1533,
+      "exp": 1715,
       "limit": 499,
       "registered": false,
       "name": "Rayhan🍟",
@@ -230,7 +230,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739286397530,
+      "activation": 1739286843118,
       "lastBanned": 0,
       "lastcommand": 1739017701378
     },
@@ -300,7 +300,7 @@
       "activation": 1738594062332
     },
     "6283196722292@s.whatsapp.net": {
-      "exp": 437,
+      "exp": 445,
       "limit": 499,
       "registered": false,
       "name": "BOBOB STORE",
@@ -318,7 +318,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739277311831,
+      "activation": 1739288061488,
       "lastBanned": 0
     },
     "6285790379156@s.whatsapp.net": {
@@ -477,7 +477,7 @@
       "lastcommand": 1738973962377
     },
     "6282224463723@s.whatsapp.net": {
-      "exp": 1293,
+      "exp": 1299,
       "limit": 499,
       "registered": false,
       "name": "JB AMENG STORE OWN LUSY CHA [ REGION JATENG ]",
@@ -495,7 +495,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739283840218,
+      "activation": 1739286884445,
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
@@ -1122,7 +1122,7 @@
       "lastBanned": 0
     },
     "6288905021627@s.whatsapp.net": {
-      "exp": 458,
+      "exp": 466,
       "limit": 499,
       "registered": false,
       "name": "~ライスカ~",
@@ -1140,7 +1140,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739282076658,
+      "activation": 1739287241789,
       "lastBanned": 0
     },
     "6289531370298@s.whatsapp.net": {
@@ -2242,6 +2242,27 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1739283828100
+    },
+    "6288707016563@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 887-0701-6563",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1739287858239
     }
   },
   "chats": {
@@ -2553,11 +2574,11 @@
       "expired": 0,
       "total": {
         "6289688149851@s.whatsapp.net": 119,
-        "6287870207130@s.whatsapp.net": 605,
-        "6285819057026@s.whatsapp.net": 400,
+        "6287870207130@s.whatsapp.net": 613,
+        "6285819057026@s.whatsapp.net": 403,
         "6289531717404@s.whatsapp.net": 251,
         "6283175256317@s.whatsapp.net": 102,
-        "62882010161373@s.whatsapp.net": 77,
+        "62882010161373@s.whatsapp.net": 80,
         "6285890161893@s.whatsapp.net": 30
       },
       "totalChat": 0
@@ -3441,10 +3462,10 @@
       "lastSuccess": 1738904667358
     },
     "internet-fetch.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1738904580675,
-      "lastSuccess": 1738904580675
+      "total": 4,
+      "success": 4,
+      "last": 1739286843118,
+      "lastSuccess": 1739286843118
     },
     "main-creator.js": {
       "total": 3,
@@ -3459,10 +3480,10 @@
       "lastSuccess": 1739231596925
     },
     "owner-gp.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1738983938877,
-      "lastSuccess": 1738983938877
+      "total": 4,
+      "success": 4,
+      "last": 1739286750644,
+      "lastSuccess": 1739286750644
     },
     "_main-allmenu.js": {
       "total": 3,
@@ -3495,10 +3516,10 @@
       "lastSuccess": 1739053293584
     },
     "tools-lyrics.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1739286397530,
-      "lastSuccess": 1739286397530
+      "total": 8,
+      "success": 8,
+      "last": 1739286711439,
+      "lastSuccess": 1739286711439
     },
     "fun-allcek.js": {
       "total": 9,
@@ -3568,7 +3589,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739284596885,
+      "backupDB": 1739286408661,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
