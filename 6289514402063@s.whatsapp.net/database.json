@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 8405,
+      "exp": 8467,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739273343462,
+      "activation": 1739276816323,
       "lastcommand": 1739262754498,
       "limitprem": 10000
     },
@@ -344,7 +344,7 @@
       "lastBanned": 0
     },
     "6282128611759@s.whatsapp.net": {
-      "exp": 418,
+      "exp": 428,
       "limit": 499,
       "registered": false,
       "name": "LANGZZ SKIBIDI",
@@ -362,7 +362,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739270844574,
+      "activation": 1739275865465,
       "lastBanned": 0
     },
     "6289515823841@s.whatsapp.net": {
@@ -476,7 +476,7 @@
       "lastcommand": 1738973962377
     },
     "6282224463723@s.whatsapp.net": {
-      "exp": 1264,
+      "exp": 1271,
       "limit": 499,
       "registered": false,
       "name": "JB AMENG STORE OWN LUSY CHA [ REGION JATENG ]",
@@ -494,11 +494,11 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739272465045,
+      "activation": 1739275040714,
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 1140,
+      "exp": 1178,
       "limit": 499,
       "registered": false,
       "name": "@Nadiaaa",
@@ -516,7 +516,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739270255204,
+      "activation": 1739276734648,
       "lastBanned": 0,
       "lastcommand": 1738667595080
     },
@@ -3070,10 +3070,31 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6283196388320@s.whatsapp.net": 17,
-        "62895329822114@s.whatsapp.net": 8
+        "6283196388320@s.whatsapp.net": 19,
+        "62895329822114@s.whatsapp.net": 9
       },
       "totalChat": 0
+    },
+    "6282119131127@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -3409,7 +3430,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739272464807,
+      "backupDB": 1739275017540,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
