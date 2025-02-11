@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739246328348,
+      "activation": 1739249329255,
       "lastcommand": 1739226506781,
       "limitprem": 10000
     },
@@ -366,7 +366,7 @@
       "lastBanned": 0
     },
     "6289515823841@s.whatsapp.net": {
-      "exp": 890,
+      "exp": 893,
       "limit": 499,
       "registered": false,
       "name": "Ardyan Store",
@@ -384,7 +384,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739248102049,
+      "activation": 1739249972276,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -674,7 +674,7 @@
       "lastcommand": 1738640060744
     },
     "6289604405225@s.whatsapp.net": {
-      "exp": 489,
+      "exp": 498,
       "limit": 499,
       "registered": false,
       "name": "RIS4YOUSTR",
@@ -692,7 +692,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739246592027,
+      "activation": 1739250862067,
       "lastBanned": 0
     },
     "6287761301460@s.whatsapp.net": {
@@ -718,7 +718,7 @@
       "lastBanned": 0
     },
     "6281224160567@s.whatsapp.net": {
-      "exp": 226,
+      "exp": 229,
       "limit": 499,
       "registered": false,
       "name": "Titin Supriatin",
@@ -736,7 +736,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739233323598,
+      "activation": 1739249307466,
       "lastBanned": 0
     },
     "6283896295573@s.whatsapp.net": {
@@ -2529,9 +2529,9 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6281224160567@s.whatsapp.net": 353,
-        "6287892817324@s.whatsapp.net": 13,
-        "6283897949969@s.whatsapp.net": 9
+        "6281224160567@s.whatsapp.net": 380,
+        "6287892817324@s.whatsapp.net": 14,
+        "6283897949969@s.whatsapp.net": 10
       },
       "totalChat": 0
     },
@@ -3275,7 +3275,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739246591341,
+      "backupDB": 1739249306788,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
