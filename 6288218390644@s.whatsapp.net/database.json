@@ -190,7 +190,7 @@
       "lastBanned": 0
     },
     "62882000858793@s.whatsapp.net": {
-      "exp": 71222,
+      "exp": 71256,
       "limit": 984,
       "registered": false,
       "name": "renzz store",
@@ -206,15 +206,15 @@
       "WarnReason": "",
       "lastweekly": 1739364365375,
       "lastmonthly": 1739364365375,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "lastcommand": 1739371732313,
-      "activation": 1739371803747,
+      "lastcommand": 1739371910862,
+      "activation": 1739371928471,
       "lastBanned": 0,
       "lastwork": 1739371298760
     },
     "6288218390644@s.whatsapp.net": {
-      "exp": 470,
+      "exp": 522,
       "limit": 499,
       "registered": false,
       "name": "?",
@@ -232,7 +232,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1739371803847,
+      "activation": 1739396881159,
       "lastBanned": 0,
       "lastcommand": 1739371465586
     },
@@ -930,7 +930,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1739371528991,
+      "activation": 1739372431393,
       "lastBanned": 0,
       "lastcommand": 1739368423571
     },
@@ -1489,15 +1489,16 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "62882000858793@s.whatsapp.net": 2016,
+        "62882000858793@s.whatsapp.net": 2024,
         "62881023783446@s.whatsapp.net": 25,
-        "62881023336266@s.whatsapp.net": 389,
+        "62881023336266@s.whatsapp.net": 391,
         "6283861609202@s.whatsapp.net": 50,
         "62881023406390@s.whatsapp.net": 694,
         "6283832608337@s.whatsapp.net": 555,
         "62881022787669@s.whatsapp.net": 320,
         "6282219071770@s.whatsapp.net": 83,
-        "6282130015691@s.whatsapp.net": 331
+        "6282130015691@s.whatsapp.net": 331,
+        "6289652944100@s.whatsapp.net": 1
       },
       "totalChat": 0,
       "antiBot": true
@@ -1863,9 +1864,9 @@
       "lastSuccess": 1716040986605
     },
     "sticker-sticker.js": {
-      "total": 3,
+      "total": 5,
       "success": 3,
-      "last": 1716040994703,
+      "last": 1739371835291,
       "lastSuccess": 1716040994703
     },
     "owner-getdb.js": {
@@ -1893,10 +1894,10 @@
       "lastSuccess": 1739370631434
     },
     "_main-menu.js": {
-      "total": 18,
-      "success": 18,
-      "last": 1739371728813,
-      "lastSuccess": 1739371728813
+      "total": 19,
+      "success": 19,
+      "last": 1739371928471,
+      "lastSuccess": 1739371928471
     },
     "sticker-all.js": {
       "total": 42,
@@ -2164,7 +2165,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739370033733,
+      "backupDB": 1739371835168,
       "autobio": false,
       "autobioDB": 1739370199155,
       "cleartmp": false,
