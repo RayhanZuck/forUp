@@ -318,7 +318,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1739386870255,
+      "activation": 1739390424032,
       "lastBanned": 0,
       "lastcommand": 1739363024726
     },
@@ -764,7 +764,7 @@
       "lastBanned": 0
     },
     "6283148471325@s.whatsapp.net": {
-      "exp": 3203,
+      "exp": 3209,
       "limit": 484,
       "registered": false,
       "name": "sok spongkeun",
@@ -782,7 +782,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739380239373,
+      "activation": 1739388653277,
       "lastBanned": 0,
       "lastcommand": 1739340062109
     },
@@ -31334,8 +31334,8 @@
       "lastBanned": 0
     },
     "6282148056343@s.whatsapp.net": {
-      "exp": 378,
-      "limit": 354,
+      "exp": 729,
+      "limit": 54,
       "registered": false,
       "name": "nela",
       "age": -1,
@@ -31353,7 +31353,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1739383294394,
+      "activation": 1739390423473,
       "lastcommand": 1739375154007
     },
     "6283849613391@s.whatsapp.net": {
@@ -36148,10 +36148,10 @@
       "lastSuccess": 1739371223822
     },
     "downloader-tiktok.js": {
-      "total": 60,
-      "success": 51,
-      "last": 1739383294394,
-      "lastSuccess": 1739383294394
+      "total": 75,
+      "success": 66,
+      "last": 1739390423473,
+      "lastSuccess": 1739390423473
     },
     "tools-uptogh.js": {
       "total": 2,
@@ -36257,7 +36257,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739382106848,
+      "backupDB": 1739388652736,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
