@@ -227,9 +227,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1739373020672,
+      "activation": 1739375873500,
       "lastBanned": 0,
       "lastcommand": 1739372215576
     },
@@ -279,7 +279,7 @@
       "lastBanned": 0
     },
     "6289607540907@s.whatsapp.net": {
-      "exp": 26,
+      "exp": 33,
       "limit": 499,
       "registered": false,
       "name": "My Name is Pake Naya",
@@ -297,7 +297,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739370588780,
+      "activation": 1739374845612,
       "lastBanned": 0
     },
     "62881024208695@s.whatsapp.net": {
@@ -411,7 +411,7 @@
       "lastBanned": 0
     },
     "6285225773437@s.whatsapp.net": {
-      "exp": 117,
+      "exp": 126,
       "limit": 499,
       "registered": false,
       "name": "🌻",
@@ -429,7 +429,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739373610649,
+      "activation": 1739375545045,
       "lastBanned": 0
     },
     "62895423944200@s.whatsapp.net": {
@@ -759,7 +759,7 @@
       "activation": 1739371440972
     },
     "6289637465522@s.whatsapp.net": {
-      "exp": 11,
+      "exp": 18,
       "limit": 499,
       "registered": false,
       "name": "Lingga",
@@ -777,7 +777,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739371502067,
+      "activation": 1739374751567,
       "lastBanned": 0
     },
     "6288980137616@s.whatsapp.net": {
@@ -803,7 +803,7 @@
       "lastBanned": 0
     },
     "62882001362936@s.whatsapp.net": {
-      "exp": 8,
+      "exp": 10,
       "limit": 499,
       "registered": false,
       "name": "i'm GeKa",
@@ -821,7 +821,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739373092760,
+      "activation": 1739374974713,
       "lastBanned": 0
     },
     "6281329170585@s.whatsapp.net": {
@@ -866,6 +866,94 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "activation": 1739373922114
+    },
+    "6285878791750@s.whatsapp.net": {
+      "exp": 23,
+      "limit": 499,
+      "registered": false,
+      "name": "alan",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1739375661553,
+      "lastBanned": 0
+    },
+    "6289688356090@s.whatsapp.net": {
+      "exp": 23,
+      "limit": 499,
+      "registered": false,
+      "name": "HAMBA ALLAH",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0,
+      "activation": 1739375024124
+    },
+    "62882006449606@s.whatsapp.net": {
+      "exp": 16,
+      "limit": 499,
+      "registered": false,
+      "name": "ⓈⒶⓃⓏ  ⓈⓊⓀⒶ  ⒽⓊⓃⓉⒾⓃⒼ",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1739374963873,
+      "lastBanned": 0
+    },
+    "6285725870085@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 499,
+      "registered": false,
+      "name": "Madzz_Anomali™",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1739375301819,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -1389,7 +1477,9 @@
       "game": true,
       "autolevelup": true,
       "expired": 0,
-      "total": {},
+      "total": {
+        "6289688356090@s.whatsapp.net": 4
+      },
       "totalChat": 0
     },
     "6288980137616@s.whatsapp.net": {
@@ -1412,6 +1502,32 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "120363374456145073@g.us": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0,
+      "total": {
+        "62882006449606@s.whatsapp.net": 11,
+        "6289607540907@s.whatsapp.net": 2
+      },
+      "totalChat": 0
     }
   },
   "stats": {
@@ -1549,7 +1665,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739372216739,
+      "backupDB": 1739374161800,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
