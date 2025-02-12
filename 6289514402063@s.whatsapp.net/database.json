@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 9172,
+      "exp": 9190,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739347292789,
+      "activation": 1739350693102,
       "lastcommand": 1739343581825,
       "limitprem": 10000
     },
@@ -344,7 +344,7 @@
       "lastBanned": 0
     },
     "6282128611759@s.whatsapp.net": {
-      "exp": 616,
+      "exp": 628,
       "limit": 499,
       "registered": false,
       "name": "LANGZZ SKIBIDI",
@@ -362,12 +362,12 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739285589207,
+      "activation": 1739349914956,
       "lastBanned": 0,
       "lastcommand": 1739283863823
     },
     "6289515823841@s.whatsapp.net": {
-      "exp": 957,
+      "exp": 961,
       "limit": 499,
       "registered": false,
       "name": "Ardyan Store",
@@ -385,7 +385,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739345874819,
+      "activation": 1739350410710,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -499,7 +499,7 @@
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 1276,
+      "exp": 1282,
       "limit": 499,
       "registered": false,
       "name": "@Nadiaaa",
@@ -517,7 +517,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739347334613,
+      "activation": 1739350197396,
       "lastBanned": 0,
       "lastcommand": 1738667595080
     },
@@ -652,7 +652,7 @@
       "lastBanned": 0
     },
     "62882019154458@s.whatsapp.net": {
-      "exp": 889,
+      "exp": 902,
       "limit": 499,
       "registered": false,
       "name": "aku suka pisang 🍌",
@@ -671,7 +671,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1739344211619,
+      "activation": 1739349599917,
       "lastcommand": 1738640060744
     },
     "6289604405225@s.whatsapp.net": {
@@ -2306,6 +2306,29 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1739347874909
+    },
+    "6282148056343@s.whatsapp.net": {
+      "exp": 187,
+      "limit": 469,
+      "registered": false,
+      "name": "nela",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1739350692589,
+      "lastBanned": 0,
+      "lastcommand": 1739350451318
     }
   },
   "chats": {
@@ -3315,6 +3338,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6282148056343@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -3367,10 +3411,10 @@
       "lastSuccess": 1739070309852
     },
     "_main-menu.js": {
-      "total": 40,
-      "success": 39,
-      "last": 1739283886326,
-      "lastSuccess": 1739283886326
+      "total": 41,
+      "success": 40,
+      "last": 1739350386800,
+      "lastSuccess": 1739350386800
     },
     "ai-remini.js": {
       "total": 65,
@@ -3571,10 +3615,10 @@
       "lastSuccess": 1739286750644
     },
     "_main-allmenu.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1739017337203,
-      "lastSuccess": 1739017337203
+      "total": 6,
+      "success": 6,
+      "last": 1739350467356,
+      "lastSuccess": 1739350467356
     },
     "user-leader.js": {
       "total": 8,
@@ -3647,6 +3691,18 @@
       "success": 0,
       "last": 1739286389874,
       "lastSuccess": 0
+    },
+    "fun-artinama.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1739350641436,
+      "lastSuccess": 1739350641436
+    },
+    "sticker-furrbrat.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1739350692589,
+      "lastSuccess": 0
     }
   },
   "msgs": {},
@@ -3674,7 +3730,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739346755147,
+      "backupDB": 1739348897259,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
