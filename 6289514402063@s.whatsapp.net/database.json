@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 9190,
+      "exp": 9200,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739350693102,
+      "activation": 1739352392707,
       "lastcommand": 1739343581825,
       "limitprem": 10000
     },
@@ -367,7 +367,7 @@
       "lastcommand": 1739283863823
     },
     "6289515823841@s.whatsapp.net": {
-      "exp": 961,
+      "exp": 972,
       "limit": 499,
       "registered": false,
       "name": "Ardyan Store",
@@ -385,7 +385,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739350410710,
+      "activation": 1739351836969,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -499,7 +499,7 @@
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 1282,
+      "exp": 1283,
       "limit": 499,
       "registered": false,
       "name": "@Nadiaaa",
@@ -517,7 +517,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739350197396,
+      "activation": 1739352410572,
       "lastBanned": 0,
       "lastcommand": 1738667595080
     },
@@ -719,7 +719,7 @@
       "lastBanned": 0
     },
     "6281224160567@s.whatsapp.net": {
-      "exp": 275,
+      "exp": 286,
       "limit": 499,
       "registered": false,
       "name": "Titin Supriatin",
@@ -737,7 +737,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739340870399,
+      "activation": 1739352004210,
       "lastBanned": 0
     },
     "6283896295573@s.whatsapp.net": {
@@ -2308,8 +2308,8 @@
       "activation": 1739347874909
     },
     "6282148056343@s.whatsapp.net": {
-      "exp": 187,
-      "limit": 469,
+      "exp": 1141,
+      "limit": 314,
       "registered": false,
       "name": "nela",
       "age": -1,
@@ -2326,9 +2326,9 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739350692589,
+      "activation": 1739352449627,
       "lastBanned": 0,
-      "lastcommand": 1739350451318
+      "lastcommand": 1739351288680
     }
   },
   "chats": {
@@ -3459,10 +3459,10 @@
       "lastSuccess": 1739012594480
     },
     "sticker-all.js": {
-      "total": 36,
-      "success": 36,
-      "last": 1739345203913,
-      "lastSuccess": 1739345203913
+      "total": 37,
+      "success": 37,
+      "last": 1739351006431,
+      "lastSuccess": 1739351006431
     },
     "user-limit.js": {
       "total": 6,
@@ -3507,10 +3507,10 @@
       "lastSuccess": 1738640860189
     },
     "audio-effect.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1738973670807,
-      "lastSuccess": 1738973670807
+      "total": 10,
+      "success": 10,
+      "last": 1739352390181,
+      "lastSuccess": 1739352390181
     },
     "_cek.js": {
       "total": 30,
@@ -3693,16 +3693,70 @@
       "lastSuccess": 0
     },
     "fun-artinama.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1739350641436,
-      "lastSuccess": 1739350641436
+      "total": 5,
+      "success": 5,
+      "last": 1739351035264,
+      "lastSuccess": 1739351035264
     },
     "sticker-furrbrat.js": {
       "total": 2,
       "success": 0,
       "last": 1739350692589,
       "lastSuccess": 0
+    },
+    "sticker-avatar.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1739350759556,
+      "lastSuccess": 1739350759556
+    },
+    "random-gensin.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1739350959910,
+      "lastSuccess": 1739350959910
+    },
+    "tools-zodiac.js": {
+      "total": 5,
+      "success": 1,
+      "last": 1739350932733,
+      "lastSuccess": 1739350886679
+    },
+    "own-listsw.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1739351092950,
+      "lastSuccess": 1739351092950
+    },
+    "havefun-artimimpi.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1739351204475,
+      "lastSuccess": 1739351204475
+    },
+    "fun-cek.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1739351297327,
+      "lastSuccess": 1739351297327
+    },
+    "fun-ceksifat.js": {
+      "total": 17,
+      "success": 17,
+      "last": 1739351675472,
+      "lastSuccess": 1739351675472
+    },
+    "audio-vnzeta.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1739352148801,
+      "lastSuccess": 1739352148801
+    },
+    "audio-vnkobo.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1739352259134,
+      "lastSuccess": 1739352259134
     }
   },
   "msgs": {},
@@ -3730,7 +3784,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739348897259,
+      "backupDB": 1739350718962,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
