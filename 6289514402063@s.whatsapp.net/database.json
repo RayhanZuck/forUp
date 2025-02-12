@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739345738940,
+      "activation": 1739347292789,
       "lastcommand": 1739343581825,
       "limitprem": 10000
     },
@@ -499,7 +499,7 @@
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 1272,
+      "exp": 1276,
       "limit": 499,
       "registered": false,
       "name": "@Nadiaaa",
@@ -517,7 +517,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739316188691,
+      "activation": 1739347334613,
       "lastBanned": 0,
       "lastcommand": 1738667595080
     },
@@ -675,7 +675,7 @@
       "lastcommand": 1738640060744
     },
     "6289604405225@s.whatsapp.net": {
-      "exp": 720,
+      "exp": 727,
       "limit": 499,
       "registered": false,
       "name": "RIS4YOUSTR",
@@ -693,7 +693,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739346189212,
+      "activation": 1739346755607,
       "lastBanned": 0
     },
     "6287761301460@s.whatsapp.net": {
@@ -2263,6 +2263,49 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1739287858239
+    },
+    "6282129589781@s.whatsapp.net": {
+      "exp": 27,
+      "limit": 499,
+      "registered": false,
+      "name": "reva fidela🏡",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0,
+      "activation": 1739347930391
+    },
+    "6282295507717@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 499,
+      "registered": false,
+      "name": "Kim Dan.. : )",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1739347874909
     }
   },
   "chats": {
@@ -3251,6 +3294,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6282129589781@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -3610,7 +3674,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739344798446,
+      "backupDB": 1739346755147,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
