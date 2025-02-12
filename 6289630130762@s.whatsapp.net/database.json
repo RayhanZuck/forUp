@@ -229,7 +229,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1739389872148,
+      "activation": 1739392589198,
       "lastBanned": 0,
       "lastcommand": 1739372215576
     },
@@ -696,7 +696,7 @@
       "activation": 1739371169523
     },
     "120363375550188302@g.us": {
-      "exp": 56,
+      "exp": 60,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -714,7 +714,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739387640494,
+      "activation": 1739392587972,
       "lastBanned": 0
     },
     "639633167469@s.whatsapp.net": {
@@ -1275,6 +1275,49 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1739387756373
+    },
+    "6282337600388@s.whatsapp.net": {
+      "exp": 21,
+      "limit": 499,
+      "registered": false,
+      "name": "Anak Lanang",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1739391086631,
+      "lastBanned": 0
+    },
+    "6285217234226@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 499,
+      "registered": false,
+      "name": "Bekhan NMS",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1739391109276
     }
   },
   "chats": {
@@ -1877,6 +1920,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6282337600388@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -2020,7 +2084,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739387584636,
+      "backupDB": 1739390791373,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
