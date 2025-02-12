@@ -229,7 +229,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1739381876720,
+      "activation": 1739384877286,
       "lastBanned": 0,
       "lastcommand": 1739372215576
     },
@@ -566,7 +566,7 @@
       "lastBanned": 0
     },
     "6289619621030@s.whatsapp.net": {
-      "exp": 25,
+      "exp": 51,
       "limit": 499,
       "registered": false,
       "name": "ustadz_nopal",
@@ -584,7 +584,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739377981600,
+      "activation": 1739383692743,
       "lastBanned": 0
     },
     "62895383216074@s.whatsapp.net": {
@@ -696,7 +696,7 @@
       "activation": 1739371169523
     },
     "120363375550188302@g.us": {
-      "exp": 25,
+      "exp": 47,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -714,7 +714,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739381436207,
+      "activation": 1739384784481,
       "lastBanned": 0
     },
     "639633167469@s.whatsapp.net": {
@@ -1191,6 +1191,27 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1739381690242
+    },
+    "6285601587863@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 856-0158-7863",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1739384185044
     }
   },
   "chats": {
@@ -1717,12 +1738,12 @@
       "total": {
         "6289688356090@s.whatsapp.net": 78,
         "6285691466790@s.whatsapp.net": 36,
-        "6285379855744@s.whatsapp.net": 483,
+        "6285379855744@s.whatsapp.net": 558,
         "6285860221587@s.whatsapp.net": 34,
-        "6285758027098@s.whatsapp.net": 218,
+        "6285758027098@s.whatsapp.net": 233,
         "6283199734666@s.whatsapp.net": 117,
-        "628978147084@s.whatsapp.net": 444,
-        "6285203234155@s.whatsapp.net": 16
+        "628978147084@s.whatsapp.net": 509,
+        "6285203234155@s.whatsapp.net": 21
       },
       "totalChat": 0
     },
@@ -1936,7 +1957,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739381690060,
+      "backupDB": 1739383518212,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
