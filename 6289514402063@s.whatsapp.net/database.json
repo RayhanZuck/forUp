@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739374306590,
+      "activation": 1739377308855,
       "lastcommand": 1739343581825,
       "limitprem": 10000
     },
@@ -257,7 +257,7 @@
       "lastBanned": 0
     },
     "6281263255789@s.whatsapp.net": {
-      "exp": 1744,
+      "exp": 1759,
       "limit": 499,
       "registered": false,
       "name": "HATXX STORE",
@@ -275,7 +275,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739373728490,
+      "activation": 1739376284456,
       "lastBanned": 0,
       "lastcommand": 1739371016851
     },
@@ -676,7 +676,7 @@
       "lastcommand": 1738640060744
     },
     "6289604405225@s.whatsapp.net": {
-      "exp": 801,
+      "exp": 805,
       "limit": 499,
       "registered": false,
       "name": "RIS4YOUSTR",
@@ -694,7 +694,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739373781479,
+      "activation": 1739376402367,
       "lastBanned": 0
     },
     "6287761301460@s.whatsapp.net": {
@@ -2354,6 +2354,27 @@
       "premiumTime": 0,
       "activation": 1739355173751,
       "lastBanned": 0
+    },
+    "6287760076927@s.whatsapp.net": {
+      "exp": 7,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 877-6007-6927",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1739376924807
     }
   },
   "chats": {
@@ -2665,11 +2686,11 @@
       "expired": 0,
       "total": {
         "6289688149851@s.whatsapp.net": 119,
-        "6287870207130@s.whatsapp.net": 668,
-        "6285819057026@s.whatsapp.net": 423,
+        "6287870207130@s.whatsapp.net": 678,
+        "6285819057026@s.whatsapp.net": 427,
         "6289531717404@s.whatsapp.net": 251,
         "6283175256317@s.whatsapp.net": 102,
-        "62882010161373@s.whatsapp.net": 110,
+        "62882010161373@s.whatsapp.net": 116,
         "6285890161893@s.whatsapp.net": 30
       },
       "totalChat": 0
@@ -3830,7 +3851,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739373727986,
+      "backupDB": 1739375924344,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
