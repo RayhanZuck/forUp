@@ -229,7 +229,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1739375873500,
+      "activation": 1739376229920,
       "lastBanned": 0,
       "lastcommand": 1739372215576
     },
@@ -344,7 +344,7 @@
       "activation": 1739368938476
     },
     "628818628787@s.whatsapp.net": {
-      "exp": 49,
+      "exp": 58,
       "limit": 499,
       "registered": false,
       "name": "Orang👤𓆏̸̽̃̀",
@@ -364,7 +364,7 @@
       "premiumTime": 0,
       "lastcommand": 1739368961289,
       "lastBanned": 0,
-      "activation": 1739369002538
+      "activation": 1739377882089
     },
     "6288226469623@s.whatsapp.net": {
       "exp": 11,
@@ -696,7 +696,7 @@
       "activation": 1739371169523
     },
     "120363375550188302@g.us": {
-      "exp": 3,
+      "exp": 10,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -714,7 +714,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739371174363
+      "activation": 1739376226505,
+      "lastBanned": 0
     },
     "639633167469@s.whatsapp.net": {
       "exp": 10,
@@ -803,7 +804,7 @@
       "lastBanned": 0
     },
     "62882001362936@s.whatsapp.net": {
-      "exp": 10,
+      "exp": 24,
       "limit": 499,
       "registered": false,
       "name": "i'm GeKa",
@@ -821,7 +822,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739374974713,
+      "activation": 1739376098835,
       "lastBanned": 0
     },
     "6281329170585@s.whatsapp.net": {
@@ -950,10 +951,94 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "activation": 1739375301819,
       "lastBanned": 0
+    },
+    "6285691466790@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 499,
+      "registered": false,
+      "name": "Sal",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1739376252710
+    },
+    "6285379855744@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 499,
+      "registered": false,
+      "name": "_obyadhe",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1739376281238
+    },
+    "6287750597477@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "name": "Farrel",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1739376379762
+    },
+    "6285860221587@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "name": "ca",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1739376711095
     }
   },
   "chats": {
@@ -1478,7 +1563,10 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6289688356090@s.whatsapp.net": 4
+        "6289688356090@s.whatsapp.net": 12,
+        "6285691466790@s.whatsapp.net": 3,
+        "6285379855744@s.whatsapp.net": 2,
+        "6285860221587@s.whatsapp.net": 1
       },
       "totalChat": 0
     },
@@ -1665,7 +1753,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739374161800,
+      "backupDB": 1739376095786,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
