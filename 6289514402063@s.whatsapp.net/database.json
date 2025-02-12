@@ -367,7 +367,7 @@
       "lastcommand": 1739283863823
     },
     "6289515823841@s.whatsapp.net": {
-      "exp": 918,
+      "exp": 938,
       "limit": 499,
       "registered": false,
       "name": "Ardyan Store",
@@ -383,9 +383,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1739314758050,
+      "activation": 1739325623267,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -477,7 +477,7 @@
       "lastcommand": 1738973962377
     },
     "6282224463723@s.whatsapp.net": {
-      "exp": 1614,
+      "exp": 1621,
       "limit": 499,
       "registered": false,
       "name": "JB AMENG STORE OWN LUSY CHA [ REGION JATENG ]",
@@ -495,7 +495,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739322869837,
+      "activation": 1739324502356,
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
@@ -2177,7 +2177,7 @@
       "activation": 1739271635899
     },
     "6282119131127@s.whatsapp.net": {
-      "exp": 79,
+      "exp": 81,
       "limit": 479,
       "registered": false,
       "name": "Kky",
@@ -2196,7 +2196,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastcommand": 1739277022646,
-      "activation": 1739322585230,
+      "activation": 1739323825068,
       "lastBanned": 0
     },
     "6283153379816@s.whatsapp.net": {
@@ -3589,7 +3589,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739321197318,
+      "backupDB": 1739323824318,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
