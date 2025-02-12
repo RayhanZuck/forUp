@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 9024,
+      "exp": 9172,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739344774105,
+      "activation": 1739345738940,
       "lastcommand": 1739343581825,
       "limitprem": 10000
     },
@@ -367,7 +367,7 @@
       "lastcommand": 1739283863823
     },
     "6289515823841@s.whatsapp.net": {
-      "exp": 953,
+      "exp": 957,
       "limit": 499,
       "registered": false,
       "name": "Ardyan Store",
@@ -385,7 +385,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739342988501,
+      "activation": 1739345874819,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -675,7 +675,7 @@
       "lastcommand": 1738640060744
     },
     "6289604405225@s.whatsapp.net": {
-      "exp": 711,
+      "exp": 720,
       "limit": 499,
       "registered": false,
       "name": "RIS4YOUSTR",
@@ -693,7 +693,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739343454951,
+      "activation": 1739346189212,
       "lastBanned": 0
     },
     "6287761301460@s.whatsapp.net": {
@@ -741,7 +741,7 @@
       "lastBanned": 0
     },
     "6283896295573@s.whatsapp.net": {
-      "exp": 114,
+      "exp": 183,
       "limit": 499,
       "registered": false,
       "name": "Agung",
@@ -757,9 +757,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1739344772178,
+      "activation": 1739345845941,
       "lastBanned": 0,
       "lastcommand": 1739344771359
     },
@@ -942,8 +942,8 @@
       "lastBanned": 0
     },
     "62882003885815@s.whatsapp.net": {
-      "exp": 324,
-      "limit": 319,
+      "exp": 391,
+      "limit": 284,
       "registered": false,
       "name": "saturn",
       "age": -1,
@@ -960,7 +960,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739315523297,
+      "activation": 1739345458544,
       "lastBanned": 0,
       "lastcommand": 1739196152289
     },
@@ -1576,7 +1576,7 @@
       "lastBanned": 0
     },
     "62895347108800@s.whatsapp.net": {
-      "exp": 35,
+      "exp": 42,
       "limit": 499,
       "registered": false,
       "name": ".",
@@ -1594,7 +1594,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739072746616,
+      "activation": 1739346321393,
       "lastBanned": 0
     },
     "6287822469071@s.whatsapp.net": {
@@ -2200,7 +2200,7 @@
       "lastBanned": 0
     },
     "6283153379816@s.whatsapp.net": {
-      "exp": 443,
+      "exp": 466,
       "limit": 479,
       "registered": false,
       "name": "🦅🦅",
@@ -2220,7 +2220,7 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "lastcommand": 1739343388109,
-      "activation": 1739344468403
+      "activation": 1739344923093
     },
     "6281228451619@s.whatsapp.net": {
       "exp": 6,
@@ -3321,10 +3321,10 @@
       "lastSuccess": 1739053251863
     },
     "downloader-tiktok.js": {
-      "total": 62,
-      "success": 59,
-      "last": 1739344080770,
-      "lastSuccess": 1739344080770
+      "total": 65,
+      "success": 62,
+      "last": 1739345697079,
+      "lastSuccess": 1739345697079
     },
     "group-delete.js": {
       "total": 14,
@@ -3351,10 +3351,10 @@
       "lastSuccess": 1739012594480
     },
     "sticker-all.js": {
-      "total": 35,
-      "success": 35,
-      "last": 1739231560832,
-      "lastSuccess": 1739231560832
+      "total": 36,
+      "success": 36,
+      "last": 1739345203913,
+      "lastSuccess": 1739345203913
     },
     "user-limit.js": {
       "total": 6,
@@ -3423,10 +3423,10 @@
       "lastSuccess": 1738656408093
     },
     "downloader-instagram.js": {
-      "total": 24,
-      "success": 14,
-      "last": 1739344312177,
-      "lastSuccess": 1739344312177
+      "total": 26,
+      "success": 15,
+      "last": 1739344964754,
+      "lastSuccess": 1739344964754
     },
     "owner-sf.js": {
       "total": 13,
@@ -3561,10 +3561,10 @@
       "lastSuccess": 0
     },
     "sticker-quotely.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1739280203883,
-      "lastSuccess": 1739280203883
+      "total": 4,
+      "success": 4,
+      "last": 1739345458544,
+      "lastSuccess": 1739345458544
     },
     "tools-uptogh.js": {
       "total": 2,
@@ -3610,7 +3610,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739342987806,
+      "backupDB": 1739344798446,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
