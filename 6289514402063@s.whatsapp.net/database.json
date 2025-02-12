@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 9654,
+      "exp": 9681,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739395970162,
+      "activation": 1739400821840,
       "lastcommand": 1739343581825,
       "limitprem": 10000
     },
@@ -455,7 +455,7 @@
       "activation": 1738642128065
     },
     "6281394956570@s.whatsapp.net": {
-      "exp": 421,
+      "exp": 433,
       "limit": 424,
       "registered": false,
       "name": "Claura",
@@ -473,7 +473,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739367279103,
+      "activation": 1739400334282,
       "lastBanned": 0,
       "lastcommand": 1738973962377
     },
@@ -500,7 +500,7 @@
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 1410,
+      "exp": 1426,
       "limit": 499,
       "registered": false,
       "name": "@Nadiaaa",
@@ -518,7 +518,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739369543208,
+      "activation": 1739400563217,
       "lastBanned": 0,
       "lastcommand": 1738667595080
     },
@@ -966,7 +966,7 @@
       "lastcommand": 1739196152289
     },
     "62882001117867@s.whatsapp.net": {
-      "exp": 296,
+      "exp": 310,
       "limit": 499,
       "registered": false,
       "name": "Mita_Animation",
@@ -984,7 +984,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739372472137,
+      "activation": 1739400986826,
       "lastBanned": 0
     },
     "6289531717404@s.whatsapp.net": {
@@ -1101,7 +1101,7 @@
       "lastBanned": 0
     },
     "6283897506416@s.whatsapp.net": {
-      "exp": 435,
+      "exp": 456,
       "limit": 409,
       "registered": false,
       "name": "Oraa Gendeng",
@@ -1119,11 +1119,12 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739395997183,
-      "lastBanned": 0
+      "activation": 1739400819193,
+      "lastBanned": 0,
+      "lastcommand": 1739400819190
     },
     "6288905021627@s.whatsapp.net": {
-      "exp": 534,
+      "exp": 550,
       "limit": 499,
       "registered": false,
       "name": "~ライスカ~",
@@ -1141,7 +1142,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739370980016,
+      "activation": 1739399970706,
       "lastBanned": 0
     },
     "6289531370298@s.whatsapp.net": {
@@ -2289,7 +2290,7 @@
       "activation": 1739394319470
     },
     "6282295507717@s.whatsapp.net": {
-      "exp": 35,
+      "exp": 44,
       "limit": 499,
       "registered": false,
       "name": "Kim Dan.. : )",
@@ -2307,7 +2308,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739368740996,
+      "activation": 1739399537287,
       "lastBanned": 0
     },
     "6282148056343@s.whatsapp.net": {
@@ -2598,17 +2599,17 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285723372013@s.whatsapp.net": 2310,
+        "6285723372013@s.whatsapp.net": 2320,
         "6282278426952@s.whatsapp.net": 53,
         "6281945393763@s.whatsapp.net": 54,
-        "6287761301460@s.whatsapp.net": 928,
-        "6285693602998@s.whatsapp.net": 2234,
-        "6283865469782@s.whatsapp.net": 69,
-        "6282171897051@s.whatsapp.net": 107,
+        "6287761301460@s.whatsapp.net": 935,
+        "6285693602998@s.whatsapp.net": 2242,
+        "6283865469782@s.whatsapp.net": 72,
+        "6282171897051@s.whatsapp.net": 109,
         "6285161111396@s.whatsapp.net": 23,
-        "6283897506416@s.whatsapp.net": 27,
-        "6285852438294@s.whatsapp.net": 37,
-        "6287865543825@s.whatsapp.net": 69
+        "6283897506416@s.whatsapp.net": 31,
+        "6285852438294@s.whatsapp.net": 38,
+        "6287865543825@s.whatsapp.net": 71
       },
       "totalChat": 0
     },
@@ -3824,6 +3825,12 @@
       "success": 2,
       "last": 1739352259134,
       "lastSuccess": 1739352259134
+    },
+    "vn-salam.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1739400819193,
+      "lastSuccess": 1739400819193
     }
   },
   "msgs": {},
@@ -3851,7 +3858,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739394318962,
+      "backupDB": 1739399489440,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
