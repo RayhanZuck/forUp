@@ -367,7 +367,7 @@
       "lastcommand": 1739283863823
     },
     "6289515823841@s.whatsapp.net": {
-      "exp": 938,
+      "exp": 950,
       "limit": 499,
       "registered": false,
       "name": "Ardyan Store",
@@ -383,9 +383,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1739325623267,
+      "activation": 1739325730330,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -652,7 +652,7 @@
       "lastBanned": 0
     },
     "62882019154458@s.whatsapp.net": {
-      "exp": 841,
+      "exp": 855,
       "limit": 499,
       "registered": false,
       "name": "aku suka pisang 🍌",
@@ -671,7 +671,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1739284597302,
+      "activation": 1739326867583,
       "lastcommand": 1738640060744
     },
     "6289604405225@s.whatsapp.net": {
@@ -1100,7 +1100,7 @@
       "lastBanned": 0
     },
     "6283897506416@s.whatsapp.net": {
-      "exp": 366,
+      "exp": 369,
       "limit": 414,
       "registered": false,
       "name": "Oraa Gendeng",
@@ -1118,7 +1118,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739312098782,
+      "activation": 1739325778524,
       "lastBanned": 0
     },
     "6288905021627@s.whatsapp.net": {
@@ -1726,7 +1726,7 @@
       "activation": 1738933028076
     },
     "62882010161373@s.whatsapp.net": {
-      "exp": 40,
+      "exp": 47,
       "limit": 499,
       "registered": false,
       "name": "𝗗𝗜𝗟𝟰𝗬𝗢𝗨 𝗝𝗔𝗧𝗜𝗠",
@@ -1744,7 +1744,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739321291868,
+      "activation": 1739326468994,
       "lastBanned": 0
     },
     "6289656411266@s.whatsapp.net": {
@@ -2574,11 +2574,11 @@
       "expired": 0,
       "total": {
         "6289688149851@s.whatsapp.net": 119,
-        "6287870207130@s.whatsapp.net": 640,
-        "6285819057026@s.whatsapp.net": 412,
+        "6287870207130@s.whatsapp.net": 649,
+        "6285819057026@s.whatsapp.net": 415,
         "6289531717404@s.whatsapp.net": 251,
         "6283175256317@s.whatsapp.net": 102,
-        "62882010161373@s.whatsapp.net": 92,
+        "62882010161373@s.whatsapp.net": 98,
         "6285890161893@s.whatsapp.net": 30
       },
       "totalChat": 0
@@ -3589,7 +3589,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739323824318,
+      "backupDB": 1739325678038,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
