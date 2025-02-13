@@ -250,12 +250,12 @@
       "lastmonthly": 1739455703047,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1739469341389,
+      "activation": 1739475343652,
       "lastBanned": 0,
       "lastcommand": 1739458273995
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 50,
+      "exp": 89,
       "limit": 499,
       "registered": false,
       "name": "Rayhan🍟",
@@ -273,8 +273,9 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739449418083,
-      "lastBanned": 0
+      "activation": 1739469727359,
+      "lastBanned": 0,
+      "lastcommand": 1739469720864
     },
     "62895623623010@s.whatsapp.net": {
       "exp": 46,
@@ -1012,10 +1013,10 @@
       "lastSuccess": 1716041091953
     },
     "info-ping.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1739448425673,
-      "lastSuccess": 1739448425673
+      "total": 3,
+      "success": 3,
+      "last": 1739469721360,
+      "lastSuccess": 1739469721360
     },
     "owner-df.js": {
       "total": 2,
@@ -1148,6 +1149,12 @@
       "success": 2,
       "last": 1739455716762,
       "lastSuccess": 1739455716762
+    },
+    "info-dashboard.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1739469727359,
+      "lastSuccess": 1739469727359
     }
   },
   "msgs": {},
@@ -1175,7 +1182,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739467070360,
+      "backupDB": 1739469720761,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
