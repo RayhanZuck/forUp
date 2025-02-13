@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739423220536,
+      "activation": 1739426221184,
       "lastcommand": 1739343581825,
       "limitprem": 10000
     },
@@ -676,7 +676,7 @@
       "lastcommand": 1738640060744
     },
     "6289604405225@s.whatsapp.net": {
-      "exp": 835,
+      "exp": 853,
       "limit": 499,
       "registered": false,
       "name": "RIS4YOUSTR",
@@ -694,7 +694,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739423901483,
+      "activation": 1739426529936,
       "lastBanned": 0
     },
     "6287761301460@s.whatsapp.net": {
@@ -3858,7 +3858,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739423674459,
+      "backupDB": 1739426116968,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
