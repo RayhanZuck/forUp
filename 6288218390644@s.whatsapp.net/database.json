@@ -369,7 +369,7 @@
       "lastcommand": 1739433198583
     },
     "62881023336266@s.whatsapp.net": {
-      "exp": 167,
+      "exp": 173,
       "limit": 484,
       "registered": false,
       "name": ".",
@@ -385,9 +385,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1739410631860,
+      "activation": 1739437784042,
       "lastBanned": 0,
       "lastcommand": 1739365931161
     },
@@ -526,7 +526,7 @@
       "lastBanned": 0
     },
     "62881023406390@s.whatsapp.net": {
-      "exp": 506,
+      "exp": 511,
       "limit": 414,
       "registered": false,
       "name": "😁😁",
@@ -544,7 +544,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739434874558,
+      "activation": 1739436647444,
       "lastBanned": 0
     },
     "120363240711248334@g.us": {
@@ -1241,7 +1241,7 @@
       "lastBanned": 0
     },
     "6289652944100@s.whatsapp.net": {
-      "exp": 0,
+      "exp": 10,
       "limit": 499,
       "registered": false,
       "name": "n",
@@ -1257,9 +1257,10 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1739371627259
+      "activation": 1739437579943,
+      "lastBanned": 0
     },
     "6282295332881@s.whatsapp.net": {
       "exp": 11,
@@ -1565,7 +1566,7 @@
       "activation": 1739434427856
     },
     "6283187252160@s.whatsapp.net": {
-      "exp": 66,
+      "exp": 80,
       "limit": 499,
       "registered": false,
       "name": "السلام عليكم",
@@ -1583,7 +1584,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739436201440,
+      "activation": 1739436733140,
       "lastBanned": 0
     }
   },
@@ -3294,7 +3295,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739434427650,
+      "backupDB": 1739436312038,
       "autobio": false,
       "autobioDB": 1739370199155,
       "cleartmp": false,
