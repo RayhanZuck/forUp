@@ -207,12 +207,12 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739470300933,
+      "activation": 1739482873424,
       "lastcommand": 1739442696997,
       "limitprem": 10000
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 1759,
+      "exp": 1779,
       "limit": 499,
       "registered": false,
       "name": "Rayhan🍟",
@@ -230,9 +230,9 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739371508684,
+      "activation": 1739471327240,
       "lastBanned": 0,
-      "lastcommand": 1739017701378
+      "lastcommand": 1739471325832
     },
     "6285723372013@s.whatsapp.net": {
       "exp": 692,
@@ -1101,7 +1101,7 @@
       "lastBanned": 0
     },
     "6283897506416@s.whatsapp.net": {
-      "exp": 490,
+      "exp": 500,
       "limit": 404,
       "registered": false,
       "name": "Oraa Gendeng",
@@ -1119,7 +1119,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739454751432,
+      "activation": 1739479623262,
       "lastBanned": 0,
       "lastcommand": 1739400819190
     },
@@ -4071,6 +4071,12 @@
       "success": 2,
       "last": 1739400819193,
       "lastSuccess": 1739400819193
+    },
+    "info-ping.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1739471327240,
+      "lastSuccess": 1739471327240
     }
   },
   "msgs": {},
@@ -4098,7 +4104,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739467798722,
+      "backupDB": 1739471325338,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
