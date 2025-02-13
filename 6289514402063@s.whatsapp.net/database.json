@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 10631,
+      "exp": 10665,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739451678285,
+      "activation": 1739453238269,
       "lastcommand": 1739442696997,
       "limitprem": 10000
     },
@@ -301,7 +301,7 @@
       "activation": 1738594062332
     },
     "6283196722292@s.whatsapp.net": {
-      "exp": 642,
+      "exp": 656,
       "limit": 499,
       "registered": false,
       "name": "BOBOB STORE",
@@ -319,7 +319,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739451571689,
+      "activation": 1739452450361,
       "lastBanned": 0
     },
     "6285790379156@s.whatsapp.net": {
@@ -478,7 +478,7 @@
       "lastcommand": 1738973962377
     },
     "6282224463723@s.whatsapp.net": {
-      "exp": 1985,
+      "exp": 1994,
       "limit": 499,
       "registered": false,
       "name": "JB AMENG STORE OWN LUSY CHA [ REGION JATENG ]",
@@ -496,11 +496,11 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739449735489,
+      "activation": 1739452789392,
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 1552,
+      "exp": 1582,
       "limit": 499,
       "registered": false,
       "name": "@Nadiaaa",
@@ -518,7 +518,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739451280663,
+      "activation": 1739453216687,
       "lastBanned": 0,
       "lastcommand": 1738667595080
     },
@@ -653,7 +653,7 @@
       "lastBanned": 0
     },
     "62882019154458@s.whatsapp.net": {
-      "exp": 950,
+      "exp": 953,
       "limit": 499,
       "registered": false,
       "name": "aku suka pisang 🍌",
@@ -672,11 +672,11 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1739441138255,
+      "activation": 1739451909984,
       "lastcommand": 1738640060744
     },
     "6289604405225@s.whatsapp.net": {
-      "exp": 927,
+      "exp": 937,
       "limit": 499,
       "registered": false,
       "name": "RIS4YOUSTR",
@@ -694,7 +694,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739450762795,
+      "activation": 1739451772488,
       "lastBanned": 0
     },
     "6287761301460@s.whatsapp.net": {
@@ -1124,7 +1124,7 @@
       "lastcommand": 1739400819190
     },
     "6288905021627@s.whatsapp.net": {
-      "exp": 557,
+      "exp": 579,
       "limit": 499,
       "registered": false,
       "name": "~ライスカ~",
@@ -1142,7 +1142,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739451528033,
+      "activation": 1739452863688,
       "lastBanned": 0
     },
     "6289531370298@s.whatsapp.net": {
@@ -1964,7 +1964,7 @@
       "activation": 1739100590453
     },
     "62895329822114@s.whatsapp.net": {
-      "exp": 617,
+      "exp": 640,
       "limit": 499,
       "registered": false,
       "name": "*＊✿❀ 𝑛𝑛𝑎 ❀✿＊*",
@@ -1982,7 +1982,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739450076392,
+      "activation": 1739453091206,
       "lastBanned": 0,
       "lastcommand": 1739359898160
     },
@@ -2422,8 +2422,8 @@
       "lastcommand": 1739449856621
     },
     "6285249059567@s.whatsapp.net": {
-      "exp": 295,
-      "limit": 379,
+      "exp": 528,
+      "limit": 259,
       "registered": false,
       "name": "シンディ~`❗🎧🔥",
       "age": -1,
@@ -2441,7 +2441,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1739451675849
+      "activation": 1739452393116
     },
     "6281542063718@s.whatsapp.net": {
       "exp": 4,
@@ -2509,6 +2509,27 @@
       "lastBanned": 0,
       "lastcommand": 1739449413365,
       "activation": 1739449464591
+    },
+    "6285737624705@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "name": "GERR STORE",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1739453415436
     }
   },
   "chats": {
@@ -2820,12 +2841,13 @@
       "expired": 0,
       "total": {
         "6289688149851@s.whatsapp.net": 119,
-        "6287870207130@s.whatsapp.net": 708,
-        "6285819057026@s.whatsapp.net": 439,
-        "6289531717404@s.whatsapp.net": 253,
+        "6287870207130@s.whatsapp.net": 718,
+        "6285819057026@s.whatsapp.net": 443,
+        "6289531717404@s.whatsapp.net": 254,
         "6283175256317@s.whatsapp.net": 102,
-        "62882010161373@s.whatsapp.net": 134,
-        "6285890161893@s.whatsapp.net": 30
+        "62882010161373@s.whatsapp.net": 140,
+        "6285890161893@s.whatsapp.net": 30,
+        "6285737624705@s.whatsapp.net": 1
       },
       "totalChat": 0
     },
@@ -3792,10 +3814,10 @@
       "lastSuccess": 1738640860189
     },
     "audio-effect.js": {
-      "total": 29,
-      "success": 28,
-      "last": 1739451675849,
-      "lastSuccess": 1739451675849
+      "total": 37,
+      "success": 36,
+      "last": 1739452393116,
+      "lastSuccess": 1739452393116
     },
     "_cek.js": {
       "total": 39,
@@ -4075,7 +4097,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739449930042,
+      "backupDB": 1739451772087,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
