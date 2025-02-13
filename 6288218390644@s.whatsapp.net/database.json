@@ -232,8 +232,8 @@
       "activation": 1739448425670
     },
     "6288218390644@s.whatsapp.net": {
-      "exp": 51311,
-      "limit": 969,
+      "exp": 51357,
+      "limit": 944,
       "registered": false,
       "name": "BOT RENZZ",
       "age": -1,
@@ -248,11 +248,11 @@
       "WarnReason": "",
       "lastweekly": 1739455703047,
       "lastmonthly": 1739455703047,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1739456019058,
+      "activation": 1739458275874,
       "lastBanned": 0,
-      "lastcommand": 1739455716453
+      "lastcommand": 1739458273995
     },
     "6285766064200@s.whatsapp.net": {
       "exp": 50,
@@ -322,7 +322,7 @@
       "lastBanned": 0
     },
     "62882000858793@s.whatsapp.net": {
-      "exp": 236,
+      "exp": 244,
       "limit": 484,
       "registered": false,
       "name": "renzz store",
@@ -340,7 +340,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739455950267,
+      "activation": 1739458068971,
       "lastBanned": 0,
       "lastcommand": 1739455061674
     },
@@ -476,6 +476,29 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1739454765470,
+      "lastBanned": 0
+    },
+    "6283181757715@s.whatsapp.net": {
+      "exp": 37,
+      "limit": 499,
+      "registered": false,
+      "name": "vinsent",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "lastcommand": 1739456874737,
+      "activation": 1739456883544,
       "lastBanned": 0
     }
   },
@@ -731,9 +754,9 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6282130015691@s.whatsapp.net": 147,
-        "62882000858793@s.whatsapp.net": 153,
-        "62881023406390@s.whatsapp.net": 124
+        "6282130015691@s.whatsapp.net": 159,
+        "62882000858793@s.whatsapp.net": 184,
+        "62881023406390@s.whatsapp.net": 146
       },
       "totalChat": 0
     },
@@ -828,6 +851,48 @@
       "totalChat": 0,
       "chatbot": true,
       "autoSticker": true
+    },
+    "6283181757715@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
+    },
+    "6283117943789@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -916,10 +981,10 @@
       "lastSuccess": 1739450593883
     },
     "_cek.js": {
-      "total": 7,
-      "success": 7,
-      "last": 1739455432360,
-      "lastSuccess": 1739455432360
+      "total": 9,
+      "success": 9,
+      "last": 1739458274267,
+      "lastSuccess": 1739458274267
     },
     "user-limit.js": {
       "total": 4,
@@ -946,10 +1011,10 @@
       "lastSuccess": 1739454765470
     },
     "_main-allmenu.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1739455763861,
-      "lastSuccess": 1739455763861
+      "total": 4,
+      "success": 4,
+      "last": 1739456883544,
+      "lastSuccess": 1739456883544
     },
     "sticker-bratgif.js": {
       "total": 4,
@@ -958,10 +1023,10 @@
       "lastSuccess": 1739454531490
     },
     "ai-remini.js": {
-      "total": 2,
-      "success": 0,
-      "last": 1739454046174,
-      "lastSuccess": 0
+      "total": 3,
+      "success": 1,
+      "last": 1739456573058,
+      "lastSuccess": 1739456573058
     },
     "havefun-tambang.js": {
       "total": 2,
@@ -1043,7 +1108,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739454627362,
+      "backupDB": 1739456565530,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
