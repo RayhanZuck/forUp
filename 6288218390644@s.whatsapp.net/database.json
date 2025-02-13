@@ -248,9 +248,9 @@
       "WarnReason": "",
       "lastweekly": 1739455703047,
       "lastmonthly": 1739455703047,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1739458275874,
+      "activation": 1739466340239,
       "lastBanned": 0,
       "lastcommand": 1739458273995
     },
@@ -500,6 +500,27 @@
       "lastcommand": 1739456874737,
       "activation": 1739456883544,
       "lastBanned": 0
+    },
+    "6282219071770@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 499,
+      "registered": false,
+      "name": "WHO READS LIKE A DOG",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1739459413840
     }
   },
   "chats": {
@@ -754,9 +775,10 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6282130015691@s.whatsapp.net": 159,
-        "62882000858793@s.whatsapp.net": 184,
-        "62881023406390@s.whatsapp.net": 146
+        "6282130015691@s.whatsapp.net": 165,
+        "62882000858793@s.whatsapp.net": 200,
+        "62881023406390@s.whatsapp.net": 157,
+        "6282219071770@s.whatsapp.net": 1
       },
       "totalChat": 0
     },
@@ -1108,7 +1130,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739456565530,
+      "backupDB": 1739459413683,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
