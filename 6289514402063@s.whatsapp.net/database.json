@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739432224045,
+      "activation": 1739435226586,
       "lastcommand": 1739343581825,
       "limitprem": 10000
     },
@@ -257,7 +257,7 @@
       "lastBanned": 0
     },
     "6281263255789@s.whatsapp.net": {
-      "exp": 1878,
+      "exp": 1893,
       "limit": 499,
       "registered": false,
       "name": "HATXX STORE",
@@ -275,7 +275,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739433797648,
+      "activation": 1739435116544,
       "lastBanned": 0,
       "lastcommand": 1739371016851
     },
@@ -301,7 +301,7 @@
       "activation": 1738594062332
     },
     "6283196722292@s.whatsapp.net": {
-      "exp": 566,
+      "exp": 570,
       "limit": 499,
       "registered": false,
       "name": "BOBOB STORE",
@@ -319,7 +319,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739433642590,
+      "activation": 1739434586448,
       "lastBanned": 0
     },
     "6285790379156@s.whatsapp.net": {
@@ -676,7 +676,7 @@
       "lastcommand": 1738640060744
     },
     "6289604405225@s.whatsapp.net": {
-      "exp": 867,
+      "exp": 877,
       "limit": 499,
       "registered": false,
       "name": "RIS4YOUSTR",
@@ -694,7 +694,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739432161703,
+      "activation": 1739435793641,
       "lastBanned": 0
     },
     "6287761301460@s.whatsapp.net": {
@@ -3879,7 +3879,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739432109340,
+      "backupDB": 1739434001744,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
