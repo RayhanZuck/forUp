@@ -211,7 +211,7 @@
       "lastcommand": 1739442838888
     },
     "6289630130762@s.whatsapp.net": {
-      "exp": 2282,
+      "exp": 2303,
       "limit": 499,
       "registered": false,
       "name": "𝙄𝙩'𝙨 𝙤𝙠𝙖𝙮 ◡̈",
@@ -229,7 +229,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1739488619693,
+      "activation": 1739490395387,
       "lastBanned": 0,
       "lastcommand": 1739455155744
     },
@@ -280,7 +280,7 @@
       "lastcommand": 1739434353414
     },
     "6289607540907@s.whatsapp.net": {
-      "exp": 333,
+      "exp": 334,
       "limit": 479,
       "registered": false,
       "name": "My Name is Pake Naya",
@@ -298,7 +298,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739454713857,
+      "activation": 1739489494435,
       "lastBanned": 0,
       "lastcommand": 1739433776818
     },
@@ -549,7 +549,7 @@
       "lastBanned": 0
     },
     "6287715026979@s.whatsapp.net": {
-      "exp": 117,
+      "exp": 127,
       "limit": 499,
       "registered": false,
       "name": "アリル",
@@ -567,7 +567,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739488715325,
+      "activation": 1739489191530,
       "lastBanned": 0,
       "lastcommand": 1739409106305
     },
@@ -1292,7 +1292,7 @@
       "activation": 1739387756373
     },
     "6282337600388@s.whatsapp.net": {
-      "exp": 65,
+      "exp": 66,
       "limit": 499,
       "registered": false,
       "name": "Anak Lanang",
@@ -1310,7 +1310,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739488684089,
+      "activation": 1739489759413,
       "lastBanned": 0,
       "lastcommand": 1739439924915
     },
@@ -1466,7 +1466,7 @@
       "activation": 1739400528347
     },
     "6285640085093@s.whatsapp.net": {
-      "exp": 16,
+      "exp": 25,
       "limit": 499,
       "registered": false,
       "name": "jihan_afadh",
@@ -1484,7 +1484,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739426511710,
+      "activation": 1739490661420,
       "lastBanned": 0
     },
     "6282142401393@s.whatsapp.net": {
@@ -1509,7 +1509,7 @@
       "activation": 1739401703655
     },
     "6285641026041@s.whatsapp.net": {
-      "exp": 7,
+      "exp": 19,
       "limit": 499,
       "registered": false,
       "name": "امى ألناد",
@@ -1527,7 +1527,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739402006018
+      "activation": 1739489574606,
+      "lastBanned": 0
     },
     "6285664888858@s.whatsapp.net": {
       "exp": 1,
@@ -1632,7 +1633,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "activation": 1739456283381,
       "lastBanned": 0
@@ -2246,7 +2247,7 @@
       "lastBanned": 0
     },
     "6285786959161@s.whatsapp.net": {
-      "exp": 13,
+      "exp": 19,
       "limit": 499,
       "registered": false,
       "name": "Nama",
@@ -2264,7 +2265,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739465416594,
+      "activation": 1739489021394,
       "lastBanned": 0
     },
     "6289525180253@s.whatsapp.net": {
@@ -3722,7 +3723,7 @@
       "activation": 1739461106492
     },
     "6285647713254@s.whatsapp.net": {
-      "exp": 45,
+      "exp": 71,
       "limit": 499,
       "registered": false,
       "name": "sal",
@@ -3741,7 +3742,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1739487427087
+      "activation": 1739489751002
     },
     "6289501980370@s.whatsapp.net": {
       "exp": 9,
@@ -4826,6 +4827,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6285641026041@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -5065,7 +5087,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739487134604,
+      "backupDB": 1739489020623,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
