@@ -250,7 +250,7 @@
       "lastmonthly": 1739455703047,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1739475343652,
+      "activation": 1739486163247,
       "lastBanned": 0,
       "lastcommand": 1739458273995
     },
@@ -415,7 +415,7 @@
       "lastBanned": 0
     },
     "6285706405512@s.whatsapp.net": {
-      "exp": 12,
+      "exp": 18,
       "limit": 499,
       "registered": false,
       "name": "Opiks",
@@ -433,7 +433,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739454729866,
+      "activation": 1739477406340,
       "lastBanned": 0
     },
     "6281459056909@s.whatsapp.net": {
@@ -1182,7 +1182,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739469720761,
+      "backupDB": 1739477406143,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
