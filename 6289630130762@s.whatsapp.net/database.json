@@ -229,7 +229,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1739482286281,
+      "activation": 1739485534978,
       "lastBanned": 0,
       "lastcommand": 1739455155744
     },
@@ -303,7 +303,7 @@
       "lastcommand": 1739433776818
     },
     "62881024208695@s.whatsapp.net": {
-      "exp": 140,
+      "exp": 151,
       "limit": 499,
       "registered": false,
       "name": "クハ74DP",
@@ -321,7 +321,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739460172143,
+      "activation": 1739486324749,
       "lastBanned": 0
     },
     "6281225300079@s.whatsapp.net": {
@@ -414,7 +414,7 @@
       "lastBanned": 0
     },
     "6285225773437@s.whatsapp.net": {
-      "exp": 612,
+      "exp": 632,
       "limit": 499,
       "registered": false,
       "name": "🌻",
@@ -432,7 +432,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739484873101,
+      "activation": 1739485734607,
       "lastBanned": 0
     },
     "62895423944200@s.whatsapp.net": {
@@ -1379,7 +1379,7 @@
       "activation": 1739395949228
     },
     "6285713270212@s.whatsapp.net": {
-      "exp": 74,
+      "exp": 80,
       "limit": 499,
       "registered": false,
       "name": "AHMD_8348",
@@ -1397,7 +1397,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739480879468,
+      "activation": 1739484968705,
       "lastBanned": 0
     },
     "6285123705992@s.whatsapp.net": {
@@ -1921,7 +1921,7 @@
       "activation": 1739419392752
     },
     "6283824487980@s.whatsapp.net": {
-      "exp": 4,
+      "exp": 12,
       "limit": 499,
       "registered": false,
       "name": "©Aryszznx シ",
@@ -1939,7 +1939,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739419664613
+      "activation": 1739486600213,
+      "lastBanned": 0
     },
     "628569032883@s.whatsapp.net": {
       "exp": 37,
@@ -2115,7 +2116,7 @@
       "lastBanned": 0
     },
     "6288971684889@s.whatsapp.net": {
-      "exp": 26,
+      "exp": 30,
       "limit": 499,
       "registered": false,
       "name": "ZagiDaop2",
@@ -2133,7 +2134,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739443757563,
+      "activation": 1739485600340,
       "lastBanned": 0
     },
     "6285778277083@s.whatsapp.net": {
@@ -4761,6 +4762,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6285713270212@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -5000,7 +5022,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739483166190,
+      "backupDB": 1739484968440,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
