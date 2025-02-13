@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 10665,
+      "exp": 10671,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739482873424,
+      "activation": 1739483181556,
       "lastcommand": 1739442696997,
       "limitprem": 10000
     },
@@ -4104,7 +4104,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739471325338,
+      "backupDB": 1739483178864,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
