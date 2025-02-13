@@ -319,7 +319,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1739471529428,
+      "activation": 1739473284096,
       "lastBanned": 0,
       "lastcommand": 1739363024726
     },
@@ -37750,7 +37750,7 @@
       "activation": 1739468453551
     },
     "6288238543233@s.whatsapp.net": {
-      "exp": 4,
+      "exp": 14,
       "limit": 499,
       "registered": false,
       "name": "anomali lia",
@@ -37768,7 +37768,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739470421386
+      "activation": 1739471615174,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -39301,7 +39302,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739469807038,
+      "backupDB": 1739471614992,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
