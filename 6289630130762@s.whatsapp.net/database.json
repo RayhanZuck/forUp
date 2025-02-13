@@ -211,7 +211,7 @@
       "lastcommand": 1739442838888
     },
     "6289630130762@s.whatsapp.net": {
-      "exp": 2205,
+      "exp": 2266,
       "limit": 499,
       "registered": false,
       "name": "𝙄𝙩'𝙨 𝙤𝙠𝙖𝙮 ◡̈",
@@ -229,7 +229,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1739461042309,
+      "activation": 1739463263241,
       "lastBanned": 0,
       "lastcommand": 1739455155744
     },
@@ -370,7 +370,7 @@
       "activation": 1739458510806
     },
     "6288226469623@s.whatsapp.net": {
-      "exp": 214,
+      "exp": 218,
       "limit": 499,
       "registered": false,
       "name": "Zidni :)",
@@ -388,11 +388,11 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739460106155,
+      "activation": 1739462201392,
       "lastBanned": 0
     },
     "6287770348029@s.whatsapp.net": {
-      "exp": 91,
+      "exp": 92,
       "limit": 499,
       "registered": false,
       "name": "ㅤRifky",
@@ -410,7 +410,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739456803542,
+      "activation": 1739462461522,
       "lastBanned": 0
     },
     "6285225773437@s.whatsapp.net": {
@@ -572,7 +572,7 @@
       "lastcommand": 1739409106305
     },
     "6289619621030@s.whatsapp.net": {
-      "exp": 102,
+      "exp": 107,
       "limit": 499,
       "registered": false,
       "name": "ustadz_nopal",
@@ -590,7 +590,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739458905929,
+      "activation": 1739461983865,
       "lastBanned": 0
     },
     "62895383216074@s.whatsapp.net": {
@@ -1986,7 +1986,7 @@
       "lastBanned": 0
     },
     "62895339044041@s.whatsapp.net": {
-      "exp": 86,
+      "exp": 93,
       "limit": 499,
       "registered": false,
       "name": "1337XYRZ",
@@ -2005,7 +2005,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1739461309399
+      "activation": 1739462090672
     },
     "6283193940615@s.whatsapp.net": {
       "exp": 1,
@@ -3526,7 +3526,7 @@
       "activation": 1739451834332
     },
     "6285923276440@s.whatsapp.net": {
-      "exp": 7,
+      "exp": 14,
       "limit": 499,
       "registered": false,
       "name": "apa??",
@@ -3544,7 +3544,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739453349488
+      "activation": 1739462236390,
+      "lastBanned": 0
     },
     "6285189036829@s.whatsapp.net": {
       "exp": 5,
@@ -4965,6 +4966,12 @@
       "success": 2,
       "last": 1739455460367,
       "lastSuccess": 1739455460367
+    },
+    "downloader-pinterest.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1739463263239,
+      "lastSuccess": 1739463263239
     }
   },
   "msgs": {},
@@ -4992,7 +4999,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739460086228,
+      "backupDB": 1739461943094,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
