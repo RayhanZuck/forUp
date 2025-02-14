@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739498504540,
+      "activation": 1739502963998,
       "lastcommand": 1739442696997,
       "limitprem": 10000
     },
@@ -345,7 +345,7 @@
       "lastBanned": 0
     },
     "6282128611759@s.whatsapp.net": {
-      "exp": 864,
+      "exp": 869,
       "limit": 499,
       "registered": false,
       "name": "LANGZZ SKIBIDI",
@@ -363,7 +363,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739488295785,
+      "activation": 1739501189589,
       "lastBanned": 0,
       "lastcommand": 1739283863823
     },
@@ -478,7 +478,7 @@
       "lastcommand": 1738973962377
     },
     "6282224463723@s.whatsapp.net": {
-      "exp": 2069,
+      "exp": 2091,
       "limit": 499,
       "registered": false,
       "name": "JB AMENG STORE OWN LUSY CHA [ REGION JATENG ]",
@@ -496,7 +496,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739497866604,
+      "activation": 1739502970106,
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
@@ -2422,8 +2422,8 @@
       "lastcommand": 1739449856621
     },
     "6285249059567@s.whatsapp.net": {
-      "exp": 528,
-      "limit": 259,
+      "exp": 555,
+      "limit": 244,
       "registered": false,
       "name": "シンディ~`❗🎧🔥",
       "age": -1,
@@ -2441,7 +2441,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1739452393116
+      "activation": 1739502961815
     },
     "6281542063718@s.whatsapp.net": {
       "exp": 4,
@@ -3815,10 +3815,10 @@
       "lastSuccess": 1738640860189
     },
     "audio-effect.js": {
-      "total": 37,
-      "success": 36,
-      "last": 1739452393116,
-      "lastSuccess": 1739452393116
+      "total": 38,
+      "success": 37,
+      "last": 1739502961815,
+      "lastSuccess": 1739502961815
     },
     "_cek.js": {
       "total": 39,
@@ -4104,7 +4104,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739497865792,
+      "backupDB": 1739501189158,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
