@@ -232,7 +232,7 @@
       "activation": 1739448425670
     },
     "6288218390644@s.whatsapp.net": {
-      "exp": 51507,
+      "exp": 51540,
       "limit": 944,
       "registered": false,
       "name": "BOT RENZZ",
@@ -250,12 +250,12 @@
       "lastmonthly": 1739455703047,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1739516177395,
+      "activation": 1739519178889,
       "lastBanned": 0,
-      "lastcommand": 1739495437768
+      "lastcommand": 1739517977854
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 89,
+      "exp": 125,
       "limit": 499,
       "registered": false,
       "name": "Rayhan🍟",
@@ -273,7 +273,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739469727359,
+      "activation": 1739518479243,
       "lastBanned": 0,
       "lastcommand": 1739469720864
     },
@@ -1142,10 +1142,10 @@
       "lastSuccess": 1739450593883
     },
     "_cek.js": {
-      "total": 12,
-      "success": 12,
-      "last": 1739514124747,
-      "lastSuccess": 1739514124747
+      "total": 13,
+      "success": 13,
+      "last": 1739517978056,
+      "lastSuccess": 1739517978056
     },
     "user-limit.js": {
       "total": 4,
@@ -1244,10 +1244,10 @@
       "lastSuccess": 1739455716762
     },
     "info-dashboard.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1739495411459,
-      "lastSuccess": 1739495411459
+      "total": 4,
+      "success": 4,
+      "last": 1739517641760,
+      "lastSuccess": 1739517641760
     }
   },
   "msgs": {},
@@ -1275,7 +1275,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739514124576,
+      "backupDB": 1739517641725,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
