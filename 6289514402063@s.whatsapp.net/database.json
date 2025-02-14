@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 10967,
+      "exp": 10979,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739516647581,
+      "activation": 1739519830968,
       "lastcommand": 1739442696997,
       "limitprem": 10000
     },
@@ -257,7 +257,7 @@
       "lastBanned": 0
     },
     "6281263255789@s.whatsapp.net": {
-      "exp": 1974,
+      "exp": 1978,
       "limit": 499,
       "registered": false,
       "name": "HATXX STORE",
@@ -275,7 +275,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739516226862,
+      "activation": 1739520138058,
       "lastBanned": 0,
       "lastcommand": 1739371016851
     },
@@ -478,7 +478,7 @@
       "lastcommand": 1738973962377
     },
     "6282224463723@s.whatsapp.net": {
-      "exp": 2291,
+      "exp": 2292,
       "limit": 499,
       "registered": false,
       "name": "JB AMENG STORE OWN LUSY CHA [ REGION JATENG ]",
@@ -496,7 +496,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739517828544,
+      "activation": 1739518508837,
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
@@ -698,7 +698,7 @@
       "lastBanned": 0
     },
     "6287761301460@s.whatsapp.net": {
-      "exp": 1725,
+      "exp": 1727,
       "limit": 9,
       "registered": false,
       "name": "Afiq™",
@@ -716,7 +716,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739506490231,
+      "activation": 1739519491845,
       "lastBanned": 0
     },
     "6281224160567@s.whatsapp.net": {
@@ -3689,6 +3689,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6282185510845@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -4126,7 +4147,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739516647088,
+      "backupDB": 1739518508610,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
