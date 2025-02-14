@@ -319,7 +319,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1739553244350,
+      "activation": 1739555594153,
       "lastBanned": 0,
       "lastcommand": 1739363024726
     },
@@ -39422,7 +39422,7 @@
       "activation": 1739545158217
     },
     "6288211789687@s.whatsapp.net": {
-      "exp": 78,
+      "exp": 88,
       "limit": 449,
       "registered": false,
       "name": "Adii",
@@ -39441,7 +39441,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1739553243742
+      "activation": 1739554090361
     }
   },
   "chats": {
@@ -41116,7 +41116,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739552262184,
+      "backupDB": 1739554089910,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
