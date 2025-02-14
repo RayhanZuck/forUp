@@ -232,7 +232,7 @@
       "activation": 1739448425670
     },
     "6288218390644@s.whatsapp.net": {
-      "exp": 51614,
+      "exp": 51622,
       "limit": 919,
       "registered": false,
       "name": "BOT RENZZ",
@@ -250,7 +250,7 @@
       "lastmonthly": 1739455703047,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1739525933525,
+      "activation": 1739528185225,
       "lastBanned": 0,
       "lastcommand": 1739517977854
     },
@@ -415,7 +415,7 @@
       "lastBanned": 0
     },
     "6285706405512@s.whatsapp.net": {
-      "exp": 34,
+      "exp": 41,
       "limit": 499,
       "registered": false,
       "name": "Opiks",
@@ -433,7 +433,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739525639955,
+      "activation": 1739527821727,
       "lastBanned": 0
     },
     "6281459056909@s.whatsapp.net": {
@@ -658,7 +658,7 @@
       "lastBanned": 0
     },
     "6283832608337@s.whatsapp.net": {
-      "exp": 45,
+      "exp": 59,
       "limit": 499,
       "registered": false,
       "name": "?!",
@@ -676,7 +676,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739526792451,
+      "activation": 1739528462626,
       "lastBanned": 0
     },
     "6283861609202@s.whatsapp.net": {
@@ -1052,8 +1052,8 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "62882000858793@s.whatsapp.net": 205,
-        "6283832608337@s.whatsapp.net": 19
+        "62882000858793@s.whatsapp.net": 237,
+        "6283832608337@s.whatsapp.net": 28
       },
       "totalChat": 0
     },
@@ -1193,10 +1193,10 @@
       "lastSuccess": 1739449418083
     },
     "sticker-all.js": {
-      "total": 27,
-      "success": 27,
-      "last": 1739525948255,
-      "lastSuccess": 1739525948255
+      "total": 28,
+      "success": 28,
+      "last": 1739528438261,
+      "lastSuccess": 1739528438261
     },
     "sticker-toimg.js": {
       "total": 2,
@@ -1350,7 +1350,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739525948023,
+      "backupDB": 1739527821527,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
