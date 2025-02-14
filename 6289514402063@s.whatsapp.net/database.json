@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739504507478,
+      "activation": 1739506138104,
       "lastcommand": 1739442696997,
       "limitprem": 10000
     },
@@ -368,7 +368,7 @@
       "lastcommand": 1739283863823
     },
     "6289515823841@s.whatsapp.net": {
-      "exp": 1140,
+      "exp": 1162,
       "limit": 499,
       "registered": false,
       "name": "Ardyan Store",
@@ -386,7 +386,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739504086195,
+      "activation": 1739505827848,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -478,7 +478,7 @@
       "lastcommand": 1738973962377
     },
     "6282224463723@s.whatsapp.net": {
-      "exp": 2205,
+      "exp": 2212,
       "limit": 499,
       "registered": false,
       "name": "JB AMENG STORE OWN LUSY CHA [ REGION JATENG ]",
@@ -496,7 +496,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739504448992,
+      "activation": 1739506418904,
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
@@ -698,7 +698,7 @@
       "lastBanned": 0
     },
     "6287761301460@s.whatsapp.net": {
-      "exp": 1724,
+      "exp": 1725,
       "limit": 9,
       "registered": false,
       "name": "Afiq™",
@@ -716,7 +716,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739489965218,
+      "activation": 1739506490231,
       "lastBanned": 0
     },
     "6281224160567@s.whatsapp.net": {
@@ -2422,8 +2422,8 @@
       "lastcommand": 1739449856621
     },
     "6285249059567@s.whatsapp.net": {
-      "exp": 575,
-      "limit": 244,
+      "exp": 602,
+      "limit": 229,
       "registered": false,
       "name": "シンディ~`❗🎧🔥",
       "age": -1,
@@ -2441,7 +2441,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1739503013348
+      "activation": 1739506136585
     },
     "6281542063718@s.whatsapp.net": {
       "exp": 4,
@@ -3815,10 +3815,10 @@
       "lastSuccess": 1738640860189
     },
     "audio-effect.js": {
-      "total": 38,
-      "success": 37,
-      "last": 1739502961815,
-      "lastSuccess": 1739502961815
+      "total": 39,
+      "success": 38,
+      "last": 1739506136585,
+      "lastSuccess": 1739506136585
     },
     "_cek.js": {
       "total": 39,
@@ -4104,7 +4104,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739503008821,
+      "backupDB": 1739504886514,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
