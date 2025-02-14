@@ -232,7 +232,7 @@
       "activation": 1739448425670
     },
     "6288218390644@s.whatsapp.net": {
-      "exp": 51406,
+      "exp": 51483,
       "limit": 944,
       "registered": false,
       "name": "BOT RENZZ",
@@ -250,9 +250,9 @@
       "lastmonthly": 1739455703047,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1739495167859,
+      "activation": 1739498169152,
       "lastBanned": 0,
-      "lastcommand": 1739458273995
+      "lastcommand": 1739495437768
     },
     "6285766064200@s.whatsapp.net": {
       "exp": 89,
@@ -323,7 +323,7 @@
       "lastBanned": 0
     },
     "62882000858793@s.whatsapp.net": {
-      "exp": 263,
+      "exp": 265,
       "limit": 484,
       "registered": false,
       "name": "renzz store",
@@ -341,7 +341,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739487928363,
+      "activation": 1739495455845,
       "lastBanned": 0,
       "lastcommand": 1739455061674
     },
@@ -891,7 +891,7 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "62882000858793@s.whatsapp.net": 72
+        "62882000858793@s.whatsapp.net": 83
       },
       "totalChat": 0
     },
@@ -1013,10 +1013,10 @@
       "lastSuccess": 1716041091953
     },
     "info-ping.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1739469721360,
-      "lastSuccess": 1739469721360
+      "total": 5,
+      "success": 5,
+      "last": 1739495438469,
+      "lastSuccess": 1739495438469
     },
     "owner-df.js": {
       "total": 2,
@@ -1031,10 +1031,10 @@
       "lastSuccess": 1739449418083
     },
     "sticker-all.js": {
-      "total": 24,
-      "success": 24,
-      "last": 1739487928363,
-      "lastSuccess": 1739487928363
+      "total": 25,
+      "success": 25,
+      "last": 1739495455845,
+      "lastSuccess": 1739495455845
     },
     "sticker-toimg.js": {
       "total": 2,
@@ -1151,10 +1151,10 @@
       "lastSuccess": 1739455716762
     },
     "info-dashboard.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1739469727359,
-      "lastSuccess": 1739469727359
+      "total": 3,
+      "success": 3,
+      "last": 1739495411459,
+      "lastSuccess": 1739495411459
     }
   },
   "msgs": {},
@@ -1182,7 +1182,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739489938767,
+      "backupDB": 1739495407435,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
