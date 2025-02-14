@@ -319,7 +319,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1739555594153,
+      "activation": 1739564100611,
       "lastBanned": 0,
       "lastcommand": 1739363024726
     },
@@ -31437,8 +31437,8 @@
       "lastBanned": 0
     },
     "6282148056343@s.whatsapp.net": {
-      "exp": 50871,
-      "limit": 494,
+      "exp": 50923,
+      "limit": 454,
       "registered": false,
       "name": "nela",
       "age": -1,
@@ -31456,7 +31456,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1739537970924,
+      "activation": 1739557923111,
       "lastcommand": 1739375154007
     },
     "6283849613391@s.whatsapp.net": {
@@ -40965,10 +40965,10 @@
       "lastSuccess": 1739539806048
     },
     "downloader-tiktok.js": {
-      "total": 89,
-      "success": 79,
-      "last": 1739543069437,
-      "lastSuccess": 1739543069437
+      "total": 91,
+      "success": 81,
+      "last": 1739557923111,
+      "lastSuccess": 1739557923111
     },
     "tools-uptogh.js": {
       "total": 2,
@@ -41116,7 +41116,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739554089910,
+      "backupDB": 1739557717030,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
