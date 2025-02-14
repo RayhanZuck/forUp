@@ -250,7 +250,7 @@
       "lastmonthly": 1739455703047,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1739528185225,
+      "activation": 1739531186154,
       "lastBanned": 0,
       "lastcommand": 1739517977854
     },
@@ -323,7 +323,7 @@
       "lastBanned": 0
     },
     "62882000858793@s.whatsapp.net": {
-      "exp": 453,
+      "exp": 454,
       "limit": 484,
       "registered": false,
       "name": "renzz store",
@@ -341,7 +341,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739526219048,
+      "activation": 1739530120084,
       "lastBanned": 0,
       "lastcommand": 1739455061674
     },
@@ -369,7 +369,7 @@
       "lastBanned": 0
     },
     "62881023406390@s.whatsapp.net": {
-      "exp": 506,
+      "exp": 509,
       "limit": 454,
       "registered": false,
       "name": "😁😁",
@@ -387,7 +387,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739525736640,
+      "activation": 1739530431949,
       "lastBanned": 0,
       "lastcommand": 1739453118760,
       "lastwork": 1739454930066
@@ -503,7 +503,7 @@
       "lastBanned": 0
     },
     "6282219071770@s.whatsapp.net": {
-      "exp": 103,
+      "exp": 117,
       "limit": 499,
       "registered": false,
       "name": "WHO READS LIKE A DOG",
@@ -521,7 +521,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739525849273,
+      "activation": 1739530080642,
       "lastBanned": 0
     },
     "6283139449725@s.whatsapp.net": {
@@ -658,7 +658,7 @@
       "lastBanned": 0
     },
     "6283832608337@s.whatsapp.net": {
-      "exp": 59,
+      "exp": 93,
       "limit": 499,
       "registered": false,
       "name": "?!",
@@ -676,7 +676,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739528462626,
+      "activation": 1739531183077,
       "lastBanned": 0
     },
     "6283861609202@s.whatsapp.net": {
@@ -976,15 +976,15 @@
       "expired": 0,
       "total": {
         "6282130015691@s.whatsapp.net": 359,
-        "62882000858793@s.whatsapp.net": 932,
-        "62881023406390@s.whatsapp.net": 441,
-        "6282219071770@s.whatsapp.net": 468,
+        "62882000858793@s.whatsapp.net": 1028,
+        "62881023406390@s.whatsapp.net": 481,
+        "6282219071770@s.whatsapp.net": 567,
         "6283139449725@s.whatsapp.net": 90,
-        "6285864104187@s.whatsapp.net": 315,
+        "6285864104187@s.whatsapp.net": 399,
         "6288971804311@s.whatsapp.net": 267,
-        "62881023336266@s.whatsapp.net": 618,
+        "62881023336266@s.whatsapp.net": 642,
         "6289601958568@s.whatsapp.net": 60,
-        "6283832608337@s.whatsapp.net": 130,
+        "6283832608337@s.whatsapp.net": 199,
         "6283861609202@s.whatsapp.net": 18
       },
       "totalChat": 0
@@ -1052,8 +1052,8 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "62882000858793@s.whatsapp.net": 237,
-        "6283832608337@s.whatsapp.net": 28
+        "62882000858793@s.whatsapp.net": 254,
+        "6283832608337@s.whatsapp.net": 33
       },
       "totalChat": 0
     },
@@ -1350,7 +1350,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739527821527,
+      "backupDB": 1739529777582,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
