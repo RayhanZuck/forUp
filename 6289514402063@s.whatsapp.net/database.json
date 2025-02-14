@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739566271773,
+      "activation": 1739569073759,
       "lastcommand": 1739537908176,
       "limitprem": 10000
     },
@@ -3734,7 +3734,7 @@
       "activation": 1739553440011
     },
     "62881012098901@s.whatsapp.net": {
-      "exp": 12,
+      "exp": 28,
       "limit": 499,
       "registered": false,
       "name": "MXCI STORE REGION JAKRTA KANG STOK",
@@ -3752,7 +3752,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739555582793,
+      "activation": 1739567613583,
       "lastBanned": 0
     },
     "6285691650962@s.whatsapp.net": {
@@ -5001,10 +5001,10 @@
         "6287824950642@s.whatsapp.net": 74,
         "6285123052354@s.whatsapp.net": 279,
         "6289528076143@s.whatsapp.net": 505,
-        "6281328557368@s.whatsapp.net": 902,
-        "6281295432913@s.whatsapp.net": 1343,
-        "6283834658799@s.whatsapp.net": 462,
-        "6283192154111@s.whatsapp.net": 538,
+        "6281328557368@s.whatsapp.net": 908,
+        "6281295432913@s.whatsapp.net": 1357,
+        "6283834658799@s.whatsapp.net": 466,
+        "6283192154111@s.whatsapp.net": 540,
         "6285810210368@s.whatsapp.net": 228,
         "6283137211548@s.whatsapp.net": 113,
         "6285814784838@s.whatsapp.net": 1039,
@@ -5018,8 +5018,8 @@
         "6282284080402@s.whatsapp.net": 80,
         "6281366500469@s.whatsapp.net": 153,
         "62882003489365@s.whatsapp.net": 36,
-        "6282352316811@s.whatsapp.net": 55,
-        "62881012098901@s.whatsapp.net": 8
+        "6282352316811@s.whatsapp.net": 59,
+        "62881012098901@s.whatsapp.net": 13
       },
       "totalChat": 0
     },
@@ -5480,7 +5480,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739563990666,
+      "backupDB": 1739567227151,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
