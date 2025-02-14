@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739502963998,
+      "activation": 1739504507478,
       "lastcommand": 1739442696997,
       "limitprem": 10000
     },
@@ -345,7 +345,7 @@
       "lastBanned": 0
     },
     "6282128611759@s.whatsapp.net": {
-      "exp": 869,
+      "exp": 877,
       "limit": 499,
       "registered": false,
       "name": "LANGZZ SKIBIDI",
@@ -363,12 +363,12 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739501189589,
+      "activation": 1739504041452,
       "lastBanned": 0,
       "lastcommand": 1739283863823
     },
     "6289515823841@s.whatsapp.net": {
-      "exp": 1119,
+      "exp": 1140,
       "limit": 499,
       "registered": false,
       "name": "Ardyan Store",
@@ -386,7 +386,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739467939439,
+      "activation": 1739504086195,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -478,7 +478,7 @@
       "lastcommand": 1738973962377
     },
     "6282224463723@s.whatsapp.net": {
-      "exp": 2091,
+      "exp": 2205,
       "limit": 499,
       "registered": false,
       "name": "JB AMENG STORE OWN LUSY CHA [ REGION JATENG ]",
@@ -496,7 +496,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739502970106,
+      "activation": 1739504448992,
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
@@ -2422,7 +2422,7 @@
       "lastcommand": 1739449856621
     },
     "6285249059567@s.whatsapp.net": {
-      "exp": 555,
+      "exp": 575,
       "limit": 244,
       "registered": false,
       "name": "シンディ~`❗🎧🔥",
@@ -2441,7 +2441,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1739502961815
+      "activation": 1739503013348
     },
     "6281542063718@s.whatsapp.net": {
       "exp": 4,
@@ -4049,10 +4049,10 @@
       "lastSuccess": 1739351297327
     },
     "fun-ceksifat.js": {
-      "total": 19,
-      "success": 19,
-      "last": 1739445166954,
-      "lastSuccess": 1739445166954
+      "total": 20,
+      "success": 20,
+      "last": 1739503013348,
+      "lastSuccess": 1739503013348
     },
     "audio-vnzeta.js": {
       "total": 2,
@@ -4104,7 +4104,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739501189158,
+      "backupDB": 1739503008821,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
