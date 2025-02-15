@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739653132407,
+      "activation": 1739657383595,
       "lastcommand": 1739537908176,
       "limitprem": 10000
     },
@@ -968,7 +968,7 @@
       "lastcommand": 1739622977170
     },
     "62882001117867@s.whatsapp.net": {
-      "exp": 455,
+      "exp": 472,
       "limit": 499,
       "registered": false,
       "name": "Mita_Animation",
@@ -986,7 +986,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739615581053,
+      "activation": 1739657366735,
       "lastBanned": 0
     },
     "6289531717404@s.whatsapp.net": {
@@ -3737,7 +3737,7 @@
       "activation": 1739553440011
     },
     "62881012098901@s.whatsapp.net": {
-      "exp": 69,
+      "exp": 76,
       "limit": 499,
       "registered": false,
       "name": "MXCI STORE REGION JAKRTA KANG STOK",
@@ -3755,7 +3755,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739652738414,
+      "activation": 1739655876950,
       "lastBanned": 0
     },
     "6285691650962@s.whatsapp.net": {
@@ -3885,7 +3885,7 @@
       "activation": 1739577806740
     },
     "6283869310783@s.whatsapp.net": {
-      "exp": 3261,
+      "exp": 3267,
       "limit": 499,
       "registered": false,
       "name": "GRVI STR NOPE 3 REAL PT PRIB NANA",
@@ -3903,7 +3903,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739651601853,
+      "activation": 1739657386610,
       "lastBanned": 0
     },
     "6283875502120@s.whatsapp.net": {
@@ -5834,6 +5834,27 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1739644515586
+    },
+    "6285642948687@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 856-4294-8687",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1739657385307
     }
   },
   "chats": {
@@ -7051,14 +7072,14 @@
         "6285600297453@s.whatsapp.net": 1218,
         "6285755495216@s.whatsapp.net": 1163,
         "6285380586603@s.whatsapp.net": 132,
-        "6288214556694@s.whatsapp.net": 1958,
+        "6288214556694@s.whatsapp.net": 1961,
         "6285738772084@s.whatsapp.net": 3615,
         "6282284080402@s.whatsapp.net": 702,
         "6281366500469@s.whatsapp.net": 719,
         "62882003489365@s.whatsapp.net": 36,
         "6282352316811@s.whatsapp.net": 617,
-        "62881012098901@s.whatsapp.net": 385,
-        "6283869310783@s.whatsapp.net": 7026,
+        "62881012098901@s.whatsapp.net": 394,
+        "6283869310783@s.whatsapp.net": 7039,
         "6285896071261@s.whatsapp.net": 1625,
         "6285754276508@s.whatsapp.net": 757,
         "6281263255789@s.whatsapp.net": 225,
@@ -7068,14 +7089,14 @@
         "628124104328@s.whatsapp.net": 211,
         "6285259854233@s.whatsapp.net": 932,
         "6285692159605@s.whatsapp.net": 48,
-        "6288808163053@s.whatsapp.net": 1985,
+        "6288808163053@s.whatsapp.net": 1991,
         "6285946400036@s.whatsapp.net": 19,
         "6281540961640@s.whatsapp.net": 1031,
         "6285187847025@s.whatsapp.net": 61,
         "6285702781214@s.whatsapp.net": 2183,
         "6285601809487@s.whatsapp.net": 26,
         "6287880859969@s.whatsapp.net": 133,
-        "6283177653855@s.whatsapp.net": 397
+        "6283177653855@s.whatsapp.net": 403
       },
       "totalChat": 0
     },
@@ -7611,7 +7632,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739653449725,
+      "backupDB": 1739655876471,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
