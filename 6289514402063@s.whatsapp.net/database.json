@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 12340,
+      "exp": 12353,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739657383595,
+      "activation": 1739659135716,
       "lastcommand": 1739537908176,
       "limitprem": 10000
     },
@@ -480,7 +480,7 @@
       "lastcommand": 1738973962377
     },
     "6282224463723@s.whatsapp.net": {
-      "exp": 3090,
+      "exp": 3140,
       "limit": 499,
       "registered": false,
       "name": "JB AMENG STORE OWN LUSY CHA [ REGION JATENG ]",
@@ -498,11 +498,11 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739616588476,
+      "activation": 1739659505228,
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
-      "exp": 2012,
+      "exp": 2013,
       "limit": 499,
       "registered": false,
       "name": "@Nadiaaa",
@@ -520,7 +520,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739624876375,
+      "activation": 1739658203230,
       "lastBanned": 0,
       "lastcommand": 1738667595080
     },
@@ -5073,7 +5073,7 @@
       "activation": 1739603204528
     },
     "6281540961640@s.whatsapp.net": {
-      "exp": 151,
+      "exp": 170,
       "limit": 499,
       "registered": false,
       "name": "~NO KEDUA PANZ STORE",
@@ -5091,7 +5091,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739630539303,
+      "activation": 1739658017517,
       "lastBanned": 0
     },
     "6282164564044@s.whatsapp.net": {
@@ -7072,14 +7072,14 @@
         "6285600297453@s.whatsapp.net": 1218,
         "6285755495216@s.whatsapp.net": 1163,
         "6285380586603@s.whatsapp.net": 132,
-        "6288214556694@s.whatsapp.net": 1961,
+        "6288214556694@s.whatsapp.net": 1963,
         "6285738772084@s.whatsapp.net": 3615,
         "6282284080402@s.whatsapp.net": 702,
         "6281366500469@s.whatsapp.net": 719,
         "62882003489365@s.whatsapp.net": 36,
         "6282352316811@s.whatsapp.net": 617,
-        "62881012098901@s.whatsapp.net": 394,
-        "6283869310783@s.whatsapp.net": 7039,
+        "62881012098901@s.whatsapp.net": 400,
+        "6283869310783@s.whatsapp.net": 7049,
         "6285896071261@s.whatsapp.net": 1625,
         "6285754276508@s.whatsapp.net": 757,
         "6281263255789@s.whatsapp.net": 225,
@@ -7089,14 +7089,14 @@
         "628124104328@s.whatsapp.net": 211,
         "6285259854233@s.whatsapp.net": 932,
         "6285692159605@s.whatsapp.net": 48,
-        "6288808163053@s.whatsapp.net": 1991,
+        "6288808163053@s.whatsapp.net": 1995,
         "6285946400036@s.whatsapp.net": 19,
-        "6281540961640@s.whatsapp.net": 1031,
+        "6281540961640@s.whatsapp.net": 1034,
         "6285187847025@s.whatsapp.net": 61,
         "6285702781214@s.whatsapp.net": 2183,
         "6285601809487@s.whatsapp.net": 26,
         "6287880859969@s.whatsapp.net": 133,
-        "6283177653855@s.whatsapp.net": 403
+        "6283177653855@s.whatsapp.net": 407
       },
       "totalChat": 0
     },
@@ -7632,7 +7632,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739655876471,
+      "backupDB": 1739657708194,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
