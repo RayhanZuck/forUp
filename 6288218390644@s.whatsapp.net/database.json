@@ -250,7 +250,7 @@
       "lastmonthly": 1739455703047,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1739618345837,
+      "activation": 1739621060199,
       "lastBanned": 0,
       "lastcommand": 1739617993332,
       "lastwork": 1739618006917
@@ -324,7 +324,7 @@
       "lastBanned": 0
     },
     "62882000858793@s.whatsapp.net": {
-      "exp": 32298,
+      "exp": 32329,
       "limit": 934,
       "registered": false,
       "name": "renzz store",
@@ -342,7 +342,7 @@
       "lastmonthly": 1739612595763,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739618341658,
+      "activation": 1739620706933,
       "lastBanned": 0,
       "lastcommand": 1739612909557,
       "lastwork": 1739618341458
@@ -417,7 +417,7 @@
       "lastBanned": 0
     },
     "6285706405512@s.whatsapp.net": {
-      "exp": 102,
+      "exp": 106,
       "limit": 499,
       "registered": false,
       "name": "Opiks",
@@ -435,7 +435,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739618637574,
+      "activation": 1739620209903,
       "lastBanned": 0
     },
     "6281459056909@s.whatsapp.net": {
@@ -1754,6 +1754,67 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1739618064967
+    },
+    "51166364840003_1@s.whatsapp.net": {
+      "exp": 7,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1739619176237
+    },
+    "5695613182024_1@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1739620255534
+    },
+    "6282295332881@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 499,
+      "registered": false,
+      "name": "Ibnu Nur Aras",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1739620713109
     }
   },
   "chats": {
@@ -2110,7 +2171,7 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "62882000858793@s.whatsapp.net": 651,
+        "62882000858793@s.whatsapp.net": 663,
         "6283832608337@s.whatsapp.net": 163,
         "6282130015691@s.whatsapp.net": 14,
         "6283861609202@s.whatsapp.net": 56,
@@ -2648,7 +2709,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739617321346,
+      "backupDB": 1739619176165,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
