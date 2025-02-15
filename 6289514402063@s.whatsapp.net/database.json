@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 11687,
+      "exp": 11805,
       "limit": 499,
       "registered": false,
       "name": "Yagamii",
@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1739579947237,
+      "activation": 1739582539810,
       "lastcommand": 1739537908176,
       "limitprem": 10000
     },
@@ -676,7 +676,7 @@
       "lastcommand": 1738640060744
     },
     "6289604405225@s.whatsapp.net": {
-      "exp": 1030,
+      "exp": 1036,
       "limit": 499,
       "registered": false,
       "name": "RIS4YOUSTR",
@@ -694,11 +694,11 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739548729778,
+      "activation": 1739582137791,
       "lastBanned": 0
     },
     "6287761301460@s.whatsapp.net": {
-      "exp": 2249,
+      "exp": 2263,
       "limit": 4,
       "registered": false,
       "name": "Afiq™",
@@ -716,7 +716,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739577546892,
+      "activation": 1739581526333,
       "lastBanned": 0
     },
     "6281224160567@s.whatsapp.net": {
@@ -2051,7 +2051,7 @@
       "activation": 1739221009813
     },
     "6282125103182@s.whatsapp.net": {
-      "exp": 14,
+      "exp": 101,
       "limit": 499,
       "registered": false,
       "name": "bilaww",
@@ -2069,8 +2069,9 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739538127902,
-      "lastBanned": 0
+      "activation": 1739582527571,
+      "lastBanned": 0,
+      "lastcommand": 1739582178372
     },
     "6283854049505@s.whatsapp.net": {
       "exp": 10,
@@ -2689,7 +2690,7 @@
       "lastBanned": 0
     },
     "6281295432913@s.whatsapp.net": {
-      "exp": 270,
+      "exp": 281,
       "limit": 499,
       "registered": false,
       "name": "NIU STORE KHUSUS JP 1",
@@ -2707,7 +2708,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739579282531,
+      "activation": 1739582687379,
       "lastBanned": 0
     },
     "6289526352714@s.whatsapp.net": {
@@ -3882,7 +3883,7 @@
       "activation": 1739577806740
     },
     "6283869310783@s.whatsapp.net": {
-      "exp": 12,
+      "exp": 21,
       "limit": 499,
       "registered": false,
       "name": "GRVI STR NOPE 3 REAL PT PRIB NANA",
@@ -3900,7 +3901,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739577886112,
+      "activation": 1739581276620,
       "lastBanned": 0
     },
     "6283875502120@s.whatsapp.net": {
@@ -3965,6 +3966,48 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1739579381408
+    },
+    "6285607577945@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 856-0757-7945",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1739581140953
+    },
+    "628992113915@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 899-2113-915",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1739581584310
     }
   },
   "chats": {
@@ -5166,12 +5209,12 @@
       "expired": 0,
       "total": {
         "6287872564361@s.whatsapp.net": 327,
-        "6285394283279@s.whatsapp.net": 174,
+        "6285394283279@s.whatsapp.net": 180,
         "6287824950642@s.whatsapp.net": 74,
         "6285123052354@s.whatsapp.net": 279,
         "6289528076143@s.whatsapp.net": 505,
         "6281328557368@s.whatsapp.net": 983,
-        "6281295432913@s.whatsapp.net": 1784,
+        "6281295432913@s.whatsapp.net": 1829,
         "6283834658799@s.whatsapp.net": 516,
         "6283192154111@s.whatsapp.net": 565,
         "6285810210368@s.whatsapp.net": 228,
@@ -5182,14 +5225,14 @@
         "6285600297453@s.whatsapp.net": 136,
         "6285755495216@s.whatsapp.net": 336,
         "6285380586603@s.whatsapp.net": 114,
-        "6288214556694@s.whatsapp.net": 319,
-        "6285738772084@s.whatsapp.net": 1090,
+        "6288214556694@s.whatsapp.net": 331,
+        "6285738772084@s.whatsapp.net": 1180,
         "6282284080402@s.whatsapp.net": 80,
         "6281366500469@s.whatsapp.net": 153,
         "62882003489365@s.whatsapp.net": 36,
-        "6282352316811@s.whatsapp.net": 140,
+        "6282352316811@s.whatsapp.net": 146,
         "62881012098901@s.whatsapp.net": 106,
-        "6283869310783@s.whatsapp.net": 17
+        "6283869310783@s.whatsapp.net": 33
       },
       "totalChat": 0
     },
@@ -5283,10 +5326,10 @@
       "lastSuccess": 1739053251863
     },
     "downloader-tiktok.js": {
-      "total": 76,
-      "success": 73,
-      "last": 1739543534722,
-      "lastSuccess": 1739543534722
+      "total": 77,
+      "success": 74,
+      "last": 1739582347562,
+      "lastSuccess": 1739582347562
     },
     "group-delete.js": {
       "total": 14,
@@ -5367,10 +5410,10 @@
       "lastSuccess": 1739538073200
     },
     "_cek.js": {
-      "total": 42,
-      "success": 41,
-      "last": 1739537616962,
-      "lastSuccess": 1739537616962
+      "total": 43,
+      "success": 42,
+      "last": 1739582179216,
+      "lastSuccess": 1739582179216
     },
     "info-donasi.js": {
       "total": 2,
@@ -5650,7 +5693,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739578672692,
+      "backupDB": 1739580908090,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
