@@ -1116,7 +1116,7 @@
       "activation": 1739549773748
     },
     "120363280765137622@g.us": {
-      "exp": 44,
+      "exp": 47,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1134,7 +1134,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739631404307,
+      "activation": 1739657777456,
       "lastBanned": 0
     },
     "141691591860456_1@s.whatsapp.net": {
@@ -1655,7 +1655,7 @@
       "lastBanned": 0
     },
     "6282132600838@s.whatsapp.net": {
-      "exp": 320,
+      "exp": 325,
       "limit": 499,
       "registered": false,
       "name": "💫⚡Hanifa⚡💫",
@@ -1674,7 +1674,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1739655888205,
+      "activation": 1739659340908,
       "lastcommand": 1739655080760
     },
     "78731079069742_1@s.whatsapp.net": {
@@ -2196,6 +2196,27 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1739653209770
+    },
+    "41266666582251@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "name": "~SAHRUL",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1739659384985
     }
   },
   "chats": {
@@ -2853,10 +2874,10 @@
       "expired": 0,
       "total": {
         "6287815891598@s.whatsapp.net": 556,
-        "6285184060701@s.whatsapp.net": 3410,
+        "6285184060701@s.whatsapp.net": 3411,
         "6285920322323@s.whatsapp.net": 2668,
-        "6282245911655@s.whatsapp.net": 1430,
-        "6282132600838@s.whatsapp.net": 265
+        "6282245911655@s.whatsapp.net": 1439,
+        "6282132600838@s.whatsapp.net": 273
       },
       "totalChat": 0
     },
@@ -2904,7 +2925,8 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6287815891598@s.whatsapp.net": 1
+        "6287815891598@s.whatsapp.net": 2,
+        "41266666582251@s.whatsapp.net": 1
       },
       "totalChat": 0
     },
@@ -3273,7 +3295,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739654977750,
+      "backupDB": 1739657777310,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
