@@ -250,7 +250,7 @@
       "lastmonthly": 1739455703047,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1739657076630,
+      "activation": 1739660078228,
       "lastBanned": 0,
       "lastcommand": 1739630768598,
       "lastwork": 1739618006917
@@ -1655,7 +1655,7 @@
       "lastBanned": 0
     },
     "6282132600838@s.whatsapp.net": {
-      "exp": 325,
+      "exp": 347,
       "limit": 499,
       "registered": false,
       "name": "💫⚡Hanifa⚡💫",
@@ -1674,7 +1674,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1739659340908,
+      "activation": 1739660085760,
       "lastcommand": 1739655080760
     },
     "78731079069742_1@s.whatsapp.net": {
@@ -2011,7 +2011,7 @@
       "lastBanned": 0
     },
     "6282245911655@s.whatsapp.net": {
-      "exp": 455,
+      "exp": 459,
       "limit": 500,
       "registered": false,
       "name": "TK02カルロス",
@@ -2030,7 +2030,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastcommand": 1739631497107,
-      "activation": 1739656409759,
+      "activation": 1739659740006,
       "lastBanned": 0
     },
     "989392950035@s.whatsapp.net": {
@@ -2874,10 +2874,10 @@
       "expired": 0,
       "total": {
         "6287815891598@s.whatsapp.net": 556,
-        "6285184060701@s.whatsapp.net": 3411,
+        "6285184060701@s.whatsapp.net": 3416,
         "6285920322323@s.whatsapp.net": 2668,
-        "6282245911655@s.whatsapp.net": 1439,
-        "6282132600838@s.whatsapp.net": 273
+        "6282245911655@s.whatsapp.net": 1493,
+        "6282132600838@s.whatsapp.net": 316
       },
       "totalChat": 0
     },
@@ -3295,7 +3295,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739657777310,
+      "backupDB": 1739659733766,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
