@@ -250,7 +250,7 @@
       "lastmonthly": 1739455703047,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1739648072591,
+      "activation": 1739651073064,
       "lastBanned": 0,
       "lastcommand": 1739630768598,
       "lastwork": 1739618006917
@@ -528,7 +528,7 @@
       "lastBanned": 0
     },
     "6283139449725@s.whatsapp.net": {
-      "exp": 128,
+      "exp": 144,
       "limit": 499,
       "registered": false,
       "name": "MR ALONEE",
@@ -546,7 +546,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739642608592,
+      "activation": 1739651016235,
       "lastBanned": 0
     },
     "6285864104187@s.whatsapp.net": {
@@ -2517,13 +2517,13 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "62882000858793@s.whatsapp.net": 703,
+        "62882000858793@s.whatsapp.net": 713,
         "6283832608337@s.whatsapp.net": 163,
         "6282130015691@s.whatsapp.net": 14,
         "6283861609202@s.whatsapp.net": 56,
         "62881023406390@s.whatsapp.net": 15,
-        "6283139449725@s.whatsapp.net": 16,
-        "6282295332881@s.whatsapp.net": 4
+        "6283139449725@s.whatsapp.net": 22,
+        "6282295332881@s.whatsapp.net": 10
       },
       "totalChat": 0
     },
@@ -3232,7 +3232,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739642561986,
+      "backupDB": 1739651014815,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
