@@ -250,7 +250,7 @@
       "lastmonthly": 1739455703047,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1739654075277,
+      "activation": 1739657076630,
       "lastBanned": 0,
       "lastcommand": 1739630768598,
       "lastwork": 1739618006917
@@ -1655,7 +1655,7 @@
       "lastBanned": 0
     },
     "6282132600838@s.whatsapp.net": {
-      "exp": 195,
+      "exp": 320,
       "limit": 499,
       "registered": false,
       "name": "💫⚡Hanifa⚡💫",
@@ -1674,8 +1674,8 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1739622948299,
-      "lastcommand": 1739615120657
+      "activation": 1739655888205,
+      "lastcommand": 1739655080760
     },
     "78731079069742_1@s.whatsapp.net": {
       "exp": 5,
@@ -1984,7 +1984,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1739634904004,
+      "activation": 1739655653116,
       "lastBanned": 0
     },
     "6285920322323@s.whatsapp.net": {
@@ -2011,7 +2011,7 @@
       "lastBanned": 0
     },
     "6282245911655@s.whatsapp.net": {
-      "exp": 272,
+      "exp": 455,
       "limit": 500,
       "registered": false,
       "name": "TK02カルロス",
@@ -2030,7 +2030,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastcommand": 1739631497107,
-      "activation": 1739633810876,
+      "activation": 1739656409759,
       "lastBanned": 0
     },
     "989392950035@s.whatsapp.net": {
@@ -2853,9 +2853,10 @@
       "expired": 0,
       "total": {
         "6287815891598@s.whatsapp.net": 556,
-        "6285184060701@s.whatsapp.net": 3050,
-        "6285920322323@s.whatsapp.net": 2452,
-        "6282245911655@s.whatsapp.net": 1145
+        "6285184060701@s.whatsapp.net": 3410,
+        "6285920322323@s.whatsapp.net": 2668,
+        "6282245911655@s.whatsapp.net": 1430,
+        "6282132600838@s.whatsapp.net": 265
       },
       "totalChat": 0
     },
@@ -3025,10 +3026,10 @@
       "lastSuccess": 1739635734498
     },
     "user-limit.js": {
-      "total": 6,
-      "success": 6,
-      "last": 1739630246252,
-      "lastSuccess": 1739630246252
+      "total": 8,
+      "success": 8,
+      "last": 1739655591966,
+      "lastSuccess": 1739655591966
     },
     "havefun-claim.js": {
       "total": 6,
@@ -3145,10 +3146,10 @@
       "lastSuccess": 1739615442549
     },
     "vn-salam.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1739543619856,
-      "lastSuccess": 1739543619856
+      "total": 3,
+      "success": 3,
+      "last": 1739655080763,
+      "lastSuccess": 1739655080763
     },
     "owner-kick.js": {
       "total": 5,
@@ -3272,7 +3273,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739652850188,
+      "backupDB": 1739654977750,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
