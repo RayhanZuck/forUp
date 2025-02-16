@@ -319,7 +319,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1739727133808,
+      "activation": 1739732489308,
       "lastBanned": 0,
       "lastcommand": 1739363024726
     },
@@ -5862,8 +5862,8 @@
       "lastBanned": 0
     },
     "62881011120164@s.whatsapp.net": {
-      "exp": 1540,
-      "limit": 249,
+      "exp": 1592,
+      "limit": 229,
       "registered": false,
       "name": "rijalsamsur78",
       "age": -1,
@@ -5880,7 +5880,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739708027808,
+      "activation": 1739728531055,
       "lastBanned": 0
     },
     "6283872010690@s.whatsapp.net": {
@@ -42818,10 +42818,10 @@
       "lastSuccess": 1739709842842
     },
     "user-limit.js": {
-      "total": 22,
-      "success": 22,
-      "last": 1739496259164,
-      "lastSuccess": 1739496259164
+      "total": 23,
+      "success": 23,
+      "last": 1739728531055,
+      "lastSuccess": 1739728531055
     },
     "info-dashboard.js": {
       "total": 3,
@@ -42878,10 +42878,10 @@
       "lastSuccess": 1739714339336
     },
     "downloader-tiktok.js": {
-      "total": 111,
-      "success": 98,
-      "last": 1739716283302,
-      "lastSuccess": 1739716283302
+      "total": 112,
+      "success": 99,
+      "last": 1739728416272,
+      "lastSuccess": 1739728416272
     },
     "tools-uptogh.js": {
       "total": 2,
@@ -43059,7 +43059,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739725882552,
+      "backupDB": 1739728408032,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
