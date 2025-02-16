@@ -319,7 +319,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1739732489308,
+      "activation": 1739741492796,
       "lastBanned": 0,
       "lastcommand": 1739363024726
     },
@@ -765,7 +765,7 @@
       "lastBanned": 0
     },
     "6283148471325@s.whatsapp.net": {
-      "exp": 5516,
+      "exp": 5521,
       "limit": 481,
       "registered": false,
       "name": "sok spongkeun",
@@ -783,7 +783,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739705402543,
+      "activation": 1739733777352,
       "lastBanned": 0,
       "lastcommand": 1739412298175
     },
@@ -1943,7 +1943,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "activation": 1739714220257,
       "lastBanned": 0
@@ -43059,7 +43059,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739728408032,
+      "backupDB": 1739733776579,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
