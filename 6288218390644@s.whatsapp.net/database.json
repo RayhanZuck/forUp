@@ -250,7 +250,7 @@
       "lastmonthly": 1739455703047,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1739692649452,
+      "activation": 1739695651187,
       "lastBanned": 0,
       "lastcommand": 1739683401681,
       "lastwork": 1739618006917
@@ -1117,7 +1117,7 @@
       "activation": 1739549773748
     },
     "120363280765137622@g.us": {
-      "exp": 108,
+      "exp": 110,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1135,7 +1135,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739694212589,
+      "activation": 1739695351930,
       "lastBanned": 0
     },
     "141691591860456_1@s.whatsapp.net": {
@@ -2012,7 +2012,7 @@
       "lastBanned": 0
     },
     "6282245911655@s.whatsapp.net": {
-      "exp": 2286,
+      "exp": 2287,
       "limit": 495,
       "registered": false,
       "name": "TK02カルロス",
@@ -2031,7 +2031,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastcommand": 1739689723845,
-      "activation": 1739689785933,
+      "activation": 1739695478702,
       "lastBanned": 0
     },
     "989392950035@s.whatsapp.net": {
@@ -3121,6 +3121,46 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0
+    },
+    "143628605378796_1@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1739694799770
+    },
+    "83657792442472_1@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1739695871492
     }
   },
   "chats": {
@@ -3783,16 +3823,16 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6287815891598@s.whatsapp.net": 4578,
+        "6287815891598@s.whatsapp.net": 4584,
         "6285184060701@s.whatsapp.net": 4902,
         "6285920322323@s.whatsapp.net": 4390,
-        "6282245911655@s.whatsapp.net": 8067,
-        "6282132600838@s.whatsapp.net": 2278,
+        "6282245911655@s.whatsapp.net": 8078,
+        "6282132600838@s.whatsapp.net": 2280,
         "6289520388471@s.whatsapp.net": 656,
         "6283823171371@s.whatsapp.net": 69,
         "6282131989332@s.whatsapp.net": 147,
-        "6285859122425@s.whatsapp.net": 1293,
-        "62895616270108@s.whatsapp.net": 459,
+        "6285859122425@s.whatsapp.net": 1300,
+        "62895616270108@s.whatsapp.net": 463,
         "6281211547010@s.whatsapp.net": 61
       },
       "totalChat": 0
@@ -4355,7 +4395,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739692622823,
+      "backupDB": 1739694799686,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
