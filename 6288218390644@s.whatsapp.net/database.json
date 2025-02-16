@@ -252,7 +252,7 @@
       "lastmonthly": 1739455703047,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1739716207635,
+      "activation": 1739718446184,
       "lastBanned": 0,
       "lastcommand": 1739703281971,
       "lastwork": 1739618006917
@@ -420,7 +420,7 @@
       "lastBanned": 0
     },
     "6285706405512@s.whatsapp.net": {
-      "exp": 279,
+      "exp": 282,
       "limit": 494,
       "registered": false,
       "name": "Opiks",
@@ -438,7 +438,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739715082174,
+      "activation": 1739718025340,
       "lastBanned": 0
     },
     "6281459056909@s.whatsapp.net": {
@@ -1450,7 +1450,7 @@
       "lastBanned": 0
     },
     "6287815891598@s.whatsapp.net": {
-      "exp": 2866,
+      "exp": 2903,
       "limit": 499,
       "registered": false,
       "name": "Siapa",
@@ -1468,7 +1468,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739716715194,
+      "activation": 1739718768980,
       "lastBanned": 0,
       "lastcommand": 1739706350655
     },
@@ -2015,7 +2015,7 @@
       "lastBanned": 0
     },
     "6282245911655@s.whatsapp.net": {
-      "exp": 2782,
+      "exp": 2807,
       "limit": 495,
       "registered": false,
       "name": "TK02カルロス",
@@ -2034,7 +2034,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastcommand": 1739708687757,
-      "activation": 1739716710083,
+      "activation": 1739719190462,
       "lastBanned": 0
     },
     "989392950035@s.whatsapp.net": {
@@ -4835,10 +4835,10 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6287815891598@s.whatsapp.net": 7249,
+        "6287815891598@s.whatsapp.net": 7319,
         "6285184060701@s.whatsapp.net": 4902,
         "6285920322323@s.whatsapp.net": 4510,
-        "6282245911655@s.whatsapp.net": 9984,
+        "6282245911655@s.whatsapp.net": 10068,
         "6282132600838@s.whatsapp.net": 6388,
         "6289520388471@s.whatsapp.net": 2733,
         "6283823171371@s.whatsapp.net": 149,
@@ -5543,7 +5543,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739715873343,
+      "backupDB": 1739717776258,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
