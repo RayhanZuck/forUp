@@ -252,7 +252,7 @@
       "lastmonthly": 1739455703047,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1739751461457,
+      "activation": 1739752529749,
       "lastBanned": 0,
       "lastcommand": 1739703281971,
       "lastwork": 1739618006917
@@ -530,7 +530,7 @@
       "lastBanned": 0
     },
     "6283139449725@s.whatsapp.net": {
-      "exp": 166,
+      "exp": 187,
       "limit": 499,
       "registered": false,
       "name": "MR ALONEE",
@@ -548,7 +548,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739708252558,
+      "activation": 1739752528988,
       "lastBanned": 0
     },
     "6285864104187@s.whatsapp.net": {
@@ -1120,7 +1120,7 @@
       "activation": 1739549773748
     },
     "120363280765137622@g.us": {
-      "exp": 221,
+      "exp": 227,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -1138,7 +1138,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739747833635,
+      "activation": 1739752363048,
       "lastBanned": 0
     },
     "141691591860456_1@s.whatsapp.net": {
@@ -4743,13 +4743,13 @@
       "expired": 0,
       "total": {
         "6282130015691@s.whatsapp.net": 642,
-        "62882000858793@s.whatsapp.net": 2805,
-        "62881023406390@s.whatsapp.net": 1099,
+        "62882000858793@s.whatsapp.net": 2807,
+        "62881023406390@s.whatsapp.net": 1100,
         "6282219071770@s.whatsapp.net": 746,
-        "6283139449725@s.whatsapp.net": 164,
+        "6283139449725@s.whatsapp.net": 165,
         "6285864104187@s.whatsapp.net": 512,
         "6288971804311@s.whatsapp.net": 267,
-        "62881023336266@s.whatsapp.net": 3121,
+        "62881023336266@s.whatsapp.net": 3124,
         "6289601958568@s.whatsapp.net": 219,
         "6283832608337@s.whatsapp.net": 1474,
         "6283861609202@s.whatsapp.net": 1145,
@@ -4757,7 +4757,7 @@
         "62881023783446@s.whatsapp.net": 39,
         "6285602710230@s.whatsapp.net": 284,
         "6289652944100@s.whatsapp.net": 261,
-        "6287812441644@s.whatsapp.net": 2194
+        "6287812441644@s.whatsapp.net": 2200
       },
       "totalChat": 0
     },
@@ -5478,9 +5478,9 @@
       "lastSuccess": 1739449418083
     },
     "sticker-all.js": {
-      "total": 166,
+      "total": 167,
       "success": 154,
-      "last": 1739750353543,
+      "last": 1739752528988,
       "lastSuccess": 1739750353543
     },
     "sticker-toimg.js": {
@@ -5845,7 +5845,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739749766259,
+      "backupDB": 1739752362629,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
