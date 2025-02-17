@@ -252,7 +252,7 @@
       "lastmonthly": 1739455703047,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1739772519084,
+      "activation": 1739774417127,
       "lastBanned": 0,
       "lastcommand": 1739703281971,
       "lastwork": 1739618006917
@@ -420,7 +420,7 @@
       "lastBanned": 0
     },
     "6285706405512@s.whatsapp.net": {
-      "exp": 315,
+      "exp": 330,
       "limit": 494,
       "registered": false,
       "name": "Opiks",
@@ -438,7 +438,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739769542366,
+      "activation": 1739774106127,
       "lastBanned": 0
     },
     "6281459056909@s.whatsapp.net": {
@@ -4626,6 +4626,88 @@
       "premiumTime": 0,
       "activation": 1739771440731,
       "lastBanned": 0
+    },
+    "47390954356961_1@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1739772980227
+    },
+    "6282198496600@s.whatsapp.net": {
+      "exp": 77,
+      "limit": 484,
+      "registered": false,
+      "name": "vfirz",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1739774416368,
+      "lastBanned": 0
+    },
+    "251298737873125_1@s.whatsapp.net": {
+      "exp": 7,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1739773759422
+    },
+    "218554376917191_1@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1739774188080
     }
   },
   "chats": {
@@ -5635,6 +5717,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6282198496600@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -5705,10 +5808,10 @@
       "lastSuccess": 1739449418083
     },
     "sticker-all.js": {
-      "total": 180,
-      "success": 165,
-      "last": 1739771470541,
-      "lastSuccess": 1739771470541
+      "total": 183,
+      "success": 168,
+      "last": 1739774416368,
+      "lastSuccess": 1739774416368
     },
     "sticker-toimg.js": {
       "total": 2,
@@ -6078,7 +6181,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739771035151,
+      "backupDB": 1739772979884,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
