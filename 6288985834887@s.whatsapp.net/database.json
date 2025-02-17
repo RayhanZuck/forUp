@@ -321,7 +321,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1739821889494,
+      "activation": 1739824892281,
       "lastBanned": 0,
       "lastcommand": 1739363024726
     },
@@ -41999,7 +41999,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "activation": 1739810306852,
       "lastBanned": 0
@@ -42170,6 +42170,28 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1739813144374
+    },
+    "62895384251701@s.whatsapp.net": {
+      "exp": 42,
+      "limit": 499,
+      "registered": false,
+      "name": "Call Me Arr~",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0,
+      "activation": 1739822226942
     }
   },
   "chats": {
@@ -43795,7 +43817,9 @@
       "game": true,
       "autolevelup": true,
       "expired": 1826117130674,
-      "total": {},
+      "total": {
+        "62895384251701@s.whatsapp.net": 7
+      },
       "totalChat": 0
     },
     "120363281368243636@g.us": {
@@ -44241,6 +44265,12 @@
       "success": 2,
       "last": 1739807263915,
       "lastSuccess": 1739807263915
+    },
+    "downloader-ytmp3.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1739822189246,
+      "lastSuccess": 0
     }
   },
   "msgs": {},
@@ -44268,7 +44298,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739819037259,
+      "backupDB": 1739822045687,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
