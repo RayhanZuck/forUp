@@ -321,12 +321,12 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1739913229118,
+      "activation": 1739916230986,
       "lastBanned": 0,
       "lastcommand": 1739363024726
     },
     "6282327165975@s.whatsapp.net": {
-      "exp": 14637,
+      "exp": 14639,
       "limit": 493,
       "registered": false,
       "name": "babi alas berkeliaran",
@@ -344,7 +344,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739909901414,
+      "activation": 1739913821037,
       "lastBanned": 0,
       "lastcommand": 1739842957483
     },
@@ -1070,7 +1070,7 @@
       "lastBanned": 0
     },
     "6288224157152@s.whatsapp.net": {
-      "exp": 3709,
+      "exp": 3712,
       "limit": 94,
       "registered": false,
       "name": "ꦣꦶꦪꦤ꧀ꦝꦼꦮ꦳ꦶꦄꦁꦒꦿꦻꦤꦶ",
@@ -1088,7 +1088,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739907867233,
+      "activation": 1739916082853,
       "lastBanned": 0,
       "lastcommand": 1739875603096
     },
@@ -38736,7 +38736,7 @@
       "lastBanned": 0
     },
     "6283116689459@s.whatsapp.net": {
-      "exp": 100,
+      "exp": 104,
       "limit": 499,
       "registered": false,
       "name": "nanaaaaww😈",
@@ -38754,7 +38754,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739893396326,
+      "activation": 1739916004014,
       "lastBanned": 0
     },
     "6283168794443@s.whatsapp.net": {
@@ -45032,6 +45032,26 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1739905414707
+    },
+    "172026694267116_1@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1739915986360
     }
   },
   "chats": {
@@ -45473,7 +45493,7 @@
         "6288980617349@s.whatsapp.net": 464,
         "6283129470177@s.whatsapp.net": 29,
         "6285604032383@s.whatsapp.net": 24,
-        "6283116689459@s.whatsapp.net": 261
+        "6283116689459@s.whatsapp.net": 263
       },
       "totalChat": 0,
       "antiSpam": true,
@@ -47297,7 +47317,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739909833076,
+      "backupDB": 1739913820420,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
