@@ -303,7 +303,7 @@
       "lastcommand": 1739849389660
     },
     "6288985834887@s.whatsapp.net": {
-      "exp": 115,
+      "exp": 165,
       "limit": 459,
       "registered": false,
       "name": "•×𝐁𝐮𝐦𝐚𝐧𝐭𝐚𝐫𝐚•",
@@ -321,12 +321,12 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1739994437497,
+      "activation": 1739997440835,
       "lastBanned": 0,
-      "lastcommand": 1739363024726
+      "lastcommand": 1739996817995
     },
     "6282327165975@s.whatsapp.net": {
-      "exp": 14807,
+      "exp": 14812,
       "limit": 493,
       "registered": false,
       "name": "babi alas berkeliaran",
@@ -344,7 +344,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739965644091,
+      "activation": 1739996471511,
       "lastBanned": 0,
       "lastcommand": 1739842957483
     },
@@ -27803,7 +27803,7 @@
       "lastBanned": 0
     },
     "6282339922441@s.whatsapp.net": {
-      "exp": 1288,
+      "exp": 1297,
       "limit": 499,
       "registered": false,
       "name": "NayakaBotz-Md",
@@ -27821,7 +27821,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739983426644,
+      "activation": 1739996823152,
       "lastBanned": 0
     },
     "6281229245612@s.whatsapp.net": {
@@ -30247,7 +30247,7 @@
       "lastBanned": 0
     },
     "6288983128844@s.whatsapp.net": {
-      "exp": 139,
+      "exp": 147,
       "limit": 499,
       "registered": false,
       "name": "manusia",
@@ -30265,7 +30265,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739946003132,
+      "activation": 1739996279269,
       "lastBanned": 0
     },
     "6282162725713@s.whatsapp.net": {
@@ -42070,7 +42070,7 @@
       "lastBanned": 0
     },
     "120363280765137622@g.us": {
-      "exp": 379,
+      "exp": 386,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -42088,7 +42088,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1739993961678,
+      "activation": 1739995999928,
       "lastBanned": 0
     },
     "6285847669239@s.whatsapp.net": {
@@ -46969,7 +46969,7 @@
         "6288224104817@s.whatsapp.net": 114,
         "6285835276841@s.whatsapp.net": 99,
         "6283179458669@s.whatsapp.net": 463,
-        "6282278945159@s.whatsapp.net": 494,
+        "6282278945159@s.whatsapp.net": 496,
         "628895911214@s.whatsapp.net": 206,
         "6283151252717@s.whatsapp.net": 167,
         "6285737672703@s.whatsapp.net": 19,
@@ -48223,10 +48223,10 @@
       "lastSuccess": 1739875635381
     },
     "_main-menu.js": {
-      "total": 31,
-      "success": 31,
-      "last": 1739987030576,
-      "lastSuccess": 1739987030576
+      "total": 32,
+      "success": 32,
+      "last": 1739996833795,
+      "lastSuccess": 1739996833795
     },
     "vn-bot.js": {
       "total": 9,
@@ -48608,7 +48608,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1739993960089,
+      "backupDB": 1739995999285,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
