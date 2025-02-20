@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1746369877911,
       "lastBanned": 0,
-      "activation": 1740078760389,
+      "activation": 1740081054971,
       "lastcommand": 1740047498016,
       "limitprem": 10000
     },
@@ -7951,7 +7951,7 @@
       "lastBanned": 0
     },
     "6283152490971@s.whatsapp.net": {
-      "exp": 44484,
+      "exp": 44578,
       "limit": 499,
       "registered": false,
       "name": "ig:gdbysdimzz_",
@@ -7969,7 +7969,7 @@
       "lastmonthly": 1740054012522,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740073051769,
+      "activation": 1740079046702,
       "lastBanned": 0,
       "lastcommand": 1740054327876
     },
@@ -13912,18 +13912,18 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6283152490971@s.whatsapp.net": 28440,
+        "6283152490971@s.whatsapp.net": 28687,
         "6282345570392@s.whatsapp.net": 6034,
-        "6289679133373@s.whatsapp.net": 2586,
+        "6289679133373@s.whatsapp.net": 2642,
         "6285794394237@s.whatsapp.net": 138,
-        "6282319232981@s.whatsapp.net": 16841,
+        "6282319232981@s.whatsapp.net": 16911,
         "6283129520288@s.whatsapp.net": 311,
-        "6283871557124@s.whatsapp.net": 4518,
+        "6283871557124@s.whatsapp.net": 4602,
         "62895341786394@s.whatsapp.net": 13495,
         "6282250209916@s.whatsapp.net": 5377,
         "6288980503787@s.whatsapp.net": 561,
-        "6283197116068@s.whatsapp.net": 966,
-        "6282121008528@s.whatsapp.net": 919,
+        "6283197116068@s.whatsapp.net": 1008,
+        "6282121008528@s.whatsapp.net": 933,
         "6289671881029@s.whatsapp.net": 33,
         "6288221099290@s.whatsapp.net": 27,
         "6288293619833@s.whatsapp.net": 709,
@@ -13936,7 +13936,7 @@
         "6285379307695@s.whatsapp.net": 486,
         "6283120293428@s.whatsapp.net": 382,
         "6285795220195@s.whatsapp.net": 96,
-        "6285183322438@s.whatsapp.net": 78
+        "6285183322438@s.whatsapp.net": 92
       },
       "totalChat": 0
     },
@@ -14733,7 +14733,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740075904527,
+      "backupDB": 1740078924045,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
