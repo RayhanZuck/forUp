@@ -320,7 +320,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1740208494546,
+      "activation": 1740210402774,
       "lastBanned": 0
     },
     "6287749678670@s.whatsapp.net": {
@@ -345,7 +345,7 @@
       "activation": 1740202156344
     },
     "62895339044041@s.whatsapp.net": {
-      "exp": 14,
+      "exp": 28,
       "limit": 499,
       "registered": false,
       "name": "1337XYRZ",
@@ -363,7 +363,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740202559361,
+      "activation": 1740209518146,
       "lastBanned": 0
     },
     "6282138444095@s.whatsapp.net": {
@@ -864,6 +864,48 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1740208432707
+    },
+    "6283872905399@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 499,
+      "registered": false,
+      "name": "el",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1740208866308
+    },
+    "6288226561349@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 499,
+      "registered": false,
+      "name": "Relvyx",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1740209012773
     }
   },
   "chats": {
@@ -944,7 +986,15 @@
       "teks": true,
       "autolevelup": true,
       "expired": 0,
-      "detekporn": true
+      "detekporn": true,
+      "total": {
+        "6282162161146@s.whatsapp.net": 9,
+        "6285756525188@s.whatsapp.net": 2,
+        "6283872905399@s.whatsapp.net": 2,
+        "62895339044041@s.whatsapp.net": 3,
+        "120363240711248334@g.us": 2
+      },
+      "totalChat": 0
     },
     "120363183420865643@g.us": {
       "isBanned": true,
@@ -1333,10 +1383,10 @@
       "lastSuccess": 1740204224414
     },
     "downloader-tiktok.js": {
-      "total": 4,
-      "success": 3,
-      "last": 1740204568110,
-      "lastSuccess": 1740204568110
+      "total": 5,
+      "success": 4,
+      "last": 1740208866308,
+      "lastSuccess": 1740208866308
     },
     "user-profile.js": {
       "total": 2,
@@ -1463,6 +1513,12 @@
       "success": 9,
       "last": 1740208487323,
       "lastSuccess": 1740208487323
+    },
+    "ai-remini.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1740209012773,
+      "lastSuccess": 1740209012773
     }
   },
   "msgs": {},
@@ -1490,7 +1546,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740206687337,
+      "backupDB": 1740208866270,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
