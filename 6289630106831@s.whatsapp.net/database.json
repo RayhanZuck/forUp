@@ -210,7 +210,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1740264988909,
+      "activation": 1740266676130,
       "lastcommand": 1740239231613
     },
     "6285722598442@s.whatsapp.net": {
@@ -259,7 +259,7 @@
       "lastBanned": 0
     },
     "6282185636037@s.whatsapp.net": {
-      "exp": 271,
+      "exp": 292,
       "limit": 359,
       "registered": false,
       "name": "?????",
@@ -277,7 +277,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740264988247,
+      "activation": 1740266675120,
       "lastBanned": 0,
       "lastcommand": 1740201423759
     },
@@ -657,7 +657,7 @@
       "activation": 1740205795292
     },
     "6285750225037@s.whatsapp.net": {
-      "exp": 537,
+      "exp": 553,
       "limit": 469,
       "registered": false,
       "name": "𝗔𝗭𝗞𝗔 𝗥𝗙 𝗗𝟱 𝗦𝗟𝗪",
@@ -676,7 +676,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastcommand": 1740235655848,
-      "activation": 1740264585119,
+      "activation": 1740266235494,
       "lastBanned": 0
     },
     "6283179785115@s.whatsapp.net": {
@@ -1283,7 +1283,7 @@
       "activation": 1740214594812
     },
     "62895324830981@s.whatsapp.net": {
-      "exp": 242,
+      "exp": 257,
       "limit": 364,
       "registered": false,
       "name": "anomali_slawi05",
@@ -1301,11 +1301,11 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740234710292,
+      "activation": 1740266657556,
       "lastBanned": 0
     },
     "6282328440821@s.whatsapp.net": {
-      "exp": 58,
+      "exp": 89,
       "limit": 499,
       "registered": false,
       "name": "ㅤ",
@@ -1323,7 +1323,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740233481772,
+      "activation": 1740266737726,
       "lastBanned": 0
     },
     "62895384106602@s.whatsapp.net": {
@@ -3474,6 +3474,26 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1740265218475
+    },
+    "274272719220874_1@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1740266107953
     }
   },
   "chats": {
@@ -3991,21 +4011,21 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285722598442@s.whatsapp.net": 2230,
+        "6285722598442@s.whatsapp.net": 2239,
         "62895619578363@s.whatsapp.net": 5042,
         "6288980194943@s.whatsapp.net": 95,
-        "6282327360391@s.whatsapp.net": 7763,
+        "6282327360391@s.whatsapp.net": 7799,
         "6282138444095@s.whatsapp.net": 3539,
-        "62895324830981@s.whatsapp.net": 510,
-        "6282328440821@s.whatsapp.net": 225,
-        "6285750225037@s.whatsapp.net": 1453,
-        "62895605379273@s.whatsapp.net": 101,
+        "62895324830981@s.whatsapp.net": 532,
+        "6282328440821@s.whatsapp.net": 232,
+        "6285750225037@s.whatsapp.net": 1477,
+        "62895605379273@s.whatsapp.net": 110,
         "6288906060009@s.whatsapp.net": 40,
         "6285141179740@s.whatsapp.net": 69,
         "628895472667@s.whatsapp.net": 329,
         "6288227965290@s.whatsapp.net": 41,
         "6287899775791@s.whatsapp.net": 1714,
-        "6287842822867@s.whatsapp.net": 6144,
+        "6287842822867@s.whatsapp.net": 6162,
         "6288220138716@s.whatsapp.net": 37,
         "6282220992504@s.whatsapp.net": 29,
         "62882008879526@s.whatsapp.net": 249,
@@ -4016,7 +4036,7 @@
         "6288215604129@s.whatsapp.net": 26,
         "62882007217347@s.whatsapp.net": 13,
         "6285864462347@s.whatsapp.net": 156,
-        "6285778538747@s.whatsapp.net": 763
+        "6285778538747@s.whatsapp.net": 799
       },
       "totalChat": 0,
       "antiSpam": true
@@ -4381,9 +4401,9 @@
       "lastSuccess": 1740216205023
     },
     "downloader-pinterest.js": {
-      "total": 10,
+      "total": 11,
       "success": 8,
-      "last": 1740237612803,
+      "last": 1740266675120,
       "lastSuccess": 1740237612803
     },
     "info-ping.js": {
@@ -4712,7 +4732,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740263422002,
+      "backupDB": 1740265266901,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
