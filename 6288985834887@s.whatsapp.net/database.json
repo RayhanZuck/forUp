@@ -28191,7 +28191,7 @@
       "lastBanned": 0
     },
     "6283119864491@s.whatsapp.net": {
-      "exp": 106,
+      "exp": 112,
       "limit": 499,
       "registered": false,
       "name": "dit mode sad🥀",
@@ -28209,7 +28209,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740309881622,
+      "activation": 1740333705068,
       "lastBanned": 0
     },
     "6285784851862@s.whatsapp.net": {
@@ -31203,7 +31203,7 @@
       "lastBanned": 0
     },
     "6282240279263@s.whatsapp.net": {
-      "exp": 398,
+      "exp": 406,
       "limit": 499,
       "registered": false,
       "name": "ʚɞ Ciww V.Your'gril\nʚɞ",
@@ -31221,7 +31221,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740331220824,
+      "activation": 1740332278106,
       "lastBanned": 0,
       "lastcommand": 1740059940720
     },
@@ -31514,7 +31514,7 @@
       "lastBanned": 0
     },
     "6282148056343@s.whatsapp.net": {
-      "exp": 51343,
+      "exp": 51356,
       "limit": 254,
       "registered": false,
       "name": "nela",
@@ -31533,7 +31533,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1740325799777,
+      "activation": 1740334011762,
       "lastcommand": 1739375154007
     },
     "6283849613391@s.whatsapp.net": {
@@ -51084,6 +51084,26 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1740327018284
+    },
+    "20126887874768_1@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1740333235046
     }
   },
   "chats": {
@@ -52114,7 +52134,8 @@
         "6281244297475@s.whatsapp.net": 2360,
         "6288271508740@s.whatsapp.net": 117,
         "6285972551172@s.whatsapp.net": 27,
-        "6285780079211@s.whatsapp.net": 57
+        "6285780079211@s.whatsapp.net": 57,
+        "6283119864491@s.whatsapp.net": 1
       },
       "totalChat": 0,
       "antiSpam": true
@@ -54001,7 +54022,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740329669569,
+      "backupDB": 1740332278006,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
