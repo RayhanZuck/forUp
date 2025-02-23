@@ -321,7 +321,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1740332013176,
+      "activation": 1740335014322,
       "lastBanned": 0,
       "lastcommand": 1739996817995
     },
@@ -29732,7 +29732,7 @@
       "lastBanned": 0
     },
     "628812413172@s.whatsapp.net": {
-      "exp": 123,
+      "exp": 139,
       "limit": 499,
       "registered": false,
       "name": "𝕽𝖆𝖋𝖑𝖎 𝖆.𝖓.𝖕",
@@ -29750,7 +29750,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740309885468,
+      "activation": 1740335159741,
       "lastBanned": 0
     },
     "628970360129@s.whatsapp.net": {
@@ -45427,8 +45427,8 @@
       "activation": 1739947972037
     },
     "628895319463@s.whatsapp.net": {
-      "exp": 54058,
-      "limit": 319,
+      "exp": 54104,
+      "limit": 279,
       "registered": false,
       "name": "Ban",
       "age": -1,
@@ -45445,7 +45445,7 @@
       "lastmonthly": 1740225569263,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740330893458,
+      "activation": 1740334668338,
       "lastBanned": 0,
       "lastcommand": 1740290150077
     },
@@ -51104,6 +51104,26 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1740333235046
+    },
+    "247738025410709_1@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1740336565694
     }
   },
   "chats": {
@@ -52135,7 +52155,8 @@
         "6288271508740@s.whatsapp.net": 117,
         "6285972551172@s.whatsapp.net": 27,
         "6285780079211@s.whatsapp.net": 57,
-        "6283119864491@s.whatsapp.net": 1
+        "6283119864491@s.whatsapp.net": 3,
+        "628812413172@s.whatsapp.net": 1
       },
       "totalChat": 0,
       "antiSpam": true
@@ -53673,10 +53694,10 @@
       "lastSuccess": 1740328178802
     },
     "downloader-tiktok.js": {
-      "total": 271,
-      "success": 235,
-      "last": 1740295509453,
-      "lastSuccess": 1740295509453
+      "total": 273,
+      "success": 237,
+      "last": 1740334668338,
+      "lastSuccess": 1740334668338
     },
     "tools-uptogh.js": {
       "total": 5,
@@ -54022,7 +54043,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740332278006,
+      "backupDB": 1740334510761,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
