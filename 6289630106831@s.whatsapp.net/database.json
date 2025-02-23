@@ -210,7 +210,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1740324825171,
+      "activation": 1740348836325,
       "lastcommand": 1740319705120
     },
     "6285722598442@s.whatsapp.net": {
@@ -237,7 +237,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 280,
+      "exp": 305,
       "limit": 499,
       "registered": false,
       "name": "Rayhan🍟",
@@ -255,9 +255,9 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740303848397,
+      "activation": 1740328894769,
       "lastBanned": 0,
-      "lastcommand": 1740303036102
+      "lastcommand": 1740328894093
     },
     "6282185636037@s.whatsapp.net": {
       "exp": 354,
@@ -1246,7 +1246,7 @@
       "lastBanned": 0
     },
     "6282327360391@s.whatsapp.net": {
-      "exp": 54900,
+      "exp": 54903,
       "limit": 334,
       "registered": false,
       "name": "~拉馬達尼",
@@ -1264,7 +1264,7 @@
       "lastmonthly": 1740237445735,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740324161754,
+      "activation": 1740327381156,
       "lastBanned": 0
     },
     "6283116050928@s.whatsapp.net": {
@@ -5381,9 +5381,9 @@
       "expired": 0,
       "total": {
         "6285722598442@s.whatsapp.net": 4764,
-        "62895619578363@s.whatsapp.net": 8209,
+        "62895619578363@s.whatsapp.net": 8220,
         "6288980194943@s.whatsapp.net": 365,
-        "6282327360391@s.whatsapp.net": 13613,
+        "6282327360391@s.whatsapp.net": 13626,
         "6282138444095@s.whatsapp.net": 7133,
         "62895324830981@s.whatsapp.net": 1344,
         "6282328440821@s.whatsapp.net": 1470,
@@ -5394,7 +5394,7 @@
         "628895472667@s.whatsapp.net": 357,
         "6288227965290@s.whatsapp.net": 381,
         "6287899775791@s.whatsapp.net": 2969,
-        "6287842822867@s.whatsapp.net": 11291,
+        "6287842822867@s.whatsapp.net": 11292,
         "6288220138716@s.whatsapp.net": 37,
         "6282220992504@s.whatsapp.net": 53,
         "62882008879526@s.whatsapp.net": 314,
@@ -5966,10 +5966,10 @@
       "lastSuccess": 1740237612803
     },
     "info-ping.js": {
-      "total": 109,
-      "success": 109,
-      "last": 1740319706611,
-      "lastSuccess": 1740319706611
+      "total": 110,
+      "success": 110,
+      "last": 1740328894769,
+      "lastSuccess": 1740328894769
     },
     "group-delete.js": {
       "total": 61,
@@ -6405,7 +6405,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740323266412,
+      "backupDB": 1740327380954,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
