@@ -210,7 +210,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1740411091728,
+      "activation": 1740430856293,
       "lastcommand": 1740403874056
     },
     "6285722598442@s.whatsapp.net": {
@@ -237,7 +237,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 326,
+      "exp": 351,
       "limit": 499,
       "registered": false,
       "name": "Rayhan🍟",
@@ -255,7 +255,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740394035550,
+      "activation": 1740413751541,
       "lastBanned": 0,
       "lastcommand": 1740328894093
     },
@@ -6563,6 +6563,12 @@
       "success": 2,
       "last": 1740408973513,
       "lastSuccess": 1740408973513
+    },
+    "tools-uptogh.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1740413751541,
+      "lastSuccess": 1740413751541
     }
   },
   "msgs": {},
@@ -6590,7 +6596,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740410708196,
+      "backupDB": 1740413751481,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
