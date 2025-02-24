@@ -210,11 +210,11 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1740351837865,
+      "activation": 1740357537395,
       "lastcommand": 1740319705120
     },
     "6285722598442@s.whatsapp.net": {
-      "exp": 60297,
+      "exp": 60347,
       "limit": 483,
       "registered": false,
       "name": "Lamzz",
@@ -232,8 +232,8 @@
       "lastmonthly": 1740232094080,
       "premium": true,
       "premiumTime": 0,
-      "lastcommand": 1740315568888,
-      "activation": 1740321215648,
+      "lastcommand": 1740355820660,
+      "activation": 1740357538294,
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
@@ -1462,7 +1462,7 @@
       "lastBanned": 0
     },
     "62895605379273@s.whatsapp.net": {
-      "exp": 53,
+      "exp": 58,
       "limit": 499,
       "registered": false,
       "name": "Lina",
@@ -1480,7 +1480,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740301371532,
+      "activation": 1740356076047,
       "lastBanned": 0
     },
     "6285123862197@s.whatsapp.net": {
@@ -2572,7 +2572,7 @@
       "lastBanned": 0
     },
     "6285713270212@s.whatsapp.net": {
-      "exp": 933,
+      "exp": 939,
       "limit": 399,
       "registered": false,
       "name": "_AHMD_8348_",
@@ -2590,7 +2590,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740307685454,
+      "activation": 1740357387186,
       "lastBanned": 0
     },
     "6282213576013@s.whatsapp.net": {
@@ -2983,7 +2983,7 @@
       "lastBanned": 0
     },
     "6285864462347@s.whatsapp.net": {
-      "exp": 127,
+      "exp": 143,
       "limit": 439,
       "registered": false,
       "name": "OWNER SKAIDD",
@@ -3001,7 +3001,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740353116659,
+      "activation": 1740357043362,
       "lastBanned": 0
     },
     "5216727513252@s.whatsapp.net": {
@@ -5380,15 +5380,15 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285722598442@s.whatsapp.net": 4764,
+        "6285722598442@s.whatsapp.net": 4769,
         "62895619578363@s.whatsapp.net": 8396,
-        "6288980194943@s.whatsapp.net": 414,
+        "6288980194943@s.whatsapp.net": 449,
         "6282327360391@s.whatsapp.net": 13834,
         "6282138444095@s.whatsapp.net": 7147,
-        "62895324830981@s.whatsapp.net": 1362,
+        "62895324830981@s.whatsapp.net": 1372,
         "6282328440821@s.whatsapp.net": 1470,
-        "6285750225037@s.whatsapp.net": 2899,
-        "62895605379273@s.whatsapp.net": 209,
+        "6285750225037@s.whatsapp.net": 2919,
+        "62895605379273@s.whatsapp.net": 213,
         "6288906060009@s.whatsapp.net": 94,
         "6285141179740@s.whatsapp.net": 615,
         "628895472667@s.whatsapp.net": 357,
@@ -5400,11 +5400,11 @@
         "62882008879526@s.whatsapp.net": 314,
         "6285712081351@s.whatsapp.net": 841,
         "6282328251551@s.whatsapp.net": 1460,
-        "6285713270212@s.whatsapp.net": 2128,
+        "6285713270212@s.whatsapp.net": 2132,
         "6285786215136@s.whatsapp.net": 101,
         "6288215604129@s.whatsapp.net": 26,
         "62882007217347@s.whatsapp.net": 173,
-        "6285864462347@s.whatsapp.net": 187,
+        "6285864462347@s.whatsapp.net": 198,
         "6285778538747@s.whatsapp.net": 1173,
         "6282324428966@s.whatsapp.net": 272,
         "6285290633367@s.whatsapp.net": 86,
@@ -5966,10 +5966,10 @@
       "lastSuccess": 1740237612803
     },
     "info-ping.js": {
-      "total": 110,
-      "success": 110,
-      "last": 1740328894769,
-      "lastSuccess": 1740328894769
+      "total": 111,
+      "success": 111,
+      "last": 1740355822910,
+      "lastSuccess": 1740355822910
     },
     "group-delete.js": {
       "total": 61,
@@ -6056,10 +6056,10 @@
       "lastSuccess": 1740315355159
     },
     "havefun-claim.js": {
-      "total": 39,
-      "success": 39,
-      "last": 1740350694752,
-      "lastSuccess": 1740350694752
+      "total": 40,
+      "success": 40,
+      "last": 1740357537311,
+      "lastSuccess": 1740357537311
     },
     "downloader-yt2.js": {
       "total": 7,
@@ -6405,7 +6405,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740353077555,
+      "backupDB": 1740355820568,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
