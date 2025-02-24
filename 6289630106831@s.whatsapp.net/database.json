@@ -210,7 +210,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1740374764044,
+      "activation": 1740377732421,
       "lastcommand": 1740319705120
     },
     "6285722598442@s.whatsapp.net": {
@@ -1593,8 +1593,8 @@
       "lastBanned": 0
     },
     "6283120980311@s.whatsapp.net": {
-      "exp": 194,
-      "limit": 444,
+      "exp": 214,
+      "limit": 434,
       "registered": false,
       "name": ":",
       "age": -1,
@@ -1611,7 +1611,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740294166299,
+      "activation": 1740375961663,
       "lastBanned": 0
     },
     "6285141179740@s.whatsapp.net": {
@@ -1750,7 +1750,7 @@
       "lastBanned": 0
     },
     "6285863957994@s.whatsapp.net": {
-      "exp": 445,
+      "exp": 525,
       "limit": 474,
       "registered": false,
       "name": "Ferdi RF Daop 2 Awp Area",
@@ -1768,9 +1768,9 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740312273701,
+      "activation": 1740377614155,
       "lastBanned": 0,
-      "lastcommand": 1740312273701
+      "lastcommand": 1740377549639
     },
     "6285855197353@s.whatsapp.net": {
       "exp": 9,
@@ -1817,8 +1817,8 @@
       "lastBanned": 0
     },
     "6281220274234@s.whatsapp.net": {
-      "exp": 1201,
-      "limit": 274,
+      "exp": 1282,
+      "limit": 224,
       "registered": false,
       "name": "Azrael (Astro Idk)",
       "age": -1,
@@ -1835,7 +1835,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740374523501,
+      "activation": 1740377732002,
       "lastBanned": 0,
       "lastcommand": 1740374494597
     },
@@ -5204,7 +5204,7 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285722598442@s.whatsapp.net": 6246,
+        "6285722598442@s.whatsapp.net": 6498,
         "6281914216565@s.whatsapp.net": 369,
         "6285294909261@s.whatsapp.net": 22,
         "6287817507985@s.whatsapp.net": 345,
@@ -5214,13 +5214,13 @@
         "62882001126427@s.whatsapp.net": 329,
         "6282126113544@s.whatsapp.net": 1291,
         "6281393425246@s.whatsapp.net": 87,
-        "6281220274234@s.whatsapp.net": 1825,
-        "6283120980311@s.whatsapp.net": 366,
+        "6281220274234@s.whatsapp.net": 1912,
+        "6283120980311@s.whatsapp.net": 378,
         "628872427930@s.whatsapp.net": 486,
-        "6285863957994@s.whatsapp.net": 454,
-        "6281259408705@s.whatsapp.net": 563,
+        "6285863957994@s.whatsapp.net": 509,
+        "6281259408705@s.whatsapp.net": 575,
         "6285720101691@s.whatsapp.net": 334,
-        "6285183703510@s.whatsapp.net": 13
+        "6285183703510@s.whatsapp.net": 25
       },
       "totalChat": 0,
       "antiSpam": true,
@@ -5945,10 +5945,10 @@
       "lastSuccess": 1740321214796
     },
     "_main-allmenu.js": {
-      "total": 26,
-      "success": 26,
-      "last": 1740316093870,
-      "lastSuccess": 1740316093870
+      "total": 27,
+      "success": 27,
+      "last": 1740377461693,
+      "lastSuccess": 1740377461693
     },
     "downloader-tiktok.js": {
       "total": 25,
@@ -6029,10 +6029,10 @@
       "lastSuccess": 1740236142089
     },
     "_cek.js": {
-      "total": 32,
-      "success": 32,
-      "last": 1740315569331,
-      "lastSuccess": 1740315569331
+      "total": 33,
+      "success": 33,
+      "last": 1740377550142,
+      "lastSuccess": 1740377550142
     },
     "user-balance.js": {
       "total": 4,
@@ -6113,10 +6113,10 @@
       "lastSuccess": 1740291341266
     },
     "sticker-quotely.js": {
-      "total": 99,
-      "success": 99,
-      "last": 1740316560958,
-      "lastSuccess": 1740316560958
+      "total": 101,
+      "success": 101,
+      "last": 1740377554072,
+      "lastSuccess": 1740377554072
     },
     "downloader-ytmp3.js": {
       "total": 2,
@@ -6441,6 +6441,18 @@
       "success": 2,
       "last": 1740361781242,
       "lastSuccess": 1740361781242
+    },
+    "havefun-pasangan.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1740377538315,
+      "lastSuccess": 1740377538315
+    },
+    "sticker-search.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1740377732002,
+      "lastSuccess": 1740377732002
     }
   },
   "msgs": {},
@@ -6468,7 +6480,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740373965655,
+      "backupDB": 1740375959549,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
