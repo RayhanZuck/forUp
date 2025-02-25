@@ -210,7 +210,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1740512660538,
+      "activation": 1740514003032,
       "lastBanned": 0,
       "lastcommand": 1740305736255
     },
@@ -12105,8 +12105,8 @@
       "lastBanned": 0
     },
     "919863871445@s.whatsapp.net": {
-      "exp": 50191,
-      "limit": 904,
+      "exp": 50289,
+      "limit": 854,
       "registered": false,
       "name": "+91 98638 71445",
       "age": -1,
@@ -12123,7 +12123,7 @@
       "lastmonthly": 1740406751590,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740484451229,
+      "activation": 1740514002767,
       "lastBanned": 0
     },
     "6283865267257@s.whatsapp.net": {
@@ -30501,10 +30501,10 @@
       "lastSuccess": 1716040986605
     },
     "sticker-sticker.js": {
-      "total": 23,
-      "success": 23,
-      "last": 1740510115575,
-      "lastSuccess": 1740510115575
+      "total": 24,
+      "success": 24,
+      "last": 1740514002767,
+      "lastSuccess": 1740514002767
     },
     "owner-getdb.js": {
       "total": 2,
@@ -30753,10 +30753,10 @@
       "lastSuccess": 1740503687665
     },
     "ai-remini.js": {
-      "total": 37,
-      "success": 36,
-      "last": 1740454942470,
-      "lastSuccess": 1740454942470
+      "total": 39,
+      "success": 38,
+      "last": 1740514000142,
+      "lastSuccess": 1740514000142
     },
     "owner-pushkontak.js": {
       "total": 3,
@@ -30813,10 +30813,10 @@
       "lastSuccess": 1740494224528
     },
     "havefun-claim.js": {
-      "total": 38,
-      "success": 38,
-      "last": 1740496561402,
-      "lastSuccess": 1740496561402
+      "total": 39,
+      "success": 39,
+      "last": 1740513957459,
+      "lastSuccess": 1740513957459
     },
     "sticker-tovideo.js": {
       "total": 6,
@@ -31006,7 +31006,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740512039628,
+      "backupDB": 1740513938056,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
