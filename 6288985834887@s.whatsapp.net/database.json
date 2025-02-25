@@ -321,7 +321,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1740516055074,
+      "activation": 1740519056495,
       "lastBanned": 0,
       "lastcommand": 1739996817995
     },
@@ -1087,7 +1087,7 @@
       "WarnReason": "",
       "lastweekly": 1740060632521,
       "lastmonthly": 1740060632521,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "activation": 1740492090653,
       "lastBanned": 0,
@@ -34713,8 +34713,8 @@
       "activation": 1739362894310
     },
     "6289660962424@s.whatsapp.net": {
-      "exp": 118,
-      "limit": 499,
+      "exp": 205,
+      "limit": 494,
       "registered": false,
       "name": "piwpiww",
       "age": -1,
@@ -34732,7 +34732,8 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1740506595399
+      "activation": 1740516558698,
+      "lastcommand": 1740516389071
     },
     "6281553548624@s.whatsapp.net": {
       "exp": 465,
@@ -54480,6 +54481,26 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1740508888935
+    },
+    "266301511602259_1@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1740518060728
     }
   },
   "chats": {
@@ -57038,7 +57059,9 @@
       "game": true,
       "autolevelup": true,
       "expired": 0,
-      "total": {},
+      "total": {
+        "6289660962424@s.whatsapp.net": 20
+      },
       "totalChat": 0
     }
   },
@@ -57104,16 +57127,16 @@
       "lastSuccess": 1740492009152
     },
     "_main-allmenu.js": {
-      "total": 11,
-      "success": 11,
-      "last": 1740474955161,
-      "lastSuccess": 1740474955161
+      "total": 12,
+      "success": 12,
+      "last": 1740516404132,
+      "lastSuccess": 1740516404132
     },
     "_main-menu.js": {
-      "total": 39,
-      "success": 39,
-      "last": 1740472991101,
-      "lastSuccess": 1740472991101
+      "total": 40,
+      "success": 40,
+      "last": 1740516294889,
+      "lastSuccess": 1740516294889
     },
     "vn-bot.js": {
       "total": 13,
@@ -57446,10 +57469,10 @@
       "lastSuccess": 1739917369509
     },
     "sticker-bratgif.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1739978905649,
-      "lastSuccess": 1739978905649
+      "total": 3,
+      "success": 3,
+      "last": 1740516538775,
+      "lastSuccess": 1740516538775
     },
     "info-tutorial.js": {
       "total": 2,
@@ -57591,7 +57614,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740508434226,
+      "backupDB": 1740516214050,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
