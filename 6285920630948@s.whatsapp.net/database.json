@@ -206,7 +206,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1740542177449,
+      "activation": 1740549687545,
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
@@ -232,7 +232,7 @@
       "activation": 1740541429317
     },
     "6282274349399@s.whatsapp.net": {
-      "exp": 115,
+      "exp": 459,
       "limit": 499,
       "registered": false,
       "name": "A",
@@ -250,12 +250,12 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "lastcommand": 1740541943349,
-      "activation": 1740542177420,
+      "lastcommand": 1740549627449,
+      "activation": 1740549677625,
       "lastBanned": 0
     },
     "6285359601996@s.whatsapp.net": {
-      "exp": 12,
+      "exp": 33,
       "limit": 499,
       "registered": false,
       "name": "♥️My Hanny♥️",
@@ -273,8 +273,71 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740542260336,
+      "activation": 1740549327131,
       "lastBanned": 0
+    },
+    "6283139889825@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 499,
+      "registered": false,
+      "name": "Inggri Anisyah",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1740548626991
+    },
+    "6287853720118@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "name": "Moza",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1740549084869
+    },
+    "6283846150378@s.whatsapp.net": {
+      "exp": 18,
+      "limit": 479,
+      "registered": false,
+      "name": "Nomair💫",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1740549528903
     }
   },
   "chats": {
@@ -497,9 +560,33 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285359601996@s.whatsapp.net": 3
+        "6285359601996@s.whatsapp.net": 49,
+        "6283139889825@s.whatsapp.net": 7,
+        "6282274349399@s.whatsapp.net": 21,
+        "6287853720118@s.whatsapp.net": 2
       },
       "totalChat": 0
+    },
+    "6283846150378@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -552,22 +639,82 @@
       "lastSuccess": 1716041091953
     },
     "_main-allmenu.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1740541948170,
-      "lastSuccess": 1740541948170
+      "total": 5,
+      "success": 5,
+      "last": 1740548964414,
+      "lastSuccess": 1740548964414
     },
     "_shortcut.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1740542044666,
-      "lastSuccess": 1740542044666
+      "total": 3,
+      "success": 3,
+      "last": 1740548901678,
+      "lastSuccess": 1740548901678
     },
     "maker-ephoto.js": {
       "total": 4,
       "success": 4,
       "last": 1740542177420,
       "lastSuccess": 1740542177420
+    },
+    "sticker-bratgif.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1740548745892,
+      "lastSuccess": 1740548745892
+    },
+    "user-limit.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1740548763812,
+      "lastSuccess": 1740548763812
+    },
+    "user-balanceme.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1740548809727,
+      "lastSuccess": 1740548809727
+    },
+    "game-asahotak.js": {
+      "total": 3,
+      "success": 2,
+      "last": 1740548930743,
+      "lastSuccess": 1740548916667
+    },
+    "tag-joingc.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1740548946456,
+      "lastSuccess": 1740548946456
+    },
+    "ai-toanime.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1740549112405,
+      "lastSuccess": 1740549112405
+    },
+    "havefun-roket.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1740549164211,
+      "lastSuccess": 1740549164211
+    },
+    "downloader-tiktok.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1740549528903,
+      "lastSuccess": 1740549528903
+    },
+    "fun-kapankah.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1740549389521,
+      "lastSuccess": 1740549389521
+    },
+    "fun-cek.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1740549627449,
+      "lastSuccess": 1740549627449
     }
   },
   "msgs": {},
@@ -595,7 +742,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740541423593,
+      "backupDB": 1740548072695,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
