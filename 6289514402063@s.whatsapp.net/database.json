@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 95098,
+      "exp": 95128,
       "limit": 1199,
       "registered": false,
       "name": "Yagamii",
@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1751035477911,
       "lastBanned": 0,
-      "activation": 1740600674422,
+      "activation": 1740604353642,
       "lastcommand": 1740574092261,
       "limitprem": 10000
     },
@@ -2284,7 +2284,7 @@
       "activation": 1739287858239
     },
     "6282129589781@s.whatsapp.net": {
-      "exp": 223,
+      "exp": 230,
       "limit": 499,
       "registered": false,
       "name": "reva fidela🏡",
@@ -2303,7 +2303,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1740550059619
+      "activation": 1740602974737
     },
     "6282295507717@s.whatsapp.net": {
       "exp": 84,
@@ -22189,10 +22189,10 @@
       "lastSuccess": 1740564888858
     },
     "ai-remini.js": {
-      "total": 259,
-      "success": 252,
-      "last": 1740582915112,
-      "lastSuccess": 1740582915112
+      "total": 260,
+      "success": 253,
+      "last": 1740603556480,
+      "lastSuccess": 1740603556480
     },
     "user-balance.js": {
       "total": 7,
@@ -22790,7 +22790,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740600007209,
+      "backupDB": 1740602973853,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
