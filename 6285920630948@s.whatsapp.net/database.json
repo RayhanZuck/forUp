@@ -206,7 +206,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1740549687545,
+      "activation": 1740572362876,
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
@@ -233,7 +233,7 @@
       "lastBanned": 0
     },
     "6282274349399@s.whatsapp.net": {
-      "exp": 459,
+      "exp": 503,
       "limit": 499,
       "registered": false,
       "name": "A",
@@ -252,7 +252,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastcommand": 1740549627449,
-      "activation": 1740549677625,
+      "activation": 1740572362781,
       "lastBanned": 0
     },
     "6285359601996@s.whatsapp.net": {
@@ -320,7 +320,7 @@
       "activation": 1740549084869
     },
     "6283846150378@s.whatsapp.net": {
-      "exp": 18,
+      "exp": 20,
       "limit": 479,
       "registered": false,
       "name": "Nomair💫",
@@ -338,7 +338,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740549528903
+      "activation": 1740571387788,
+      "lastBanned": 0
     },
     "6282341462021@s.whatsapp.net": {
       "exp": 6,
@@ -738,6 +739,18 @@
       "success": 2,
       "last": 1740549627449,
       "lastSuccess": 1740549627449
+    },
+    "internet-chord.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1740572322183,
+      "lastSuccess": 1740572322183
+    },
+    "tools-lyrics.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1740572362781,
+      "lastSuccess": 1740572362781
     }
   },
   "msgs": {},
@@ -765,7 +778,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740557680630,
+      "backupDB": 1740571387681,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
