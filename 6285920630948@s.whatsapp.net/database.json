@@ -210,7 +210,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 26,
+      "exp": 31,
       "limit": 499,
       "registered": false,
       "name": "Rayhan🍟",
@@ -226,10 +226,11 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastcommand": 1740541423700,
-      "activation": 1740541429317
+      "activation": 1740551919838,
+      "lastBanned": 0
     },
     "6282274349399@s.whatsapp.net": {
       "exp": 459,
@@ -338,6 +339,27 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1740549528903
+    },
+    "6282341462021@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 499,
+      "registered": false,
+      "name": "Papi Chuloo",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1740551659233
     }
   },
   "chats": {
@@ -495,7 +517,8 @@
       "game": true,
       "teks": true,
       "autolevelup": true,
-      "expired": 0
+      "expired": 0,
+      "detekporn": true
     },
     "6285766064200@s.whatsapp.net": {
       "isBanned": false,
@@ -742,7 +765,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740548072695,
+      "backupDB": 1740551659123,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
