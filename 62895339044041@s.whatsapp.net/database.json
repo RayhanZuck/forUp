@@ -39,9 +39,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1740600062203,
+      "activation": 1740603187151,
       "lastBanned": 0,
       "lastcommand": 1740591466977
     },
@@ -4861,7 +4861,7 @@
       "lastBanned": 0
     },
     "6281299925108@s.whatsapp.net": {
-      "exp": 183,
+      "exp": 187,
       "limit": 499,
       "registered": false,
       "name": "KHFF⚡",
@@ -4879,7 +4879,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740601018213,
+      "activation": 1740601744508,
       "lastBanned": 0
     },
     "6282141789992@s.whatsapp.net": {
@@ -5051,7 +5051,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
       "activation": 1740595479612
@@ -9646,6 +9646,47 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1740595875025
+    },
+    "62895601098371@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 895-6010-98371",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1740603188123
+    },
+    "248056389828668@lid": {
+      "exp": 8,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1740603188620
     }
   },
   "chats": {
@@ -10387,9 +10428,9 @@
         "6287770441241@s.whatsapp.net": 1,
         "6285194213963@s.whatsapp.net": 3,
         "6281376771002@s.whatsapp.net": 2,
-        "6285148384605@s.whatsapp.net": 9,
-        "62895405174635@s.whatsapp.net": 7,
-        "6285123862197@s.whatsapp.net": 5
+        "6285148384605@s.whatsapp.net": 10,
+        "62895405174635@s.whatsapp.net": 8,
+        "6285123862197@s.whatsapp.net": 6
       },
       "totalChat": 0
     },
@@ -12475,7 +12516,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740599441157,
+      "backupDB": 1740601744083,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
