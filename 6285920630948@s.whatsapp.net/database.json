@@ -342,7 +342,7 @@
       "lastBanned": 0
     },
     "6282341462021@s.whatsapp.net": {
-      "exp": 9,
+      "exp": 19,
       "limit": 499,
       "registered": false,
       "name": "Papi Chuloo",
@@ -360,7 +360,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740573860565,
+      "activation": 1740578823461,
       "lastBanned": 0
     }
   },
@@ -779,7 +779,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740573860459,
+      "backupDB": 1740578823366,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
