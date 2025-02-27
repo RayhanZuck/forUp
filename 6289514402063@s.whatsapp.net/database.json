@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 98226,
+      "exp": 98229,
       "limit": 1199,
       "registered": false,
       "name": "Yagamii",
@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1751035477911,
       "lastBanned": 0,
-      "activation": 1740682855810,
+      "activation": 1740684878977,
       "lastcommand": 1740660689174,
       "limitprem": 10000
     },
@@ -348,7 +348,7 @@
       "lastBanned": 0
     },
     "6282128611759@s.whatsapp.net": {
-      "exp": 2004,
+      "exp": 2029,
       "limit": 319,
       "registered": true,
       "name": "dean",
@@ -366,7 +366,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740672338484,
+      "activation": 1740685850837,
       "lastBanned": 0,
       "lastcommand": 1740475776921
     },
@@ -23727,7 +23727,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740682319475,
+      "backupDB": 1740684875026,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
