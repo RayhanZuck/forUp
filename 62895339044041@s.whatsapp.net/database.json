@@ -23,7 +23,7 @@
       "activation": 1739473849303
     },
     "62895339044041@s.whatsapp.net": {
-      "exp": 9653,
+      "exp": 9660,
       "limit": 499,
       "registered": false,
       "name": "1337XYRZ",
@@ -41,7 +41,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740685368913,
+      "activation": 1740688930323,
       "lastBanned": 0,
       "lastcommand": 1740656755456
     },
@@ -839,7 +839,7 @@
       "lastBanned": 0
     },
     "6281298983599@s.whatsapp.net": {
-      "exp": 79,
+      "exp": 90,
       "limit": 499,
       "registered": false,
       "name": "Arsyad",
@@ -857,7 +857,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740665990394,
+      "activation": 1740689891431,
       "lastBanned": 0
     },
     "210857459982378@s.whatsapp.net": {
@@ -5667,7 +5667,7 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
       "activation": 1740677089734
@@ -6963,7 +6963,7 @@
       "lastBanned": 0
     },
     "6285773841151@s.whatsapp.net": {
-      "exp": 37,
+      "exp": 53,
       "limit": 499,
       "registered": false,
       "name": "~ ~Raffi",
@@ -6981,7 +6981,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740664947669,
+      "activation": 1740688928516,
       "lastBanned": 0
     },
     "6287810352200@s.whatsapp.net": {
@@ -15161,7 +15161,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740684462351,
+      "backupDB": 1740688921316,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
