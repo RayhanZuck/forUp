@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1751035477911,
       "lastBanned": 0,
-      "activation": 1740672819694,
+      "activation": 1740673535154,
       "lastcommand": 1740660689174,
       "limitprem": 10000
     },
@@ -2328,8 +2328,8 @@
       "lastBanned": 0
     },
     "6282148056343@s.whatsapp.net": {
-      "exp": 52021,
-      "limit": 159,
+      "exp": 52043,
+      "limit": 139,
       "registered": false,
       "name": "nela",
       "age": -1,
@@ -2346,7 +2346,7 @@
       "lastmonthly": 1740118719945,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740661271596,
+      "activation": 1740673055224,
       "lastBanned": 0,
       "lastcommand": 1739351288680
     },
@@ -18521,8 +18521,8 @@
       "activation": 1740638840661
     },
     "6285752273978@s.whatsapp.net": {
-      "exp": 185,
-      "limit": 364,
+      "exp": 262,
+      "limit": 339,
       "registered": false,
       "name": "padil nak berak",
       "age": -1,
@@ -18540,7 +18540,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1740663551244,
+      "activation": 1740673534790,
       "lastcommand": 1740552220142
     },
     "6285138631458@s.whatsapp.net": {
@@ -23049,10 +23049,10 @@
       "lastSuccess": 1740661947959
     },
     "downloader-tiktok.js": {
-      "total": 205,
-      "success": 180,
-      "last": 1740672324551,
-      "lastSuccess": 1740667253226
+      "total": 206,
+      "success": 181,
+      "last": 1740673055224,
+      "lastSuccess": 1740673055224
     },
     "group-delete.js": {
       "total": 37,
@@ -23223,10 +23223,10 @@
       "lastSuccess": 1739229040049
     },
     "sticker-bratgif.js": {
-      "total": 18,
-      "success": 18,
-      "last": 1740313355536,
-      "lastSuccess": 1740313355536
+      "total": 19,
+      "success": 19,
+      "last": 1740673520463,
+      "lastSuccess": 1740673520463
     },
     "owner-gp.js": {
       "total": 9,
@@ -23535,10 +23535,10 @@
       "lastSuccess": 0
     },
     "sticker-tovideo.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1740316143365,
-      "lastSuccess": 1740316143365
+      "total": 4,
+      "success": 4,
+      "last": 1740673534790,
+      "lastSuccess": 1740673534790
     },
     "info-totalfitur.js": {
       "total": 2,
@@ -23656,7 +23656,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740671207386,
+      "backupDB": 1740673050435,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
