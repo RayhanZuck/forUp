@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6282213576013@s.whatsapp.net": {
-      "exp": 280,
+      "exp": 302,
       "limit": 499,
       "registered": false,
       "name": "Zinuha",
@@ -204,9 +204,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1740633534226,
+      "activation": 1740635582994,
       "lastBanned": 0,
       "lastcommand": 1740633296288
     },
@@ -511,6 +511,26 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1740633517639
+    },
+    "136099259248752@lid": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1740634638568
     }
   },
   "chats": {
@@ -872,6 +892,29 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "120363152440042457@g.us": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0,
+      "total": {},
+      "totalChat": 0
     }
   },
   "stats": {
@@ -990,10 +1033,10 @@
       "lastSuccess": 1740633369948
     },
     "downloader-tiktok.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1740633511450,
-      "lastSuccess": 1740633511450
+      "total": 3,
+      "success": 3,
+      "last": 1740635582739,
+      "lastSuccess": 1740635582739
     }
   },
   "msgs": {},
@@ -1021,7 +1064,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740632692992,
+      "backupDB": 1740634638236,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
