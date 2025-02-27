@@ -256,7 +256,7 @@
       "lastBanned": 0
     },
     "6285359601996@s.whatsapp.net": {
-      "exp": 55,
+      "exp": 166,
       "limit": 499,
       "registered": false,
       "name": "♥️My Hanny♥️",
@@ -274,11 +274,11 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740633494842,
+      "activation": 1740636576849,
       "lastBanned": 0
     },
     "6283139889825@s.whatsapp.net": {
-      "exp": 3,
+      "exp": 72,
       "limit": 499,
       "registered": false,
       "name": "Inggri Anisyah",
@@ -296,7 +296,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740548626991
+      "activation": 1740636568237,
+      "lastBanned": 0
     },
     "6287853720118@s.whatsapp.net": {
       "exp": 1,
@@ -320,7 +321,7 @@
       "activation": 1740549084869
     },
     "6283846150378@s.whatsapp.net": {
-      "exp": 67,
+      "exp": 86,
       "limit": 479,
       "registered": false,
       "name": "Nomair💫",
@@ -338,7 +339,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740633377442,
+      "activation": 1740636331830,
       "lastBanned": 0
     },
     "6282341462021@s.whatsapp.net": {
@@ -585,11 +586,11 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285359601996@s.whatsapp.net": 77,
-        "6283139889825@s.whatsapp.net": 11,
-        "6282274349399@s.whatsapp.net": 49,
-        "6287853720118@s.whatsapp.net": 6,
-        "6283846150378@s.whatsapp.net": 6
+        "6285359601996@s.whatsapp.net": 450,
+        "6283139889825@s.whatsapp.net": 191,
+        "6282274349399@s.whatsapp.net": 196,
+        "6287853720118@s.whatsapp.net": 27,
+        "6283846150378@s.whatsapp.net": 83
       },
       "totalChat": 0
     },
@@ -810,7 +811,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740632211072,
+      "backupDB": 1740636027771,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
