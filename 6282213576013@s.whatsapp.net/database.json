@@ -206,7 +206,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1740648944751,
+      "activation": 1740650409921,
       "lastBanned": 0,
       "lastcommand": 1740633296288
     },
@@ -385,7 +385,7 @@
       "lastBanned": 0
     },
     "6281292655634@s.whatsapp.net": {
-      "exp": 27,
+      "exp": 30,
       "limit": 499,
       "registered": false,
       "name": "Xiao die",
@@ -403,7 +403,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740644018626,
+      "activation": 1740651011412,
       "lastBanned": 0
     },
     "6283857415952@s.whatsapp.net": {
@@ -805,8 +805,8 @@
       "activation": 1740647415165
     },
     "6282245786321@s.whatsapp.net": {
-      "exp": 93,
-      "limit": 489,
+      "exp": 113,
+      "limit": 479,
       "registered": false,
       "name": "☆kenz☆",
       "age": -1,
@@ -824,7 +824,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastcommand": 1740647991292,
-      "activation": 1740648943763,
+      "activation": 1740650302374,
       "lastBanned": 0
     },
     "6285959499216@s.whatsapp.net": {
@@ -865,7 +865,51 @@
       "lastweekly": 0,
       "lastmonthly": 0,
       "premium": false,
-      "premiumTime": 0
+      "premiumTime": 0,
+      "lastBanned": 0
+    },
+    "6287877901251@s.whatsapp.net": {
+      "exp": 50077,
+      "limit": 999,
+      "registered": false,
+      "name": "@eizoux",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 1740650409698,
+      "lastmonthly": 1740650409698,
+      "premium": true,
+      "premiumTime": 0,
+      "lastcommand": 1740650403997,
+      "activation": 1740650409699,
+      "lastBanned": 0
+    },
+    "84087205310528@lid": {
+      "exp": 3,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1740651768190
     }
   },
   "chats": {
@@ -1377,6 +1421,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6287877901251@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -1435,16 +1500,16 @@
       "lastSuccess": 1740648011478
     },
     "info-ping.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1740628857358,
-      "lastSuccess": 1740628857358
+      "total": 6,
+      "success": 6,
+      "last": 1740650406895,
+      "lastSuccess": 1740650406895
     },
     "havefun-claim.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1740628790130,
-      "lastSuccess": 1740628790130
+      "total": 3,
+      "success": 3,
+      "last": 1740650409699,
+      "lastSuccess": 1740650409699
     },
     "downloader-instagram.js": {
       "total": 9,
@@ -1511,6 +1576,12 @@
       "success": 3,
       "last": 1740648943763,
       "lastSuccess": 1740648943763
+    },
+    "sticker-quotely.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1740650302374,
+      "lastSuccess": 1740650302374
     }
   },
   "msgs": {},
@@ -1538,7 +1609,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740647991168,
+      "backupDB": 1740650299526,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
