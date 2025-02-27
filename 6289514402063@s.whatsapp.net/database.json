@@ -207,12 +207,12 @@
       "premium": false,
       "premiumTime": 1751035477911,
       "lastBanned": 0,
-      "activation": 1740679032946,
+      "activation": 1740682289483,
       "lastcommand": 1740660689174,
       "limitprem": 10000
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 5226,
+      "exp": 5264,
       "limit": 499,
       "registered": false,
       "name": "Rayhan🍟",
@@ -230,9 +230,9 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740680025362,
+      "activation": 1740681577751,
       "lastBanned": 0,
-      "lastcommand": 1740679821296
+      "lastcommand": 1740681575719
     },
     "6285723372013@s.whatsapp.net": {
       "exp": 1153,
@@ -20133,7 +20133,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1740680025365,
+      "activation": 1740681578037,
       "lastBanned": 0
     }
   },
@@ -23155,10 +23155,10 @@
       "lastSuccess": 1740547089560
     },
     "_cek.js": {
-      "total": 113,
-      "success": 107,
-      "last": 1740679822309,
-      "lastSuccess": 1740679822309
+      "total": 114,
+      "success": 108,
+      "last": 1740680291459,
+      "lastSuccess": 1740680291459
     },
     "info-donasi.js": {
       "total": 2,
@@ -23407,10 +23407,10 @@
       "lastSuccess": 1740626234931
     },
     "info-ping.js": {
-      "total": 12,
-      "success": 12,
-      "last": 1740678419076,
-      "lastSuccess": 1740678419076
+      "total": 13,
+      "success": 13,
+      "last": 1740681577751,
+      "lastSuccess": 1740681577751
     },
     "downloader-spotify.js": {
       "total": 8,
@@ -23678,7 +23678,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740677247589,
+      "backupDB": 1740680290455,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
@@ -23694,7 +23694,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740678418068,
+      "backupDB": 1740681575347,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
