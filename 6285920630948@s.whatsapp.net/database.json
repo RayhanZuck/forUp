@@ -206,11 +206,11 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1740626382995,
+      "activation": 1740632424469,
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 153,
+      "exp": 290,
       "limit": 499,
       "registered": false,
       "name": "Rayhan🍟",
@@ -229,7 +229,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastcommand": 1740614329542,
-      "activation": 1740626382575,
+      "activation": 1740632424463,
       "lastBanned": 0
     },
     "6282274349399@s.whatsapp.net": {
@@ -256,7 +256,7 @@
       "lastBanned": 0
     },
     "6285359601996@s.whatsapp.net": {
-      "exp": 40,
+      "exp": 55,
       "limit": 499,
       "registered": false,
       "name": "♥️My Hanny♥️",
@@ -274,7 +274,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740557680721,
+      "activation": 1740633494842,
       "lastBanned": 0
     },
     "6283139889825@s.whatsapp.net": {
@@ -320,7 +320,7 @@
       "activation": 1740549084869
     },
     "6283846150378@s.whatsapp.net": {
-      "exp": 40,
+      "exp": 67,
       "limit": 479,
       "registered": false,
       "name": "Nomair💫",
@@ -338,7 +338,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740626614050,
+      "activation": 1740633377442,
       "lastBanned": 0
     },
     "6282341462021@s.whatsapp.net": {
@@ -585,10 +585,11 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285359601996@s.whatsapp.net": 49,
-        "6283139889825@s.whatsapp.net": 7,
-        "6282274349399@s.whatsapp.net": 21,
-        "6287853720118@s.whatsapp.net": 2
+        "6285359601996@s.whatsapp.net": 77,
+        "6283139889825@s.whatsapp.net": 11,
+        "6282274349399@s.whatsapp.net": 49,
+        "6287853720118@s.whatsapp.net": 6,
+        "6283846150378@s.whatsapp.net": 6
       },
       "totalChat": 0
     },
@@ -770,6 +771,18 @@
       "success": 2,
       "last": 1740626363721,
       "lastSuccess": 1740626363721
+    },
+    "ai-remini.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1740632424463,
+      "lastSuccess": 1740632424463
+    },
+    "group-hidetag.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1740632359167,
+      "lastSuccess": 1740632359167
     }
   },
   "msgs": {},
@@ -797,7 +810,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740626090740,
+      "backupDB": 1740632211072,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
