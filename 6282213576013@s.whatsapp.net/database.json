@@ -206,7 +206,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1740658613676,
+      "activation": 1740659149155,
       "lastBanned": 0,
       "lastcommand": 1740633296288
     },
@@ -534,7 +534,7 @@
       "activation": 1740634638568
     },
     "6283142330780@s.whatsapp.net": {
-      "exp": 15,
+      "exp": 20,
       "limit": 499,
       "registered": false,
       "name": "+62 831-4233-0780",
@@ -552,7 +552,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740657637073,
+      "activation": 1740658821198,
       "lastBanned": 0
     },
     "6283891981279@s.whatsapp.net": {
@@ -702,7 +702,7 @@
       "activation": 1740644828293
     },
     "6283843573415@s.whatsapp.net": {
-      "exp": 75,
+      "exp": 93,
       "limit": 499,
       "registered": false,
       "name": "Panggil Aja Niii",
@@ -720,7 +720,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740658734538,
+      "activation": 1740658843906,
       "lastBanned": 0
     },
     "6285210814837@s.whatsapp.net": {
@@ -808,8 +808,8 @@
       "activation": 1740647415165
     },
     "6282245786321@s.whatsapp.net": {
-      "exp": 113,
-      "limit": 479,
+      "exp": 161,
+      "limit": 464,
       "registered": false,
       "name": "☆kenz☆",
       "age": -1,
@@ -827,7 +827,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastcommand": 1740647991292,
-      "activation": 1740650302374,
+      "activation": 1740659148703,
       "lastBanned": 0
     },
     "6285959499216@s.whatsapp.net": {
@@ -1333,13 +1333,14 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6282123754181@s.whatsapp.net": 67,
-        "6281292655634@s.whatsapp.net": 153,
-        "6283857415952@s.whatsapp.net": 37,
-        "6285210901805@s.whatsapp.net": 106,
-        "6281337295776@s.whatsapp.net": 113,
-        "6285210814837@s.whatsapp.net": 24,
-        "6283843573415@s.whatsapp.net": 129
+        "6282123754181@s.whatsapp.net": 73,
+        "6281292655634@s.whatsapp.net": 183,
+        "6283857415952@s.whatsapp.net": 40,
+        "6285210901805@s.whatsapp.net": 115,
+        "6281337295776@s.whatsapp.net": 128,
+        "6285210814837@s.whatsapp.net": 27,
+        "6283843573415@s.whatsapp.net": 162,
+        "6283142330780@s.whatsapp.net": 3
       },
       "totalChat": 0
     },
@@ -1726,16 +1727,16 @@
       "lastSuccess": 1740648025700
     },
     "sticker-all.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1740648943763,
-      "lastSuccess": 1740648943763
+      "total": 4,
+      "success": 4,
+      "last": 1740659111295,
+      "lastSuccess": 1740659111295
     },
     "sticker-quotely.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1740650302374,
-      "lastSuccess": 1740650302374
+      "total": 3,
+      "success": 3,
+      "last": 1740659148703,
+      "lastSuccess": 1740659148703
     }
   },
   "msgs": {},
@@ -1763,7 +1764,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740656991230,
+      "backupDB": 1740658819268,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
