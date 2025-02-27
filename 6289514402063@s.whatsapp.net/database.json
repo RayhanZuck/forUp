@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 98229,
+      "exp": 98539,
       "limit": 1199,
       "registered": false,
       "name": "Yagamii",
@@ -207,7 +207,7 @@
       "premium": false,
       "premiumTime": 1751035477911,
       "lastBanned": 0,
-      "activation": 1740684878977,
+      "activation": 1740695832363,
       "lastcommand": 1740660689174,
       "limitprem": 10000
     },
@@ -4428,7 +4428,7 @@
       "activation": 1739592743366
     },
     "6285183178014@s.whatsapp.net": {
-      "exp": 105,
+      "exp": 148,
       "limit": 499,
       "registered": false,
       "name": "MASPAYZZ SHOPGAME REAL",
@@ -4446,7 +4446,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740640844510,
+      "activation": 1740694746345,
       "lastBanned": 0
     },
     "6282317285105@s.whatsapp.net": {
@@ -18180,7 +18180,7 @@
       "activation": 1740519623841
     },
     "6287787279204@s.whatsapp.net": {
-      "exp": 48,
+      "exp": 55,
       "limit": 499,
       "registered": false,
       "name": "~sekolah",
@@ -18198,7 +18198,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740638091680,
+      "activation": 1740695089810,
       "lastBanned": 0
     },
     "6282118900871@s.whatsapp.net": {
@@ -20156,7 +20156,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1740682857272
+      "activation": 1740694547248
     },
     "120363358156125711@newsletter": {
       "exp": 0,
@@ -22527,7 +22527,7 @@
         "6283852044340@s.whatsapp.net": 80,
         "6281392182935@s.whatsapp.net": 154,
         "6281223000646@s.whatsapp.net": 49,
-        "6287787279204@s.whatsapp.net": 221,
+        "6287787279204@s.whatsapp.net": 222,
         "6285654974904@s.whatsapp.net": 3291,
         "62895322852710@s.whatsapp.net": 66
       },
@@ -23143,10 +23143,10 @@
       "lastSuccess": 1740661952844
     },
     "ai-remini.js": {
-      "total": 295,
-      "success": 286,
-      "last": 1740669182487,
-      "lastSuccess": 1740669182487
+      "total": 306,
+      "success": 295,
+      "last": 1740695832355,
+      "lastSuccess": 1740695832355
     },
     "user-balance.js": {
       "total": 12,
@@ -23221,10 +23221,10 @@
       "lastSuccess": 1739021289147
     },
     "main-payment.js": {
-      "total": 11,
-      "success": 11,
-      "last": 1740618368102,
-      "lastSuccess": 1740618368102
+      "total": 12,
+      "success": 12,
+      "last": 1740694544388,
+      "lastSuccess": 1740694544388
     },
     "tool-removebg.js": {
       "total": 4,
@@ -23275,9 +23275,9 @@
       "lastSuccess": 1740661094545
     },
     "ai-remini2.js": {
-      "total": 44,
+      "total": 45,
       "success": 33,
-      "last": 1740666697447,
+      "last": 1740695788882,
       "lastSuccess": 1740666697447
     },
     "owner-exec2.js": {
@@ -23768,7 +23768,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740688134234,
+      "backupDB": 1740694454770,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
