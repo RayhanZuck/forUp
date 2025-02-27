@@ -207,13 +207,13 @@
       "premium": false,
       "premiumTime": 1751035477911,
       "lastBanned": 0,
-      "activation": 1740682289483,
+      "activation": 1740682855810,
       "lastcommand": 1740660689174,
       "limitprem": 10000
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 5264,
-      "limit": 499,
+      "exp": 55441,
+      "limit": 999,
       "registered": false,
       "name": "Rayhan🍟",
       "age": -1,
@@ -226,11 +226,11 @@
       "role": "Beginner",
       "BannedReason": "",
       "WarnReason": "",
-      "lastweekly": 0,
-      "lastmonthly": 0,
+      "lastweekly": 1740682646663,
+      "lastmonthly": 1740682646663,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740681577751,
+      "activation": 1740682651484,
       "lastBanned": 0,
       "lastcommand": 1740681575719
     },
@@ -20135,6 +20135,28 @@
       "premiumTime": 0,
       "activation": 1740681578037,
       "lastBanned": 0
+    },
+    "6283132534772@s.whatsapp.net": {
+      "exp": 43,
+      "limit": 499,
+      "registered": false,
+      "name": "Nozawa",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "lastBanned": 0,
+      "activation": 1740682857272
     }
   },
   "chats": {
@@ -23001,6 +23023,27 @@
         "6281394956570@s.whatsapp.net": 6
       },
       "totalChat": 0
+    },
+    "6283132534772@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -23065,10 +23108,10 @@
       "lastSuccess": 1740669182487
     },
     "user-balance.js": {
-      "total": 8,
-      "success": 8,
-      "last": 1740661947959,
-      "lastSuccess": 1740661947959
+      "total": 12,
+      "success": 12,
+      "last": 1740682854386,
+      "lastSuccess": 1740682854386
     },
     "downloader-tiktok.js": {
       "total": 206,
@@ -23107,10 +23150,10 @@
       "lastSuccess": 1740672818776
     },
     "user-limit.js": {
-      "total": 6,
-      "success": 6,
-      "last": 1739017901611,
-      "lastSuccess": 1739017901611
+      "total": 8,
+      "success": 8,
+      "last": 1740682651484,
+      "lastSuccess": 1740682651484
     },
     "vn-anjay.js": {
       "total": 13,
@@ -23263,10 +23306,10 @@
       "lastSuccess": 1740678917688
     },
     "user-leader.js": {
-      "total": 23,
-      "success": 23,
-      "last": 1740680025362,
-      "lastSuccess": 1740680025362
+      "total": 25,
+      "success": 25,
+      "last": 1740682611759,
+      "lastSuccess": 1740682611759
     },
     "random-anime.js": {
       "total": 3,
@@ -23461,10 +23504,10 @@
       "lastSuccess": 1740037077472
     },
     "havefun-claim.js": {
-      "total": 34,
-      "success": 34,
-      "last": 1740661922499,
-      "lastSuccess": 1740661922499
+      "total": 35,
+      "success": 35,
+      "last": 1740682646663,
+      "lastSuccess": 1740682646663
     },
     "havefun-curi.js": {
       "total": 2,
@@ -23651,6 +23694,12 @@
       "success": 2,
       "last": 1740648531253,
       "lastSuccess": 1740648531253
+    },
+    "user-profile.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1740682855799,
+      "lastSuccess": 1740682855799
     }
   },
   "msgs": {},
@@ -23678,7 +23727,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740680290455,
+      "backupDB": 1740682319475,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
