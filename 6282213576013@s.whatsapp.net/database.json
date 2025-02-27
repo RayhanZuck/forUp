@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 98224,
+      "exp": 98226,
       "limit": 1199,
       "registered": false,
       "name": "Yagamii",
@@ -207,12 +207,12 @@
       "premium": false,
       "premiumTime": 1751035477911,
       "lastBanned": 0,
-      "activation": 1740675942593,
+      "activation": 1740679032946,
       "lastcommand": 1740660689174,
       "limitprem": 10000
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 4971,
+      "exp": 5226,
       "limit": 499,
       "registered": false,
       "name": "Rayhan🍟",
@@ -230,9 +230,9 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740669182487,
+      "activation": 1740680025362,
       "lastBanned": 0,
-      "lastcommand": 1740659981673
+      "lastcommand": 1740679821296
     },
     "6285723372013@s.whatsapp.net": {
       "exp": 1153,
@@ -20113,6 +20113,28 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1740671660689
+    },
+    "6282213576013@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "name": "Zinuha",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "activation": 1740680025365,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -23025,10 +23047,10 @@
       "lastSuccess": 1716041075591
     },
     "owner-exec.js": {
-      "total": 47,
-      "success": 47,
-      "last": 1740497677295,
-      "lastSuccess": 1740497677295
+      "total": 48,
+      "success": 48,
+      "last": 1740678935694,
+      "lastSuccess": 1740678935694
     },
     "_main-menu.js": {
       "total": 111,
@@ -23067,10 +23089,10 @@
       "lastSuccess": 1739017550024
     },
     "downloader-play.js": {
-      "total": 109,
-      "success": 99,
-      "last": 1740660231846,
-      "lastSuccess": 1740660231846
+      "total": 111,
+      "success": 100,
+      "last": 1740679032608,
+      "lastSuccess": 1740679032608
     },
     "group-totag.js": {
       "total": 4,
@@ -23133,10 +23155,10 @@
       "lastSuccess": 1740547089560
     },
     "_cek.js": {
-      "total": 111,
-      "success": 105,
-      "last": 1740660693283,
-      "lastSuccess": 1740660693283
+      "total": 113,
+      "success": 107,
+      "last": 1740679822309,
+      "lastSuccess": 1740679822309
     },
     "info-donasi.js": {
       "total": 2,
@@ -23235,16 +23257,16 @@
       "lastSuccess": 1740498393338
     },
     "_main-allmenu.js": {
-      "total": 19,
-      "success": 19,
-      "last": 1740607147002,
-      "lastSuccess": 1740607147002
+      "total": 20,
+      "success": 20,
+      "last": 1740678917688,
+      "lastSuccess": 1740678917688
     },
     "user-leader.js": {
-      "total": 18,
-      "success": 18,
-      "last": 1740661955689,
-      "lastSuccess": 1740661955689
+      "total": 23,
+      "success": 23,
+      "last": 1740680025362,
+      "lastSuccess": 1740680025362
     },
     "random-anime.js": {
       "total": 3,
@@ -23385,10 +23407,10 @@
       "lastSuccess": 1740626234931
     },
     "info-ping.js": {
-      "total": 11,
-      "success": 11,
-      "last": 1740659984131,
-      "lastSuccess": 1740659984131
+      "total": 12,
+      "success": 12,
+      "last": 1740678419076,
+      "lastSuccess": 1740678419076
     },
     "downloader-spotify.js": {
       "total": 8,
@@ -23657,6 +23679,22 @@
       "restartDB": 0,
       "backup": true,
       "backupDB": 1740677247589,
+      "autobio": false,
+      "autobioDB": 0,
+      "cleartmp": false,
+      "lastcleartmp": 0,
+      "status": 0,
+      "anticall": true
+    },
+    "6282213576013@s.whatsapp.net": {
+      "self": false,
+      "autoread": true,
+      "composing": false,
+      "restrict": true,
+      "autorestart": true,
+      "restartDB": 0,
+      "backup": true,
+      "backupDB": 1740678418068,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
