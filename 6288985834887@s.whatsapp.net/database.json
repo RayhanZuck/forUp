@@ -321,7 +321,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1740681371553,
+      "activation": 1740684374208,
       "lastBanned": 0,
       "lastcommand": 1739996817995
     },
@@ -58796,7 +58796,7 @@
       "activation": 1740652955244
     },
     "6283867247755@s.whatsapp.net": {
-      "exp": 50078,
+      "exp": 53097,
       "limit": 949,
       "registered": false,
       "name": "~ツ",
@@ -58814,8 +58814,9 @@
       "lastmonthly": 1740653835994,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740654069387,
-      "lastBanned": 0
+      "activation": 1740682754620,
+      "lastBanned": 0,
+      "lastwork": 1740682753673
     },
     "6281947888865@s.whatsapp.net": {
       "exp": 63,
@@ -59576,7 +59577,7 @@
         "6285722598442@s.whatsapp.net": 18,
         "62895405174635@s.whatsapp.net": 17,
         "62895347362208@s.whatsapp.net": 152,
-        "6283822760236@s.whatsapp.net": 546,
+        "6283822760236@s.whatsapp.net": 563,
         "6283865267257@s.whatsapp.net": 33,
         "62881024295546@s.whatsapp.net": 101,
         "6282140063419@s.whatsapp.net": 716,
@@ -59614,7 +59615,7 @@
         "6287877901251@s.whatsapp.net": 116,
         "6283862118060@s.whatsapp.net": 25,
         "6289621609393@s.whatsapp.net": 39,
-        "6283867247755@s.whatsapp.net": 124,
+        "6283867247755@s.whatsapp.net": 125,
         "6285603654413@s.whatsapp.net": 51,
         "628983937154@s.whatsapp.net": 23,
         "6285817976362@s.whatsapp.net": 516,
@@ -59625,7 +59626,7 @@
         "6283862676159@s.whatsapp.net": 156,
         "6289637192199@s.whatsapp.net": 184,
         "6282154994462@s.whatsapp.net": 33,
-        "6285766064200@s.whatsapp.net": 274,
+        "6285766064200@s.whatsapp.net": 286,
         "6285194656343@s.whatsapp.net": 18,
         "6289510763558@s.whatsapp.net": 17,
         "6285883694834@s.whatsapp.net": 17
@@ -62961,10 +62962,10 @@
       "lastSuccess": 1740658329757
     },
     "havefun-mancing.js": {
-      "total": 17,
-      "success": 14,
-      "last": 1740668416555,
-      "lastSuccess": 1740668416555
+      "total": 18,
+      "success": 15,
+      "last": 1740682754620,
+      "lastSuccess": 1740682754620
     },
     "owner-getsc.js": {
       "total": 2,
@@ -63094,7 +63095,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740679451770,
+      "backupDB": 1740682753501,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
