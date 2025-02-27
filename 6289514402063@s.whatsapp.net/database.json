@@ -1107,7 +1107,7 @@
       "lastBanned": 0
     },
     "6283897506416@s.whatsapp.net": {
-      "exp": 1544,
+      "exp": 1551,
       "limit": 319,
       "registered": false,
       "name": "Oraa Gendeng",
@@ -1125,7 +1125,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740588646446,
+      "activation": 1740688142112,
       "lastBanned": 0,
       "lastcommand": 1740119595227
     },
@@ -20157,6 +20157,26 @@
       "premiumTime": 0,
       "lastBanned": 0,
       "activation": 1740682857272
+    },
+    "120363358156125711@newsletter": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -23044,6 +23064,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "120363358156125711@newsletter": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -23727,7 +23768,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740684875026,
+      "backupDB": 1740688134234,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
