@@ -385,7 +385,7 @@
       "lastBanned": 0
     },
     "6281292655634@s.whatsapp.net": {
-      "exp": 30,
+      "exp": 40,
       "limit": 499,
       "registered": false,
       "name": "Xiao die",
@@ -403,7 +403,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740651011412,
+      "activation": 1740656412034,
       "lastBanned": 0
     },
     "6283857415952@s.whatsapp.net": {
@@ -577,7 +577,7 @@
       "lastBanned": 0
     },
     "120363280765137622@g.us": {
-      "exp": 24,
+      "exp": 27,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -595,7 +595,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740652201299,
+      "activation": 1740656085433,
       "lastBanned": 0
     },
     "234827823456413@lid": {
@@ -701,7 +701,7 @@
       "activation": 1740644828293
     },
     "6283843573415@s.whatsapp.net": {
-      "exp": 7,
+      "exp": 19,
       "limit": 499,
       "registered": false,
       "name": "Panggil Aja Niii",
@@ -719,10 +719,11 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740646107406
+      "activation": 1740655745108,
+      "lastBanned": 0
     },
     "6285210814837@s.whatsapp.net": {
-      "exp": 8,
+      "exp": 39,
       "limit": 499,
       "registered": false,
       "name": "Taamir",
@@ -740,7 +741,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740646347565
+      "activation": 1740655552741,
+      "lastBanned": 0
     },
     "6283121157158@s.whatsapp.net": {
       "exp": 7,
@@ -953,6 +955,48 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1740652616335
+    },
+    "6281337295776@s.whatsapp.net": {
+      "exp": 58,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 813-3729-5776",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1740656076734,
+      "lastBanned": 0
+    },
+    "120363159552753674@newsletter": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -1288,10 +1332,13 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6282123754181@s.whatsapp.net": 15,
-        "6281292655634@s.whatsapp.net": 19,
-        "6283857415952@s.whatsapp.net": 11,
-        "6285210901805@s.whatsapp.net": 28
+        "6282123754181@s.whatsapp.net": 35,
+        "6281292655634@s.whatsapp.net": 40,
+        "6283857415952@s.whatsapp.net": 21,
+        "6285210901805@s.whatsapp.net": 58,
+        "6281337295776@s.whatsapp.net": 33,
+        "6285210814837@s.whatsapp.net": 8,
+        "6283843573415@s.whatsapp.net": 13
       },
       "totalChat": 0
     },
@@ -1506,6 +1553,48 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6281337295776@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
+    },
+    "120363159552753674@newsletter": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -1673,7 +1762,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740652199374,
+      "backupDB": 1740654738374,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
