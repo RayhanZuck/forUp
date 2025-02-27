@@ -577,7 +577,7 @@
       "lastBanned": 0
     },
     "120363280765137622@g.us": {
-      "exp": 14,
+      "exp": 24,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -595,7 +595,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740647700246,
+      "activation": 1740652201299,
       "lastBanned": 0
     },
     "234827823456413@lid": {
@@ -910,6 +910,49 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1740651768190
+    },
+    "6289601196433@s.whatsapp.net": {
+      "exp": 32,
+      "limit": 499,
+      "registered": false,
+      "name": "cheloav",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1740652248178,
+      "lastBanned": 0
+    },
+    "6281957133061@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "name": "neii",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1740652616335
     }
   },
   "chats": {
@@ -1023,7 +1066,7 @@
       "expired": 0,
       "detekporn": true,
       "total": {
-        "6288985834887@s.whatsapp.net": 1
+        "6288985834887@s.whatsapp.net": 2
       },
       "totalChat": 0
     },
@@ -1442,6 +1485,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6289601196433@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -1609,7 +1673,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740650299526,
+      "backupDB": 1740652199374,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
