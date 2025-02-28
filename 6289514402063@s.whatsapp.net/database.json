@@ -188,7 +188,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 99327,
+      "exp": 99358,
       "limit": 1199,
       "registered": false,
       "name": "Yagamii",
@@ -207,12 +207,12 @@
       "premium": false,
       "premiumTime": 1751035477911,
       "lastBanned": 0,
-      "activation": 1740707170020,
+      "activation": 1740708683364,
       "lastcommand": 1740698483374,
       "limitprem": 10000
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 55441,
+      "exp": 55498,
       "limit": 999,
       "registered": false,
       "name": "Rayhan🍟",
@@ -228,11 +228,11 @@
       "WarnReason": "",
       "lastweekly": 1740682646663,
       "lastmonthly": 1740682646663,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1740682651484,
+      "activation": 1740708682216,
       "lastBanned": 0,
-      "lastcommand": 1740681575719
+      "lastcommand": 1740708680628
     },
     "6285723372013@s.whatsapp.net": {
       "exp": 1153,
@@ -304,7 +304,7 @@
       "lastcommand": 1739605961604
     },
     "6283196722292@s.whatsapp.net": {
-      "exp": 1976,
+      "exp": 1987,
       "limit": 499,
       "registered": false,
       "name": "BOBOB STORE",
@@ -322,7 +322,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740707195798,
+      "activation": 1740707783037,
       "lastBanned": 0
     },
     "6285790379156@s.whatsapp.net": {
@@ -371,7 +371,7 @@
       "lastcommand": 1740475776921
     },
     "6289515823841@s.whatsapp.net": {
-      "exp": 2590,
+      "exp": 2593,
       "limit": 499,
       "registered": false,
       "name": "Ardyan Store",
@@ -389,7 +389,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740701935548,
+      "activation": 1740708871020,
       "lastBanned": 0
     },
     "6288246246949@s.whatsapp.net": {
@@ -482,7 +482,7 @@
       "lastcommand": 1738973962377
     },
     "6282224463723@s.whatsapp.net": {
-      "exp": 7244,
+      "exp": 7366,
       "limit": 499,
       "registered": false,
       "name": "JB AMENG STORE OWN LUSY CHA [ REGION JATENG ]",
@@ -500,7 +500,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740697292201,
+      "activation": 1740708641261,
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
@@ -19588,7 +19588,7 @@
       "lastBanned": 0
     },
     "35850662453472@lid": {
-      "exp": 15,
+      "exp": 24,
       "limit": 499,
       "registered": false,
       "name": "KEVIN•PRST",
@@ -19607,7 +19607,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1740628169137
+      "activation": 1740708319436
     },
     "6285693860107@s.whatsapp.net": {
       "exp": 10,
@@ -20411,6 +20411,27 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1740706713062
+    },
+    "82708487250098@lid": {
+      "exp": 7,
+      "limit": 499,
+      "registered": false,
+      "name": "𝗞𝗬𝗬`✘𝙫𝙚𝙧𝙨𝙚💥",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1740708350690
     }
   },
   "chats": {
@@ -22528,7 +22549,7 @@
       "expired": 0,
       "total": {
         "239268417024251@s.whatsapp.net": 175,
-        "6285700586985@s.whatsapp.net": 307,
+        "6285700586985@s.whatsapp.net": 310,
         "6285718667554@s.whatsapp.net": 84,
         "190847207346329@s.whatsapp.net": 198,
         "126718950039760@s.whatsapp.net": 112,
@@ -22542,14 +22563,16 @@
         "6281229438726@s.whatsapp.net": 15,
         "35850662453472@lid": 8,
         "99754994360430@lid": 9,
-        "22084872831039@lid": 13,
-        "190847207346329@lid": 12,
-        "23945046712349@lid": 15,
-        "71747697131730@lid": 8,
-        "186075414851637@lid": 7,
-        "99175442161822@lid": 5,
-        "234681878470838@lid": 3,
-        "230004625518641@lid": 1
+        "22084872831039@lid": 16,
+        "190847207346329@lid": 15,
+        "23945046712349@lid": 21,
+        "71747697131730@lid": 11,
+        "186075414851637@lid": 10,
+        "99175442161822@lid": 8,
+        "234681878470838@lid": 6,
+        "230004625518641@lid": 4,
+        "undefined": 2,
+        "82708487250098@lid": 1
       },
       "totalChat": 0
     },
@@ -23525,10 +23548,10 @@
       "lastSuccess": 1740547089560
     },
     "_cek.js": {
-      "total": 115,
-      "success": 109,
-      "last": 1740703476065,
-      "lastSuccess": 1740703476065
+      "total": 117,
+      "success": 111,
+      "last": 1740708682216,
+      "lastSuccess": 1740708682216
     },
     "info-donasi.js": {
       "total": 2,
@@ -24054,7 +24077,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740705615122,
+      "backupDB": 1740707491771,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
