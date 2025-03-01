@@ -20306,7 +20306,7 @@
       "activation": 1740782030085
     },
     "6283891981279@s.whatsapp.net": {
-      "exp": 3587,
+      "exp": 3803,
       "limit": 499,
       "registered": false,
       "name": "Zinuha",
@@ -20324,7 +20324,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740805905719,
+      "activation": 1740808181305,
       "lastBanned": 0,
       "lastcommand": 1740788748828
     },
@@ -20549,7 +20549,7 @@
       "lastcommand": 1740799956401
     },
     "6289601196433@s.whatsapp.net": {
-      "exp": 2887,
+      "exp": 3313,
       "limit": 499,
       "registered": false,
       "name": "chalisa",
@@ -20565,9 +20565,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1740798253777,
+      "activation": 1740808186353,
       "lastBanned": 0,
       "lastcommand": 1740796759788
     },
@@ -20965,8 +20965,8 @@
       "lastBanned": 0
     },
     "5214437218638@s.whatsapp.net": {
-      "exp": 127,
-      "limit": 474,
+      "exp": 155,
+      "limit": 449,
       "registered": false,
       "name": "Chris alex (a.k.a lana del rey)",
       "age": -1,
@@ -20983,7 +20983,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740801109722,
+      "activation": 1740806845572,
       "lastBanned": 0
     },
     "6285864512207@s.whatsapp.net": {
@@ -24458,10 +24458,10 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "undefined": 3172,
+        "undefined": 3174,
         "6283821837914@s.whatsapp.net": 846,
         "6283159579097@s.whatsapp.net": 72,
-        "14706432084@s.whatsapp.net": 143
+        "14706432084@s.whatsapp.net": 149
       },
       "totalChat": 0
     },
@@ -24537,6 +24537,90 @@
       "totalChat": 0
     },
     "6282213576013@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
+    },
+    "6281292655634@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
+    },
+    "6283857415952@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
+    },
+    "6285210814837@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
+    },
+    "6283843573415@s.whatsapp.net": {
       "isBanned": false,
       "welcome": true,
       "detect": true,
@@ -24644,10 +24728,10 @@
       "lastSuccess": 1739017550024
     },
     "downloader-play.js": {
-      "total": 185,
-      "success": 173,
-      "last": 1740805596487,
-      "lastSuccess": 1740805596487
+      "total": 186,
+      "success": 174,
+      "last": 1740806845572,
+      "lastSuccess": 1740806845572
     },
     "group-totag.js": {
       "total": 4,
@@ -25301,7 +25385,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740804395049,
+      "backupDB": 1740806418579,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
