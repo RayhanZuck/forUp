@@ -23,7 +23,7 @@
       "activation": 1740744518922
     },
     "62895339044041@s.whatsapp.net": {
-      "exp": 13803,
+      "exp": 13857,
       "limit": 499,
       "registered": false,
       "name": "1337XYRZ",
@@ -39,9 +39,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1740855967676,
+      "activation": 1740858748819,
       "lastBanned": 0,
       "lastcommand": 1740836502143
     },
@@ -993,7 +993,7 @@
       "lastBanned": 0
     },
     "6285813240699@s.whatsapp.net": {
-      "exp": 466,
+      "exp": 490,
       "limit": 499,
       "registered": false,
       "name": "Murzz RF Serpong",
@@ -1011,7 +1011,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740837394830,
+      "activation": 1740858768778,
       "lastBanned": 0
     },
     "6285280979616@s.whatsapp.net": {
@@ -4111,7 +4111,7 @@
       "lastBanned": 0
     },
     "6283891929675@s.whatsapp.net": {
-      "exp": 1392,
+      "exp": 1405,
       "limit": 499,
       "registered": false,
       "name": "p",
@@ -4129,7 +4129,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740855967672,
+      "activation": 1740857327449,
       "lastBanned": 0,
       "lastcommand": 1740693179145
     },
@@ -4879,7 +4879,7 @@
       "lastBanned": 0
     },
     "6281299925108@s.whatsapp.net": {
-      "exp": 1543,
+      "exp": 1551,
       "limit": 499,
       "registered": false,
       "name": "KHFF⚡",
@@ -4897,7 +4897,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740853184245,
+      "activation": 1740857406993,
       "lastBanned": 0,
       "lastcommand": 1740759164142
     },
@@ -6474,7 +6474,7 @@
       "lastBanned": 0
     },
     "6285860119981@s.whatsapp.net": {
-      "exp": 818,
+      "exp": 823,
       "limit": 499,
       "registered": false,
       "name": "𝘼𝙨𝙩𝙧𝙖",
@@ -6492,7 +6492,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740844835360,
+      "activation": 1740857531971,
       "lastBanned": 0
     },
     "62895324967073@s.whatsapp.net": {
@@ -8841,7 +8841,7 @@
       "lastBanned": 0
     },
     "6287816479495@s.whatsapp.net": {
-      "exp": 81,
+      "exp": 96,
       "limit": 499,
       "registered": false,
       "name": "83 48 🥰🤩😍",
@@ -8859,7 +8859,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740838642100,
+      "activation": 1740858745958,
       "lastBanned": 0
     },
     "6281212286023@s.whatsapp.net": {
@@ -9601,7 +9601,7 @@
       "activation": 1740843244280
     },
     "62895635339115@s.whatsapp.net": {
-      "exp": 92,
+      "exp": 102,
       "limit": 499,
       "registered": false,
       "name": "EX_BernArd",
@@ -9619,7 +9619,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740856564318,
+      "activation": 1740857276504,
       "lastBanned": 0
     },
     "6283894216261@s.whatsapp.net": {
@@ -23905,10 +23905,10 @@
       "expired": 0,
       "total": {
         "undefined": 137,
-        "6283831331640@s.whatsapp.net": 570,
+        "6283831331640@s.whatsapp.net": 573,
         "6281400625843@s.whatsapp.net": 170,
-        "6285213464119@s.whatsapp.net": 114,
-        "6285714139614@s.whatsapp.net": 42
+        "6285213464119@s.whatsapp.net": 117,
+        "6285714139614@s.whatsapp.net": 47
       },
       "totalChat": 0
     },
@@ -25117,7 +25117,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740854810778,
+      "backupDB": 1740857121381,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
