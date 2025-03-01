@@ -212,7 +212,7 @@
       "limitprem": 10000
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 56924,
+      "exp": 56958,
       "limit": 999,
       "registered": false,
       "name": "Rayhan🍟",
@@ -228,11 +228,11 @@
       "WarnReason": "",
       "lastweekly": 1740682646663,
       "lastmonthly": 1740682646663,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1740817190032,
+      "activation": 1740818130630,
       "lastBanned": 0,
-      "lastcommand": 1740817180245
+      "lastcommand": 1740818075028
     },
     "6285723372013@s.whatsapp.net": {
       "exp": 1153,
@@ -20137,7 +20137,7 @@
       "lastBanned": 0
     },
     "6283132534772@s.whatsapp.net": {
-      "exp": 43,
+      "exp": 72,
       "limit": 499,
       "registered": false,
       "name": "Nozawa",
@@ -20153,10 +20153,11 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1740694547248
+      "activation": 1740817528084,
+      "lastcommand": 1740817527835
     },
     "120363358156125711@newsletter": {
       "exp": 0,
@@ -20324,7 +20325,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1740817180540,
+      "activation": 1740818081742,
       "lastBanned": 0,
       "lastcommand": 1740788748828
     },
@@ -24778,10 +24779,10 @@
       "lastSuccess": 1740814529071
     },
     "_main-menu.js": {
-      "total": 116,
-      "success": 112,
-      "last": 1740798646366,
-      "lastSuccess": 1740798646366
+      "total": 117,
+      "success": 113,
+      "last": 1740818081738,
+      "lastSuccess": 1740818081738
     },
     "ai-remini.js": {
       "total": 310,
@@ -25132,10 +25133,10 @@
       "lastSuccess": 1740626234931
     },
     "info-ping.js": {
-      "total": 15,
-      "success": 15,
-      "last": 1740817180492,
-      "lastSuccess": 1740817180492
+      "total": 16,
+      "success": 16,
+      "last": 1740817528084,
+      "lastSuccess": 1740817528084
     },
     "downloader-spotify.js": {
       "total": 10,
@@ -25513,7 +25514,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740815629246,
+      "backupDB": 1740817525352,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
