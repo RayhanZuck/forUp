@@ -212,7 +212,7 @@
       "limitprem": 10000
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 55602,
+      "exp": 56112,
       "limit": 999,
       "registered": false,
       "name": "Rayhan🍟",
@@ -230,7 +230,7 @@
       "lastmonthly": 1740682646663,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740805130800,
+      "activation": 1740811687164,
       "lastBanned": 0,
       "lastcommand": 1740681575719
     },
@@ -20306,7 +20306,7 @@
       "activation": 1740782030085
     },
     "6283891981279@s.whatsapp.net": {
-      "exp": 4443,
+      "exp": 4591,
       "limit": 499,
       "registered": false,
       "name": "Zinuha",
@@ -20322,9 +20322,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1740809998099,
+      "activation": 1740811687169,
       "lastBanned": 0,
       "lastcommand": 1740788748828
     },
@@ -20549,7 +20549,7 @@
       "lastcommand": 1740799956401
     },
     "6289601196433@s.whatsapp.net": {
-      "exp": 4326,
+      "exp": 4568,
       "limit": 499,
       "registered": false,
       "name": "chalisa",
@@ -20567,7 +20567,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740810019922,
+      "activation": 1740810571149,
       "lastBanned": 0,
       "lastcommand": 1740809455245
     },
@@ -24640,6 +24640,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6283142330780@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -24872,10 +24893,10 @@
       "lastSuccess": 1738904667358
     },
     "internet-fetch.js": {
-      "total": 20,
-      "success": 16,
-      "last": 1740498474158,
-      "lastSuccess": 1740498474158
+      "total": 21,
+      "success": 17,
+      "last": 1740810663022,
+      "lastSuccess": 1740810663022
     },
     "main-creator.js": {
       "total": 3,
@@ -25130,10 +25151,10 @@
       "lastSuccess": 1739797684065
     },
     "downloader-tiktoksearch.js": {
-      "total": 38,
-      "success": 38,
-      "last": 1740800445923,
-      "lastSuccess": 1740800445923
+      "total": 39,
+      "success": 39,
+      "last": 1740810485331,
+      "lastSuccess": 1740810485331
     },
     "tool-readviewonce.js": {
       "total": 5,
@@ -25332,6 +25353,30 @@
       "success": 3,
       "last": 1740809095343,
       "lastSuccess": 1740809095343
+    },
+    "tools-uptovidey.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1740810492915,
+      "lastSuccess": 1740810492915
+    },
+    "tool-tourl.js": {
+      "total": 16,
+      "success": 9,
+      "last": 1740811687164,
+      "lastSuccess": 1740811687164
+    },
+    "tools-uptodoods.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1740810719015,
+      "lastSuccess": 1740810719015
+    },
+    "tools-nauvalcdn.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1740811628828,
+      "lastSuccess": 1740811628828
     }
   },
   "msgs": {},
@@ -25391,7 +25436,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740808222660,
+      "backupDB": 1740810033738,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
