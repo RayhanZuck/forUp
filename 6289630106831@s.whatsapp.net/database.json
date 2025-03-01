@@ -210,7 +210,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1740813046376,
+      "activation": 1740816969873,
       "lastcommand": 1740777372394
     },
     "6285722598442@s.whatsapp.net": {
@@ -1405,8 +1405,8 @@
       "activation": 1740215178642
     },
     "6282126113544@s.whatsapp.net": {
-      "exp": 1404,
-      "limit": 179,
+      "exp": 1427,
+      "limit": 174,
       "registered": false,
       "name": "RF NEW DAOP 2",
       "age": -1,
@@ -1423,7 +1423,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740777117769,
+      "activation": 1740815180548,
       "lastBanned": 0
     },
     "6282371994600@s.whatsapp.net": {
@@ -1602,8 +1602,8 @@
       "lastBanned": 0
     },
     "6283120980311@s.whatsapp.net": {
-      "exp": 271,
-      "limit": 409,
+      "exp": 311,
+      "limit": 404,
       "registered": false,
       "name": ":",
       "age": -1,
@@ -1620,7 +1620,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740392297445,
+      "activation": 1740816968854,
       "lastBanned": 0
     },
     "6285141179740@s.whatsapp.net": {
@@ -6093,7 +6093,7 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285722598442@s.whatsapp.net": 6802,
+        "6285722598442@s.whatsapp.net": 6832,
         "6281914216565@s.whatsapp.net": 369,
         "6285294909261@s.whatsapp.net": 22,
         "6287817507985@s.whatsapp.net": 345,
@@ -6101,10 +6101,10 @@
         "6282185636037@s.whatsapp.net": 419,
         "6283134291217@s.whatsapp.net": 17,
         "62882001126427@s.whatsapp.net": 329,
-        "6282126113544@s.whatsapp.net": 1904,
+        "6282126113544@s.whatsapp.net": 1910,
         "6281393425246@s.whatsapp.net": 255,
         "6281220274234@s.whatsapp.net": 2211,
-        "6283120980311@s.whatsapp.net": 437,
+        "6283120980311@s.whatsapp.net": 447,
         "628872427930@s.whatsapp.net": 486,
         "6285863957994@s.whatsapp.net": 835,
         "6281259408705@s.whatsapp.net": 643,
@@ -7235,10 +7235,10 @@
       "lastSuccess": 1740746021712
     },
     "sticker-all.js": {
-      "total": 201,
-      "success": 199,
-      "last": 1740777117769,
-      "lastSuccess": 1740777117769
+      "total": 203,
+      "success": 201,
+      "last": 1740816968854,
+      "lastSuccess": 1740816968854
     },
     "ai-remini.js": {
       "total": 23,
@@ -7836,7 +7836,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740812794450,
+      "backupDB": 1740815170832,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
