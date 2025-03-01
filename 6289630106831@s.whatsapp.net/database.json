@@ -210,11 +210,11 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1740812471164,
+      "activation": 1740813046376,
       "lastcommand": 1740777372394
     },
     "6285722598442@s.whatsapp.net": {
-      "exp": 64646,
+      "exp": 64828,
       "limit": 33,
       "registered": false,
       "name": "Lamzz",
@@ -232,8 +232,8 @@
       "lastmonthly": 1740232094080,
       "premium": true,
       "premiumTime": 0,
-      "lastcommand": 1740804388082,
-      "activation": 1740812472682,
+      "lastcommand": 1740812837694,
+      "activation": 1740813049060,
       "lastBanned": 0,
       "lastwork": 1740712978226
     },
@@ -6093,7 +6093,7 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285722598442@s.whatsapp.net": 6788,
+        "6285722598442@s.whatsapp.net": 6802,
         "6281914216565@s.whatsapp.net": 369,
         "6285294909261@s.whatsapp.net": 22,
         "6287817507985@s.whatsapp.net": 345,
@@ -7121,10 +7121,10 @@
       "lastSuccess": 1740489482364
     },
     "_shortcut.js": {
-      "total": 43,
-      "success": 42,
-      "last": 1740743520056,
-      "lastSuccess": 1740743520056
+      "total": 44,
+      "success": 43,
+      "last": 1740812997590,
+      "lastSuccess": 1740812997590
     },
     "game-math.js": {
       "total": 4,
@@ -7169,16 +7169,16 @@
       "lastSuccess": 1740237612803
     },
     "info-ping.js": {
-      "total": 153,
-      "success": 153,
-      "last": 1740804388582,
-      "lastSuccess": 1740804388582
+      "total": 154,
+      "success": 154,
+      "last": 1740812839789,
+      "lastSuccess": 1740812839789
     },
     "group-delete.js": {
-      "total": 85,
-      "success": 85,
-      "last": 1740751348100,
-      "lastSuccess": 1740751348100
+      "total": 86,
+      "success": 86,
+      "last": 1740812794698,
+      "lastSuccess": 1740812794698
     },
     "tool-removebg.js": {
       "total": 5,
@@ -7283,10 +7283,10 @@
       "lastSuccess": 1740219771346
     },
     "enable.js": {
-      "total": 77,
-      "success": 68,
-      "last": 1740777242249,
-      "lastSuccess": 1740777242249
+      "total": 80,
+      "success": 71,
+      "last": 1740812868795,
+      "lastSuccess": 1740812868795
     },
     "group-chatoff.js": {
       "total": 5,
@@ -7797,6 +7797,18 @@
       "success": 3,
       "last": 1740753775646,
       "lastSuccess": 1740753775646
+    },
+    "group-warns.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1740813010948,
+      "lastSuccess": 1740813010948
+    },
+    "tool-polling.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1740813045605,
+      "lastSuccess": 1740813045605
     }
   },
   "msgs": {},
@@ -7824,7 +7836,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740810970034,
+      "backupDB": 1740812794450,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
