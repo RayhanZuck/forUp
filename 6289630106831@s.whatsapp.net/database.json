@@ -210,7 +210,7 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1740816969873,
+      "activation": 1740817032231,
       "lastcommand": 1740777372394
     },
     "6285722598442@s.whatsapp.net": {
@@ -1647,8 +1647,8 @@
       "lastcommand": 1740316088315
     },
     "6285720101691@s.whatsapp.net": {
-      "exp": 515,
-      "limit": 409,
+      "exp": 540,
+      "limit": 404,
       "registered": false,
       "name": "Arkanzz Erep⚡",
       "age": -1,
@@ -1665,7 +1665,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740748724596,
+      "activation": 1740817031742,
       "lastBanned": 0,
       "lastcommand": 1740382473451
     },
@@ -6093,7 +6093,7 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285722598442@s.whatsapp.net": 6832,
+        "6285722598442@s.whatsapp.net": 6837,
         "6281914216565@s.whatsapp.net": 369,
         "6285294909261@s.whatsapp.net": 22,
         "6287817507985@s.whatsapp.net": 345,
@@ -6101,14 +6101,14 @@
         "6282185636037@s.whatsapp.net": 419,
         "6283134291217@s.whatsapp.net": 17,
         "62882001126427@s.whatsapp.net": 329,
-        "6282126113544@s.whatsapp.net": 1910,
+        "6282126113544@s.whatsapp.net": 1911,
         "6281393425246@s.whatsapp.net": 255,
         "6281220274234@s.whatsapp.net": 2211,
-        "6283120980311@s.whatsapp.net": 447,
+        "6283120980311@s.whatsapp.net": 450,
         "628872427930@s.whatsapp.net": 486,
         "6285863957994@s.whatsapp.net": 835,
         "6281259408705@s.whatsapp.net": 643,
-        "6285720101691@s.whatsapp.net": 650,
+        "6285720101691@s.whatsapp.net": 651,
         "6285183703510@s.whatsapp.net": 404,
         "62895392836716@s.whatsapp.net": 327,
         "6283822760236@s.whatsapp.net": 33,
@@ -7235,10 +7235,10 @@
       "lastSuccess": 1740746021712
     },
     "sticker-all.js": {
-      "total": 203,
-      "success": 201,
-      "last": 1740816968854,
-      "lastSuccess": 1740816968854
+      "total": 204,
+      "success": 202,
+      "last": 1740817031742,
+      "lastSuccess": 1740817031742
     },
     "ai-remini.js": {
       "total": 23,
@@ -7836,7 +7836,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740815170832,
+      "backupDB": 1740817017480,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
