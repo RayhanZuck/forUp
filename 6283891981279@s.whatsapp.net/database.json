@@ -212,7 +212,7 @@
       "limitprem": 10000
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 56763,
+      "exp": 56924,
       "limit": 999,
       "registered": false,
       "name": "Rayhan🍟",
@@ -228,11 +228,11 @@
       "WarnReason": "",
       "lastweekly": 1740682646663,
       "lastmonthly": 1740682646663,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1740814819806,
+      "activation": 1740817190032,
       "lastBanned": 0,
-      "lastcommand": 1740681575719
+      "lastcommand": 1740817180245
     },
     "6285723372013@s.whatsapp.net": {
       "exp": 1153,
@@ -20324,7 +20324,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1740814819810,
+      "activation": 1740817180540,
       "lastBanned": 0,
       "lastcommand": 1740788748828
     },
@@ -20549,7 +20549,7 @@
       "lastcommand": 1740799956401
     },
     "6289601196433@s.whatsapp.net": {
-      "exp": 4657,
+      "exp": 4713,
       "limit": 499,
       "registered": false,
       "name": "chalisa",
@@ -20567,7 +20567,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740812866723,
+      "activation": 1740816591498,
       "lastBanned": 0,
       "lastcommand": 1740809455245
     },
@@ -21482,6 +21482,27 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1740815074621
+    },
+    "6285210814837@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 499,
+      "registered": false,
+      "name": "Taamir",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1740815629280
     }
   },
   "chats": {
@@ -24859,10 +24880,10 @@
       "lastSuccess": 1740794768789
     },
     "_cek.js": {
-      "total": 122,
-      "success": 116,
-      "last": 1740808950963,
-      "lastSuccess": 1740808950963
+      "total": 123,
+      "success": 117,
+      "last": 1740816951152,
+      "lastSuccess": 1740816951152
     },
     "info-donasi.js": {
       "total": 2,
@@ -24883,10 +24904,10 @@
       "lastSuccess": 1740800661383
     },
     "owner-sf.js": {
-      "total": 20,
-      "success": 19,
-      "last": 1740811913336,
-      "lastSuccess": 1740811913336
+      "total": 22,
+      "success": 21,
+      "last": 1740816826667,
+      "lastSuccess": 1740816826667
     },
     "downloader-pinterest.js": {
       "total": 65,
@@ -24901,10 +24922,10 @@
       "lastSuccess": 1740666697447
     },
     "owner-exec2.js": {
-      "total": 6,
-      "success": 6,
-      "last": 1740059817140,
-      "lastSuccess": 1740059817140
+      "total": 9,
+      "success": 9,
+      "last": 1740816812771,
+      "lastSuccess": 1740816812771
     },
     "owner-getfile.js": {
       "total": 4,
@@ -25111,10 +25132,10 @@
       "lastSuccess": 1740626234931
     },
     "info-ping.js": {
-      "total": 14,
-      "success": 14,
-      "last": 1740698483717,
-      "lastSuccess": 1740698483717
+      "total": 15,
+      "success": 15,
+      "last": 1740817180492,
+      "lastSuccess": 1740817180492
     },
     "downloader-spotify.js": {
       "total": 10,
@@ -25492,7 +25513,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740813780258,
+      "backupDB": 1740815629246,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
