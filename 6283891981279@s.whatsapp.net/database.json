@@ -212,7 +212,7 @@
       "limitprem": 10000
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 56112,
+      "exp": 56490,
       "limit": 999,
       "registered": false,
       "name": "Rayhan🍟",
@@ -230,7 +230,7 @@
       "lastmonthly": 1740682646663,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740811687164,
+      "activation": 1740813019960,
       "lastBanned": 0,
       "lastcommand": 1740681575719
     },
@@ -20306,7 +20306,7 @@
       "activation": 1740782030085
     },
     "6283891981279@s.whatsapp.net": {
-      "exp": 4591,
+      "exp": 4623,
       "limit": 499,
       "registered": false,
       "name": "Zinuha",
@@ -20324,7 +20324,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1740811687169,
+      "activation": 1740813019963,
       "lastBanned": 0,
       "lastcommand": 1740788748828
     },
@@ -20549,7 +20549,7 @@
       "lastcommand": 1740799956401
     },
     "6289601196433@s.whatsapp.net": {
-      "exp": 4568,
+      "exp": 4657,
       "limit": 499,
       "registered": false,
       "name": "chalisa",
@@ -20567,7 +20567,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740810571149,
+      "activation": 1740812866723,
       "lastBanned": 0,
       "lastcommand": 1740809455245
     },
@@ -24839,16 +24839,16 @@
       "lastSuccess": 1740800661383
     },
     "owner-sf.js": {
-      "total": 19,
-      "success": 18,
-      "last": 1740660094374,
-      "lastSuccess": 1740660094374
+      "total": 20,
+      "success": 19,
+      "last": 1740811913336,
+      "lastSuccess": 1740811913336
     },
     "downloader-pinterest.js": {
-      "total": 63,
-      "success": 55,
-      "last": 1740787757038,
-      "lastSuccess": 1740787757038
+      "total": 64,
+      "success": 56,
+      "last": 1740812360035,
+      "lastSuccess": 1740812360035
     },
     "ai-remini2.js": {
       "total": 45,
@@ -25361,10 +25361,10 @@
       "lastSuccess": 1740810492915
     },
     "tool-tourl.js": {
-      "total": 16,
-      "success": 9,
-      "last": 1740811687164,
-      "lastSuccess": 1740811687164
+      "total": 28,
+      "success": 17,
+      "last": 1740813019960,
+      "lastSuccess": 1740813019960
     },
     "tools-uptodoods.js": {
       "total": 2,
@@ -25377,6 +25377,18 @@
       "success": 2,
       "last": 1740811628828,
       "lastSuccess": 1740811628828
+    },
+    "game-akinator.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1740811881146,
+      "lastSuccess": 1740811881146
+    },
+    "tools-anomaki.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1740811927079,
+      "lastSuccess": 0
     }
   },
   "msgs": {},
@@ -25436,7 +25448,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740810033738,
+      "backupDB": 1740811880165,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
