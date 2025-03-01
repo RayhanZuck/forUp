@@ -23,7 +23,7 @@
       "activation": 1740744518922
     },
     "62895339044041@s.whatsapp.net": {
-      "exp": 13652,
+      "exp": 13741,
       "limit": 499,
       "registered": false,
       "name": "1337XYRZ",
@@ -39,9 +39,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1740850053038,
+      "activation": 1740851331973,
       "lastBanned": 0,
       "lastcommand": 1740836502143
     },
@@ -4067,7 +4067,7 @@
       "activation": 1739474905878
     },
     "6283163024931@s.whatsapp.net": {
-      "exp": 606,
+      "exp": 613,
       "limit": 499,
       "registered": false,
       "name": "Ｐａｎｇｇｉｌ ｓａｊａ ｉｌｈａｍ",
@@ -4085,7 +4085,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740845524010,
+      "activation": 1740851722841,
       "lastBanned": 0
     },
     "6281514755436@s.whatsapp.net": {
@@ -5405,7 +5405,7 @@
       "lastBanned": 0
     },
     "6287857158901@s.whatsapp.net": {
-      "exp": 520,
+      "exp": 525,
       "limit": 499,
       "registered": false,
       "name": "Q",
@@ -5423,7 +5423,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740847048650,
+      "activation": 1740852258616,
       "lastBanned": 0
     },
     "6281949179817@s.whatsapp.net": {
@@ -8042,7 +8042,7 @@
       "lastBanned": 0
     },
     "62895391855539@s.whatsapp.net": {
-      "exp": 509,
+      "exp": 550,
       "limit": 499,
       "registered": false,
       "name": ".",
@@ -8060,7 +8060,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740849958770,
+      "activation": 1740852059555,
       "lastBanned": 0
     },
     "62881022366285@s.whatsapp.net": {
@@ -9557,7 +9557,7 @@
       "activation": 1740586381677
     },
     "6285714139614@s.whatsapp.net": {
-      "exp": 28,
+      "exp": 48,
       "limit": 499,
       "registered": false,
       "name": "senok",
@@ -9575,7 +9575,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740843737707,
+      "activation": 1740852239467,
       "lastBanned": 0
     },
     "6285819581619@s.whatsapp.net": {
@@ -20333,6 +20333,73 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1740848848748
+    },
+    "6283831331640@s.whatsapp.net": {
+      "exp": 270,
+      "limit": 499,
+      "registered": false,
+      "name": "so klin",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0,
+      "activation": 1740851467099,
+      "lastcommand": 1740851330285
+    },
+    "6281400625843@s.whatsapp.net": {
+      "exp": 37,
+      "limit": 499,
+      "registered": false,
+      "name": "kiyann✨️",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1740851294130,
+      "lastBanned": 0
+    },
+    "6285213464119@s.whatsapp.net": {
+      "exp": 27,
+      "limit": 499,
+      "registered": false,
+      "name": ".",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1740851479003,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -22010,15 +22077,15 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "undefined": 3411,
+        "undefined": 3441,
         "6281901003474@s.whatsapp.net": 2186,
         "6285860119981@s.whatsapp.net": 374,
         "62895354243444@s.whatsapp.net": 235,
-        "6287715812539@s.whatsapp.net": 234,
+        "6287715812539@s.whatsapp.net": 240,
         "6281572210911@s.whatsapp.net": 383,
         "62882001362936@s.whatsapp.net": 196,
         "6285798410601@s.whatsapp.net": 47,
-        "6288213861153@s.whatsapp.net": 20
+        "6288213861153@s.whatsapp.net": 32
       },
       "totalChat": 0
     },
@@ -23773,7 +23840,13 @@
       "game": true,
       "autolevelup": true,
       "expired": 0,
-      "total": {},
+      "total": {
+        "undefined": 113,
+        "6283831331640@s.whatsapp.net": 399,
+        "6281400625843@s.whatsapp.net": 130,
+        "6285213464119@s.whatsapp.net": 63,
+        "6285714139614@s.whatsapp.net": 7
+      },
       "totalChat": 0
     },
     "6281936242011@s.whatsapp.net": {
@@ -24718,10 +24791,10 @@
   },
   "stats": {
     "_cek.js": {
-      "total": 69,
-      "success": 65,
-      "last": 1740839147947,
-      "lastSuccess": 1740837836416
+      "total": 73,
+      "success": 69,
+      "last": 1740851336837,
+      "lastSuccess": 1740851336837
     },
     "sticker-all.js": {
       "total": 63,
@@ -24730,10 +24803,10 @@
       "lastSuccess": 1740830801348
     },
     "group-tagall.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1740635198498,
-      "lastSuccess": 1740635198498
+      "total": 4,
+      "success": 4,
+      "last": 1740850643989,
+      "lastSuccess": 1740850643989
     },
     "sticker-quotely.js": {
       "total": 89,
@@ -24862,10 +24935,10 @@
       "lastSuccess": 1740658290180
     },
     "group-hidetag.js": {
-      "total": 7,
-      "success": 7,
-      "last": 1740836005193,
-      "lastSuccess": 1740836005193
+      "total": 8,
+      "success": 8,
+      "last": 1740850650959,
+      "lastSuccess": 1740850650959
     },
     "downloader-instagram.js": {
       "total": 2,
@@ -24981,7 +25054,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740848295636,
+      "backupDB": 1740850631242,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
