@@ -20306,7 +20306,7 @@
       "activation": 1740782030085
     },
     "6283891981279@s.whatsapp.net": {
-      "exp": 3803,
+      "exp": 4443,
       "limit": 499,
       "registered": false,
       "name": "Zinuha",
@@ -20324,7 +20324,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740808181305,
+      "activation": 1740809998099,
       "lastBanned": 0,
       "lastcommand": 1740788748828
     },
@@ -20549,7 +20549,7 @@
       "lastcommand": 1740799956401
     },
     "6289601196433@s.whatsapp.net": {
-      "exp": 3313,
+      "exp": 4326,
       "limit": 499,
       "registered": false,
       "name": "chalisa",
@@ -20565,11 +20565,11 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1740808186353,
+      "activation": 1740810019922,
       "lastBanned": 0,
-      "lastcommand": 1740796759788
+      "lastcommand": 1740809455245
     },
     "14706432084@s.whatsapp.net": {
       "exp": 270,
@@ -24698,10 +24698,10 @@
       "lastSuccess": 1740798646366
     },
     "ai-remini.js": {
-      "total": 307,
-      "success": 296,
-      "last": 1740797436128,
-      "lastSuccess": 1740797436128
+      "total": 310,
+      "success": 299,
+      "last": 1740809655058,
+      "lastSuccess": 1740809655058
     },
     "user-balance.js": {
       "total": 12,
@@ -24752,10 +24752,10 @@
       "lastSuccess": 1740682651484
     },
     "vn-anjay.js": {
-      "total": 18,
-      "success": 18,
-      "last": 1740799956403,
-      "lastSuccess": 1740799956403
+      "total": 19,
+      "success": 19,
+      "last": 1740809455248,
+      "lastSuccess": 1740809455248
     },
     "sticker-meme.js": {
       "total": 4,
@@ -24794,10 +24794,10 @@
       "lastSuccess": 1740794768789
     },
     "_cek.js": {
-      "total": 121,
-      "success": 115,
-      "last": 1740795987245,
-      "lastSuccess": 1740795987245
+      "total": 122,
+      "success": 116,
+      "last": 1740808950963,
+      "lastSuccess": 1740808950963
     },
     "info-donasi.js": {
       "total": 2,
@@ -25076,10 +25076,10 @@
       "lastSuccess": 1739708732264
     },
     "downloader-yt2.js": {
-      "total": 4,
-      "success": 1,
-      "last": 1740792614134,
-      "lastSuccess": 1740314646009
+      "total": 7,
+      "success": 3,
+      "last": 1740809128891,
+      "lastSuccess": 1740809128891
     },
     "downloader-pinterestvid.js": {
       "total": 3,
@@ -25316,9 +25316,9 @@
       "lastSuccess": 1740796759790
     },
     "downloader-playvideo.js": {
-      "total": 2,
+      "total": 3,
       "success": 0,
-      "last": 1740798125088,
+      "last": 1740809005428,
       "lastSuccess": 0
     },
     "islam-kisahnabi.js": {
@@ -25326,6 +25326,12 @@
       "success": 1,
       "last": 1740798705977,
       "lastSuccess": 1740798705977
+    },
+    "youtube-search.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1740809095343,
+      "lastSuccess": 1740809095343
     }
   },
   "msgs": {},
@@ -25385,7 +25391,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740806418579,
+      "backupDB": 1740808222660,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
