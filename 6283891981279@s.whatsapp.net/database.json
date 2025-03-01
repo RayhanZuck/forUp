@@ -20307,7 +20307,7 @@
       "activation": 1740782030085
     },
     "6283891981279@s.whatsapp.net": {
-      "exp": 4642,
+      "exp": 4750,
       "limit": 499,
       "registered": false,
       "name": "Zinuha",
@@ -20325,9 +20325,9 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740828924615,
+      "activation": 1740832217748,
       "lastBanned": 0,
-      "lastcommand": 1740788748828
+      "lastcommand": 1740830788785
     },
     "6285299360706@s.whatsapp.net": {
       "exp": 19,
@@ -20550,7 +20550,7 @@
       "lastcommand": 1740799956401
     },
     "6289601196433@s.whatsapp.net": {
-      "exp": 4713,
+      "exp": 4804,
       "limit": 499,
       "registered": false,
       "name": "chalisa",
@@ -20568,7 +20568,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740816591498,
+      "activation": 1740831998670,
       "lastBanned": 0,
       "lastcommand": 1740809455245
     },
@@ -24971,7 +24971,7 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6281337295776@s.whatsapp.net": 2
+        "6281337295776@s.whatsapp.net": 5
       },
       "totalChat": 0
     }
@@ -25128,10 +25128,10 @@
       "lastSuccess": 1740794768789
     },
     "_cek.js": {
-      "total": 123,
-      "success": 117,
-      "last": 1740816951152,
-      "lastSuccess": 1740816951152
+      "total": 124,
+      "success": 118,
+      "last": 1740830789673,
+      "lastSuccess": 1740830789673
     },
     "info-donasi.js": {
       "total": 2,
@@ -25761,7 +25761,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740828774902,
+      "backupDB": 1740830758788,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
