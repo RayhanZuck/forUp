@@ -212,7 +212,7 @@
       "limitprem": 10000
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 56490,
+      "exp": 56763,
       "limit": 999,
       "registered": false,
       "name": "Rayhan🍟",
@@ -230,7 +230,7 @@
       "lastmonthly": 1740682646663,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740813019960,
+      "activation": 1740814819806,
       "lastBanned": 0,
       "lastcommand": 1740681575719
     },
@@ -20324,7 +20324,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1740813019963,
+      "activation": 1740814819810,
       "lastBanned": 0,
       "lastcommand": 1740788748828
     },
@@ -21461,6 +21461,27 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1740800682539
+    },
+    "120363188974864010@g.us": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "name": {},
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1740815074621
     }
   },
   "chats": {
@@ -24661,6 +24682,29 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "120363188974864010@g.us": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0,
+      "total": {},
+      "totalChat": 0
     }
   },
   "stats": {
@@ -24707,10 +24751,10 @@
       "lastSuccess": 1716041075591
     },
     "owner-exec.js": {
-      "total": 48,
-      "success": 48,
-      "last": 1740678935694,
-      "lastSuccess": 1740678935694
+      "total": 49,
+      "success": 49,
+      "last": 1740814529071,
+      "lastSuccess": 1740814529071
     },
     "_main-menu.js": {
       "total": 116,
@@ -24845,10 +24889,10 @@
       "lastSuccess": 1740811913336
     },
     "downloader-pinterest.js": {
-      "total": 64,
-      "success": 56,
-      "last": 1740812360035,
-      "lastSuccess": 1740812360035
+      "total": 65,
+      "success": 57,
+      "last": 1740814813008,
+      "lastSuccess": 1740814813008
     },
     "ai-remini2.js": {
       "total": 45,
@@ -25361,10 +25405,10 @@
       "lastSuccess": 1740810492915
     },
     "tool-tourl.js": {
-      "total": 28,
-      "success": 17,
-      "last": 1740813019960,
-      "lastSuccess": 1740813019960
+      "total": 38,
+      "success": 23,
+      "last": 1740814819806,
+      "lastSuccess": 1740814819806
     },
     "tools-uptodoods.js": {
       "total": 2,
@@ -25448,7 +25492,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740811880165,
+      "backupDB": 1740813780258,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
