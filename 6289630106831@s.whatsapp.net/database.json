@@ -191,7 +191,7 @@
       "lastBanned": 0
     },
     "6289630106831@s.whatsapp.net": {
-      "exp": 2320,
+      "exp": 2331,
       "limit": 474,
       "registered": false,
       "name": "lamzz rfd2",
@@ -210,12 +210,12 @@
       "premium": false,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1740805125536,
+      "activation": 1740812471164,
       "lastcommand": 1740777372394
     },
     "6285722598442@s.whatsapp.net": {
-      "exp": 64610,
-      "limit": 58,
+      "exp": 64646,
+      "limit": 33,
       "registered": false,
       "name": "Lamzz",
       "age": -1,
@@ -233,7 +233,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastcommand": 1740804388082,
-      "activation": 1740804641493,
+      "activation": 1740812472682,
       "lastBanned": 0,
       "lastwork": 1740712978226
     },
@@ -661,7 +661,7 @@
       "activation": 1740205795292
     },
     "6285750225037@s.whatsapp.net": {
-      "exp": 5627,
+      "exp": 5649,
       "limit": 359,
       "registered": false,
       "name": "𝗔𝗭𝗞𝗔 𝗥𝗙 𝗗𝟱 𝗦𝗟𝗪",
@@ -680,7 +680,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastcommand": "2025-02-28T14:33:54.559Z",
-      "activation": 1740777161797,
+      "activation": 1740810990714,
       "lastBanned": 0,
       "lastwork": 1740753273155
     },
@@ -7097,10 +7097,10 @@
       "lastSuccess": 1740715145000
     },
     "downloader-play.js": {
-      "total": 69,
-      "success": 64,
-      "last": 1740804640835,
-      "lastSuccess": 1740804640835
+      "total": 70,
+      "success": 65,
+      "last": 1740812470932,
+      "lastSuccess": 1740812470932
     },
     "_main-allmenu.js": {
       "total": 34,
@@ -7824,7 +7824,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740804367107,
+      "backupDB": 1740810970034,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
