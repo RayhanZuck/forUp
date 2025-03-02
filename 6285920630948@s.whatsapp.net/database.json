@@ -206,11 +206,11 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1740898288239,
+      "activation": 1740927277068,
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 369,
+      "exp": 790,
       "limit": 499,
       "registered": false,
       "name": "Rayhan🍟",
@@ -228,13 +228,13 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "lastcommand": 1740754228968,
-      "activation": 1740754238152,
+      "lastcommand": 1740925952966,
+      "activation": 1740927276934,
       "lastBanned": 0
     },
     "6282274349399@s.whatsapp.net": {
-      "exp": 624,
-      "limit": 499,
+      "exp": 1011,
+      "limit": 8499,
       "registered": false,
       "name": "A",
       "age": -1,
@@ -251,8 +251,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "lastcommand": 1740805927227,
-      "activation": 1740893862938,
+      "lastcommand": 1740926317518,
+      "activation": 1740927157715,
       "lastBanned": 0
     },
     "6285359601996@s.whatsapp.net": {
@@ -660,22 +660,22 @@
       "lastSuccess": 1716041075591
     },
     "owner-exec.js": {
-      "total": 6,
-      "success": 6,
-      "last": 1740677639410,
-      "lastSuccess": 1740677639410
+      "total": 9,
+      "success": 9,
+      "last": 1740926882557,
+      "lastSuccess": 1740926882557
     },
     "_main-allmenu.js": {
-      "total": 5,
-      "success": 5,
-      "last": 1740548964414,
-      "lastSuccess": 1740548964414
+      "total": 7,
+      "success": 7,
+      "last": 1740926322955,
+      "lastSuccess": 1740926322955
     },
     "_shortcut.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1740548901678,
-      "lastSuccess": 1740548901678
+      "total": 4,
+      "success": 4,
+      "last": 1740926341607,
+      "lastSuccess": 1740926341607
     },
     "maker-ephoto.js": {
       "total": 4,
@@ -690,10 +690,10 @@
       "lastSuccess": 1740548745892
     },
     "user-limit.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1740548763812,
-      "lastSuccess": 1740548763812
+      "total": 5,
+      "success": 5,
+      "last": 1740926294169,
+      "lastSuccess": 1740926294169
     },
     "user-balanceme.js": {
       "total": 2,
@@ -756,10 +756,10 @@
       "lastSuccess": 1740572362781
     },
     "info-ping.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1740805930326,
-      "lastSuccess": 1740805930326
+      "total": 5,
+      "success": 5,
+      "last": 1740925954074,
+      "lastSuccess": 1740925954074
     },
     "_cek.js": {
       "total": 2,
@@ -786,16 +786,58 @@
       "lastSuccess": 1740632359167
     },
     "user-leader.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1740754238152,
-      "lastSuccess": 1740754238152
+      "total": 3,
+      "success": 3,
+      "last": 1740926002818,
+      "lastSuccess": 1740926002818
     },
     "sticker-all.js": {
+      "total": 17,
+      "success": 16,
+      "last": 1740927187372,
+      "lastSuccess": 1740927187372
+    },
+    "main-payment.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1740925811840,
+      "lastSuccess": 1740925811840
+    },
+    "maker-flaming.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1740926082343,
+      "lastSuccess": 1740926082343
+    },
+    "downloader-play.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1740926217216,
+      "lastSuccess": 1740926217216
+    },
+    "downloader-spotify.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1740926390317,
+      "lastSuccess": 1740926390317
+    },
+    "downloader-tiktoksearch.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1740926503659,
+      "lastSuccess": 1740926503659
+    },
+    "owner-sf.js": {
       "total": 4,
       "success": 4,
-      "last": 1740893862938,
-      "lastSuccess": 1740893862938
+      "last": 1740927276934,
+      "lastSuccess": 1740927276934
+    },
+    "internet-fetch.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1740926981815,
+      "lastSuccess": 1740926981815
     }
   },
   "msgs": {},
@@ -823,7 +865,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740918682483,
+      "backupDB": 1740925719031,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
