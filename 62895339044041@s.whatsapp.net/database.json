@@ -23,7 +23,7 @@
       "activation": 1740744518922
     },
     "62895339044041@s.whatsapp.net": {
-      "exp": 21491,
+      "exp": 21496,
       "limit": 499,
       "registered": false,
       "name": "1337XYRZ",
@@ -39,9 +39,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1740956661951,
+      "activation": 1740958926144,
       "lastBanned": 0,
       "lastcommand": 1740924383147
     },
@@ -3783,7 +3783,7 @@
       "lastcommand": 1740646226079
     },
     "6289684388033@s.whatsapp.net": {
-      "exp": 185,
+      "exp": 187,
       "limit": 499,
       "registered": false,
       "name": "Ade",
@@ -3801,7 +3801,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740877177159,
+      "activation": 1740957445871,
       "lastBanned": 0
     },
     "6285215227884@s.whatsapp.net": {
@@ -4661,7 +4661,7 @@
       "activation": 1740839151345
     },
     "6285693534852@s.whatsapp.net": {
-      "exp": 1936,
+      "exp": 1966,
       "limit": 499,
       "registered": false,
       "name": "Xavsss?",
@@ -4679,8 +4679,9 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740957335588,
-      "lastBanned": 0
+      "activation": 1740958930582,
+      "lastBanned": 0,
+      "lastcommand": 1740958923826
     },
     "628983915264@s.whatsapp.net": {
       "exp": 21,
@@ -4970,7 +4971,7 @@
       "lastcommand": 1740723029158
     },
     "6289613605454@s.whatsapp.net": {
-      "exp": 145,
+      "exp": 153,
       "limit": 499,
       "registered": false,
       "name": "Faiz.H",
@@ -4988,7 +4989,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740908287487,
+      "activation": 1740957497588,
       "lastBanned": 0
     },
     "6288213570219@s.whatsapp.net": {
@@ -6961,7 +6962,7 @@
       "lastBanned": 0
     },
     "6285359627837@s.whatsapp.net": {
-      "exp": 132,
+      "exp": 140,
       "limit": 499,
       "registered": false,
       "name": "~Mhd_nuh_rasyah~",
@@ -6979,7 +6980,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740953868491,
+      "activation": 1740958048363,
       "lastBanned": 0
     },
     "6285773841151@s.whatsapp.net": {
@@ -9109,7 +9110,7 @@
       "lastBanned": 0
     },
     "6289676091936@s.whatsapp.net": {
-      "exp": 964,
+      "exp": 994,
       "limit": 499,
       "registered": false,
       "name": "ael",
@@ -9127,7 +9128,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740950612079,
+      "activation": 1740958597280,
       "lastBanned": 0
     },
     "6285930155291@s.whatsapp.net": {
@@ -24291,6 +24292,28 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1740956150358
+    },
+    "6285173241812@s.whatsapp.net": {
+      "exp": 33,
+      "limit": 474,
+      "registered": false,
+      "name": "Too | 🔰9201🔰",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1740957911563,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -29042,14 +29065,35 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6285173241812@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
     "_cek.js": {
-      "total": 80,
-      "success": 76,
-      "last": 1740924385037,
-      "lastSuccess": 1740924385037
+      "total": 81,
+      "success": 77,
+      "last": 1740958925084,
+      "lastSuccess": 1740958925084
     },
     "sticker-all.js": {
       "total": 82,
@@ -29130,10 +29174,10 @@
       "lastSuccess": 1740918409782
     },
     "downloader-play.js": {
-      "total": 9,
-      "success": 7,
-      "last": 1740913969454,
-      "lastSuccess": 1740913969454
+      "total": 10,
+      "success": 8,
+      "last": 1740957910803,
+      "lastSuccess": 1740957910803
     },
     "owner-exec.js": {
       "total": 37,
@@ -29327,7 +29371,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740955562487,
+      "backupDB": 1740957445797,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
