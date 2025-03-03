@@ -206,7 +206,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1740977326556,
+      "activation": 1740982665857,
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
@@ -233,7 +233,7 @@
       "lastBanned": 0
     },
     "6282274349399@s.whatsapp.net": {
-      "exp": 1030,
+      "exp": 1126,
       "limit": 8499,
       "registered": false,
       "name": "A",
@@ -252,7 +252,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastcommand": 1740926317518,
-      "activation": 1740927566261,
+      "activation": 1740981272562,
       "lastBanned": 0
     },
     "6285359601996@s.whatsapp.net": {
@@ -792,10 +792,10 @@
       "lastSuccess": 1740926002818
     },
     "sticker-all.js": {
-      "total": 18,
-      "success": 17,
-      "last": 1740927566261,
-      "lastSuccess": 1740927566261
+      "total": 22,
+      "success": 21,
+      "last": 1740981272562,
+      "lastSuccess": 1740981272562
     },
     "main-payment.js": {
       "total": 2,
@@ -871,7 +871,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740977312672,
+      "backupDB": 1740980922792,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
