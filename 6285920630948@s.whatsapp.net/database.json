@@ -343,7 +343,7 @@
       "lastBanned": 0
     },
     "6282341462021@s.whatsapp.net": {
-      "exp": 33,
+      "exp": 40,
       "limit": 499,
       "registered": false,
       "name": "Papi Chuloo",
@@ -361,8 +361,29 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740918682577,
+      "activation": 1740994106738,
       "lastBanned": 0
+    },
+    "6282290393351@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 499,
+      "registered": false,
+      "name": "lita05797",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1740993974457
     }
   },
   "chats": {
@@ -871,7 +892,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740988386671,
+      "backupDB": 1740993974076,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
