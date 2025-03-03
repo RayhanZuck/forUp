@@ -233,7 +233,7 @@
       "lastBanned": 0
     },
     "6282274349399@s.whatsapp.net": {
-      "exp": 1160,
+      "exp": 1192,
       "limit": 8499,
       "registered": false,
       "name": "A",
@@ -252,11 +252,11 @@
       "premium": true,
       "premiumTime": 0,
       "lastcommand": 1740926317518,
-      "activation": 1740987164154,
+      "activation": 1740989153827,
       "lastBanned": 0
     },
     "6285359601996@s.whatsapp.net": {
-      "exp": 217,
+      "exp": 226,
       "limit": 499,
       "registered": false,
       "name": "♥️My Hanny♥️",
@@ -274,7 +274,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740987019578,
+      "activation": 1740988834374,
       "lastBanned": 0
     },
     "6283139889825@s.whatsapp.net": {
@@ -586,11 +586,11 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285359601996@s.whatsapp.net": 586,
-        "6283139889825@s.whatsapp.net": 297,
-        "6282274349399@s.whatsapp.net": 229,
+        "6285359601996@s.whatsapp.net": 658,
+        "6283139889825@s.whatsapp.net": 347,
+        "6282274349399@s.whatsapp.net": 278,
         "6287853720118@s.whatsapp.net": 27,
-        "6283846150378@s.whatsapp.net": 94
+        "6283846150378@s.whatsapp.net": 99
       },
       "totalChat": 0
     },
@@ -871,7 +871,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1740986072187,
+      "backupDB": 1740988386671,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
