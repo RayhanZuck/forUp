@@ -67519,7 +67519,7 @@
       "premiumTime": 1751289779235,
       "lastcommand": 1741121561061,
       "lastBanned": 0,
-      "activation": 1741121582715,
+      "activation": 1741124262497,
       "limitprem": 10000
     },
     "6285839289455@s.whatsapp.net": {
@@ -68419,7 +68419,7 @@
       "lastBanned": 0
     },
     "6281232144360@s.whatsapp.net": {
-      "exp": 309,
+      "exp": 316,
       "limit": 499,
       "registered": false,
       "name": "bayy",
@@ -68437,7 +68437,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741120315824,
+      "activation": 1741122842481,
       "lastBanned": 0
     },
     "192058388164854@lid": {
@@ -75257,10 +75257,10 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6281232144360@s.whatsapp.net": 375,
+        "6281232144360@s.whatsapp.net": 379,
         "145896314540111@lid": 77,
         "52884251127938@lid": 50,
-        "6282299360746@s.whatsapp.net": 68,
+        "6282299360746@s.whatsapp.net": 72,
         "73714959966415@lid": 6
       },
       "totalChat": 0
@@ -76640,7 +76640,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1741120594596,
+      "backupDB": 1741122838574,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
