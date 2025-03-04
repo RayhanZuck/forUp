@@ -67499,7 +67499,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 5078,
+      "exp": 5115,
       "limit": 499,
       "registered": false,
       "name": "lenz v 1 bot",
@@ -67517,9 +67517,9 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1751289779235,
-      "lastcommand": 1741096561112,
+      "lastcommand": 1741121561061,
       "lastBanned": 0,
-      "activation": 1741119344972,
+      "activation": 1741121582715,
       "limitprem": 10000
     },
     "6285839289455@s.whatsapp.net": {
@@ -67720,7 +67720,7 @@
       "lastBanned": 0
     },
     "6282299360746@s.whatsapp.net": {
-      "exp": 419,
+      "exp": 426,
       "limit": 499,
       "registered": false,
       "name": "Dwi Rangga",
@@ -67738,7 +67738,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741120054034,
+      "activation": 1741122072650,
       "lastBanned": 0
     },
     "120363358156125711@newsletter": {
@@ -68571,7 +68571,7 @@
       "lastBanned": 0
     },
     "62882001117867@s.whatsapp.net": {
-      "exp": 111,
+      "exp": 120,
       "limit": 499,
       "registered": false,
       "name": "Nafi Tantei",
@@ -68589,7 +68589,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741097508702,
+      "activation": 1741121154967,
       "lastBanned": 0
     },
     "6287789305440@s.whatsapp.net": {
@@ -75257,10 +75257,10 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6281232144360@s.whatsapp.net": 369,
+        "6281232144360@s.whatsapp.net": 375,
         "145896314540111@lid": 77,
         "52884251127938@lid": 50,
-        "6282299360746@s.whatsapp.net": 61,
+        "6282299360746@s.whatsapp.net": 68,
         "73714959966415@lid": 6
       },
       "totalChat": 0
@@ -75765,10 +75765,10 @@
       "lastSuccess": 1740981426205
     },
     "_main-menu.js": {
-      "total": 129,
-      "success": 124,
-      "last": 1741096602275,
-      "lastSuccess": 1741096602275
+      "total": 130,
+      "success": 125,
+      "last": 1741121582674,
+      "lastSuccess": 1741121582674
     },
     "vn-bot.js": {
       "total": 21,
@@ -76640,7 +76640,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1741118627720,
+      "backupDB": 1741120594596,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
