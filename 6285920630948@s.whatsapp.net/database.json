@@ -233,7 +233,7 @@
       "lastBanned": 0
     },
     "6282274349399@s.whatsapp.net": {
-      "exp": 1192,
+      "exp": 1202,
       "limit": 8499,
       "registered": false,
       "name": "A",
@@ -252,7 +252,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastcommand": 1740926317518,
-      "activation": 1740989153827,
+      "activation": 1741067589185,
       "lastBanned": 0
     },
     "6285359601996@s.whatsapp.net": {
@@ -278,7 +278,7 @@
       "lastBanned": 0
     },
     "6283139889825@s.whatsapp.net": {
-      "exp": 78,
+      "exp": 107,
       "limit": 499,
       "registered": false,
       "name": "Inggri Anisyah",
@@ -296,7 +296,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740986972625,
+      "activation": 1741067821214,
       "lastBanned": 0
     },
     "6287853720118@s.whatsapp.net": {
@@ -607,15 +607,36 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "6285359601996@s.whatsapp.net": 658,
-        "6283139889825@s.whatsapp.net": 347,
-        "6282274349399@s.whatsapp.net": 278,
+        "6285359601996@s.whatsapp.net": 694,
+        "6283139889825@s.whatsapp.net": 392,
+        "6282274349399@s.whatsapp.net": 355,
         "6287853720118@s.whatsapp.net": 27,
-        "6283846150378@s.whatsapp.net": 99
+        "6283846150378@s.whatsapp.net": 101
       },
       "totalChat": 0
     },
     "6283846150378@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
+    },
+    "6283139889825@s.whatsapp.net": {
       "isBanned": false,
       "welcome": true,
       "detect": true,
@@ -892,7 +913,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1741007625017,
+      "backupDB": 1741067554430,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
