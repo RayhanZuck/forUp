@@ -282,7 +282,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 71050,
+      "exp": 71071,
       "limit": 1099,
       "registered": false,
       "name": "Rayhan🍟",
@@ -298,11 +298,11 @@
       "WarnReason": "",
       "lastweekly": 1740988167252,
       "lastmonthly": 1740988167252,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1741095748937,
+      "activation": 1741096380761,
       "lastBanned": 0,
-      "lastcommand": 1741092422886,
+      "lastcommand": 1741096379358,
       "lastdaily": 1740988434144
     },
     "6288985834887@s.whatsapp.net": {
@@ -324,7 +324,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1741095749448,
+      "activation": 1741096382366,
       "lastBanned": 0,
       "lastcommand": 1739996817995
     },
@@ -74804,10 +74804,10 @@
       "lastSuccess": 1740999042343
     },
     "_cek.js": {
-      "total": 507,
-      "success": 490,
-      "last": 1741093081751,
-      "lastSuccess": 1741093081751
+      "total": 508,
+      "success": 491,
+      "last": 1741096380761,
+      "lastSuccess": 1741096380761
     },
     "_main-allmenu.js": {
       "total": 35,
