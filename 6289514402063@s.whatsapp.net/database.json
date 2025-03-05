@@ -67519,7 +67519,7 @@
       "premiumTime": 1751289779235,
       "lastcommand": 1741134440354,
       "lastBanned": 0,
-      "activation": 1741135766076,
+      "activation": 1741137163800,
       "limitprem": 10000
     },
     "6285839289455@s.whatsapp.net": {
@@ -68026,7 +68026,7 @@
       "lastBanned": 0
     },
     "62882019154458@s.whatsapp.net": {
-      "exp": 57,
+      "exp": 67,
       "limit": 499,
       "registered": false,
       "name": "#Rakzen",
@@ -68044,7 +68044,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1740999660881,
+      "activation": 1741137552929,
       "lastBanned": 0
     },
     "6283825490330@s.whatsapp.net": {
@@ -68243,7 +68243,7 @@
       "lastBanned": 0
     },
     "6283896296007@s.whatsapp.net": {
-      "exp": 43,
+      "exp": 46,
       "limit": 499,
       "registered": false,
       "name": "BangRiko😎",
@@ -68261,7 +68261,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741110692358,
+      "activation": 1741135979500,
       "lastBanned": 0
     },
     "6282284080402@s.whatsapp.net": {
@@ -68571,7 +68571,7 @@
       "lastBanned": 0
     },
     "62882001117867@s.whatsapp.net": {
-      "exp": 120,
+      "exp": 175,
       "limit": 499,
       "registered": false,
       "name": "Nafi Tantei",
@@ -68589,7 +68589,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741121154967,
+      "activation": 1741137458788,
       "lastBanned": 0
     },
     "6287789305440@s.whatsapp.net": {
@@ -71297,7 +71297,7 @@
       "activation": 1741110431712
     },
     "6282119131127@s.whatsapp.net": {
-      "exp": 23,
+      "exp": 43,
       "limit": 479,
       "registered": false,
       "name": "kii",
@@ -71315,7 +71315,8 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741135252030
+      "activation": 1741135961474,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -76682,7 +76683,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1741133988213,
+      "backupDB": 1741135813715,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
