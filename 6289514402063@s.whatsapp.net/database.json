@@ -282,7 +282,7 @@
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
-      "exp": 9066,
+      "exp": 9086,
       "limit": 1298,
       "registered": false,
       "name": "Rayhan🍟",
@@ -300,9 +300,9 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741143263140,
+      "activation": 1741163022850,
       "lastBanned": 0,
-      "lastcommand": 1741094393843
+      "lastcommand": 1741163021809
     },
     "6288985834887@s.whatsapp.net": {
       "exp": 1419,
@@ -67519,7 +67519,7 @@
       "premiumTime": 1751289779235,
       "lastcommand": 1741144143668,
       "lastBanned": 0,
-      "activation": 1741162220748,
+      "activation": 1741164991956,
       "limitprem": 10000
     },
     "6285839289455@s.whatsapp.net": {
@@ -68244,7 +68244,7 @@
       "lastBanned": 0
     },
     "6283896296007@s.whatsapp.net": {
-      "exp": 51,
+      "exp": 65,
       "limit": 499,
       "registered": false,
       "name": "BangRiko😎",
@@ -68262,7 +68262,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741147235721,
+      "activation": 1741163516349,
       "lastBanned": 0
     },
     "6282284080402@s.whatsapp.net": {
@@ -69441,7 +69441,7 @@
       "lastBanned": 0
     },
     "6282224463723@s.whatsapp.net": {
-      "exp": 326,
+      "exp": 345,
       "limit": 499,
       "registered": false,
       "name": "AMENG STORE [ JATENG ]",
@@ -69459,7 +69459,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741144186378,
+      "activation": 1741163583201,
       "lastBanned": 0
     },
     "6289658855234@s.whatsapp.net": {
@@ -71531,6 +71531,28 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1741162084144
+    },
+    "6289531717404@s.whatsapp.net": {
+      "exp": 12,
+      "limit": 499,
+      "registered": false,
+      "name": "iqbal.storee",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1741162923772,
+      "lastBanned": 0
     }
   },
   "chats": {
@@ -76170,10 +76192,10 @@
       "lastSuccess": 1739368951078
     },
     "info-ping.js": {
-      "total": 26,
-      "success": 26,
-      "last": 1741134441877,
-      "lastSuccess": 1741134441877
+      "total": 27,
+      "success": 27,
+      "last": 1741163022850,
+      "lastSuccess": 1741163022850
     },
     "audio-effect.js": {
       "total": 25,
@@ -76931,7 +76953,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1741160653386,
+      "backupDB": 1741162813745,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
