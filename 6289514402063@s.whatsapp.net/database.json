@@ -67519,7 +67519,7 @@
       "premiumTime": 1751289779235,
       "lastcommand": 1741144143668,
       "lastBanned": 0,
-      "activation": 1741150444770,
+      "activation": 1741154442961,
       "limitprem": 10000
     },
     "6285839289455@s.whatsapp.net": {
@@ -68288,7 +68288,7 @@
       "lastBanned": 0
     },
     "6282185510845@s.whatsapp.net": {
-      "exp": 323,
+      "exp": 333,
       "limit": 499,
       "registered": false,
       "name": "NO JP& REKBERR ZYROO || STORE",
@@ -68306,7 +68306,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741151428148,
+      "activation": 1741154121292,
       "lastBanned": 0
     },
     "6288214556694@s.whatsapp.net": {
@@ -68332,7 +68332,7 @@
       "lastBanned": 0
     },
     "6285754276508@s.whatsapp.net": {
-      "exp": 33,
+      "exp": 39,
       "limit": 499,
       "registered": false,
       "name": "ADOM STORE",
@@ -68350,7 +68350,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741099761979,
+      "activation": 1741152790119,
       "lastBanned": 0
     },
     "6281328557368@s.whatsapp.net": {
@@ -68616,7 +68616,7 @@
       "lastBanned": 0
     },
     "6289515823841@s.whatsapp.net": {
-      "exp": 105,
+      "exp": 106,
       "limit": 499,
       "registered": false,
       "name": "Ardyan Store",
@@ -68634,7 +68634,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741098100888,
+      "activation": 1741154347362,
       "lastBanned": 0
     },
     "6281261448818@s.whatsapp.net": {
@@ -69223,7 +69223,7 @@
       "activation": 1740939480658
     },
     "6283192154111@s.whatsapp.net": {
-      "exp": 67,
+      "exp": 70,
       "limit": 499,
       "registered": false,
       "name": "just habib kang stock ress",
@@ -69241,7 +69241,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741117541424,
+      "activation": 1741152799735,
       "lastBanned": 0
     },
     "6285380586603@s.whatsapp.net": {
@@ -71425,6 +71425,27 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1741143792743
+    },
+    "6282251433665@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 822-5143-3665",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1741154442917
     }
   },
   "chats": {
@@ -75067,7 +75088,7 @@
         "6283869310783@s.whatsapp.net": 26,
         "6282338861786@s.whatsapp.net": 396,
         "6282164755113@s.whatsapp.net": 373,
-        "6285187847025@s.whatsapp.net": 554,
+        "6285187847025@s.whatsapp.net": 564,
         "6288214556694@s.whatsapp.net": 2706,
         "6285754276508@s.whatsapp.net": 201,
         "6281328557368@s.whatsapp.net": 336,
@@ -75077,10 +75098,10 @@
         "6285124640345@s.whatsapp.net": 514,
         "6281934702609@s.whatsapp.net": 175,
         "6287789305440@s.whatsapp.net": 235,
-        "6285738772084@s.whatsapp.net": 1835,
+        "6285738772084@s.whatsapp.net": 1870,
         "6287784921752@s.whatsapp.net": 1162,
         "6285716789427@s.whatsapp.net": 873,
-        "6283169648537@s.whatsapp.net": 12073,
+        "6283169648537@s.whatsapp.net": 12078,
         "6283834658799@s.whatsapp.net": 316,
         "6288212142139@s.whatsapp.net": 626,
         "62895403261773@s.whatsapp.net": 358,
@@ -75090,7 +75111,7 @@
         "6285180644093@s.whatsapp.net": 319,
         "6285167762215@s.whatsapp.net": 49,
         "6285839289455@s.whatsapp.net": 224,
-        "6283192154111@s.whatsapp.net": 449,
+        "6283192154111@s.whatsapp.net": 454,
         "6285380586603@s.whatsapp.net": 16,
         "6282120074512@s.whatsapp.net": 1398,
         "6283137211548@s.whatsapp.net": 310,
@@ -76824,7 +76845,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1741150442730,
+      "backupDB": 1741152653632,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
