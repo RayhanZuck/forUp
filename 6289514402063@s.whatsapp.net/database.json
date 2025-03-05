@@ -67499,7 +67499,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 5606,
+      "exp": 5612,
       "limit": 499,
       "registered": false,
       "name": "lenz v 1 bot",
@@ -67519,7 +67519,7 @@
       "premiumTime": 1751289779235,
       "lastcommand": 1741144143668,
       "lastBanned": 0,
-      "activation": 1741154442961,
+      "activation": 1741156132353,
       "limitprem": 10000
     },
     "6285839289455@s.whatsapp.net": {
@@ -67805,7 +67805,7 @@
       "lastBanned": 0
     },
     "6288905021627@s.whatsapp.net": {
-      "exp": 164,
+      "exp": 166,
       "limit": 499,
       "registered": false,
       "name": "~ライスカ~",
@@ -67823,7 +67823,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741132266615,
+      "activation": 1741154861259,
       "lastBanned": 0
     },
     "182386390261782@lid": {
@@ -68288,7 +68288,7 @@
       "lastBanned": 0
     },
     "6282185510845@s.whatsapp.net": {
-      "exp": 333,
+      "exp": 337,
       "limit": 499,
       "registered": false,
       "name": "NO JP& REKBERR ZYROO || STORE",
@@ -68306,7 +68306,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741154121292,
+      "activation": 1741154859500,
       "lastBanned": 0
     },
     "6288214556694@s.whatsapp.net": {
@@ -68616,7 +68616,7 @@
       "lastBanned": 0
     },
     "6289515823841@s.whatsapp.net": {
-      "exp": 106,
+      "exp": 154,
       "limit": 499,
       "registered": false,
       "name": "Ardyan Store",
@@ -68634,7 +68634,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741154347362,
+      "activation": 1741156178498,
       "lastBanned": 0
     },
     "6281261448818@s.whatsapp.net": {
@@ -71446,6 +71446,27 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1741154442917
+    },
+    "6282322426608@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 499,
+      "registered": false,
+      "name": "+62 823-2242-6608",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1741156128250
     }
   },
   "chats": {
@@ -76845,7 +76866,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1741152653632,
+      "backupDB": 1741154528510,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
