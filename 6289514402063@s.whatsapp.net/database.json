@@ -67499,7 +67499,7 @@
       "lastBanned": 0
     },
     "6289514402063@s.whatsapp.net": {
-      "exp": 5622,
+      "exp": 5694,
       "limit": 499,
       "registered": false,
       "name": "lenz v 1 bot",
@@ -67517,9 +67517,9 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 1751289779235,
-      "lastcommand": 1741144143668,
+      "lastcommand": 1741166444107,
       "lastBanned": 0,
-      "activation": 1741164991956,
+      "activation": 1741167994130,
       "limitprem": 10000
     },
     "6285839289455@s.whatsapp.net": {
@@ -68288,7 +68288,7 @@
       "lastBanned": 0
     },
     "6282185510845@s.whatsapp.net": {
-      "exp": 337,
+      "exp": 338,
       "limit": 499,
       "registered": false,
       "name": "NO JP& REKBERR ZYROO || STORE",
@@ -68306,7 +68306,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741154859500,
+      "activation": 1741165464389,
       "lastBanned": 0
     },
     "6288214556694@s.whatsapp.net": {
@@ -68616,7 +68616,7 @@
       "lastBanned": 0
     },
     "6289515823841@s.whatsapp.net": {
-      "exp": 183,
+      "exp": 185,
       "limit": 499,
       "registered": false,
       "name": "Ardyan Store",
@@ -68634,7 +68634,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741160734786,
+      "activation": 1741165143644,
       "lastBanned": 0
     },
     "6281261448818@s.whatsapp.net": {
@@ -70402,7 +70402,7 @@
       "activation": 1740980312441
     },
     "6288973299081@s.whatsapp.net": {
-      "exp": 109,
+      "exp": 138,
       "limit": 499,
       "registered": false,
       "name": "#tinzzx_rf",
@@ -70418,9 +70418,9 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": false,
+      "premium": true,
       "premiumTime": 0,
-      "activation": 1741096602275,
+      "activation": 1741166056206,
       "lastBanned": 0,
       "lastcommand": 1741096567101
     },
@@ -75779,7 +75779,7 @@
       "expired": 0,
       "total": {
         "6289630987333@s.whatsapp.net": 56,
-        "6288973299081@s.whatsapp.net": 17
+        "6288973299081@s.whatsapp.net": 38
       },
       "totalChat": 0
     },
@@ -76054,10 +76054,10 @@
       "lastSuccess": 1740906932871
     },
     "_cek.js": {
-      "total": 471,
-      "success": 454,
-      "last": 1741095491231,
-      "lastSuccess": 1741095491231
+      "total": 472,
+      "success": 455,
+      "last": 1741166444558,
+      "lastSuccess": 1741166444558
     },
     "_main-allmenu.js": {
       "total": 31,
@@ -76174,10 +76174,10 @@
       "lastSuccess": 1740911071308
     },
     "downloader-tiktok.js": {
-      "total": 517,
-      "success": 466,
-      "last": 1741147812861,
-      "lastSuccess": 1741147812861
+      "total": 518,
+      "success": 467,
+      "last": 1741166536149,
+      "lastSuccess": 1741166536149
     },
     "tools-uptogh.js": {
       "total": 8,
@@ -76953,7 +76953,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1741162813745,
+      "backupDB": 1741165143165,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
