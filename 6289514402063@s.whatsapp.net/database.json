@@ -67519,7 +67519,7 @@
       "premiumTime": 1751289779235,
       "lastcommand": 1741134440354,
       "lastBanned": 0,
-      "activation": 1741139454666,
+      "activation": 1741142295330,
       "limitprem": 10000
     },
     "6285839289455@s.whatsapp.net": {
@@ -68026,7 +68026,7 @@
       "lastBanned": 0
     },
     "62882019154458@s.whatsapp.net": {
-      "exp": 67,
+      "exp": 69,
       "limit": 499,
       "registered": false,
       "name": "#Rakzen",
@@ -68044,7 +68044,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741137552929,
+      "activation": 1741142007461,
       "lastBanned": 0
     },
     "6283825490330@s.whatsapp.net": {
@@ -68287,7 +68287,7 @@
       "lastBanned": 0
     },
     "6282185510845@s.whatsapp.net": {
-      "exp": 272,
+      "exp": 280,
       "limit": 499,
       "registered": false,
       "name": "NO JP& REKBERR ZYROO || STORE",
@@ -68305,7 +68305,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741139969972,
+      "activation": 1741142573853,
       "lastBanned": 0
     },
     "6288214556694@s.whatsapp.net": {
@@ -68549,7 +68549,7 @@
       "lastBanned": 0
     },
     "6283196722292@s.whatsapp.net": {
-      "exp": 224,
+      "exp": 230,
       "limit": 499,
       "registered": false,
       "name": "BOBOB STORE",
@@ -68567,7 +68567,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741138559770,
+      "activation": 1741141922333,
       "lastBanned": 0
     },
     "62882001117867@s.whatsapp.net": {
@@ -71359,6 +71359,49 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1741140285104
+    },
+    "158746823123103@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 499,
+      "registered": false,
+      "name": "Nabil Azis",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1741140838414
+    },
+    "124116367630356@s.whatsapp.net": {
+      "exp": 29,
+      "limit": 499,
+      "registered": false,
+      "name": "Zier",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastBanned": 0,
+      "activation": 1741142300173
     }
   },
   "chats": {
@@ -75459,14 +75502,14 @@
       "autolevelup": true,
       "expired": 0,
       "total": {
-        "62895365630505@s.whatsapp.net": 91,
+        "62895365630505@s.whatsapp.net": 97,
         "79212501311662@lid": 362,
         "167435340624054@lid": 721,
         "124116367630356@lid": 235,
         "30739231932494@lid": 80,
         "185151879401685@lid": 48,
         "62895368082500@s.whatsapp.net": 65,
-        "6281261448818@s.whatsapp.net": 81,
+        "6281261448818@s.whatsapp.net": 84,
         "6281977984755@s.whatsapp.net": 33,
         "135927343149239@lid": 105,
         "120173252075544@lid": 27
@@ -76725,7 +76768,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1741138559058,
+      "backupDB": 1741140768261,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
