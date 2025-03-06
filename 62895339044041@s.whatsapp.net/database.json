@@ -41,7 +41,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1741285386146,
+      "activation": 1741288079760,
       "lastBanned": 0,
       "lastcommand": 1741165851272
     },
@@ -687,7 +687,7 @@
       "activation": 1740746616537
     },
     "6285716162035@s.whatsapp.net": {
-      "exp": 4843,
+      "exp": 4888,
       "limit": 499,
       "registered": false,
       "name": "Rizqy Al Munawar",
@@ -705,9 +705,9 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741281744759,
+      "activation": 1741287645439,
       "lastBanned": 0,
-      "lastcommand": 1741199032156
+      "lastcommand": 1741287572427
     },
     "6281311602545@s.whatsapp.net": {
       "exp": 1041,
@@ -4892,7 +4892,7 @@
       "lastBanned": 0
     },
     "6281299925108@s.whatsapp.net": {
-      "exp": 2747,
+      "exp": 2753,
       "limit": 499,
       "registered": false,
       "name": "KHFF⚡",
@@ -4910,7 +4910,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741280260770,
+      "activation": 1741287443086,
       "lastBanned": 0,
       "lastcommand": 1740901274538
     },
@@ -5047,7 +5047,7 @@
       "activation": 1741184308153
     },
     "6285711709647@s.whatsapp.net": {
-      "exp": 1229,
+      "exp": 1242,
       "limit": 499,
       "registered": false,
       "name": "rizky",
@@ -5065,7 +5065,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741284681138,
+      "activation": 1741286942943,
       "lastBanned": 0
     },
     "120363280733022332@newsletter": {
@@ -5244,7 +5244,7 @@
       "lastcommand": 1740561883442
     },
     "6285882488937@s.whatsapp.net": {
-      "exp": 4608,
+      "exp": 4632,
       "limit": 499,
       "registered": false,
       "name": "Syarif alghifahri",
@@ -5262,7 +5262,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741286617736,
+      "activation": 1741287636828,
       "lastBanned": 0
     },
     "120363334852185471@newsletter": {
@@ -5420,7 +5420,7 @@
       "lastcommand": 1740922856792
     },
     "6287857158901@s.whatsapp.net": {
-      "exp": 932,
+      "exp": 964,
       "limit": 499,
       "registered": false,
       "name": "Q",
@@ -5438,8 +5438,9 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741278674350,
-      "lastBanned": 0
+      "activation": 1741287542933,
+      "lastBanned": 0,
+      "lastcommand": 1741287533166
     },
     "6281949179817@s.whatsapp.net": {
       "exp": 70,
@@ -8930,7 +8931,7 @@
       "activation": 1740575071590
     },
     "6281586915381@s.whatsapp.net": {
-      "exp": 275,
+      "exp": 276,
       "limit": 499,
       "registered": false,
       "name": "👽",
@@ -8948,7 +8949,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741284181650,
+      "activation": 1741288008299,
       "lastBanned": 0
     },
     "6289634122332@s.whatsapp.net": {
@@ -32956,12 +32957,12 @@
       "total": {
         "undefined": 4329,
         "6285777321877@s.whatsapp.net": 917,
-        "6285716162035@s.whatsapp.net": 6651,
+        "6285716162035@s.whatsapp.net": 6707,
         "6285776897958@s.whatsapp.net": 229,
         "6283124589275@s.whatsapp.net": 935,
         "6288976183791@s.whatsapp.net": 555,
         "6283838289238@s.whatsapp.net": 645,
-        "6287857158901@s.whatsapp.net": 350,
+        "6287857158901@s.whatsapp.net": 356,
         "628388980782@s.whatsapp.net": 107,
         "6285894568605@s.whatsapp.net": 278,
         "6285715388534@s.whatsapp.net": 42,
@@ -32972,7 +32973,7 @@
         "6282210753960@s.whatsapp.net": 292,
         "6285692802035@s.whatsapp.net": 60,
         "6281400475228@s.whatsapp.net": 112,
-        "6283150270153@s.whatsapp.net": 117,
+        "6283150270153@s.whatsapp.net": 141,
         "62882007936135@s.whatsapp.net": 295
       },
       "totalChat": 0
@@ -36603,10 +36604,10 @@
   },
   "stats": {
     "_cek.js": {
-      "total": 132,
-      "success": 122,
-      "last": 1741285385544,
-      "lastSuccess": 1741285063212
+      "total": 134,
+      "success": 124,
+      "last": 1741287574947,
+      "lastSuccess": 1741287574947
     },
     "sticker-all.js": {
       "total": 148,
@@ -36974,7 +36975,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1741285061252,
+      "backupDB": 1741286935159,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
