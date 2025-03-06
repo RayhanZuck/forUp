@@ -41,7 +41,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1741220300915,
+      "activation": 1741221251060,
       "lastBanned": 0,
       "lastcommand": 1741165851272
     },
@@ -244,7 +244,7 @@
       "lastBanned": 0
     },
     "6285758479625@s.whatsapp.net": {
-      "exp": 1240,
+      "exp": 1250,
       "limit": 499,
       "registered": false,
       "name": "H`bib~althf```",
@@ -262,7 +262,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741123799592,
+      "activation": 1741220723913,
       "lastBanned": 0
     },
     "6285893176478@s.whatsapp.net": {
@@ -1282,7 +1282,7 @@
       "lastBanned": 0
     },
     "6283856968062@s.whatsapp.net": {
-      "exp": 1250,
+      "exp": 1263,
       "limit": 499,
       "registered": false,
       "name": "Iky",
@@ -1300,7 +1300,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741220538834,
+      "activation": 1741221411874,
       "lastBanned": 0
     },
     "6283897767670@s.whatsapp.net": {
@@ -4823,7 +4823,7 @@
       "lastBanned": 0
     },
     "6285718340340@s.whatsapp.net": {
-      "exp": 5195,
+      "exp": 5224,
       "limit": 449,
       "registered": false,
       "name": "Christo Railfans BKS48🇲🇨",
@@ -4841,7 +4841,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741220526787,
+      "activation": 1741222430243,
       "lastBanned": 0,
       "lastwork": 1741192689273
     },
@@ -7801,7 +7801,7 @@
       "activation": 1741017346356
     },
     "120363280765137622@g.us": {
-      "exp": 503,
+      "exp": 505,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -7819,11 +7819,11 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741219257580,
+      "activation": 1741220756109,
       "lastBanned": 0
     },
     "120363356468992489@g.us": {
-      "exp": 132,
+      "exp": 141,
       "limit": 499,
       "registered": false,
       "name": {},
@@ -7841,7 +7841,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741136407310,
+      "activation": 1741221249765,
       "lastBanned": 0
     },
     "6283894662086@s.whatsapp.net": {
@@ -9278,7 +9278,7 @@
       "lastBanned": 0
     },
     "6287859186292@s.whatsapp.net": {
-      "exp": 92,
+      "exp": 99,
       "limit": 499,
       "registered": false,
       "name": "Van",
@@ -9296,7 +9296,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741182974624,
+      "activation": 1741221351107,
       "lastBanned": 0
     },
     "628812519561@s.whatsapp.net": {
@@ -11332,7 +11332,7 @@
       "lastBanned": 0
     },
     "6288294411864@s.whatsapp.net": {
-      "exp": 414,
+      "exp": 420,
       "limit": 234,
       "registered": false,
       "name": "blue seaz",
@@ -11350,7 +11350,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741173641971,
+      "activation": 1741221441867,
       "lastBanned": 0,
       "lastcommand": 1741137155493
     },
@@ -29871,6 +29871,47 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1741219724810
+    },
+    "120363315759306662@newsletter": {
+      "exp": 0,
+      "limit": 499,
+      "registered": false,
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "lastBanned": 0
+    },
+    "6283817906835@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 499,
+      "registered": false,
+      "name": "Skyyzz4K",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "activation": 1741221256081
     }
   },
   "chats": {
@@ -35383,6 +35424,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "120363315759306662@newsletter": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -35752,7 +35814,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1741218828293,
+      "backupDB": 1741220723584,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
