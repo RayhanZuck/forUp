@@ -206,7 +206,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1741342164023,
+      "activation": 1741347926956,
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
@@ -384,6 +384,28 @@
       "premium": true,
       "premiumTime": 0,
       "activation": 1740993974457
+    },
+    "6281281343346@s.whatsapp.net": {
+      "exp": 22,
+      "limit": 499,
+      "registered": false,
+      "name": "Eko Saputro",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": true,
+      "premiumTime": 0,
+      "lastcommand": 1741347924550,
+      "activation": 1741347924553
     }
   },
   "chats": {
@@ -656,6 +678,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6281281343346@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -898,6 +941,12 @@
       "success": 2,
       "last": 1741189162559,
       "lastSuccess": 1741189162559
+    },
+    "vn-salam.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1741347924553,
+      "lastSuccess": 1741347924553
     }
   },
   "msgs": {},
@@ -925,7 +974,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1741341365011,
+      "backupDB": 1741347924453,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
