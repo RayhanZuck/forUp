@@ -23,7 +23,7 @@
       "activation": 1741362274672
     },
     "62895339044041@s.whatsapp.net": {
-      "exp": 51382,
+      "exp": 51393,
       "limit": 499,
       "registered": false,
       "name": "1337XYRZ",
@@ -39,14 +39,14 @@
       "WarnReason": "",
       "lastweekly": 0,
       "lastmonthly": 0,
-      "premium": true,
+      "premium": false,
       "premiumTime": 0,
-      "activation": 1741369089497,
+      "activation": 1741371166322,
       "lastBanned": 0,
       "lastcommand": 1741368059494
     },
     "6285778538747@s.whatsapp.net": {
-      "exp": 12094,
+      "exp": 12098,
       "limit": 379,
       "registered": false,
       "name": "rupiasajeams7",
@@ -65,7 +65,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1741366168824,
+      "activation": 1741370990448,
       "lastcommand": 1741280064778
     },
     "6285771461262@s.whatsapp.net": {
@@ -4121,7 +4121,7 @@
       "lastBanned": 0
     },
     "6283891929675@s.whatsapp.net": {
-      "exp": 2043,
+      "exp": 2048,
       "limit": 499,
       "registered": false,
       "name": "p",
@@ -4139,7 +4139,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741359669569,
+      "activation": 1741371263133,
       "lastBanned": 0,
       "lastcommand": 1740693179145
     },
@@ -4893,7 +4893,7 @@
       "lastBanned": 0
     },
     "6281299925108@s.whatsapp.net": {
-      "exp": 2969,
+      "exp": 2971,
       "limit": 499,
       "registered": false,
       "name": "KHFF⚡",
@@ -4911,7 +4911,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741368981162,
+      "activation": 1741370940481,
       "lastBanned": 0,
       "lastcommand": 1740901274538
     },
@@ -23983,7 +23983,7 @@
       "activation": 1740925240632
     },
     "6285779849648@s.whatsapp.net": {
-      "exp": 158,
+      "exp": 159,
       "limit": 499,
       "registered": false,
       "name": "N",
@@ -24001,7 +24001,7 @@
       "lastmonthly": 0,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741232054574,
+      "activation": 1741370524172,
       "lastBanned": 0
     },
     "164570698150118@lid": {
@@ -31698,8 +31698,8 @@
       "lastBanned": 0
     },
     "6283822760236@s.whatsapp.net": {
-      "exp": 397,
-      "limit": 1121,
+      "exp": 767,
+      "limit": 801,
       "registered": false,
       "name": "Fani Nya Arya Mohan💋💋💗",
       "age": -1,
@@ -31716,7 +31716,7 @@
       "lastmonthly": 1741343963765,
       "premium": true,
       "premiumTime": 0,
-      "activation": 1741367438758,
+      "activation": 1741371165978,
       "lastBanned": 0
     },
     "6283865267257@s.whatsapp.net": {
@@ -33074,8 +33074,8 @@
       "activation": 1741368360650
     },
     "6285817976362@s.whatsapp.net": {
-      "exp": 50050,
-      "limit": 999,
+      "exp": 50073,
+      "limit": 979,
       "registered": false,
       "name": "ygneP",
       "age": -1,
@@ -33093,7 +33093,7 @@
       "premium": true,
       "premiumTime": 0,
       "lastBanned": 0,
-      "activation": 1741368674336,
+      "activation": 1741369610166,
       "lastcommand": 1741368657088
     }
   },
@@ -39371,10 +39371,10 @@
       "lastSuccess": 1740924610027
     },
     "downloader-instagram.js": {
-      "total": 13,
-      "success": 13,
-      "last": 1741364543156,
-      "lastSuccess": 1741364543156
+      "total": 14,
+      "success": 14,
+      "last": 1741369610166,
+      "lastSuccess": 1741369610166
     },
     "sticker-bratgif.js": {
       "total": 27,
@@ -39407,10 +39407,10 @@
       "lastSuccess": 1741359334323
     },
     "downloader-tiktok.js": {
-      "total": 38,
-      "success": 35,
-      "last": 1741367438758,
-      "lastSuccess": 1741367438758
+      "total": 54,
+      "success": 51,
+      "last": 1741371165978,
+      "lastSuccess": 1741371165978
     },
     "owner-exec2.js": {
       "total": 3,
@@ -39658,7 +39658,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1741367566251,
+      "backupDB": 1741369472471,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
