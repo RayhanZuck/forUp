@@ -206,7 +206,7 @@
       "lastmonthly": 0,
       "premium": false,
       "premiumTime": 0,
-      "activation": 1741519366914,
+      "activation": 1741545644429,
       "lastBanned": 0
     },
     "6285766064200@s.whatsapp.net": {
@@ -406,6 +406,28 @@
       "premiumTime": 0,
       "lastcommand": 1741347924550,
       "activation": 1741347924553
+    },
+    "6285697929775@s.whatsapp.net": {
+      "exp": 24,
+      "limit": 499,
+      "registered": false,
+      "name": "Memed Cs",
+      "age": -1,
+      "regTime": -1,
+      "unreg": false,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "BannedReason": "",
+      "WarnReason": "",
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "lastcommand": 1741530121620,
+      "activation": 1741530123142
     }
   },
   "chats": {
@@ -699,6 +721,27 @@
       "game": true,
       "autolevelup": true,
       "expired": 0
+    },
+    "6285697929775@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detekporn": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": true,
+      "game": true,
+      "autolevelup": true,
+      "expired": 0
     }
   },
   "stats": {
@@ -847,10 +890,10 @@
       "lastSuccess": 1740925954074
     },
     "_cek.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1740614330483,
-      "lastSuccess": 1740614330483
+      "total": 3,
+      "success": 3,
+      "last": 1741530123142,
+      "lastSuccess": 1741530123142
     },
     "ai-blur.js": {
       "total": 2,
@@ -974,7 +1017,7 @@
       "autorestart": true,
       "restartDB": 0,
       "backup": true,
-      "backupDB": 1741524664238,
+      "backupDB": 1741530121619,
       "autobio": false,
       "autobioDB": 0,
       "cleartmp": false,
